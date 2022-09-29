@@ -1,0 +1,794 @@
+{
+  "name": "Defiprime",
+  "logoURI": "https://defiprime.com/images/defiprime-logo-hires2.png",
+  "tags": {
+    "defi": {
+      "name": "Defiprime",
+      "description": "Tokens associated with the products listed at defiprime.com"
+    }
+  },
+  "timestamp": "2022-01-26T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xa1d65E8fB6e87b60FECCBc582F7f97804B725521",
+      "symbol": "DXD",
+      "name": "DXdao",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
+      "symbol": "SNX",
+      "name": "Synthetix",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
+      "symbol": "YFI",
+      "name": "Yearn.finance",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x27054b13b1B798B345b591a4d22e6562d47eA75a",
+      "symbol": "AST",
+      "name": "AirSwap",
+      "decimals": 4,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xba100000625a3754423978a60c9317c58a424e3D",
+      "symbol": "BAL",
+      "name": "Balancer",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C",
+      "symbol": "BNT",
+      "name": "Bancor",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd533a949740bb3306d119cc777fa900ba034cd52",
+      "symbol": "CRV",
+      "name": "Curve",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcc80c051057b774cd75067dc48f8987c4eb97a5e",
+      "symbol": "NEC",
+      "name": "DeversiFi",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB705268213D593B8FD88d3FDEFF93AFF5CbDcfAE",
+      "symbol": "IDEX",
+      "name": "IDEX",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdeFA4e8a7bcBA345F687a2f1456F5Edd9CE97202",
+      "symbol": "KNC",
+      "name": "KyberSwap",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD",
+      "symbol": "LRC",
+      "name": "Loopring Exchange",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe41d2489571d322189246dafa5ebde1f4699f498",
+      "symbol": "ZRX",
+      "name": "Matcha",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x56d811088235F11C8920698a204A5010a788f4b3",
+      "symbol": "BZRX",
+      "name": "bZx",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xec67005c4e498ec7f55e092bd1d35cbc47c91892",
+      "symbol": "MLN",
+      "name": "Melon Protocol",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x408e41876cccdc0f92210600ef50372656052a38",
+      "symbol": "REN",
+      "name": "Ren",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828",
+      "symbol": "UMA",
+      "name": "Uma",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0d438f3b5175bebc262bf23753c1e53d03432bde",
+      "symbol": "wNXM",
+      "name": "Nexus Mutual",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x107c4504cd79c5d2696ea0030a8dd4e92601b82e",
+      "symbol": "BLT",
+      "name": "Bloom",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x41e5560054824eA6B0732E656E3Ad64E20e94E45",
+      "symbol": "CVC",
+      "name": "Civic",
+      "decimals": 8,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xebbdf302c940c6bfd49c6b165f457fdb324649bc",
+      "symbol": "HYDRO",
+      "name": "Hydro",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4cc19356f2d37338b9802aa8e8fc58b0373296e7",
+      "symbol": "KEY",
+      "name": "SelfKey",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x80fB784B7eD66730e8b1DBd9820aFD29931aab03",
+      "symbol": "LEND",
+      "name": "Aave",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc00e94cb662c3520282e6f5717214004a7f26888",
+      "symbol": "COMP",
+      "name": "Compound",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2",
+      "symbol": "MKR",
+      "name": "MakerDAO",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4e352cf164e64adcbad318c3a1e222e9eba4ce42",
+      "symbol": "MCB",
+      "name": "MCDEX",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0abdace70d3790235af448c88547603b945604ea",
+      "symbol": "DNT",
+      "name": "District0x",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfca59cd816ab1ead66534d82bc21e7515ce441cf",
+      "symbol": "RARI",
+      "name": "Rarible",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
+      "symbol": "MATIC",
+      "name": "Matic",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07",
+      "symbol": "OMG",
+      "name": "OmiseGO",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0Ae055097C6d159879521C384F1D2123D1f195e6",
+      "symbol": "STAKE",
+      "name": "xDai Stable Chain",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6810e776880c02933d47db1b9fc05908e5386b96",
+      "symbol": "GNO",
+      "name": "Gnosis",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd46ba6d942050d489dbd938a2c909a5d5039a161",
+      "symbol": "AMPL",
+      "name": "Ampleforth",
+      "decimals": 9,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+      "symbol": "DAI",
+      "name": "DAI",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4f3afec4e5a3f2a6a1a411def7d7dfe50ee057bf",
+      "symbol": "DGX",
+      "name": "Digix",
+      "decimals": 9,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x056fd409e1d7a124bd7017459dfea2f387b6d5cd",
+      "symbol": "GUSD",
+      "name": "Gemini Dollar",
+      "decimals": 2,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8e870d67f660d95d5be530380d0ec0bd388289e1",
+      "symbol": "USDP",
+      "name": "Pax Dollar",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "decimals": 6,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+      "symbol": "WBTC",
+      "name": "WBTC",
+      "decimals": 8,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdf574c24545e5ffecb9a659c229253d4111d87e1",
+      "symbol": "HUSD",
+      "name": "HUSD",
+      "decimals": 8,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2ba592F78dB6436527729929AAf6c908497cB200",
+      "symbol": "CREAM",
+      "name": "Cream Finance",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5BC25f649fc4e26069dDF4cF4010F9f706c23831",
+      "symbol": "DUSD",
+      "name": "DefiDollar",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
+      "symbol": "SUSHI",
+      "name": "SushiSwap",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+      "symbol": "UNI",
+      "name": "Uniswap",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x543ff227f64aa17ea132bf9886cab5db55dcaddf",
+      "symbol": "GEN",
+      "name": "DAOstack",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa0246c9032bc3a600820415ae600c6388619a14d",
+      "symbol": "FARM",
+      "name": "Harvest",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+      "symbol": "AAVE",
+      "name": "AAVE",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x43dfc4159d86f3a37a5a4b3d4580b888ad7d4ddd",
+      "symbol": "DODO",
+      "name": "DODO",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa117000000f279D81A1D3cc75430fAA017FA5A2e",
+      "symbol": "ANT",
+      "name": "Aragon",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4688a8b1f292fdab17e9a90c8bc379dc1dbd8713",
+      "symbol": "COVER",
+      "name": "COVER",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x36f3fd68e7325a35eb768f1aedaae9ea0689d723",
+      "symbol": "ESD",
+      "name": "Empty Set Dollar",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeF9Cd7882c067686691B6fF49e650b43AFBBCC6B",
+      "symbol": "FNX",
+      "name": "FinNexus",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xca1207647ff814039530d7d35df0e1dd2e91fa84",
+      "symbol": "DHT",
+      "name": "dHEDGE",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfFffFffF2ba8F66D4e51811C5190992176930278",
+      "symbol": "COMBO",
+      "name": "Furucombo",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
+      "symbol": "FRAX",
+      "name": "Frax",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0",
+      "symbol": "FXS",
+      "name": "Frax Share",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x86772b1409b61c639EaAc9Ba0AcfBb6E238e5F83",
+      "symbol": "NDX",
+      "name": "Indexed",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1494ca1f11d487c2bbe4543e90080aeba4ba3c2b",
+      "symbol": "DPI",
+      "name": "DefiPulse Index",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xad32a8e6220741182940c5abf610bde99e737b2d",
+      "symbol": "DOUGH",
+      "name": "PieDAO",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0000000000095413afc295d19edeb1ad7b71c952",
+      "symbol": "LON",
+      "name": "Tokenlon",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x888888888889c00c67689029d7856aac1065ec11",
+      "symbol": "OPIUM",
+      "name": "OPIUM",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x09a3ecafa817268f77be1283176b946c4ff2e608",
+      "symbol": "MIR",
+      "name": "Mirror Protocol",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8888801af4d980682e47f1a9036e589479e835c5",
+      "symbol": "MPH",
+      "name": "88mph",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4c19596f5aaff459fa38b0f7ed92f11ae6543784",
+      "symbol": "TRU",
+      "name": "TrueFi",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x87d73e916d7057945c9bcd8cdd94e42a6f47f776",
+      "symbol": "NFTX",
+      "name": "NFTX",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x429881672b9ae42b8eba0e26cd9c73711b891ca5",
+      "symbol": "PICKLE",
+      "name": "PICKLE",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x875773784af8135ea0ef43b5a374aad105c5d39e",
+      "symbol": "IDLE",
+      "name": "IDLE",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd291e7a03283640fdc51b121ac401383a46cc623",
+      "symbol": "RGT",
+      "name": "RGT",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa1faa113cbe53436df28ff0aee54275c13b40975",
+      "symbol": "ALPHA",
+      "name": "ALPHA",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x584bc13c7d411c00c01a62e8019472de68768430",
+      "symbol": "HEGIC",
+      "name": "HEGIC",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x49e833337ece7afe375e44f4e3e8481029218e5c",
+      "symbol": "VALUE",
+      "name": "VALUE",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb6ca7399b4f9ca56fc27cbff44f4d2e4eef1fc81",
+      "symbol": "MUSE",
+      "name": "MUSE",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x92e187a03b6cd19cb6af293ba17f2745fd2357d5",
+      "symbol": "DUCK",
+      "name": "DUCK",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x111111111117dc0aa78b770fa6a738034120c302",
+      "symbol": "1INCH",
+      "name": "1INCH",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1b40183efb4dd766f11bda7a7c3ad8982e998421",
+      "symbol": "VSP",
+      "name": "VSP",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7",
+      "symbol": "AKRO",
+      "name": "Akropolis",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x03ab458634910aad20ef5f1c8ee96f1d6ac54919",
+      "symbol": "RAI",
+      "name": "RAI",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x77fba179c79de5b7653f68b5039af940ada60ce0",
+      "symbol": "FORTH",
+      "name": "FORTH",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xab37e1358b639fd877f015027bb62d3ddaa7557e",
+      "symbol": "LIEN",
+      "name": "LIEN",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6c28aef8977c9b773996d0e8376d2ee379446f2f",
+      "symbol": "QUICK",
+      "name": "QUICK",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xde30da39c46104798bb5aa3fe8b9e0e1f348163f",
+      "symbol": "GTC",
+      "name": "GTC",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdbdb4d16eda451d0503b854cf79d55697f90c8df",
+      "symbol": "ALCX",
+      "name": "ALCX",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6dea81c8171d0ba574754ef6f8b412f2ed88c54d",
+      "symbol": "LQTY",
+      "name": "LQTY",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5a98fcbea516cf06857215779fd812ca3bef1b32",
+      "symbol": "LDO",
+      "name": "LDO",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6f40d4a6237c257fff2db00fa0510deeecd303eb",
+      "symbol": "INST",
+      "name": "INST",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x72f020f8f3e8fd9382705723cd26380f8d0c66bb",
+      "symbol": "PLOT",
+      "name": "PLOT",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8f8221afbb33998d8584a2b05749ba73c37a938a",
+      "symbol": "REQ",
+      "name": "REQ",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x321c2fe4446c7c963dc41dd58879af648838f98d",
+      "symbol": "CTX",
+      "name": "CTX",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x16c52ceece2ed57dad87319d91b5e3637d50afa4",
+      "symbol": "TCAP",
+      "name": "TCAP",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x92d6c1e31e14520e676a687f0a93788b716beff5",
+      "symbol": "DYDX",
+      "name": "DYDX",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6123b0049f904d730db3c36a31167d9d4121fa6b",
+      "symbol": "RBN",
+      "name": "RBN",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x73968b9a57c6e53d41345fd57a6e6ae27d6cdb2f",
+      "symbol": "SDT",
+      "name": "SDT",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcafe001067cdef266afb7eb5a286dcfd277f3de5",
+      "symbol": "PSP",
+      "name": "PSP",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x383518188c0c6d7730d91b2c03a03c837814a899",
+      "symbol": "OHM",
+      "name": "OHM",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x72b886d09c117654ab7da13a14d603001de0b777",
+      "symbol": "XDEFI",
+      "name": "XDEFI",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3ec8798b81485a254928b70cda1cf0a2bb0b74d7",
+      "symbol": "GRO",
+      "name": "GRO",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf4d2888d29d722226fafa5d9b24f9164c092421e",
+      "symbol": "LOOKS",
+      "name": "LOOKS",
+      "decimals": 18,
+      "tags": ["defi"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 39,
+    "patch": 0
+  }
+}
