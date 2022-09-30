@@ -4,6 +4,10 @@
     "Stablecoins": {
       "name": "Stablecoins",
       "description": "A stablecoin is a cryptocurrency whose value is pegged to the price of another asset, hence the term “stable.” A stablecoin pegged to the U.S. dollar should always be valued at $1."
+    },
+    "Ethereum Stablecoins": {
+      "name": "Stablecoins on Ethereum",
+      "description": "Stablecoins on Ethereum. A stablecoin is a cryptocurrency whose value is pegged to the price of another asset, hence the term “stable.” A stablecoin pegged to the U.S. dollar should always be valued at $1."
     }
   },
   "timestamp": "2022-09-29T00:00:00+00:00",
@@ -13,7 +17,7 @@
       "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
       "symbol": "USDT",
       "name": "USDT",
-      "tags": ["Stablecoins"]
+      "tags": ["Stablecoins", "Ethereum Stablecoins"]
     },
     {
       "chainId": 137,
@@ -62,7 +66,7 @@
       "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
       "symbol": "USDC",
       "name": "USDC",
-      "tags": ["Stablecoins"]
+      "tags": ["Stablecoins", "Ethereum Stablecoins"]
     },
     {
       "chainId": 137,
@@ -111,7 +115,7 @@
       "address": "0x4Fabb145d64652a948d72533023f6E7A623C7C53",
       "symbol": "BUSD",
       "name": "BUSD",
-      "tags": ["Stablecoins"]
+      "tags": ["Stablecoins", "Ethereum Stablecoins"]
     },
     {
       "chainId": 137,
@@ -139,7 +143,7 @@
       "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
       "symbol": "DAI",
       "name": "DAI",
-      "tags": ["Stablecoins"]
+      "tags": ["Stablecoins", "Ethereum Stablecoins"]
     },
     {
       "chainId": 137,
