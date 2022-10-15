@@ -1,0 +1,52 @@
+{
+  "name": "Oracle tokens",
+  "tags": {
+    "Oracle tokens": {
+      "name": "Oracle tokens",
+      "description": "Oracles are data feeds that bring data from off the blockchain (off-chain) data sources and puts it on the blockchain (on-chain) for smart contracts to use"
+    }
+  },
+  "timestamp": "2022-10-14T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x514910771af9ca656af840dff83e8264ecf986ca",
+      "symbol": "LINK",
+      "name": "LINK",
+      "tags": ["Oracle tokens"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x04fa0d235c4abf4bcf4787af4cf447de572ef828",
+      "symbol": "NEST",
+      "name": "NEST",
+      "tags": ["Oracle tokens"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xba11d00c5f74255f56a5e366f4f77f5a186d7f55",
+      "symbol": "BAND",
+      "name": "BAND",
+      "tags": ["Oracle tokens"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x88df592f8eb5d7bd38bfef7deb0fbc02cf3778a0",
+      "symbol": "TRB",
+      "name": "TRB",
+      "tags": ["Oracle tokens"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x84ca8bc7997272c7cfb4d0cd3d55cd942b3c9419",
+      "symbol": "DIA",
+      "name": "DIA",
+      "tags": ["Oracle tokens"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
