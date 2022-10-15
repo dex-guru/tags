@@ -42,6 +42,13 @@
       "symbol": "DIA",
       "name": "DIA",
       "tags": ["Oracle tokens"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3ea8ea4237344c9931214796d9417af1a1180770",
+      "symbol": "FLX",
+      "name": "FLX",
+      "tags": ["Oracle tokens"]
     }
   ],
   "version": {
