@@ -17,7 +17,7 @@ jobs:
         run: |
           jq -s 'flatten' *.json > merged.json;
 
-          curl -F "file=@merged.json" https://api-stage.dex.guru/v2/tokens/add_token_tags;
-          curl -F "file=@merged.json" https://api.dex.guru/v2/tokens/add_token_tags;
+          curl -F "file=@merged.json" https://api-stage.dex.guru/v1/token_tags/add_token_tags;
+          curl -F "file=@merged.json" https://api.dex.guru/v1/token_tags/add_token_tags;
 
           rm merged.json;
