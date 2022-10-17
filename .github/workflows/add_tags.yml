@@ -13,8 +13,9 @@ jobs:
     steps:
       - name: Run a multi-line script
         run: |
-          apt-get update && apt-get install jq;
-          pwd; ls;
+          sudo apt-get update && apt-get install jq;
+          pwd; echo \n
+          ls;
           jq -s 'flatten' *.json > merged.json;
 
           curl -F "file=@merged.json" https://api-stage.dex.guru/v2/tokens/add_token_tags;
