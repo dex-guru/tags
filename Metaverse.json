@@ -6,7 +6,7 @@
       "description": "Metaverse tokens are a type of digital asset or cryptocurrencies that is associated with a metaverse platform."
     }
   },
-  "timestamp": "2022-10-17T00:00:00+00:00",
+  "timestamp": "2022-10-18T00:00:00+00:00",
   "tokens": [
     {
       "chainId": 1,
@@ -34,6 +34,13 @@
       "address": "0x72e364f2abdc788b7e918bc238b21f109cd634d7",
       "symbol": "MVI",
       "name": "MVI",
+      "tags": ["Metaverse"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd5d86fc8d5c0ea1ac1ac5dfab6e529c9967a45e9",
+      "symbol": "WRLD",
+      "name": "WRLD",
       "tags": ["Metaverse"]
     }
   ],
