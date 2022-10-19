@@ -1,12 +1,15 @@
 {
   "name": "Wrapped Tokens",
   "logoURI": "https://cloudflare-ipfs.com/ipfs/QmUJQF5rDNQn37ToqCynz6iecGqAmeKHDQCigJWpUwuVLN",
-  "keywords": ["wrapped", "bitcoin", "ether"],
   "timestamp": "2021-10-19T18:18:00+00:00",
   "tags": {
     "wrapped": {
       "name": "Wrapped",
-      "description": "Wrapped crypto ERC20 tokens are cryptocurrencies pegged to the value of another original crypto(usually non ERC20) or assets"
+      "description": "Wrapped crypto ERC20 tokens are cryptocurrencies pegged to the value of another original crypto(usually non ERC20) or assets. Wrapped tokens are assets that allow the value of a native asset from one blockchain to transfer to another blockchain."
+    },
+    "bitcoin": {
+      "name": "Wrapped Bitcoin",
+      "description": "Wrapped BTC ERC20 tokens are cryptocurrencies pegged to the value of original BTC. Wrapped BTC tokens are assets that allow the value of a $BTC to transfer to another blockchain or use in DeFi products."
     },
   "tokens": [
     {
