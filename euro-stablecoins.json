@@ -1,0 +1,70 @@
+{
+  "name": "EURO Stablecoins",
+  "tags": {
+    "EURO Stablecoins": {
+      "name": "EURO Stablecoins",
+      "description": "A stablecoin is a cryptocurrency whose value is pegged to the price of another asset, hence the term “stable.” A stablecoin pegged to the EURO should always be valued at €1."
+    },
+    "Ethereum EURO Stablecoins": {
+      "name": "EURO Stablecoins on Ethereum",
+      "description": "EURO Stablecoins on Ethereum. A stablecoin is a cryptocurrency whose value is pegged to the price of another asset, hence the term “stable.” A stablecoin pegged to the EURO should always be valued at €1."
+    }
+  },
+  "timestamp": "2022-10-19T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xc581b735a1688071a1746c968e0798d642ede491",
+      "symbol": "EURT",
+      "name": "EURT",
+      "tags": ["EURO Stablecoins", "Ethereum EURO Stablecoins"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdb25f211ab05b1c97d595516f45794528a807ad8",
+      "symbol": "EURS",
+      "name": "EURS",
+      "tags": ["EURO Stablecoins", "Ethereum EURO Stablecoins"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xe111178a87a3bff0c8d18decba5798827539ae99",
+      "symbol": "EURS",
+      "name": "EURS",
+      "tags": ["EURO Stablecoins"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1a7e4e63778b4f12a199c062f3efdd288afcbce8",
+      "symbol": "AGEUR",
+      "name": "AGEUR",
+      "tags": ["EURO Stablecoins", "Ethereum EURO Stablecoins"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xe0b52e49357fd4daf2c15e02058dce6bc0057db4",
+      "symbol": "AGEUR",
+      "name": "AGEUR",
+      "tags": ["EURO Stablecoins"]
+    },
+    {
+      "chainId": 42220,
+      "address": "42220",
+      "symbol": "CEUR",
+      "name": "CEUR",
+      "tags": ["EURO Stablecoins"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd71ecff9342a5ced620049e616c5035f1db98620",
+      "symbol": "SEUR",
+      "name": "SEUR",
+      "tags": ["EURO Stablecoins", "Ethereum EURO Stablecoins"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
