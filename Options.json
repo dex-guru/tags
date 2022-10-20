@@ -3,7 +3,7 @@
   "tags": {
     "Options": {
       "name": "Options",
-      "description": "Oracles are data feeds that bring data from off the blockchain (off-chain) data sources and puts it on the blockchain (on-chain) for smart contracts to use"
+      "description": "On-chain options trading protocols, where you can buy call or put options"
     }
   },
   "timestamp": "2022-10-19T00:00:00+00:00",
