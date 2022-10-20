@@ -230,7 +230,7 @@
       "tags": ["Stablecoins"]
     },
     {
-      "chainId": 42151,
+      "chainId": 42161,
       "address": "0x17fc002b466eec40dae837fc4be5c67993ddbd6f",
       "symbol": "FRAX",
       "name": "FRAX",
