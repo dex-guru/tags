@@ -1,0 +1,122 @@
+{
+  "name": "Move To Earn",
+  "tags": {
+    "Move To Earn": {
+      "name": "Move To Earn",
+      "description": "Move to Earn Games allows users to earn cryptocurrencies by just simply moving around and going about their daily lives. Move-to-earn NFT games rewards you for completing workouts."
+    }
+  },
+  "timestamp": "2022-10-19T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x3019BF2a2eF8040C242C9a4c5c4BD4C81678b2A1",
+      "symbol": "GMT",
+      "name": "GMT",
+      "tags": ["Move To Earn"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe3c408bd53c31c085a1746af401a4042954ff740",
+      "symbol": "GMT",
+      "name": "GMT",
+      "tags": ["Move To Earn"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x55296f69f40ea6d20e478533c15a6b08b654e758",
+      "symbol": "XYO",
+      "name": "XYO",
+      "tags": ["Move To Earn"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb4b9dc1c77bdbb135ea907fd5a08094d98883a35",
+      "symbol": "SWEAT",
+      "name": "SWEAT",
+      "tags": ["Move To Earn"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x9df465460938f9EBDF51C38CC87D72184471F8F0",
+      "symbol": "GENE",
+      "name": "GENE",
+      "tags": ["Move To Earn"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x24ec2ca132abf8f6f8a6e24a1b97943e31f256a7",
+      "symbol": "MOOV",
+      "name": "MOOV",
+      "tags": ["Move To Earn"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x0ebd9537a25f56713e34c45b38f421a1e7191469",
+      "symbol": "MOOV",
+      "name": "MOOV",
+      "tags": ["Move To Earn"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x84cffa78b2fbbeec8c37391d2b12a04d2030845e",
+      "symbol": "DEFIT",
+      "name": "DEFIT",
+      "tags": ["Move To Earn"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x428360b02c1269bc1c79fbc399ad31d58c1e8fda",
+      "symbol": "DEFIT",
+      "name": "DEFIT",
+      "tags": ["Move To Earn"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x039cd22cb49084142d55fcd4b6096a4f51ffb3b4",
+      "symbol": "MOVEZ",
+      "name": "MOVEZ",
+      "tags": ["Move To Earn"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8c088775e4139af116Ac1FA6f281Bbf71E8c1c73",
+      "symbol": "PUMLX",
+      "name": "PUMLX",
+      "tags": ["Move To Earn"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x465707181ACba42Ed01268A33f0507e320a154bD",
+      "symbol": "STEP",
+      "name": "STEP",
+      "tags": ["Move To Earn"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xef7d50069406a2f5a53806f7250a6c0f17ad9dcd",
+      "symbol": "FIU",
+      "name": "FIU",
+      "tags": ["Move To Earn"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdf96bde075d59e9143b325c75af38e208c986e6f",
+      "symbol": "YETIC",
+      "name": "YETIC",
+      "tags": ["Move To Earn"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb31ef9e52d94d4120eb44fe1ddfde5b4654a6515",
+      "symbol": "DOSE",
+      "name": "DOSE",
+      "tags": ["Move To Earn"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
