@@ -3,18 +3,6 @@
   "timestamp": "2022-09-26T23:19:38.897566015Z",
   "version": { "major": 5, "minor": 2, "patch": 1 },
   "tags": {
-    "bases": {
-      "name": "Common Bases",
-      "description": "Commonly used trading bases"
-    },
-    "nft": {
-      "name": "NFT Tokens",
-      "description": "Tokens related to nft games platforms and projects"
-    },
-    "other": {
-      "name": "Other social money",
-      "description": "Broader universe of social money and personal tokens"
-    },
     "roll": {
       "name": "Social money on Roll",
       "description": "Social money tokens issued via Roll"
