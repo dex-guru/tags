@@ -452,6 +452,20 @@
       "symbol": "MAI",
       "name": "MAI",
       "tags": ["Stablecoins"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x865377367054516e17014ccded1e7d814edc9ce4",
+      "symbol": "DOLA",
+      "name": "DOLA",
+      "tags": ["Stablecoins", "Ethereum Stablecoins"]
+    },
+    {
+      "chainId": 250,
+      "address": "0x3129662808bec728a27ab6a6b9afd3cbaca8a43c",
+      "symbol": "DOLA",
+      "name": "DOLA",
+      "tags": ["Stablecoins"]
     }
   ],
   "version": {
