@@ -10,7 +10,7 @@
       "description": "EURO Stablecoins on Ethereum. A stablecoin is a cryptocurrency whose value is pegged to the price of another asset, hence the term “stable.” A stablecoin pegged to the EURO should always be valued at €1."
     }
   },
-  "timestamp": "2022-10-19T00:00:00+00:00",
+  "timestamp": "2022-10-21T00:00:00+00:00",
   "tokens": [
     {
       "chainId": 1,
@@ -59,6 +59,13 @@
       "address": "0xd71ecff9342a5ced620049e616c5035f1db98620",
       "symbol": "SEUR",
       "name": "SEUR",
+      "tags": ["EURO Stablecoins", "Ethereum EURO Stablecoins"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1abaea1f7c830bd89acc67ec4af516284b1bc33c",
+      "symbol": "EUROC",
+      "name": "EUROC",
       "tags": ["EURO Stablecoins", "Ethereum EURO Stablecoins"]
     }
   ],

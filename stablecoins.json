@@ -424,6 +424,34 @@
       "symbol": "SUSD",
       "name": "SUSD",
       "tags": ["Stablecoins"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x674c6ad92fd080e4004b2312b45f796a192d27a0",
+      "symbol": "USDN",
+      "name": "USDN",
+      "tags": ["Stablecoins", "Ethereum Stablecoins"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xb5102cee1528ce2c760893034a4603663495fd72",
+      "symbol": "USX",
+      "name": "USX",
+      "tags": ["Stablecoins"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0x641441c631e2f909700d2f41fd87f0aa6a6b4edb",
+      "symbol": "USX",
+      "name": "USX",
+      "tags": ["Stablecoins"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xa3fa99a148fa48d14ed51d610c367c61876997f1",
+      "symbol": "MAI",
+      "name": "MAI",
+      "tags": ["Stablecoins"]
     }
   ],
   "version": {
