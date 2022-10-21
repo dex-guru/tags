@@ -2,7 +2,7 @@
   "name": "Defiprime",
   "logoURI": "https://defiprime.com/images/defiprime-logo-hires2.png",
   "tags": {
-    "defi": {
+    "Defiprime": {
       "name": "Defiprime",
       "description": "Tokens associated with the products listed at defiprime.com"
     }
@@ -15,7 +15,7 @@
       "symbol": "DXD",
       "name": "DXdao",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -23,7 +23,7 @@
       "symbol": "SNX",
       "name": "Synthetix",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -31,7 +31,7 @@
       "symbol": "YFI",
       "name": "Yearn.finance",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -39,7 +39,7 @@
       "symbol": "AST",
       "name": "AirSwap",
       "decimals": 4,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -47,7 +47,7 @@
       "symbol": "BAL",
       "name": "Balancer",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -55,7 +55,7 @@
       "symbol": "BNT",
       "name": "Bancor",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -63,7 +63,7 @@
       "symbol": "CRV",
       "name": "Curve",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -71,7 +71,7 @@
       "symbol": "NEC",
       "name": "DeversiFi",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -79,7 +79,7 @@
       "symbol": "IDEX",
       "name": "IDEX",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -87,7 +87,7 @@
       "symbol": "KNC",
       "name": "KyberSwap",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -95,7 +95,7 @@
       "symbol": "LRC",
       "name": "Loopring Exchange",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -103,7 +103,7 @@
       "symbol": "ZRX",
       "name": "Matcha",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -111,7 +111,7 @@
       "symbol": "BZRX",
       "name": "bZx",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -119,7 +119,7 @@
       "symbol": "LINK",
       "name": "Chainlink",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -127,7 +127,7 @@
       "symbol": "MLN",
       "name": "Melon Protocol",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -135,7 +135,7 @@
       "symbol": "REN",
       "name": "Ren",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -143,7 +143,7 @@
       "symbol": "UMA",
       "name": "Uma",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -151,7 +151,7 @@
       "symbol": "wNXM",
       "name": "Nexus Mutual",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -159,7 +159,7 @@
       "symbol": "BLT",
       "name": "Bloom",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -167,7 +167,7 @@
       "symbol": "CVC",
       "name": "Civic",
       "decimals": 8,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -175,7 +175,7 @@
       "symbol": "HYDRO",
       "name": "Hydro",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -183,7 +183,7 @@
       "symbol": "KEY",
       "name": "SelfKey",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -191,7 +191,7 @@
       "symbol": "LEND",
       "name": "Aave",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -199,7 +199,7 @@
       "symbol": "COMP",
       "name": "Compound",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -207,7 +207,7 @@
       "symbol": "MKR",
       "name": "MakerDAO",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -215,7 +215,7 @@
       "symbol": "MCB",
       "name": "MCDEX",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -223,7 +223,7 @@
       "symbol": "DNT",
       "name": "District0x",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -231,7 +231,7 @@
       "symbol": "RARI",
       "name": "Rarible",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -239,7 +239,7 @@
       "symbol": "MATIC",
       "name": "Matic",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -247,7 +247,7 @@
       "symbol": "OMG",
       "name": "OmiseGO",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -255,7 +255,7 @@
       "symbol": "STAKE",
       "name": "xDai Stable Chain",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -263,7 +263,7 @@
       "symbol": "GNO",
       "name": "Gnosis",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -271,7 +271,7 @@
       "symbol": "AMPL",
       "name": "Ampleforth",
       "decimals": 9,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -279,7 +279,7 @@
       "symbol": "DAI",
       "name": "DAI",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -287,7 +287,7 @@
       "symbol": "DGX",
       "name": "Digix",
       "decimals": 9,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -295,7 +295,7 @@
       "symbol": "GUSD",
       "name": "Gemini Dollar",
       "decimals": 2,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -303,7 +303,7 @@
       "symbol": "USDP",
       "name": "Pax Dollar",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -311,7 +311,7 @@
       "symbol": "USDC",
       "name": "USD Coin",
       "decimals": 6,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -319,7 +319,7 @@
       "symbol": "WBTC",
       "name": "WBTC",
       "decimals": 8,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -327,7 +327,7 @@
       "symbol": "HUSD",
       "name": "HUSD",
       "decimals": 8,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -335,7 +335,7 @@
       "symbol": "CREAM",
       "name": "Cream Finance",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -343,7 +343,7 @@
       "symbol": "DUSD",
       "name": "DefiDollar",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -351,7 +351,7 @@
       "symbol": "SUSHI",
       "name": "SushiSwap",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -359,7 +359,7 @@
       "symbol": "UNI",
       "name": "Uniswap",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -367,7 +367,7 @@
       "symbol": "GEN",
       "name": "DAOstack",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -375,7 +375,7 @@
       "symbol": "FARM",
       "name": "Harvest",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -383,7 +383,7 @@
       "symbol": "AAVE",
       "name": "AAVE",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -391,7 +391,7 @@
       "symbol": "DODO",
       "name": "DODO",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -399,7 +399,7 @@
       "symbol": "ANT",
       "name": "Aragon",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -407,7 +407,7 @@
       "symbol": "COVER",
       "name": "COVER",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -415,7 +415,7 @@
       "symbol": "ESD",
       "name": "Empty Set Dollar",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -423,7 +423,7 @@
       "symbol": "FNX",
       "name": "FinNexus",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -431,7 +431,7 @@
       "symbol": "DHT",
       "name": "dHEDGE",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -439,7 +439,7 @@
       "symbol": "COMBO",
       "name": "Furucombo",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -447,7 +447,7 @@
       "symbol": "FRAX",
       "name": "Frax",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -455,7 +455,7 @@
       "symbol": "FXS",
       "name": "Frax Share",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -463,7 +463,7 @@
       "symbol": "NDX",
       "name": "Indexed",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -471,7 +471,7 @@
       "symbol": "DPI",
       "name": "DefiPulse Index",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -479,7 +479,7 @@
       "symbol": "DOUGH",
       "name": "PieDAO",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -487,7 +487,7 @@
       "symbol": "LON",
       "name": "Tokenlon",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -495,7 +495,7 @@
       "symbol": "OPIUM",
       "name": "OPIUM",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -503,7 +503,7 @@
       "symbol": "MIR",
       "name": "Mirror Protocol",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -511,7 +511,7 @@
       "symbol": "MPH",
       "name": "88mph",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -519,7 +519,7 @@
       "symbol": "TRU",
       "name": "TrueFi",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -527,7 +527,7 @@
       "symbol": "NFTX",
       "name": "NFTX",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -535,7 +535,7 @@
       "symbol": "PICKLE",
       "name": "PICKLE",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -543,7 +543,7 @@
       "symbol": "IDLE",
       "name": "IDLE",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -551,7 +551,7 @@
       "symbol": "RGT",
       "name": "RGT",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -559,7 +559,7 @@
       "symbol": "ALPHA",
       "name": "ALPHA",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -567,7 +567,7 @@
       "symbol": "HEGIC",
       "name": "HEGIC",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -575,7 +575,7 @@
       "symbol": "VALUE",
       "name": "VALUE",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -583,7 +583,7 @@
       "symbol": "MUSE",
       "name": "MUSE",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -591,7 +591,7 @@
       "symbol": "DUCK",
       "name": "DUCK",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -599,7 +599,7 @@
       "symbol": "1INCH",
       "name": "1INCH",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -607,7 +607,7 @@
       "symbol": "VSP",
       "name": "VSP",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -615,7 +615,7 @@
       "symbol": "AKRO",
       "name": "Akropolis",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -623,7 +623,7 @@
       "symbol": "RAI",
       "name": "RAI",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -631,7 +631,7 @@
       "symbol": "FORTH",
       "name": "FORTH",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -639,7 +639,7 @@
       "symbol": "LIEN",
       "name": "LIEN",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -647,7 +647,7 @@
       "symbol": "QUICK",
       "name": "QUICK",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -655,7 +655,7 @@
       "symbol": "GTC",
       "name": "GTC",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -663,7 +663,7 @@
       "symbol": "ALCX",
       "name": "ALCX",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -671,7 +671,7 @@
       "symbol": "LQTY",
       "name": "LQTY",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -679,7 +679,7 @@
       "symbol": "LDO",
       "name": "LDO",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -687,7 +687,7 @@
       "symbol": "INST",
       "name": "INST",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -695,7 +695,7 @@
       "symbol": "PLOT",
       "name": "PLOT",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -703,7 +703,7 @@
       "symbol": "REQ",
       "name": "REQ",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -711,7 +711,7 @@
       "symbol": "CTX",
       "name": "CTX",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -719,7 +719,7 @@
       "symbol": "TCAP",
       "name": "TCAP",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -727,7 +727,7 @@
       "symbol": "DYDX",
       "name": "DYDX",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -735,7 +735,7 @@
       "symbol": "RBN",
       "name": "RBN",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -743,7 +743,7 @@
       "symbol": "SDT",
       "name": "SDT",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -751,7 +751,7 @@
       "symbol": "PSP",
       "name": "PSP",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -759,7 +759,7 @@
       "symbol": "OHM",
       "name": "OHM",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -767,7 +767,7 @@
       "symbol": "XDEFI",
       "name": "XDEFI",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -775,7 +775,7 @@
       "symbol": "GRO",
       "name": "GRO",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     },
     {
       "chainId": 1,
@@ -783,7 +783,7 @@
       "symbol": "LOOKS",
       "name": "LOOKS",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["Defiprime"]
     }
   ],
   "version": {
