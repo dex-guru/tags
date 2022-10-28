@@ -1,8 +1,6 @@
 {
-  "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "https://uniswap.org/tokenlist.schema.json",
-  "title": "Uniswap Token List",
-  "description": "Schema for lists of tokens compatible with the Uniswap Interface",
+  "title": "DexGuru Token List",
+  "description": "Schema for lists of tokens and tags compatible with the DexGuru Interface",
   "definitions": {
     "Version": {
       "type": "object",
@@ -45,17 +43,14 @@
         }
       },
       "required": [
-        "major",
-        "minor",
-        "patch"
       ]
     },
     "TagIdentifier": {
       "type": "string",
       "description": "The unique identifier of a tag",
       "minLength": 1,
-      "maxLength": 10,
-      "pattern": "^[\\w]+$",
+      "maxLength": 20,
+      "pattern": "^[\\w\\d]+$",
       "examples": [
         "compound",
         "stablecoin"
@@ -181,9 +176,9 @@
         "description": {
           "type": "string",
           "description": "A user-friendly description of the tag",
-          "pattern": "^[ \\w\\.,:]+$",
+          "pattern": "^[ \\w\\.,:()]+$",
           "minLength": 1,
-          "maxLength": 200
+          "maxLength": 5000
         }
       },
       "required": [
@@ -200,7 +195,7 @@
     "TokenInfo": {
       "type": "object",
       "description": "Metadata for a single token in a token list",
-      "additionalProperties": false,
+      "additionalProperties": true,
       "properties": {
         "chainId": {
           "type": "integer",
@@ -248,14 +243,6 @@
             "USDC"
           ]
         },
-        "logoURI": {
-          "type": "string",
-          "description": "A URI to the token logo asset; if not set, interface will attempt to find a logo based on the token address; suggest SVG or PNG of size 64x64",
-          "format": "uri",
-          "examples": [
-            "ipfs://QmXfzKRvjZz3u5JRgC4v5mGVbm9ahrUiB4DgzHBsnWbTMM"
-          ]
-        },
         "tags": {
           "type": "array",
           "description": "An array of tag identifiers associated with the token; tags are defined at the list level",
@@ -275,9 +262,7 @@
       "required": [
         "chainId",
         "address",
-        "decimals",
-        "name",
-        "symbol"
+        "tags"
       ]
     }
   },
@@ -360,7 +345,7 @@
   "required": [
     "name",
     "timestamp",
-    "version",
-    "tokens"
+    "tokens",
+    "tags"
   ]
 }
