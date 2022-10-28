@@ -4,6 +4,8 @@ import pytest
 from jsonschema import validate
 from pathlib import Path
 
+from jsonschema.exceptions import ValidationError
+
 SCHEMA_NAME = 'tokenlist.schema.json'
 
 
@@ -17,4 +19,7 @@ def get_schema():
 def test_token_list_schema(file, get_schema):
     with open(file) as f:
         token_list = json.load(f)
-        validate(token_list, get_schema)
+        try:
+            validate(token_list, get_schema)
+        except ValidationError:
+            pytest.fail(pytrace=False)
