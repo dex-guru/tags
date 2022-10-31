@@ -1,7 +1,7 @@
 {
   "name": "Options",
   "tags": {
-    "Options": {
+    "options": {
       "name": "Options",
       "description": "On-chain options trading protocols, where you can buy call or put options"
     }
@@ -13,84 +13,84 @@
       "address": "0x584bC13c7D411c00c01A62e8019472dE68768430",
       "symbol": "HEGIC",
       "name": "HEGIC",
-      "tags": ["Options"]
+      "tags": ["options"]
     },
     {
       "chainId": 250,
       "address": "0x44B26E839eB3572c5E959F994804A5De66600349",
       "symbol": "HEGIC",
       "name": "HEGIC",
-      "tags": ["Options"]
+      "tags": ["options"]
     },
     {
       "chainId": 1,
       "address": "0xa487bf43cf3b10dffc97a9a744cbb7036965d3b9",
       "symbol": "DERI",
       "name": "DERI",
-      "tags": ["Options"]
+      "tags": ["options"]
     },
     {
       "chainId": 56,
       "address": "0xe60eaf5A997DFAe83739e035b005A33AfdCc6df5",
       "symbol": "DERI",
       "name": "DERI",
-      "tags": ["Options"]
+      "tags": ["options"]
     },
     {
       "chainId": 42161,
       "address": "0x21e60ee73f17ac0a411ae5d690f908c3ed66fe12",
       "symbol": "DERI",
       "name": "DERI",
-      "tags": ["Options"]
+      "tags": ["options"]
     },
     {
       "chainId": 1,
       "address": "0xCd2828fc4D8E8a0eDe91bB38CF64B1a81De65Bf6",
       "symbol": "ODDZ",
       "name": "ODDZ",
-      "tags": ["Options"]
+      "tags": ["options"]
     },
     {
       "chainId": 56,
       "address": "0xcd40f2670cf58720b694968698a5514e924f742d",
       "symbol": "ODDZ",
       "name": "ODDZ",
-      "tags": ["Options"]
+      "tags": ["options"]
     },
     {
       "chainId": 137,
       "address": "0x4e830F67Ec499E69930867f9017AEb5B3f629c73",
       "symbol": "ODDZ",
       "name": "ODDZ",
-      "tags": ["Options"]
+      "tags": ["options"]
     },
     {
       "chainId": 43114,
       "address": "0xB0a6e056B587D0a85640b39b1cB44086F7a26A1E",
       "symbol": "ODDZ",
       "name": "ODDZ",
-      "tags": ["Options"]
+      "tags": ["options"]
     },
     {
       "chainId": 1,
       "address": "0x7968bc6a03017ea2de509aaa816f163db0f35148",
       "symbol": "HGET",
       "name": "HGET",
-      "tags": ["Options"]
+      "tags": ["options"]
     },
     {
       "chainId": 1,
       "address": "0xC57d533c50bC22247d49a368880fb49a1caA39F7",
       "symbol": "PTF",
       "name": "PTF",
-      "tags": ["Options"]
+      "tags": ["options"]
     },
     {
       "chainId": 1,
       "address": "0xc12d099be31567add4e4e4d0d45691c3f58f5663",
       "symbol": "AUC",
       "name": "AUC",
-      "tags": ["Options"]
+      "tags": ["options"]
     }
   ],
   "version": {

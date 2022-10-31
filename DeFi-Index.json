@@ -1,7 +1,7 @@
 {
   "name": "DeFi Index",
   "tags": {
-    "DeFi Index": {
+    "defi_index": {
       "name": "DeFi Indexes",
       "description": "DeFi Indexes' tokens are a collection of various defi digital asset indexs designed to track tokens' performance within the Decentralized Finance industry"
     }
@@ -13,21 +13,21 @@
       "address": "0x1494ca1f11d487c2bbe4543e90080aeba4ba3c2b",
       "symbol": "DPI",
       "name": "DPI",
-      "tags": ["DeFi Index"]
+      "tags": ["defi_index"]
     },
     {
       "chainId": 1,
       "address": "0x26607ac599266b21d13c7acf7942c7701a8b699c",
       "symbol": "PIPT",
       "name": "PIPT",
-      "tags": ["DeFi Index"]
+      "tags": ["defi_index"]
     },
     {
       "chainId": 1,
       "address": "0x126c121f99e1e211df2e5f8de2d96fa36647c855",
       "symbol": "DEGEN",
       "name": "DEGEN",
-      "tags": ["DeFi Index"]
+      "tags": ["defi_index"]
     }
   ],
   "version": {

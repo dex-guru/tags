@@ -1,7 +1,7 @@
 {
   "name": "Layer 2",
   "tags": {
-    "Layer 2": {
+    "layer_2": {
       "name": "Layer 2",
       "description": "Layer 2 (L2) is a collective term to describe a specific set of Ethereum scaling solutions. L2 tokens can be used to decentralize a variety of protocol functions."
     }
@@ -13,63 +13,63 @@
       "address": "0x4200000000000000000000000000000000000042",
       "symbol": "OP",
       "name": "OP",
-      "tags": ["Layer 2"]
+      "tags": ["layer_2"]
     },
     {
       "chainId": 1,
       "address": "0x9e32b13ce7f2e80a01932b42553652e053d6ed8e",
       "symbol": "METIS",
       "name": "METIS",
-      "tags": ["Layer 2"]
+      "tags": ["layer_2"]
     },
     {
       "chainId": 1,
       "address": "0xbbbbca6a901c926f240b89eacb641d8aec7aeafd",
       "symbol": "LRC",
       "name": "LRC",
-      "tags": ["Layer 2"]
+      "tags": ["layer_2"]
     },
     {
       "chainId": 1,
       "address": "0xf57e7e7c23978c3caec3c3548e3d615c346e79ff",
       "symbol": "IMX",
       "name": "IMX",
-      "tags": ["Layer 2"]
+      "tags": ["layer_2"]
     },
     {
       "chainId": 1,
       "address": "0xe4815ae53b124e7263f08dcdbbb757d41ed658c6",
       "symbol": "ZKS",
       "name": "ZKS",
-      "tags": ["Layer 2"]
+      "tags": ["layer_2"]
     },
     {
       "chainId": 1,
       "address": "0x42bbfa2e77757c645eeaad1655e0911a7553efbc",
       "symbol": "BOBA",
       "name": "BOBA",
-      "tags": ["Layer 2"]
+      "tags": ["layer_2"]
     },
     {
       "chainId": 1,
       "address": "0xd26114cd6ee289accf82350c8d8487fedb8a0c07",
       "symbol": "OMG",
       "name": "OMG",
-      "tags": ["Layer 2"]
+      "tags": ["layer_2"]
     },
     {
       "chainId": 1,
       "address": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
       "symbol": "MATIC",
       "name": "MATIC",
-      "tags": ["Layer 2"]
+      "tags": ["layer_2"]
     },
     {
       "chainId": 137,
       "address": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
       "symbol": "MATIC",
       "name": "MATIC",
-      "tags": ["Layer 2"]
+      "tags": ["layer_2"]
     }
   ],
   "version": {

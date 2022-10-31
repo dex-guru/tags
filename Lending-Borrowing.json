@@ -1,8 +1,8 @@
 {
-  "name": "Lending-Borrowing",
+  "name": "Lending and Borrowing",
   "tags": {
-    "Lending-Borrowing": {
-      "name": "Lending-Borrowing",
+    "lending_borrowing": {
+      "name": "Lending and Borrowing",
       "description": "DeFi lending, or decentralized finance lending, is quite similar to the traditional lending service offered by the banks, except that it is offered by the P2P decentralized applications (DApps). The DeFi lending platforms help people borrow and lend funds which allow the crypto holders to earn a substantial income"
     }
   },
@@ -13,182 +13,182 @@
       "address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
       "symbol": "AAVE",
       "name": "AAVE",
-      "tags": ["Lending-Borrowing"]
+      "tags": ["lending_borrowing"]
     },
     {
       "chainId": 1,
       "address": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
       "symbol": "MKR",
       "name": "MKR",
-      "tags": ["Lending-Borrowing"]
+      "tags": ["lending_borrowing"]
     },
     {
       "chainId": 1,
       "address": "0x0C356B7fD36a5357E5A017EF11887ba100C9AB76",
       "symbol": "KAVA",
       "name": "KAVA",
-      "tags": ["Lending-Borrowing"]
+      "tags": ["lending_borrowing"]
     },
     {
       "chainId": 1,
       "address": "0xc00e94cb662c3520282e6f5717214004a7f26888",
       "symbol": "COMP",
       "name": "COMP",
-      "tags": ["Lending-Borrowing"]
+      "tags": ["lending_borrowing"]
     },
     {
       "chainId": 1,
       "address": "0xaaaebe6fe48e54f431b0c390cfaf0b017d09d42d",
       "symbol": "CEL",
       "name": "CEL",
-      "tags": ["Lending-Borrowing"]
+      "tags": ["lending_borrowing"]
     },
     {
       "chainId": 56,
       "address": "0xcf6bb5389c92bdda8a3747ddb454cb7a64626c63",
       "symbol": "XVS",
       "name": "XVS",
-      "tags": ["Lending-Borrowing"]
+      "tags": ["lending_borrowing"]
     },
     {
       "chainId": 56,
       "address": "0x8f0528ce5ef7b51152a59745befdd91d97091d2f",
       "symbol": "ALPACA",
       "name": "ALPACA",
-      "tags": ["Lending-Borrowing"]
+      "tags": ["lending_borrowing"]
     },
     {
       "chainId": 1,
       "address": "0xdbdb4d16eda451d0503b854cf79d55697f90c8df",
       "symbol": "ALCX",
       "name": "ALCX",
-      "tags": ["Lending-Borrowing"]
+      "tags": ["lending_borrowing"]
     },
     {
       "chainId": 1,
       "address": "0x1C700F95Df53fc31e83D89AC89e5DD778D4cD310",
       "symbol": "HARD",
       "name": "HARD",
-      "tags": ["Lending-Borrowing"]
+      "tags": ["lending_borrowing"]
     },
     {
       "chainId": 1,
       "address": "0x4B5f49487ea7B3609b1aD05459BE420548789f1f",
       "symbol": "LEVER",
       "name": "LEVER",
-      "tags": ["Lending-Borrowing"]
+      "tags": ["lending_borrowing"]
     },
     {
       "chainId": 1,
       "address": "0x4c19596f5aaff459fa38b0f7ed92f11ae6543784",
       "symbol": "TRU",
       "name": "TRU",
-      "tags": ["Lending-Borrowing"]
+      "tags": ["lending_borrowing"]
     },
     {
       "chainId": 43114,
       "address": "0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5",
       "symbol": "QI",
       "name": "QI",
-      "tags": ["Lending-Borrowing"]
+      "tags": ["lending_borrowing"]
     },
     {
       "chainId": 1,
       "address": "0x1fcdce58959f536621d76f5b7ffb955baa5a672f",
       "symbol": "FOR",
       "name": "FOR",
-      "tags": ["Lending-Borrowing"]
+      "tags": ["lending_borrowing"]
     },
     {
       "chainId": 1,
       "address": "0x0202Be363B8a4820f3F4DE7FaF5224fF05943AB1",
       "symbol": "UFT",
       "name": "UFT",
-      "tags": ["Lending-Borrowing"]
+      "tags": ["lending_borrowing"]
     },
     {
       "chainId": 1,
       "address": "0x2ba592f78db6436527729929aaf6c908497cb200",
       "symbol": "CREAM",
       "name": "CREAM",
-      "tags": ["Lending-Borrowing"]
+      "tags": ["lending_borrowing"]
     },
     {
       "chainId": 1,
       "address": "0x41d5d79431a913c4ae7d69a668ecdfe5ff9dfb68",
       "symbol": "INV",
       "name": "INV",
-      "tags": ["Lending-Borrowing"]
+      "tags": ["lending_borrowing"]
     },
     {
       "chainId": 1,
       "address": "0x5218E472cFCFE0b64A064F055B43b4cdC9EfD3A6",
       "symbol": "eRSDL",
       "name": "eRSDL",
-      "tags": ["Lending-Borrowing"]
+      "tags": ["lending_borrowing"]
     },
     {
       "chainId": 1,
       "address": "0xC9fE6E1C76210bE83DC1B5b20ec7FD010B0b1D15",
       "symbol": "FRIN",
       "name": "FRIN",
-      "tags": ["Lending-Borrowing"]
+      "tags": ["lending_borrowing"]
     },
     {
       "chainId": 1,
       "address": "0xf970b8e36e23f7fc3fd752eea86f8be8d83375a6",
       "symbol": "RCN",
       "name": "RCN",
-      "tags": ["Lending-Borrowing"]
+      "tags": ["lending_borrowing"]
     },
     {
       "chainId": 250,
       "address": "0xc5e2b037d30a390e62180970b3aa4e91868764cd",
       "symbol": "TAROT",
       "name": "TAROT",
-      "tags": ["Lending-Borrowing"]
+      "tags": ["lending_borrowing"]
     },
     {
       "chainId": 1,
       "address": "0x6e5970DBd6fc7eb1f29C6D2eDF2bC4c36124C0C1",
       "symbol": "TRADE",
       "name": "TRADE",
-      "tags": ["Lending-Borrowing"]
+      "tags": ["lending_borrowing"]
     },
     {
       "chainId": 1,
       "address": "0x1Da87b114f35E1DC91F72bF57fc07A768Ad40Bb0",
       "symbol": "EQZ",
       "name": "EQZ",
-      "tags": ["Lending-Borrowing"]
+      "tags": ["lending_borrowing"]
     },
     {
       "chainId": 1,
       "address": "0x72e9d9038ce484ee986fea183f8d8df93f9ada13",
       "symbol": "SMARTCREDIT",
       "name": "SMARTCREDIT",
-      "tags": ["Lending-Borrowing"]
+      "tags": ["lending_borrowing"]
     },
     {
       "chainId": 1,
       "address": "0x9f7229af0c4b9740e207ea283b9094983f78ba04",
       "symbol": "TAD",
       "name": "TAD",
-      "tags": ["Lending-Borrowing"]
+      "tags": ["lending_borrowing"]
     },
     {
       "chainId": 1,
       "address": "0x054f76beed60ab6dbeb23502178c52d6c5debe40",
       "symbol": "FIN",
       "name": "FIN",
-      "tags": ["Lending-Borrowing"]
+      "tags": ["lending_borrowing"]
     },
     {
       "chainId": 1,
       "address": "0x0De05F6447ab4D22c8827449EE4bA2D5C288379B",
       "symbol": "OOKI",
       "name": "OOKI",
-      "tags": ["Lending-Borrowing"]
+      "tags": ["lending_borrowing"]
     }
   ],
   "version": {

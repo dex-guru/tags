@@ -1,7 +1,7 @@
 {
   "name": "Metaverse",
   "tags": {
-    "Metaverse": {
+    "metaverse": {
       "name": "Metaverse",
       "description": "Metaverse tokens are a type of digital asset or cryptocurrencies that is associated with a metaverse platform."
     }
@@ -13,35 +13,35 @@
       "address": "0x3845badade8e6dff049820680d1f14bd3903a5d0",
       "symbol": "SAND",
       "name": "SAND",
-      "tags": ["Metaverse"]
+      "tags": ["metaverse"]
     },
     {
       "chainId": 1,
       "address": "0x0f5d2fb29fb7d3cfee444a200298f468908cc942",
       "symbol": "MANA",
       "name": "MANA",
-      "tags": ["Metaverse"]
+      "tags": ["metaverse"]
     },
     {
       "chainId": 1,
       "address": "0x949d48eca67b17269629c7194f4b727d4ef9e5d6",
       "symbol": "MC",
       "name": "MC",
-      "tags": ["Metaverse"]
+      "tags": ["metaverse"]
     },
     {
       "chainId": 1,
       "address": "0x72e364f2abdc788b7e918bc238b21f109cd634d7",
       "symbol": "MVI",
       "name": "MVI",
-      "tags": ["Metaverse"]
+      "tags": ["metaverse"]
     },
     {
       "chainId": 1,
       "address": "0xd5d86fc8d5c0ea1ac1ac5dfab6e529c9967a45e9",
       "symbol": "WRLD",
       "name": "WRLD",
-      "tags": ["Metaverse"]
+      "tags": ["metaverse"]
     }
   ],
   "version": {

@@ -1,9 +1,9 @@
 {
   "name": "Centralized Exchange",
   "tags": {
-    "Centralized Exchange": {
+    "centralized_exchange": {
       "name": "Centralized Exchange",
-      "description": "A stablecoin is a cryptocurrency whose value is pegged to the price of another asset, hence the term “stable.” A stablecoin pegged to the EURO should always be valued at €1."
+      "description": "A stablecoin is a cryptocurrency whose value is pegged to the price of another asset, hence the term \"stable.\" A stablecoin pegged to the EURO should always be valued at €1."
     }
   },
   "timestamp": "2022-10-19T00:00:00+00:00",
@@ -13,91 +13,91 @@
       "address": "0x75231f58b43240c9718dd58b4967c5114342a86c",
       "symbol": "OKB",
       "name": "OKB",
-      "tags": ["Centralized Exchange"]
+      "tags": ["centralized_exchange"]
     },
     {
       "chainId": 1,
       "address": "0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3",
       "symbol": "LEO",
       "name": "LEO",
-      "tags": ["Centralized Exchange"]
+      "tags": ["centralized_exchange"]
     },
     {
       "chainId": 1,
       "address": "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
       "symbol": "FTT",
       "name": "FTT",
-      "tags": ["Centralized Exchange"]
+      "tags": ["centralized_exchange"]
     },
     {
       "chainId": 1,
       "address": "0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b",
       "symbol": "CRO",
       "name": "CRO",
-      "tags": ["Centralized Exchange"]
+      "tags": ["centralized_exchange"]
     },
     {
       "chainId": 1,
       "address": "0x667102bd3413bfeaa3dffb48fa8288819e480a88",
       "symbol": "TKX",
       "name": "TKX",
-      "tags": ["Centralized Exchange"]
+      "tags": ["centralized_exchange"]
     },
     {
       "chainId": 1,
       "address": "0x6f259637dcd74c767781e37bc6133cd6a68aa161",
       "symbol": "HT",
       "name": "HT",
-      "tags": ["Centralized Exchange"]
+      "tags": ["centralized_exchange"]
     },
     {
       "chainId": 1,
       "address": "0xe66747a101bff2dba3697199dcce5b743b454759",
       "symbol": "GT",
       "name": "GT",
-      "tags": ["Centralized Exchange"]
+      "tags": ["centralized_exchange"]
     },
     {
       "chainId": 1,
       "address": "0x4691937a7508860f876c9c0a2a617e7d9e945d4b",
       "symbol": "WOO",
       "name": "WOO",
-      "tags": ["Centralized Exchange"]
+      "tags": ["centralized_exchange"]
     },
     {
       "chainId": 1,
       "address": "0x986ee2b944c42d017f52af21c4c69b84dbea35d8",
       "symbol": "BMX",
       "name": "BMX",
-      "tags": ["Centralized Exchange"]
+      "tags": ["centralized_exchange"]
     },
     {
       "chainId": 1,
       "address": "0x1df7aa5551e801e280007dc0fc0454e2d06c1a89",
       "symbol": "BKK",
       "name": "BKK",
-      "tags": ["Centralized Exchange"]
+      "tags": ["centralized_exchange"]
     },
     {
       "chainId": 1,
       "address": "0xff742d05420b6aca4481f635ad8341f81a6300c2",
       "symbol": "ASD",
       "name": "ASD",
-      "tags": ["Centralized Exchange"]
+      "tags": ["centralized_exchange"]
     },
     {
       "chainId": 1,
       "address": "0x5b71bee9d961b1b848f8485eec8d8787f80217f5",
       "symbol": "BF",
       "name": "BF",
-      "tags": ["Centralized Exchange"]
+      "tags": ["centralized_exchange"]
     },
     {
       "chainId": 1,
       "address": "0x6be61833fc4381990e82d7d4a9f4c9b3f67ea941",
       "symbol": "HTB",
       "name": "HTB",
-      "tags": ["Centralized Exchange"]
+      "tags": ["centralized_exchange"]
     }
   ],
   "version": {
