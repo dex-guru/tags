@@ -19,10 +19,7 @@ def get_schema():
 def test_token_list_schema(file, get_schema):
     with open(file) as f:
         token_list = json.load(f)
-        try:
-            validate(token_list, get_schema)
-        except ValidationError:
-            pytest.fail(pytrace=False)
+        validate(token_list, get_schema)
 
 
 @pytest.mark.parametrize('file', Path(Path().root).glob('*.json'))
@@ -33,3 +30,4 @@ def test_token_tag_in_tags_list(file):
         for token in token_list['tokens']:
             for tag in token['tags']:
                 assert tag in token_list['tags']
+
