@@ -1,0 +1,192 @@
+{
+  "name": "Options",
+  "tags": {
+    "options": {
+      "name": "Options",
+      "description": "On-chain options trading protocols, where you can buy call or put options"
+    }
+  },
+  "timestamp": "2022-10-19T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x584bC13c7D411c00c01A62e8019472dE68768430",
+      "symbol": "HEGIC",
+      "name": "HEGIC",
+      "tags": ["options"]
+    },
+    {
+      "chainId": 250,
+      "address": "0x44B26E839eB3572c5E959F994804A5De66600349",
+      "symbol": "HEGIC",
+      "name": "HEGIC",
+      "tags": ["options"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa487bf43cf3b10dffc97a9a744cbb7036965d3b9",
+      "symbol": "DERI",
+      "name": "DERI",
+      "tags": ["options"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xe60eaf5A997DFAe83739e035b005A33AfdCc6df5",
+      "symbol": "DERI",
+      "name": "DERI",
+      "tags": ["options"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0x21e60ee73f17ac0a411ae5d690f908c3ed66fe12",
+      "symbol": "DERI",
+      "name": "DERI",
+      "tags": ["options"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCd2828fc4D8E8a0eDe91bB38CF64B1a81De65Bf6",
+      "symbol": "ODDZ",
+      "name": "ODDZ",
+      "tags": ["options"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xcd40f2670cf58720b694968698a5514e924f742d",
+      "symbol": "ODDZ",
+      "name": "ODDZ",
+      "tags": ["options"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x4e830F67Ec499E69930867f9017AEb5B3f629c73",
+      "symbol": "ODDZ",
+      "name": "ODDZ",
+      "tags": ["options"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0xB0a6e056B587D0a85640b39b1cB44086F7a26A1E",
+      "symbol": "ODDZ",
+      "name": "ODDZ",
+      "tags": ["options"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7968bc6a03017ea2de509aaa816f163db0f35148",
+      "symbol": "HGET",
+      "name": "HGET",
+      "tags": ["options"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC57d533c50bC22247d49a368880fb49a1caA39F7",
+      "symbol": "PTF",
+      "name": "PTF",
+      "tags": ["options"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc12d099be31567add4e4e4d0d45691c3f58f5663",
+      "symbol": "AUC",
+      "name": "AUC",
+      "tags": ["options"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6123b0049f904d730db3c36a31167d9d4121fa6b",
+      "symbol": "RBN",
+      "name": "RBN",
+      "tags": ["options"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeec2be5c91ae7f8a338e1e5f3b5de49d07afdc81",
+      "symbol": "DPX",
+      "name": "DPX",
+      "tags": ["options"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x01ba67aac7f75f647d94220cc98fb30fcc5105bf",
+      "symbol": "LYRA",
+      "name": "LYRA",
+      "tags": ["options"]
+    },
+    {
+      "chainId": 10,
+      "address": "0x50c5725949a6f0c72e6c4a641f24049a917db0cb",
+      "symbol": "LYRA",
+      "name": "LYRA",
+      "tags": ["options"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6399c842dd2be3de30bf99bc7d1bbf6fa3650e70",
+      "symbol": "PREMIA",
+      "name": "PREMIA",
+      "tags": ["options"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0x51fc0f6660482ea73330e414efd7808811a57fa2",
+      "symbol": "PREMIA",
+      "name": "PREMIA",
+      "tags": ["options"]
+    },
+    {
+      "chainId": 250,
+      "address": "0x3028b4395f98777123c7da327010c40f3c7cc4ef",
+      "symbol": "PREMIA",
+      "name": "PREMIA",
+      "tags": ["options"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0x10393c20975cf177a3513071bc110f7962cd67da",
+      "symbol": "JONES",
+      "name": "JONES",
+      "tags": ["options"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x888888888889c00c67689029d7856aac1065ec11",
+      "symbol": "OPIUM",
+      "name": "OPIUM",
+      "tags": ["options"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x566cedd201f67e542a6851a2959c1a449a041945",
+      "symbol": "OPIUM",
+      "name": "OPIUM",
+      "tags": ["options"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xe8f157e041df3b28151b667364e9c90789da7923",
+      "symbol": "OPIUM",
+      "name": "OPIUM",
+      "tags": ["options"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5f0e628b693018f639d10e4a4f59bd4d8b2b6b44",
+      "symbol": "WHITE",
+      "name": "WHITE",
+      "tags": ["options"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd23ac27148af6a2f339bd82d0e3cff380b5093de",
+      "symbol": "SI",
+      "name": "SI",
+      "tags": ["options"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}

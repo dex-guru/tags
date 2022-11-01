@@ -1,0 +1,59 @@
+{
+  "name": "Rebase",
+  "tags": {
+    "rebase": {
+      "name": "Rebase",
+      "description": "Rebase tokens are crypto assets that have a changing circulating supply, either growing larger (more coins being created) or decreasing (coins get destroyed or 'burnt'). The increase or decrease of the market cap is spread proportionally across token holders."
+    }
+  },
+  "timestamp": "2022-10-21T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xd46ba6d942050d489dbd938a2c909a5d5039a161",
+      "symbol": "AMPL",
+      "name": "AMPL",
+      "tags": ["rebase"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x798D1bE841a82a273720CE31c822C61a67a601C3",
+      "symbol": "DIGG",
+      "name": "DIGG",
+      "tags": ["rebase"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x36f3fd68e7325a35eb768f1aedaae9ea0689d723",
+      "symbol": "ESD",
+      "name": "ESD",
+      "tags": ["rebase"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9040e237C3bF18347bb00957Dc22167D0f2b999d",
+      "symbol": "STND",
+      "name": "STND",
+      "tags": ["rebase"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x07150e919b4de5fd6a63de1f9384828396f25fdc",
+      "symbol": "BASE",
+      "name": "BASE",
+      "tags": ["rebase"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3449FC1Cd036255BA1EB19d65fF4BA2b8903A69a",
+      "symbol": "BAC",
+      "name": "BAC",
+      "tags": ["rebase"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}

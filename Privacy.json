@@ -1,0 +1,38 @@
+{
+  "name": "Privacy",
+  "tags": {
+    "privacy": {
+      "name": "Privacy",
+      "description": "Privacy protocols trying to build private transactions on public blockchains"
+    }
+  },
+  "timestamp": "2022-10-31T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x77777feddddffc19ff86db637967013e6c6a116c",
+      "symbol": "TORN",
+      "name": "TORN",
+      "tags": ["privacy"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe76c6c83af64e4c60245d8c7de953df673a7a33d",
+      "symbol": "RAIL",
+      "name": "RAIL",
+      "tags": ["privacy"]
+    },
+    {
+      "chainId": 250,
+      "address": "0x3a3841f5fa9f2c283ea567d5aeea3af022dd2262",
+      "symbol": "SHADE",
+      "name": "SHADE",
+      "tags": ["privacy"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}

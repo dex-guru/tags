@@ -1,0 +1,122 @@
+{
+  "name": "a16z Portfolio",
+  "tags": {
+    "a16z_portfolio": {
+      "name": "a16z Portfolio",
+      "description": "a16z is an investment firm focused on supporting the great crypto/Web3 companies and protocols. a16z Portfolio of tokens: https://a16z.com/portfolio/#crypto"
+    }
+  },
+  "timestamp": "2022-10-19T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+      "symbol": "WBTC",
+      "name": "WBTC",
+      "tags": ["a16z_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "name": "WETH",
+      "tags": ["a16z_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+      "symbol": "UNI",
+      "name": "UNI",
+      "tags": ["a16z_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+      "symbol": "WAVAX",
+      "name": "WAVAX",
+      "tags": ["a16z_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
+      "symbol": "MKR",
+      "name": "MKR",
+      "tags": ["a16z_portfolio"]
+    },
+    {
+      "chainId": 42220,
+      "address": "0x471ece3750da237f93b8e339c536989b8978a438",
+      "symbol": "CELO",
+      "name": "CELO",
+      "tags": ["a16z_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x41545f8b9472d758bb669ed8eaeeecd7a9c4ec29",
+      "symbol": "FORT",
+      "name": "FORT",
+      "tags": ["a16z_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc00e94cb662c3520282e6f5717214004a7f26888",
+      "symbol": "COMP",
+      "name": "COMP",
+      "tags": ["a16z_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x85eee30c52b0b379b046fb0f85f4f3dc3009afec",
+      "symbol": "KEEP",
+      "name": "KEEP",
+      "tags": ["a16z_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x92d6c1e31e14520e676a687f0a93788b716beff5",
+      "symbol": "DYDX",
+      "name": "DYDX",
+      "tags": ["a16z_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1776e1F26f98b1A5dF9cD347953a26dd3Cb46671",
+      "symbol": "NMR",
+      "name": "NMR",
+      "tags": ["a16z_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4c19596f5aaff459fa38b0f7ed92f11ae6543784",
+      "symbol": "TRU",
+      "name": "TRU",
+      "tags": ["a16z_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdab396ccf3d84cf2d07c4454e10c8a6f5b008d2b",
+      "symbol": "GFI",
+      "name": "GFI",
+      "tags": ["a16z_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x25f8087ead173b73d6e8b84329989a8eea16cf73",
+      "symbol": "YGG",
+      "name": "YGG",
+      "tags": ["a16z_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbb0e17ef65f82ab018d8edd776e8dd940327b28b",
+      "symbol": "AXS",
+      "name": "AXS",
+      "tags": ["a16z_portfolio"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}

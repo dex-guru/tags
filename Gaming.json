@@ -1,0 +1,52 @@
+{
+  "name": "Gaming",
+  "tags": {
+    "gaming": {
+      "name": "Gaming GameFi",
+      "description": "Gaming GameFi is a niche of Blockchain Games. A blockchain game is a video game that includes elements that use blockchain technologies, including cryptocurrencies and non-fungible tokens"
+    }
+  },
+  "timestamp": "2022-10-31T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x3f382dbd960e3a9bbceae22651e88158d2791550",
+      "symbol": "GHST",
+      "name": "GHST",
+      "tags": ["gaming"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7",
+      "symbol": "GHST",
+      "name": "GHST",
+      "tags": ["gaming"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbb0e17ef65f82ab018d8edd776e8dd940327b28b",
+      "symbol": "AXS",
+      "name": "AXS",
+      "tags": ["gaming"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3845badade8e6dff049820680d1f14bd3903a5d0",
+      "symbol": "SAND",
+      "name": "SAND",
+      "tags": ["gaming"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x767fe9edc9e0df98e07454847909b5e959d7ca0e",
+      "symbol": "ILV",
+      "name": "ILV",
+      "tags": ["gaming"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}

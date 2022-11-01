@@ -1,0 +1,45 @@
+{
+  "name": "NFT Lending",
+  "tags": {
+    "nft_lending": {
+      "name": "NFT Lending",
+      "description": "NFT Lending protocols provide NFT-backed loans"
+    }
+  },
+  "timestamp": "2022-10-31T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x0d02755a5700414b26ff040e1de35d337df56218",
+      "symbol": "BEND",
+      "name": "BEND",
+      "tags": ["nft_lending"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe80c0cd204d654cebe8dd64a4857cab6be8345a3",
+      "symbol": "JPEG",
+      "name": "JPEG",
+      "tags": ["nft_lending"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x4be63a9b26ee89b9a3a13fd0aa1d0b2427c135f8",
+      "symbol": "XCV",
+      "name": "XCV",
+      "tags": ["nft_lending"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6bb61215298f296c55b19ad842d3df69021da2ef",
+      "symbol": "DOP",
+      "name": "DOP",
+      "tags": ["nft_lending"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}

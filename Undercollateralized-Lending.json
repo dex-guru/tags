@@ -1,0 +1,73 @@
+{
+  "name": "Undercollateralized Lending",
+  "tags": {
+    "undercollateralized_lending": {
+      "name": "Undercollateralized Lending",
+      "description": "Undercollateralized Lending DeFi lending, or Undercollateralized Lending Prtocols, is different from traditional DeFi lending protocols like Compound or Aave since loans are Undercollateralized"
+    }
+  },
+  "timestamp": "2022-10-31T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xba3335588d9403515223f109edc4eb7269a9ab5d",
+      "symbol": "GEAR",
+      "name": "GEAR",
+      "tags": ["undercollateralized_lending"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4c19596f5aaff459fa38b0f7ed92f11ae6543784",
+      "symbol": "TRU",
+      "name": "TRU",
+      "tags": ["undercollateralized_lending"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfa372ff1547fa1a283b5112a4685f1358ce5574d",
+      "symbol": "BDAMM",
+      "name": "BDAMM",
+      "tags": ["undercollateralized_lending"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x66761fa41377003622aee3c7675fc7b5c1c2fac5",
+      "symbol": "CPOOL",
+      "name": "CPOOL",
+      "tags": ["undercollateralized_lending"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x33349b282065b0284d756f0577fb39c158f935e6",
+      "symbol": "MPL",
+      "name": "MPL",
+      "tags": ["undercollateralized_lending"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6123b0049f904d730db3c36a31167d9d4121fa6b",
+      "symbol": "RBN",
+      "name": "RBN",
+      "tags": ["undercollateralized_lending"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc221b7e65ffc80de234bbb6667abdd46593d34f0",
+      "symbol": "WCFG",
+      "name": "WCFG",
+      "tags": ["undercollateralized_lending"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdab396ccf3d84cf2d07c4454e10c8a6f5b008d2b",
+      "symbol": "GFI",
+      "name": "GFI",
+      "tags": ["undercollateralized_lending"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}

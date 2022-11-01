@@ -1,0 +1,108 @@
+{
+  "name": "Prediction Market",
+  "tags": {
+    "prediction_market": {
+      "name": "Prediction Market",
+      "description": "Prediction markets are open markets where specific outcomes can be predicted using financial incentives. On-chain Prediction Market protocols, where you can place bets on binary outcomes of future events, from presidential elections to entertainment award wins, sports matches and asset prices, including crypto price predictions."
+    }
+  },
+  "timestamp": "2022-10-31T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x0a0e3bfd5a8ce610e735d4469bc1b3b130402267",
+      "symbol": "ERP",
+      "name": "ERP",
+      "tags": ["prediction_market"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x28acca4ed2f6186c3d93e20e29e6e6a9af656341",
+      "symbol": "ERP",
+      "name": "ERP",
+      "tags": ["prediction_market"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6ff1bfa14a57594a5874b37ff6ac5efbd9f9599a",
+      "symbol": "TOTM",
+      "name": "TOTM",
+      "tags": ["prediction_market"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x6ff1bfa14a57594a5874b37ff6ac5efbd9f9599a",
+      "symbol": "TOTM",
+      "name": "TOTM",
+      "tags": ["prediction_market"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xbdd2e3fdb879aa42748e9d47b7359323f226ba22",
+      "symbol": "PRED",
+      "name": "PRED",
+      "tags": ["prediction_market"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6810e776880c02933d47db1b9fc05908e5386b96",
+      "symbol": "GNO",
+      "name": "GNO",
+      "tags": ["prediction_market"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0xa0b862f60edef4452f25b4160f177db44deb6cf1",
+      "symbol": "GNO",
+      "name": "GNO",
+      "tags": ["prediction_market"]
+    },
+    {
+      "chainId": 100,
+      "address": "0x9c58bacc331c9aa871afd802db6379a98e80cedb",
+      "symbol": "GNO",
+      "name": "GNO",
+      "tags": ["prediction_market"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x221657776846890989a759ba2973e427dff5c9bb",
+      "symbol": "REP",
+      "name": "REP",
+      "tags": ["prediction_market"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8642a849d0dcb7a15a974794668adcfbe4794b56",
+      "symbol": "PROS",
+      "name": "PROS",
+      "tags": ["prediction_market"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd478161c952357f05f0292b56012cd8457f1cfbf",
+      "symbol": "POLK",
+      "name": "POLK",
+      "tags": ["prediction_market"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x72f020f8f3e8fd9382705723cd26380f8d0c66bb",
+      "symbol": "PLOT",
+      "name": "PLOT",
+      "tags": ["prediction_market"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xe82808eaa78339b06a691fd92e1be79671cad8d3",
+      "symbol": "PLOT",
+      "name": "PLOT",
+      "tags": ["prediction_market"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}

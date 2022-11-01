@@ -1,0 +1,31 @@
+{
+  "name": "Payments",
+  "tags": {
+    "payments": {
+      "name": "Payments",
+      "description": "Payments Protocols are offer the ability to pay/send/receive cryptocurrency"
+    }
+  },
+  "timestamp": "2022-10-31T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xff20817765cb7f73d4bde2e66e067e58d11095c2",
+      "symbol": "AMP",
+      "name": "AMP",
+      "tags": ["payments"]
+    },
+    {
+      "chainId": 250,
+      "address": "0xc60d7067dfbc6f2caf30523a064f416a5af52963",
+      "symbol": "TREEB",
+      "name": "TREEB",
+      "tags": ["payments"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}

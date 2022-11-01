@@ -1,0 +1,108 @@
+{
+  "name": "Launchpad",
+  "tags": {
+    "launchpad": {
+      "name": "Launchpad",
+      "description": "Crypto launchpads, often referred to as IDO platforms, are platforms for launching new coins, crypto projects, and raising liquidity."
+    }
+  },
+  "timestamp": "2022-10-31T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x602ba546a7b06e0fc7f58fd27eb6996ecc824689",
+      "symbol": "PINKSALE",
+      "name": "PINKSALE",
+      "tags": ["launchpad"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf063fe1ab7a291c5d06a86e14730b00bf24cb589",
+      "symbol": "SALE",
+      "name": "SALE",
+      "tags": ["launchpad"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x04f73a09e2eb410205be256054794fb452f0d245",
+      "symbol": "SALE",
+      "name": "SALE",
+      "tags": ["launchpad"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x8f6196901a4a153d8ee8f3fa779a042f6092d908",
+      "symbol": "SALE",
+      "name": "SALE",
+      "tags": ["launchpad"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0f51bb10119727a7e5ea3538074fb341f56b09ad",
+      "symbol": "DAO",
+      "name": "DAO",
+      "tags": ["launchpad"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x4d2d32d8652058Bf98c772953E1Df5c5c85D9F45",
+      "symbol": "DAO",
+      "name": "DAO",
+      "tags": ["launchpad"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x477bc8d23c634c154061869478bce96be6045d12",
+      "symbol": "SFUND",
+      "name": "SFUND",
+      "tags": ["launchpad"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe53ec727dbdeb9e2d5456c3be40cff031ab40a55",
+      "symbol": "SUPER",
+      "name": "SUPER",
+      "tags": ["launchpad"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x83e6f1e41cdd28eaceb20cb649155049fac3d5aa",
+      "symbol": "POLS",
+      "name": "POLS",
+      "tags": ["launchpad"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcc4304a31d09258b0029ea7fe63d032f52e44efe",
+      "symbol": "SWAP",
+      "name": "SWAP",
+      "tags": ["launchpad"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0b15ddf19d47e6a86a56148fb4afffc6929bcb89",
+      "symbol": "IDIA",
+      "name": "IDIA",
+      "tags": ["launchpad"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x0b15ddf19d47e6a86a56148fb4afffc6929bcb89",
+      "symbol": "IDIA",
+      "name": "IDIA",
+      "tags": ["launchpad"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0xfCAF13227dcBFa2dc2b1928acFcA03b85e2D25dd",
+      "symbol": "IDIA",
+      "name": "IDIA",
+      "tags": ["launchpad"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
