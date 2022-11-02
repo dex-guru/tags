@@ -189,6 +189,14 @@
       "symbol": "OOKI",
       "name": "OOKI",
       "tags": ["lending_borrowing"]
+    },
+
+    {
+      "chainId": 1,
+      "address": "0xd9fcd98c322942075a5c3860693e9f4f03aae07b",
+      "symbol": "EUL",
+      "name": "EUL",
+      "tags": ["lending_borrowing"]
     }
   ],
   "version": {
