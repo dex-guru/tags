@@ -1,0 +1,87 @@
+{
+  "name": "1confirmation Portfolio",
+  "tags": {
+    "1confirmation_portfolio": {
+      "name": "1confirmation Portfolio",
+      "description": "1confirmation is a venture fund that supports exceptional founders fueling the decentralization of the web and society. 1confirmation Portfolio of tokens: https://www.1confirmation.com/portfolio"
+    }
+  },
+  "timestamp": "2022-11-07T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+      "symbol": "WBTC",
+      "name": "WBTC",
+      "tags": ["1confirmation_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "name": "WETH",
+      "tags": ["1confirmation_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0d438f3b5175bebc262bf23753c1e53d03432bde",
+      "symbol": "WNXM",
+      "name": "WNXM",
+      "tags": ["1confirmation_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xba5bde662c17e2adff1075610382b9b691296350",
+      "symbol": "RARE",
+      "name": "RARE",
+      "tags": ["1confirmation_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x92d6c1e31e14520e676a687f0a93788b716beff5",
+      "symbol": "DYDX",
+      "name": "DYDX",
+      "tags": ["1confirmation_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc5102fe9359fd9a28f877a67e36b0f050d81a3cc",
+      "symbol": "HOP",
+      "name": "HOP",
+      "tags": ["1confirmation_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
+      "symbol": "MKR",
+      "name": "MKR",
+      "tags": ["1confirmation_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcfeaead4947f0705a14ec42ac3d44129e1ef3ed5",
+      "symbol": "NOTE",
+      "name": "NOTE",
+      "tags": ["1confirmation_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6bea7cfef803d1e3d5f7c0103f7ded065644e197",
+      "symbol": "GAMMA",
+      "name": "GAMMA",
+      "tags": ["1confirmation_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0954906da0bf32d5479e25f46056d22f08464cab",
+      "symbol": "INDEX",
+      "name": "INDEX",
+      "tags": ["1confirmation_portfolio"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
