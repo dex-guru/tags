@@ -1,0 +1,24 @@
+{
+  "name": "Fair Launch",
+  "tags": {
+    "fair_launch": {
+      "name": "Fair Launch",
+      "description": "A fair launch aims to prevent projects from distributing tokens before the general public can access the platform."
+    }
+  },
+  "timestamp": "2022-11-07T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
+      "symbol": "YFI",
+      "name": "YFI",
+      "tags": ["fair_launch"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
