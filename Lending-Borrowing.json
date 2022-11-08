@@ -6,7 +6,7 @@
       "description": "DeFi lending, or decentralized finance lending, is quite similar to the traditional lending service offered by the banks, except that it is offered by the P2P decentralized applications (DApps). The DeFi lending platforms help people borrow and lend funds which allow the crypto holders to earn a substantial income"
     }
   },
-  "timestamp": "2022-10-24T00:00:00+00:00",
+  "timestamp": "2022-11-08T00:00:00+00:00",
   "tokens": [
     {
       "chainId": 1,
@@ -190,12 +190,32 @@
       "name": "OOKI",
       "tags": ["lending_borrowing"]
     },
-
     {
       "chainId": 1,
       "address": "0xd9fcd98c322942075a5c3860693e9f4f03aae07b",
       "symbol": "EUL",
       "name": "EUL",
+      "tags": ["lending_borrowing"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x431ad2ff6a9c365805ebad47ee021148d6f7dbe0",
+      "symbol": "DF",
+      "name": "DF",
+      "tags": ["lending_borrowing"]
+    },
+    {
+      "chainId": 250,
+      "address": "0x00a35fd824c717879bf370e70ac6868b95870dfb",
+      "symbol": "IB",
+      "name": "IB",
+      "tags": ["lending_borrowing"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8888801af4d980682e47f1a9036e589479e835c5",
+      "symbol": "MPH",
+      "name": "MPH",
       "tags": ["lending_borrowing"]
     }
   ],
