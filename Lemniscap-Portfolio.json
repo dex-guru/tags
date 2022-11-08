@@ -1,0 +1,192 @@
+{
+  "name": "lemniscap Portfolio",
+  "tags": {
+    "lemniscap_portfolio": {
+      "name": "Lemniscap Portfolio",
+      "description": "Lemniscap is an investment firm specialising in investments in emerging cryptoassets & blockchain startups. Lemniscap Portfolio of tokens: https://lemniscap.com/portfolio"
+    }
+  },
+  "timestamp": "2022-11-07T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x1ab43204a195a0fd37edec621482afd3792ef90b",
+      "symbol": "PLY",
+      "name": "PLY",
+      "tags": ["lemniscap_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaaaaaa20d9e0e2461697782ef11675f668207961",
+      "symbol": "AURORA",
+      "name": "AURORA",
+      "tags": ["lemniscap_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+      "symbol": "WAVAX",
+      "name": "WAVAX",
+      "tags": ["lemniscap_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x467719aD09025FcC6cF6F8311755809d45a5E5f3",
+      "symbol": "AXL",
+      "name": "AXL",
+      "tags": ["lemniscap_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x888888435fde8e7d4c54cab67f206e4199454c60",
+      "symbol": "DFX",
+      "name": "DFX",
+      "tags": ["lemniscap_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xca1207647ff814039530d7d35df0e1dd2e91fa84",
+      "symbol": "DHT",
+      "name": "DHT",
+      "tags": ["lemniscap_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd9fcd98c322942075a5c3860693e9f4f03aae07b",
+      "symbol": "EUL",
+      "name": "EUL",
+      "tags": ["lemniscap_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
+      "symbol": "FTT",
+      "name": "FTT",
+      "tags": ["lemniscap_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0e192d382a36de7011f795acc4391cd302003606",
+      "symbol": "FST",
+      "name": "FST",
+      "tags": ["lemniscap_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc944e90c64b2c07662a292be6244bdf05cda44a7",
+      "symbol": "GRT",
+      "name": "GRT",
+      "tags": ["lemniscap_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x0b15ddf19d47e6a86a56148fb4afffc6929bcb89",
+      "symbol": "IDIA",
+      "name": "IDIA",
+      "tags": ["lemniscap_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0xb27c8941a7df8958a1778c0259f76d1f8b711c35",
+      "symbol": "KLO",
+      "name": "KLO",
+      "tags": ["lemniscap_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6dea81c8171d0ba574754ef6f8b412f2ed88c54d",
+      "symbol": "LQTY",
+      "name": "LQTY",
+      "tags": ["lemniscap_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4a615bb7166210cce20e6642a6f8fb5d4d044496",
+      "symbol": "NAOS",
+      "name": "NAOS",
+      "tags": ["lemniscap_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcafe001067cdef266afb7eb5a286dcfd277f3de5",
+      "symbol": "PSP",
+      "name": "PSP",
+      "tags": ["lemniscap_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x808507121b80c02388fad14726482e061b8da827",
+      "symbol": "PENDLE",
+      "name": "PENDLE",
+      "tags": ["lemniscap_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xad32a8e6220741182940c5abf610bde99e737b2d",
+      "symbol": "DOUGH",
+      "name": "DOUGH",
+      "tags": ["lemniscap_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6243d8cea23066d098a15582d81a598b4e8391f4",
+      "symbol": "FLX",
+      "name": "FLX",
+      "tags": ["lemniscap_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x476c5e26a75bd202a9683ffd34359c0cc15be0ff",
+      "symbol": "SRM",
+      "name": "SRM",
+      "tags": ["lemniscap_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x3019BF2a2eF8040C242C9a4c5c4BD4C81678b2A1",
+      "symbol": "GMT",
+      "name": "GMT",
+      "tags": ["lemniscap_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe3c408bd53c31c085a1746af401a4042954ff740",
+      "symbol": "GMT",
+      "name": "GMT",
+      "tags": ["lemniscap_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa36fdbbae3c9d55a1d67ee5821d53b50b63a1ab9",
+      "symbol": "TEMP",
+      "name": "TEMP",
+      "tags": ["lemniscap_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2e9d63788249371f1dfc918a52f8d799f4a38c94",
+      "symbol": "TOKE",
+      "name": "TOKE",
+      "tags": ["lemniscap_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe0e05c43c097b0982db6c9d626c4eb9e95c3b9ce",
+      "symbol": "USF",
+      "name": "USF",
+      "tags": ["lemniscap_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x77777777772cf0455fb38ee0e75f38034dfa50de",
+      "symbol": "XY",
+      "name": "XY",
+      "tags": ["lemniscap_portfolio"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
