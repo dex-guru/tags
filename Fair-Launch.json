@@ -14,6 +14,13 @@
       "symbol": "YFI",
       "name": "YFI",
       "tags": ["fair_launch"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1ceb5cb57c4d4e2b2433641b95dd330a33185a44",
+      "symbol": "KP3R",
+      "name": "KP3R",
+      "tags": ["fair_launch"]
     }
   ],
   "version": {
