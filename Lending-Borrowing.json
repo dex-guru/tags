@@ -217,6 +217,90 @@
       "symbol": "MPH",
       "name": "MPH",
       "tags": ["lending_borrowing"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x33349b282065b0284d756f0577fb39c158f935e6",
+      "symbol": "MPL",
+      "name": "MPL",
+      "tags": ["lending_borrowing"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdab396ccf3d84cf2d07c4454e10c8a6f5b008d2b",
+      "symbol": "GFI",
+      "name": "GFI",
+      "tags": ["lending_borrowing"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc221b7e65ffc80de234bbb6667abdd46593d34f0",
+      "symbol": "CFG",
+      "name": "CFG",
+      "tags": ["lending_borrowing"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x8729438eb15e2c8b576fcc6aecda6a148776c0f5",
+      "symbol": "QI",
+      "name": "QI",
+      "tags": ["lending_borrowing"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6dea81c8171d0ba574754ef6f8b412f2ed88c54d",
+      "symbol": "LQTY",
+      "name": "LQTY",
+      "tags": ["lending_borrowing"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6dea81c8171d0ba574754ef6f8b412f2ed88c54d",
+      "symbol": "LQTY",
+      "name": "LQTY",
+      "tags": ["lending_borrowing"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6243d8cea23066d098a15582d81a598b4e8391f4",
+      "symbol": "FLX",
+      "name": "FLX",
+      "tags": ["lending_borrowing"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x090185f2135308bad17527004364ebcc2d37e5f6",
+      "symbol": "SPELL",
+      "name": "SPELL",
+      "tags": ["lending_borrowing"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0xce1bffbd5374dac86a2893119683f4911a2f7814",
+      "symbol": "SPELL",
+      "name": "SPELL",
+      "tags": ["lending_borrowing"]
+    },
+    {
+      "chainId": 250,
+      "address": "0x468003b688943977e6130f4f68f23aad939a1040",
+      "symbol": "SPELL",
+      "name": "SPELL",
+      "tags": ["lending_borrowing"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0x3e6648c5a70a150a88bce65f4ad4d506fe15d2af",
+      "symbol": "SPELL",
+      "name": "SPELL",
+      "tags": ["lending_borrowing"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x92e187a03b6cd19cb6af293ba17f2745fd2357d5",
+      "symbol": "DUCK",
+      "name": "DUCK",
+      "tags": ["lending_borrowing"]
     }
   ],
   "version": {
