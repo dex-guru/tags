@@ -1,0 +1,38 @@
+{
+  "name": "Yield Aggregator",
+  "tags": {
+    "yield_aggregator": {
+      "name": "Yield Aggregator",
+      "description": "A fair launch aims to prevent projects from distributing tokens before the general public can access the platform."
+    }
+  },
+  "timestamp": "2022-11-07T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x4e3fbd56cd56c3e72c1403e103b45db9da5b9d2b",
+      "symbol": "CVX",
+      "name": "CVX",
+      "tags": ["yield_aggregator"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
+      "symbol": "YFI",
+      "name": "YFI",
+      "tags": ["yield_aggregator"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa1d0E215a23d7030842FC67cE582a6aFa3CCaB83",
+      "symbol": "YFII",
+      "name": "YFII",
+      "tags": ["yield_aggregator"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
