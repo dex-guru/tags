@@ -1,0 +1,185 @@
+{
+  "name": "Multicoin Portfolio",
+  "tags": {
+    "multicoin_portfolio": {
+      "name": "Multicoin Portfolio",
+      "description": "Multicoin invest in technical endeavors that push the boundaries of computer science and technology, infrastructure that supports trust-minimized computation at global scale, and consumer and enterprise applications that require trust-minimized properties. Multicoin Portfolio of tokens: https://multicoin.capital/portfolio/"
+    }
+  },
+  "timestamp": "2022-11-10T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x6b0b3a982b4634ac68dd83a4dbf02311ce324181",
+      "symbol": "ALI",
+      "name": "ALI",
+      "tags": ["multicoin_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa1faa113cbe53436df28ff0aee54275c13b40975",
+      "symbol": "ALPHA",
+      "name": "ALPHA",
+      "tags": ["multicoin_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x18aaa7115705e8be94bffebde57af9bfc265b998",
+      "symbol": "AUDIO",
+      "name": "AUDIO",
+      "tags": ["multicoin_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x799ebfabe77a6e34311eeee9825190b9ece32824",
+      "symbol": "BTRST",
+      "name": "BTRST",
+      "tags": ["multicoin_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1934e252f840aa98dfce2b6205b3e45c41aef830",
+      "symbol": "CABIN",
+      "name": "CABIN",
+      "tags": ["multicoin_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xaec945e04baf28b135fa7c640f624f8d90f1c3a6",
+      "symbol": "C98",
+      "name": "C98",
+      "tags": ["multicoin_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x431ad2ff6a9c365805ebad47ee021148d6f7dbe0",
+      "symbol": "DF",
+      "name": "DF",
+      "tags": ["multicoin_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x4a9a2b2b04549c3927dd2c9668a5ef3fca473623",
+      "symbol": "DF",
+      "name": "DF",
+      "tags": ["multicoin_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1559fa1b8f28238fd5d76d9f434ad86fd20d1559",
+      "symbol": "EDEN",
+      "name": "EDEN",
+      "tags": ["multicoin_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "name": "WETH",
+      "tags": ["multicoin_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
+      "symbol": "FTT",
+      "name": "FTT",
+      "tags": ["multicoin_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xffffffff2ba8f66d4e51811c5190992176930278",
+      "symbol": "COMBO",
+      "name": "COMBO",
+      "tags": ["multicoin_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5faa989af96af85384b8a938c2ede4a7378d9875",
+      "symbol": "GAL",
+      "name": "GAL",
+      "tags": ["multicoin_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x85eee30c52b0b379b046fb0f85f4f3dc3009afec",
+      "symbol": "KEEP",
+      "name": "KEEP",
+      "tags": ["multicoin_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5a98fcbea516cf06857215779fd812ca3bef1b32",
+      "symbol": "LDO",
+      "name": "LDO",
+      "tags": ["multicoin_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x58b6a8a3302369daec383334672404ee733ab239",
+      "symbol": "LPT",
+      "name": "LPT",
+      "tags": ["multicoin_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbc396689893d065f41bc2c6ecbee5e0085233447",
+      "symbol": "PERP",
+      "name": "PERP",
+      "tags": ["multicoin_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb753428af26e81097e7fd17f40c88aaa3e04902c",
+      "symbol": "SFI",
+      "name": "SFI",
+      "tags": ["multicoin_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x476c5e26a75bd202a9683ffd34359c0cc15be0ff",
+      "symbol": "SRM",
+      "name": "SRM",
+      "tags": ["multicoin_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x00c83aecc790e8a4453e5dd3b0b4b3680501a7a7",
+      "symbol": "SKL",
+      "name": "SKL",
+      "tags": ["multicoin_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa670d7237398238de01267472c6f13e5b8010fd1",
+      "symbol": "SOMM",
+      "name": "SOMM",
+      "tags": ["multicoin_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x97872eafd79940c7b24f7bcc1eadb1457347adc9",
+      "symbol": "STRP",
+      "name": "STRP",
+      "tags": ["multicoin_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbf30461210b37012783957d90dc26b95ce3b6f2d",
+      "symbol": "SWIV",
+      "name": "SWIV",
+      "tags": ["multicoin_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc944e90c64b2c07662a292be6244bdf05cda44a7",
+      "symbol": "GRT",
+      "name": "GRT",
+      "tags": ["multicoin_portfolio"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
