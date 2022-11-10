@@ -70,6 +70,13 @@
       "symbol": "MATIC",
       "name": "MATIC",
       "tags": ["layer_2"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x00c83aecc790e8a4453e5dd3b0b4b3680501a7a7",
+      "symbol": "SKL",
+      "name": "SKL",
+      "tags": ["layer_2"]
     }
   ],
   "version": {
