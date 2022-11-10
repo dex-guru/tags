@@ -1,7 +1,6 @@
 {
   "name": "Wrapped Tokens",
-  "logoURI": "https://cloudflare-ipfs.com/ipfs/QmUJQF5rDNQn37ToqCynz6iecGqAmeKHDQCigJWpUwuVLN",
-  "timestamp": "2021-10-31T18:18:00+00:00",
+  "timestamp": "2021-11-10T18:18:00+00:00",
   "tags": {
     "wrapped": {
       "name": "Wrapped",
@@ -17,7 +16,7 @@
     },
     "binance": {
       "name": "Binance Wrapped Tokens",
-      "description": "Binance Wrapped ERC20 tokens"
+      "description": "Binance Wrapped tokens: https://www.binance.com/en/assets-proof"
     }
   },
   "tokens": [
