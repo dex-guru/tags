@@ -49,6 +49,27 @@
       "symbol": "LEASH",
       "name": "LEASH",
       "tags": ["meme"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7a58c0be72be218b41c608b7fe7c5bb630736c71",
+      "symbol": "PEOPLE",
+      "name": "PEOPLE",
+      "tags": ["meme"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x761d38e5ddf6ccf6cf7c55759d5210750b5d60f3",
+      "symbol": "ELON",
+      "name": "ELON",
+      "tags": ["meme"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xafcdd4f666c84fed1d8bd825aa762e3714f652c9",
+      "symbol": "VINU",
+      "name": "VINU",
+      "tags": ["meme"]
     }
   ],
   "version": {
