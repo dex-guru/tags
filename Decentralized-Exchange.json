@@ -294,6 +294,55 @@
       "symbol": "DYDX",
       "name": "DYDX",
       "tags": ["decentralized_exchange"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdefa4e8a7bcba345f687a2f1456f5edd9ce97202",
+      "symbol": "KNC",
+      "name": "KNC",
+      "tags": ["decentralized_exchange"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb3999f658c0391d94a37f7ff328f3fec942bcadc",
+      "symbol": "HFT",
+      "name": "HFT",
+      "tags": ["decentralized_exchange"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8798249c2e607446efb7ad49ec89dd1865ff4272",
+      "symbol": "XSUSHI",
+      "name": "XSUSHI",
+      "tags": ["decentralized_exchange"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd",
+      "symbol": "JOE",
+      "name": "JOE",
+      "tags": ["decentralized_exchange"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x43dfc4159d86f3a37a5a4b3d4580b888ad7d4ddd",
+      "symbol": "DODO",
+      "name": "DODO",
+      "tags": ["decentralized_exchange"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5245c0249e5eeb2a0838266800471fd32adb1089",
+      "symbol": "RAY",
+      "name": "RAY",
+      "tags": ["decentralized_exchange"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xe02df9e3e622debdd69fb838bb799e3f168902c5",
+      "symbol": "BAKE",
+      "name": "BAKE",
+      "tags": ["decentralized_exchange"]
     }
   ],
   "version": {
