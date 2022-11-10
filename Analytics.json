@@ -1,0 +1,59 @@
+{
+  "name": "Analytics",
+  "tags": {
+    "analytics": {
+      "name": "Analytics",
+      "description": "Blockchain analytics models and visually represents data in order to identify key information about users and transactions."
+    }
+  },
+  "timestamp": "2022-11-07T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xfb7b4564402e5500db5bb6d63ae671302777c75a",
+      "symbol": "DEXT",
+      "name": "DEXT",
+      "tags": ["analytics"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdbdd6f355a37b94e6c7d32fef548e98a280b8df5",
+      "symbol": "UWL",
+      "name": "UWL",
+      "tags": ["analytics"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf406f7a9046793267bc276908778b29563323996",
+      "symbol": "VISION",
+      "name": "VISION",
+      "tags": ["analytics"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcbd55d4ffc43467142761a764763652b48b969ff",
+      "symbol": "ASTRO",
+      "name": "ASTRO",
+      "tags": ["analytics"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1d37986f252d0e349522ea6c3b98cb935495e63e",
+      "symbol": "CHART",
+      "name": "CHART",
+      "tags": ["analytics"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x260e63d91fccc499606bae3fe945c4ed1cf56a56",
+      "symbol": "MOONS",
+      "name": "MOONS",
+      "tags": ["analytics"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
