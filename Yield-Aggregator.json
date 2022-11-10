@@ -3,10 +3,10 @@
   "tags": {
     "yield_aggregator": {
       "name": "Yield Aggregator",
-      "description": "A fair launch aims to prevent projects from distributing tokens before the general public can access the platform."
+      "description": "Yield aggregators are protocols that automate the process known as yield farming."
     }
   },
-  "timestamp": "2022-11-07T00:00:00+00:00",
+  "timestamp": "2022-11-10T00:00:00+00:00",
   "tokens": [
     {
       "chainId": 1,
@@ -25,6 +25,13 @@
     {
       "chainId": 1,
       "address": "0xa1d0E215a23d7030842FC67cE582a6aFa3CCaB83",
+      "symbol": "YFII",
+      "name": "YFII",
+      "tags": ["yield_aggregator"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x7f70642d88cf1c4a3a7abb072b53b929b653eda5",
       "symbol": "YFII",
       "name": "YFII",
       "tags": ["yield_aggregator"]
