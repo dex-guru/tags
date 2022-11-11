@@ -23,6 +23,34 @@
       "tags": ["yield_aggregator"]
     },
     {
+      "chainId": 56,
+      "address": "0x88f1a5ae2a3bf98aeaf342d26b30a79438c9142e",
+      "symbol": "YFI",
+      "name": "YFI",
+      "tags": ["yield_aggregator"]
+    },
+    {
+      "chainId": 250,
+      "address": "0x29b0Da86e484E1C0029B56e817912d778aC0EC69",
+      "symbol": "YFI",
+      "name": "YFI",
+      "tags": ["yield_aggregator"]
+    },
+    {
+      "chainId": 100,
+      "address": "0xbf65bfcb5da067446CeE6A706ba3Fe2fB1a9fdFd",
+      "symbol": "YFI",
+      "name": "YFI",
+      "tags": ["yield_aggregator"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x9eAaC1B23d935365bD7b542Fe22cEEe2922f52dc",
+      "symbol": "YFI",
+      "name": "YFI",
+      "tags": ["yield_aggregator"]
+    },
+    {
       "chainId": 1,
       "address": "0xa1d0E215a23d7030842FC67cE582a6aFa3CCaB83",
       "symbol": "YFII",
@@ -34,6 +62,377 @@
       "address": "0x7f70642d88cf1c4a3a7abb072b53b929b653eda5",
       "symbol": "YFII",
       "name": "YFII",
+      "tags": ["yield_aggregator"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xa1faa113cbe53436df28ff0aee54275c13b40975",
+      "symbol": "ALPHA",
+      "name": "ALPHA",
+      "tags": ["yield_aggregator"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa1faa113cbe53436df28ff0aee54275c13b40975",
+      "symbol": "ALPHA",
+      "name": "ALPHA",
+      "tags": ["yield_aggregator"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x2147EFFF675e4A4eE1C2f918d181cDBd7a8E208f",
+      "symbol": "ALPHA",
+      "name": "ALPHA",
+      "tags": ["yield_aggregator"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3472a5a71965499acd81997a54bba8d852c6e53d",
+      "symbol": "BADGER",
+      "name": "BADGER",
+      "tags": ["yield_aggregator"]
+    },
+    {
+      "chainId": 100,
+      "address": "0xdfc20AE04ED70bd9c7D720F449eEDAe19F659D65",
+      "symbol": "BADGER",
+      "name": "BADGER",
+      "tags": ["yield_aggregator"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0xbfa641051ba0a0ad1b0acf549a89536a0d76472e",
+      "symbol": "BADGER",
+      "name": "BADGER",
+      "tags": ["yield_aggregator"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x8f0528ce5ef7b51152a59745befdd91d97091d2f",
+      "symbol": "ALPACA",
+      "name": "ALPACA",
+      "tags": ["yield_aggregator"]
+    },
+    {
+      "chainId": 250,
+      "address": "0xad996a45fd2373ed0b10efa4a8ecb9de445a4302",
+      "symbol": "ALPACA",
+      "name": "ALPACA",
+      "tags": ["yield_aggregator"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xCa3F508B8e4Dd382eE878A314789373D80A5190A",
+      "symbol": "BIFI",
+      "name": "BIFI",
+      "tags": ["yield_aggregator"]
+    },
+    {
+      "chainId": 250,
+      "address": "0xd6070ae98b8069de6b494332d1a1a81b6179d960",
+      "symbol": "BIFI",
+      "name": "BIFI",
+      "tags": ["yield_aggregator"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xFbdd194376de19a88118e84E279b977f165d01b8",
+      "symbol": "BIFI",
+      "name": "BIFI",
+      "tags": ["yield_aggregator"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0xd6070ae98b8069de6B494332d1A1a81B6179D960",
+      "symbol": "BIFI",
+      "name": "BIFI",
+      "tags": ["yield_aggregator"]
+    },
+    {
+      "chainId": 42220,
+      "address": "0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C",
+      "symbol": "BIFI",
+      "name": "BIFI",
+      "tags": ["yield_aggregator"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa0246c9032bC3A600820415aE600c6388619A14D",
+      "symbol": "FARM",
+      "name": "FARM",
+      "tags": ["yield_aggregator"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x4B5C23cac08a567ecf0c1fFcA8372A45a5D33743",
+      "symbol": "FARM",
+      "name": "FARM",
+      "tags": ["yield_aggregator"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa91ac63d040deb1b7a5e4d4134ad23eb0ba07e14",
+      "symbol": "BEL",
+      "name": "BEL",
+      "tags": ["yield_aggregator"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x8443f091997f06a61670b735ed92734f5628692f",
+      "symbol": "BEL",
+      "name": "BEL",
+      "tags": ["yield_aggregator"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x28c388fb1f4fa9f9eb445f0579666849ee5eeb42",
+      "symbol": "BEL",
+      "name": "BEL",
+      "tags": ["yield_aggregator"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7",
+      "symbol": "AKRO",
+      "name": "AKRO",
+      "tags": ["yield_aggregator"]
+    },
+    {
+      "chainId": 100,
+      "address": "0xD27E1ECC4748F42e052331BeA917D89bEB883fc3",
+      "symbol": "AKRO",
+      "name": "AKRO",
+      "tags": ["yield_aggregator"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xa184088a740c695e156f91f5cc086a06bb78b827",
+      "symbol": "AUTO",
+      "name": "AUTO",
+      "tags": ["yield_aggregator"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd291e7a03283640fdc51b121ac401383a46cc623",
+      "symbol": "RGT",
+      "name": "RGT",
+      "tags": ["yield_aggregator"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x41d5d79431a913c4ae7d69a668ecdfe5ff9dfb68",
+      "symbol": "INV",
+      "name": "INV",
+      "tags": ["yield_aggregator"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb753428af26e81097e7fd17f40c88aaa3e04902c",
+      "symbol": "SFI",
+      "name": "SFI",
+      "tags": ["yield_aggregator"]
+    },
+    {
+      "chainId": 250,
+      "address": "0x924828a9Fb17d47D0eb64b57271D10706699Ff11",
+      "symbol": "SFI",
+      "name": "SFI",
+      "tags": ["yield_aggregator"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcfeb09c3c5f0f78ad72166d55f9e6e9a60e96eec",
+      "symbol": "VEMP",
+      "name": "VEMP",
+      "tags": ["yield_aggregator"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xedf3ce4dd6725650a8e9398e5c6398d061fa7955",
+      "symbol": "VEMP",
+      "name": "VEMP",
+      "tags": ["yield_aggregator"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1b40183efb4dd766f11bda7a7c3ad8982e998421",
+      "symbol": "VSP",
+      "name": "VSP",
+      "tags": ["yield_aggregator"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x09C5a4BCA808bD1ba2b8E6B3aAF7442046B4ca5B",
+      "symbol": "VSP",
+      "name": "VSP",
+      "tags": ["yield_aggregator"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0xE70EFb1ff1C0b63FDF84B5EA319693cf804914A8",
+      "symbol": "VSP",
+      "name": "VSP",
+      "tags": ["yield_aggregator"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa3BeD4E1c75D00fa6f4E5E6922DB7261B5E9AcD2",
+      "symbol": "MTA",
+      "name": "MTA",
+      "tags": ["yield_aggregator"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x429881672B9AE42b8EbA0E26cD9C73711b891Ca5",
+      "symbol": "PICKLE",
+      "name": "PICKLE",
+      "tags": ["yield_aggregator"]
+    },
+    {
+      "chainId": 250,
+      "address": "0xc5e2b037d30a390e62180970b3aa4e91868764cd",
+      "symbol": "TAROT",
+      "name": "TAROT",
+      "tags": ["yield_aggregator"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x875773784Af8135eA0ef43b5a374AaD105c5D39e",
+      "symbol": "IDLE",
+      "name": "IDLE",
+      "tags": ["yield_aggregator"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0ada190c81b814548ddc2f6adc4a689ce7c1fe73",
+      "symbol": "YAXIS",
+      "name": "YAXIS",
+      "tags": ["yield_aggregator"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7240aC91f01233BaAf8b064248E80feaA5912BA3",
+      "symbol": "OCTO",
+      "name": "OCTO",
+      "tags": ["yield_aggregator"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8888801af4d980682e47f1a9036e589479e835c5",
+      "symbol": "MPH",
+      "name": "MPH",
+      "tags": ["yield_aggregator"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x488E0369f9BC5C40C002eA7c1fe4fd01A198801c",
+      "symbol": "GOF",
+      "name": "GOF",
+      "tags": ["yield_aggregator"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x2bcF9c1861FaE2d5a7D2b3242b71e2a8d461F61e",
+      "symbol": "GOF",
+      "name": "GOF",
+      "tags": ["yield_aggregator"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x95a4492F028aa1fd432Ea71146b433E7B4446611",
+      "symbol": "APY",
+      "name": "APY",
+      "tags": ["yield_aggregator"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x73968b9a57c6e53d41345fd57a6e6ae27d6cdb2f",
+      "symbol": "SDT",
+      "name": "SDT",
+      "tags": ["yield_aggregator"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0xC38f41A296A4493Ff429F1238e030924A1542e50",
+      "symbol": "SNOB",
+      "name": "SNOB",
+      "tags": ["yield_aggregator"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xc9849e6fdb743d08faee3e34dd2d1bc69ea11a51",
+      "symbol": "BUNNY",
+      "name": "BUNNY",
+      "tags": ["yield_aggregator"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x49e833337ece7afe375e44f4e3e8481029218e5c",
+      "symbol": "VALUE",
+      "name": "VALUE",
+      "tags": ["yield_aggregator"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbd3de9a069648c84d27d74d701c9fa3253098b15",
+      "symbol": "EQX",
+      "name": "EQX",
+      "tags": ["yield_aggregator"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x436c52a8cee41d5e9c5e6f4cb146e66d552fb700",
+      "symbol": "EQX",
+      "name": "EQX",
+      "tags": ["yield_aggregator"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x76c5449f4950f6338a393f53cda8b53b0cd3ca3a",
+      "symbol": "BT",
+      "name": "BT",
+      "tags": ["yield_aggregator"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xd15c444f1199ae72795eba15e8c1db44e47abf62",
+      "symbol": "TENFI",
+      "name": "TENFI",
+      "tags": ["yield_aggregator"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7f3edcdd180dbe4819bd98fee8929b5cedb3adeb",
+      "symbol": "XTK",
+      "name": "XTK",
+      "tags": ["yield_aggregator"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x9b76D1B12Ff738c113200EB043350022EBf12Ff0",
+      "symbol": "TIKI",
+      "name": "TIKI",
+      "tags": ["yield_aggregator"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x81859801b01764d4f0fa5e64729f5a6c3b91435b",
+      "symbol": "BFI",
+      "name": "BFI",
+      "tags": ["yield_aggregator"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xb64e638e60d154b43f660a6bf8fd8a3b249a6a21",
+      "symbol": "WAULTX",
+      "name": "WAULTX",
+      "tags": ["yield_aggregator"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x4a3524936Db5C310d852266033589D3f6F30BA5d",
+      "symbol": "JAGUAR",
+      "name": "JAGUAR",
       "tags": ["yield_aggregator"]
     }
   ],
