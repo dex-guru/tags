@@ -1,0 +1,31 @@
+{
+  "name": "Alameda Research Portfolio",
+  "tags": {
+    "alameda_portfolio": {
+      "name": "Alameda Research Portfolio",
+      "description": "Alameda Research is a leading principal trading firm. Alameda Research is a top investment firm that focuses on global multi-stage crypto investments. Alameda Research Portfolio of tokens."
+    }
+  },
+  "timestamp": "2022-11-11T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+      "symbol": "WBNB",
+      "name": "WBNB",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
+      "symbol": "FTT",
+      "name": "FTT",
+      "tags": ["alameda_portfolio"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
