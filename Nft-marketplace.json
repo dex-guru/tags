@@ -1,0 +1,66 @@
+{
+  "name": "NFT Marketplace",
+  "tags": {
+    "nft_marketplace": {
+      "name": "NFT Marketplace",
+      "description": "An NFT marketplace is a blockchain-based online platform to sell and buy non-fungible tokens (NFTs). NFT Marketplace tokens can be used to decentralize a variety of protocol functions."
+    }
+  },
+  "timestamp": "2022-10-31T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xfca59cd816ab1ead66534d82bc21e7515ce441cf",
+      "symbol": "RARI",
+      "name": "RARI",
+      "tags": ["nft_marketplace"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xba5bde662c17e2adff1075610382b9b691296350",
+      "symbol": "RARE",
+      "name": "RARE",
+      "tags": ["nft_marketplace"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf4d2888d29d722226fafa5d9b24f9164c092421e",
+      "symbol": "LOOKS",
+      "name": "LOOKS",
+      "tags": ["nft_marketplace"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb0c7a3ba49c7a6eaba6cd4a96c55a1391070ac9a",
+      "symbol": "MAGIC",
+      "name": "MAGIC",
+      "tags": ["nft_marketplace"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x87d73e916d7057945c9bcd8cdd94e42a6f47f776",
+      "symbol": "NFTX",
+      "name": "NFTX",
+      "tags": ["nft_marketplace"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7f3141c4d6b047fb930991b450f1ed996a51cb26",
+      "symbol": "X",
+      "name": "X",
+      "tags": ["nft_marketplace"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb6ca7399b4f9ca56fc27cbff44f4d2e4eef1fc81",
+      "symbol": "MUSE",
+      "name": "MUSE",
+      "tags": ["nft_marketplace"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}

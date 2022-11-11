@@ -1,0 +1,73 @@
+{
+  "name": "Oracle",
+  "tags": {
+    "oracle": {
+      "name": "Oracle",
+      "description": "Oracles are data feeds that bring data from off the blockchain (off-chain) data sources and puts it on the blockchain (on-chain) for smart contracts to use"
+    }
+  },
+  "timestamp": "2022-10-31T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x514910771af9ca656af840dff83e8264ecf986ca",
+      "symbol": "LINK",
+      "name": "LINK",
+      "tags": ["oracle"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x04fa0d235c4abf4bcf4787af4cf447de572ef828",
+      "symbol": "NEST",
+      "name": "NEST",
+      "tags": ["oracle"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xba11d00c5f74255f56a5e366f4f77f5a186d7f55",
+      "symbol": "BAND",
+      "name": "BAND",
+      "tags": ["oracle"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x88df592f8eb5d7bd38bfef7deb0fbc02cf3778a0",
+      "symbol": "TRB",
+      "name": "TRB",
+      "tags": ["oracle"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x84ca8bc7997272c7cfb4d0cd3d55cd942b3c9419",
+      "symbol": "DIA",
+      "name": "DIA",
+      "tags": ["oracle"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3ea8ea4237344c9931214796d9417af1a1180770",
+      "symbol": "FLX",
+      "name": "FLX",
+      "tags": ["oracle"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6fc13eace26590b80cccab1ba5d51890577d83b2",
+      "symbol": "UMB",
+      "name": "UMB",
+      "tags": ["oracle"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0b38210ea11411557c13457d4da7dc6ea731b88a",
+      "symbol": "API3",
+      "name": "API3",
+      "tags": ["oracle"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
