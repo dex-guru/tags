@@ -70,6 +70,20 @@
       "symbol": "VINU",
       "name": "VINU",
       "tags": ["meme"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9813037ee2218799597d83d4a5b6f3b6778218d9",
+      "symbol": "Bone",
+      "name": "Bone",
+      "tags": ["meme"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x27c70cd1946795b66be9d954418546998b546634",
+      "symbol": "LEASH",
+      "name": "LEASH",
+      "tags": ["meme"]
     }
   ],
   "version": {
