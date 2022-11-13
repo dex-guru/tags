@@ -21,6 +21,62 @@
       "symbol": "SNT",
       "name": "SNT",
       "tags": ["wallet"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xadbaf88b39d37dc68775ed1541f1bf83a5a45feb",
+      "symbol": "COTI",
+      "name": "COTI",
+      "tags": ["wallet"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xd41fdb03ba84762dd66a0af1a6c8540ff1ba5dfb",
+      "symbol": "SFP",
+      "name": "SFP",
+      "tags": ["wallet"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4161725d019690a3e0de50f6be67b07a86a9fae1",
+      "symbol": "TPT",
+      "name": "TPT",
+      "tags": ["wallet"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x08d967bb0134f2d07f7cfb6e246680c53927dd30",
+      "symbol": "MATH",
+      "name": "MATH",
+      "tags": ["wallet"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x72b886d09c117654ab7da13a14d603001de0b777",
+      "symbol": "XDEFI",
+      "name": "XDEFI",
+      "tags": ["wallet"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x88800092ff476844f74dc2fc427974bbee2794ae",
+      "symbol": "WALLET",
+      "name": "WALLET",
+      "tags": ["wallet"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe3818504c1b32bf1557b16c238b2e01fd3149c17",
+      "symbol": "PLR",
+      "name": "PLR",
+      "tags": ["wallet"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x12b19d3e2ccc14da04fae33e63652ce469b3f2fd",
+      "symbol": "GRID",
+      "name": "GRID",
+      "tags": ["wallet"]
     }
   ],
   "version": {
