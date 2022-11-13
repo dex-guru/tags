@@ -21,6 +21,1231 @@
       "symbol": "FTT",
       "name": "FTT",
       "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x75231f58b43240c9718dd58b4967c5114342a86c",
+      "symbol": "OKB",
+      "name": "OKB",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3",
+      "symbol": "LEO",
+      "name": "LEO",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1A4b46696b2bB4794Eb3D4c26f1c55F9170fa4C5",
+      "symbol": "BIT",
+      "name": "BIT",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5a98fcbea516cf06857215779fd812ca3bef1b32",
+      "symbol": "LDO",
+      "name": "LDO",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x986854779804799C1d68867F5E03e601E781e41b",
+      "symbol": "LDO",
+      "name": "LDO",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6f259637dcd74c767781e37bc6133cd6a68aa161",
+      "symbol": "HT",
+      "name": "HT",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4e15361fd6b4bb609fa63c81a2be19d873717870",
+      "symbol": "FTM",
+      "name": "FTM",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xad29abb318791d579433d831ed122afeaf29dcfe",
+      "symbol": "FTM",
+      "name": "FTM",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 42220,
+      "address": "0x218c3c3d49d0e7b37aff0d8bb079de36ae61a4c0",
+      "symbol": "FTM",
+      "name": "FTM",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
+      "symbol": "SNX",
+      "name": "SNX",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x9ac983826058b8a9c7aa1c9171441191232e8404",
+      "symbol": "SNX",
+      "name": "SNX",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd533a949740bb3306d119cc777fa900ba034cd52",
+      "symbol": "CRV",
+      "name": "CRV",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x172370d5cd63279efa6d502dab29171933a610af",
+      "symbol": "CRV",
+      "name": "CRV",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 250,
+      "address": "0x1e4f97b9f9f913c46f1632781732927b9019c68b",
+      "symbol": "CRV",
+      "name": "CRV",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0x11cdb42b0eb46d95f990bedd4695a6e3fa034978",
+      "symbol": "CRV",
+      "name": "CRV",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 100,
+      "address": "0x712b3d230f3c1c19db860d80619288b1f0bdd0bd",
+      "symbol": "CRV",
+      "name": "CRV",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x111111111117dc0aa78b770fa6a738034120c302",
+      "symbol": "1INCH",
+      "name": "1INCH",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x111111111117dc0aa78b770fa6a738034120c302",
+      "symbol": "1INCH",
+      "name": "1INCH",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x9c2c5fd7b07e95ee044ddeba0e97a665f142394f",
+      "symbol": "1INCH",
+      "name": "1INCH",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0xd501281565bf7789224523144fe5d98e8b28f267",
+      "symbol": "1INCH",
+      "name": "1INCH",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf57e7e7c23978c3caec3c3548e3d615c346e79ff",
+      "symbol": "IMX",
+      "name": "IMX",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
+      "symbol": "FTT",
+      "name": "FTT",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc00e94cb662c3520282e6f5717214004a7f26888",
+      "symbol": "COMP",
+      "name": "COMP",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x8505b9d2254a7ae468c0e9dd10ccea3a837aef5c",
+      "symbol": "COMP",
+      "name": "COMP",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x52CE071Bd9b1C4B00A0b92D298c512478CaD67e8",
+      "symbol": "COMP",
+      "name": "COMP",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x3019BF2a2eF8040C242C9a4c5c4BD4C81678b2A1",
+      "symbol": "GMT",
+      "name": "GMT",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe3c408BD53c31C085a1746AF401A4042954ff740",
+      "symbol": "GMT",
+      "name": "GMT",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x69af81e73a73b40adf4f3d4223cd9b1ece623074",
+      "symbol": "MASK",
+      "name": "MASK",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x2ed9a5c8c13b93955103b9a7c167b67ef4d568a3",
+      "symbol": "MASK",
+      "name": "MASK",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x2b9e7ccdf0f4e5b24757c1e1a80e311e34cb10c7",
+      "symbol": "MASK",
+      "name": "MASK",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
+      "symbol": "SUSHI",
+      "name": "SUSHI",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0xd4d42f0b6def4ce0383636770ef773390d85c61a",
+      "symbol": "SUSHI",
+      "name": "SUSHI",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 250,
+      "address": "0xae75A438b2E0cB8Bb01Ec1E1e376De11D44477CC",
+      "symbol": "SUSHI",
+      "name": "SUSHI",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x947950bcc74888a40ffa2593c5798f11fc9124c4",
+      "symbol": "SUSHI",
+      "name": "SUSHI",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x0b3f868e0be5597d5db7feb59e1cadbb0fdda50a",
+      "symbol": "SUSHI",
+      "name": "SUSHI",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x37b608519f91f70f2eeb0e5ed9af4061722e4f76",
+      "symbol": "SUSHI",
+      "name": "SUSHI",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xba100000625a3754423978a60c9317c58a424e3D",
+      "symbol": "BAL",
+      "name": "BAL",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3",
+      "symbol": "BAL",
+      "name": "BAL",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
+      "symbol": "YFI",
+      "name": "YFI",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xda537104d6a5edd53c6fbba9a898708e465260b6",
+      "symbol": "YFI",
+      "name": "YFI",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x9eaac1b23d935365bd7b542fe22ceee2922f52dc",
+      "symbol": "YFI",
+      "name": "YFI",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 250,
+      "address": "0x29b0da86e484e1c0029b56e817912d778ac0ec69",
+      "symbol": "YFI",
+      "name": "YFI",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 100,
+      "address": "0xbf65bfcb5da067446cee6a706ba3fe2fb1a9fdfd",
+      "symbol": "YFI",
+      "name": "YFI",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x88f1a5ae2a3bf98aeaf342d26b30a79438c9142e",
+      "symbol": "YFI",
+      "name": "YFI",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6de037ef9ad2725eb40118bb1702ebb27e4aeb24",
+      "symbol": "RNDR",
+      "name": "RNDR",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x61299774020dA444Af134c82fa83E3810b309991",
+      "symbol": "RNDR",
+      "name": "RNDR",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0f2d719407fdbeff09d87557abb7232601fd9f29",
+      "symbol": "SYN",
+      "name": "SYN",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xa4080f1778e69467e905b8d6f72f6e441f9e9484",
+      "symbol": "SYN",
+      "name": "SYN",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x1f1e7c893855525b303f99bdf5c3c05be09ca251",
+      "symbol": "SYN",
+      "name": "SYN",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xf8f9efc0db77d8881500bb06ff5d6abc3070e695",
+      "symbol": "SYN",
+      "name": "SYN",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0x080f6aed32fc474dd5717105dba5ea57268f46eb",
+      "symbol": "SYN",
+      "name": "SYN",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 250,
+      "address": "0xe55e19fb4f2d85af758950957714292dac1e25b2",
+      "symbol": "SYN",
+      "name": "SYN",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 10,
+      "address": "0x5A5fFf6F753d7C11A56A52FE47a177a87e431655",
+      "symbol": "SYN",
+      "name": "SYN",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8ce9137d39326ad0cd6491fb5cc0cba0e089b6a9",
+      "symbol": "SXP",
+      "name": "SXP",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x47bead2563dcbf3bf2c9407fea4dc236faba485a",
+      "symbol": "SXP",
+      "name": "SXP",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb3999F658C0391d94A37f7FF328F3feC942BcADC",
+      "symbol": "HFT",
+      "name": "HFT",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x44Ec807ce2F4a6F2737A92e985f318d035883e47",
+      "symbol": "HFT",
+      "name": "HFT",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3C4B6E6e1eA3D4863700D7F76b36B7f3D3f13E3d",
+      "symbol": "VGX",
+      "name": "VGX",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x408e41876cccdc0f92210600ef50372656052a38",
+      "symbol": "REN",
+      "name": "REN",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5fAa989Af96Af85384b8a938c2EdE4A7378D9875",
+      "symbol": "GAL",
+      "name": "GAL",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xe4cc45bb5dbda06db6183e8bf016569f40497aa5",
+      "symbol": "GAL",
+      "name": "GAL",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfe3e6a25e6b192a42a44ecddcd13796471735acf",
+      "symbol": "REEF",
+      "name": "REEF",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xf21768ccbc73ea5b6fd3c687208a7c2def2d966e",
+      "symbol": "REEF",
+      "name": "REEF",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaf5191b0de278c7286d6c7cc6ab6bb8a73ba2cd6",
+      "symbol": "STG",
+      "name": "STG",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xb0d502e938ed5f4df2e681fe6e419ff29631d62b",
+      "symbol": "STG",
+      "name": "STG",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
+      "symbol": "STG",
+      "name": "STG",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
+      "symbol": "STG",
+      "name": "STG",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 250,
+      "address": "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
+      "symbol": "STG",
+      "name": "STG",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0x6694340fc020c5E6B96567843da2df01b2CE1eb6",
+      "symbol": "STG",
+      "name": "STG",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x33349b282065b0284d756f0577fb39c158f935e6",
+      "symbol": "MPL",
+      "name": "MPL",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6DEA81C8171D0bA574754EF6F8b412F2Ed88c54D",
+      "symbol": "LQTY",
+      "name": "LQTY",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xff742d05420b6aca4481f635ad8341f81a6300c2",
+      "symbol": "ASD",
+      "name": "ASD",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xa1faa113cbe53436df28ff0aee54275c13b40975",
+      "symbol": "ALPHA",
+      "name": "ALPHA",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa1faa113cbe53436df28ff0aee54275c13b40975",
+      "symbol": "ALPHA",
+      "name": "ALPHA",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x2147efff675e4a4ee1c2f918d181cdbd7a8e208f",
+      "symbol": "ALPHA",
+      "name": "ALPHA",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD417144312DbF50465b1C641d016962017Ef6240",
+      "symbol": "CQT",
+      "name": "CQT",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd46ba6d942050d489dbd938a2c909a5d5039a161",
+      "symbol": "AMPL",
+      "name": "AMPL",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa2120b9e674d3fc3875f415a7df52e382f141225",
+      "symbol": "ATA",
+      "name": "ATA",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xa2120b9e674d3fc3875f415a7df52e382f141225",
+      "symbol": "ATA",
+      "name": "ATA",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x0df0f72ee0e5c9b7ca761ecec42754992b2da5bf",
+      "symbol": "ATA",
+      "name": "ATA",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4bd70556ae3f8a6ec6c4080a0c327b24325438f3",
+      "symbol": "HXRO",
+      "name": "HXRO",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4c19596f5aaff459fa38b0f7ed92f11ae6543784",
+      "symbol": "TRU",
+      "name": "TRU",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbc396689893d065f41bc2c6ecbee5e0085233447",
+      "symbol": "PERP",
+      "name": "PERP",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdbdb4d16eda451d0503b854cf79d55697f90c8df",
+      "symbol": "ALCX",
+      "name": "ALCX",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3e9bc21c9b189c09df3ef1b824798658d5011937",
+      "symbol": "LINA",
+      "name": "LINA",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x762539b45a1dcce3d36d080f74d1aed37844b878",
+      "symbol": "LINA",
+      "name": "LINA",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x80c62fe4487e1351b47ba49809ebd60ed085bf52",
+      "symbol": "CLV",
+      "name": "CLV",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x09e889bb4d5b474f561db0491c38702f367a4e4d",
+      "symbol": "CLV",
+      "name": "CLV",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4e352cf164e64adcbad318c3a1e222e9eba4ce42",
+      "symbol": "MCB",
+      "name": "MCB",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x5fe80d2cd054645b9419657d3d10d26391780a7b",
+      "symbol": "MCB",
+      "name": "MCB",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0x4e352cF164E64ADCBad318C3a1e222E9EBa4Ce42",
+      "symbol": "MCB",
+      "name": "MCB",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc0a4df35568f116c370e6a6a6022ceb908eeddac",
+      "symbol": "UMEE",
+      "name": "UMEE",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x08d967bb0134f2d07f7cfb6e246680c53927dd30",
+      "symbol": "MATH",
+      "name": "MATH",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xf218184af829cf2b0019f8e6f0b2423498a36983",
+      "symbol": "MATH",
+      "name": "MATH",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaaef88cea01475125522e117bfe45cf32044e238",
+      "symbol": "GF",
+      "name": "GF",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x16eccfdbb4ee1a85a33f3a9b21175cd7ae753db4",
+      "symbol": "ROUTE",
+      "name": "ROUTE",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfB5c6815cA3AC72Ce9F5006869AE67f18bF77006",
+      "symbol": "PSTAKE",
+      "name": "PSTAKE",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf8c3527cc04340b208c854e985240c02f7b7793f",
+      "symbol": "FRONT",
+      "name": "FRONT",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x928e55dab735aa8260af3cedada18b5f70c72f1b",
+      "symbol": "FRONT",
+      "name": "FRONT",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4b5f49487ea7b3609b1ad05459be420548789f1f",
+      "symbol": "LEVER",
+      "name": "LEVER",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcafe001067cdef266afb7eb5a286dcfd277f3de5",
+      "symbol": "PSP",
+      "name": "PSP",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xcafe001067cdef266afb7eb5a286dcfd277f3de5",
+      "symbol": "PSP",
+      "name": "PSP",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x42d61d766b85431666b39b89c43011f24451bff6",
+      "symbol": "PSP",
+      "name": "PSP",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6b0b3a982b4634ac68dd83a4dbf02311ce324181",
+      "symbol": "ALI",
+      "name": "ALI",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd084b83c305dafd76ae3e1b4e1f1fe2ecccb3988",
+      "symbol": "TVK",
+      "name": "TVK",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9F52c8ecbEe10e00D9faaAc5Ee9Ba0fF6550F511",
+      "symbol": "SIPHER",
+      "name": "SIPHER",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x27702a26126e0b3702af63ee09ac4d1a084ef628",
+      "symbol": "ALEPH",
+      "name": "ALEPH",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x82d2f8e02afb160dd5a480a617692e62de9038c4",
+      "symbol": "ALEPH",
+      "name": "ALEPH",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 100,
+      "address": "0x4bc97997883c0397f556bd0f9da6fb71da22f9a2",
+      "symbol": "ALEPH",
+      "name": "ALEPH",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB4A3B0Faf0Ab53df58001804DdA5Bfc6a3D59008",
+      "symbol": "SPA",
+      "name": "SPA",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0x5575552988A3A80504bBaeB1311674fCFd40aD4B",
+      "symbol": "SPA",
+      "name": "SPA",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1559fa1b8f28238fd5d76d9f434ad86fd20d1559",
+      "symbol": "EDEN",
+      "name": "EDEN",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2b915b505c017abb1547aa5ab355fbe69865cc6d",
+      "symbol": "MAPS",
+      "name": "MAPS",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x374cb8c27130e2c9e04f44303f3c8351b9de61c1",
+      "symbol": "BAO",
+      "name": "BAO",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x72b886d09c117654ab7da13a14d603001de0b777",
+      "symbol": "XDEFI",
+      "name": "XDEFI",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x965697b4ef02f0de01384d0d4f9f782b1670c163",
+      "symbol": "OXY",
+      "name": "OXY",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x9df465460938f9EBDF51C38CC87D72184471F8F0",
+      "symbol": "GENE",
+      "name": "GENE",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2ba592f78db6436527729929aaf6c908497cb200",
+      "symbol": "CREAM",
+      "name": "CREAM",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xd4cb328a82bdf5f03eb737f37fa6b370aef3e888",
+      "symbol": "CREAM",
+      "name": "CREAM",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 250,
+      "address": "0x657a1861c15a3ded9af0b6799a195a249ebdcbc6",
+      "symbol": "CREAM",
+      "name": "CREAM",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2c537e5624e4af88a7ae4060c022609376c8d0eb",
+      "symbol": "TRYB",
+      "name": "TRYB",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x564A341Df6C126f90cf3ECB92120FD7190ACb401",
+      "symbol": "TRYB",
+      "name": "TRYB",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xC1fdbed7Dac39caE2CcC0748f7a80dC446F6a594",
+      "symbol": "TRYB",
+      "name": "TRYB",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x4fb71290ac171e1d144f7221d882becac7196eb5",
+      "symbol": "TRYB",
+      "name": "TRYB",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb26c4b3ca601136daf98593feaeff9e0ca702a8d",
+      "symbol": "ALD",
+      "name": "ALD",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x83e9f223e1edb3486f876ee888d76bfba26c475a",
+      "symbol": "GUILD",
+      "name": "GUILD",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x0565805ca3a4105faee51983b0bd8ffb5ce1455c",
+      "symbol": "GUILD",
+      "name": "GUILD",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xc2098a8938119A52B1F7661893c0153A6CB116d5",
+      "symbol": "RPG",
+      "name": "RPG",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0E5C8C387C5EBa2eCbc137aD012aeD5Fe729e251",
+      "symbol": "RPG",
+      "name": "RPG",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x549020a9Cb845220D66d3E9c6D9F9eF61C981102",
+      "symbol": "SIDUS",
+      "name": "SIDUS",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x544c42fbb96b39b21df61cf322b5edc285ee7429",
+      "symbol": "INSUR",
+      "name": "INSUR",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x3192ccddf1cdce4ff055ebc80f3f0231b86a7e30",
+      "symbol": "INSUR",
+      "name": "INSUR",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x544c42fbb96b39b21df61cf322b5edc285ee7429",
+      "symbol": "INSUR",
+      "name": "INSUR",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x8a0e8b4b0903929f47c3ea30973940d4a9702067",
+      "symbol": "INSUR",
+      "name": "INSUR",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf1Dc500FdE233A4055e25e5BbF516372BC4F6871",
+      "symbol": "SDL",
+      "name": "SDL",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0x75C9bC761d88f70156DAf83aa010E84680baF131",
+      "symbol": "SDL",
+      "name": "SDL",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf418588522d5dd018b425e472991e52ebbeeeeee",
+      "symbol": "PUSH",
+      "name": "PUSH",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xca1207647Ff814039530D7d35df0e1Dd2e91Fa84",
+      "symbol": "DHT",
+      "name": "DHT",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x07bac35846e5ed502aa91adf6a9e7aa210f2dcbe",
+      "symbol": "EROWAN",
+      "name": "EROWAN",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xa7051c5a22d963b81d71c2ba64d46a877fbc1821",
+      "symbol": "EROWAN",
+      "name": "EROWAN",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x188e817b02e635d482ae4d81e25dda98a97c4a42",
+      "symbol": "LITH",
+      "name": "LITH",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x71Fc1F555a39E0B698653AB0b475488EC3c34D57",
+      "symbol": "RAIN",
+      "name": "RAIN",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa3BeD4E1c75D00fa6f4E5E6922DB7261B5E9AcD2",
+      "symbol": "MTA",
+      "name": "MTA",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0xb2a85C5ECea99187A977aC34303b80AcbDdFa208",
+      "symbol": "ROCO",
+      "name": "ROCO",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x34Be5b8C30eE4fDe069DC878989686aBE9884470",
+      "symbol": "SENATE",
+      "name": "SENATE",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x60be1e1fe41c1370adaf5d8e66f07cf1c2df2268",
+      "symbol": "PERC",
+      "name": "PERC",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x888888888889c00c67689029d7856aac1065ec11",
+      "symbol": "OPIUM",
+      "name": "OPIUM",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x50de6856358cc35f3a9a57eaaa34bd4cb707d2cd",
+      "symbol": "RAZOR",
+      "name": "RAZOR",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1337def16f9b486faed0293eb623dc8395dfe46a",
+      "symbol": "ARMOR",
+      "name": "ARMOR",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc834fa996fa3bec7aad3693af486ae53d8aa8b50",
+      "symbol": "CONV",
+      "name": "CONV",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x02Bdf640fba368E7Ba5c6429cCaF251512273865",
+      "symbol": "BLT",
+      "name": "BLT",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x429881672B9AE42b8EbA0E26cD9C73711b891Ca5",
+      "symbol": "PICKLE",
+      "name": "PICKLE",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x2b88ad57897a8b496595925f43048301c37615da",
+      "symbol": "PICKLE",
+      "name": "PICKLE",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0x965772e0e9c84b6f359c8597c891108dcf1c5b1a",
+      "symbol": "PICKLE",
+      "name": "PICKLE",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1ab43204a195a0fd37edec621482afd3792ef90b",
+      "symbol": "PLY",
+      "name": "PLY",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb0e1fc65c1a741b4662b813eb787d369b8614af1",
+      "symbol": "IF",
+      "name": "IF",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xb0e1fc65c1a741b4662b813eb787d369b8614af1",
+      "symbol": "IF",
+      "name": "IF",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7968bc6a03017eA2de509AAA816F163Db0f35148",
+      "symbol": "HGET",
+      "name": "HGET",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x07ca256267128fbe1a79b74fc7b0e6ed3359ad08",
+      "symbol": "RIN",
+      "name": "RIN",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8564653879a18c560e7c0ea0e084c516c62f5653",
+      "symbol": "UBXT",
+      "name": "UBXT",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x95a4492F028aa1fd432Ea71146b433E7B4446611",
+      "symbol": "APY",
+      "name": "APY",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9aeB50f542050172359A0e1a25a9933Bc8c01259",
+      "symbol": "OIN",
+      "name": "OIN",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x658e64ffcf40d240a43d52ca9342140316ae44fa",
+      "symbol": "OIN",
+      "name": "OIN",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7",
+      "symbol": "AKRO",
+      "name": "AKRO",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 100,
+      "address": "0xD27E1ECC4748F42e052331BeA917D89bEB883fc3",
+      "symbol": "AKRO",
+      "name": "AKRO",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x42F6f551ae042cBe50C739158b4f0CAC0Edb9096",
+      "symbol": "NRV",
+      "name": "NRV",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x35a5cb585d51d836922b78a9bb1f5c04635c39b6",
+      "symbol": "DIO",
+      "name": "DIO",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x226f7b842E0F0120b7E194D05432b3fd14773a9D",
+      "symbol": "UNN",
+      "name": "UNN",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbd9908b0cdd50386f92efcc8e1d71766c2782df0",
+      "symbol": "RICE",
+      "name": "RICE",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa670d7237398238DE01267472C6f13e5B8010FD1",
+      "symbol": "SOMM",
+      "name": "SOMM",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc05d14442a510de4d3d71a3d316585aa0ce32b50",
+      "symbol": "LINA",
+      "name": "LINA",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc3C6cf6Bbca7B759d23a2586e80F795C57A32beF",
+      "symbol": "LUSD",
+      "name": "LUSD",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x23e8a70534308a4AAF76fb8C32ec13d17a3BD89e",
+      "symbol": "LUSD",
+      "name": "LUSD",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC229c69eB3BB51828D0cAA3509A05a51083898dd",
+      "symbol": "PTU",
+      "name": "PTU",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x4be63a9b26ee89b9a3a13fd0aa1d0b2427c135f8",
+      "symbol": "XCV",
+      "name": "XCV",
+      "tags": ["alameda_portfolio"]
     }
   ],
   "version": {
