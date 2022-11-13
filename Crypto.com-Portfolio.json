@@ -1,0 +1,94 @@
+{
+  "name": "Crypto.com Portfolio",
+  "tags": {
+    "cryptocom_portfolio": {
+      "name": "Crypto.com Portfolio",
+      "description": "Crypto.com is an investment firm focused on Accelerating the growth of early-stage Web3 companies with US$500 million earmarked for investment. Crypto.com Portfolio of tokens: https://crypto.com/capital"
+    }
+  },
+  "timestamp": "2022-11-13T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x83e9f223e1edb3486f876ee888d76bfba26c475a",
+      "symbol": "GUILD",
+      "name": "GUILD",
+      "tags": ["cryptocom_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x0565805ca3a4105faee51983b0bd8ffb5ce1455c",
+      "symbol": "GUILD",
+      "name": "GUILD",
+      "tags": ["cryptocom_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaaaaaa20d9e0e2461697782ef11675f668207961",
+      "symbol": "AURORA",
+      "name": "AURORA",
+      "tags": ["cryptocom_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdefa4e8a7bcba345f687a2f1456f5edd9ce97202",
+      "symbol": "KNC",
+      "name": "KNC",
+      "tags": ["cryptocom_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x808507121b80c02388fad14726482e061b8da827",
+      "symbol": "PENDLE",
+      "name": "PENDLE",
+      "tags": ["cryptocom_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x97872eafd79940c7b24f7bcc1eadb1457347adc9",
+      "symbol": "STRP",
+      "name": "STRP",
+      "tags": ["cryptocom_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4a615bb7166210cce20e6642a6f8fb5d4d044496",
+      "symbol": "NAOS",
+      "name": "NAOS",
+      "tags": ["cryptocom_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4691937a7508860f876c9c0a2a617e7d9e945d4b",
+      "symbol": "WOO",
+      "name": "WOO",
+      "tags": ["cryptocom_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x92cfbec26c206c90aee3b7c66a9ae673754fab7e",
+      "symbol": "OLE",
+      "name": "OLE",
+      "tags": ["cryptocom_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xc1c93d475dc82fe72dbc7074d55f5a734f8ceeae",
+      "symbol": "PGX",
+      "name": "PGX",
+      "tags": ["cryptocom_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6b0b3a982b4634ac68dd83a4dbf02311ce324181",
+      "symbol": "ALI",
+      "name": "ALI",
+      "tags": ["cryptocom_portfolio"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
