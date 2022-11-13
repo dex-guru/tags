@@ -98,6 +98,55 @@
       "symbol": "HTB",
       "name": "HTB",
       "tags": ["centralized_exchange"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf34960d9d60be18cc1d5afc1a6f012a723a28811",
+      "symbol": "KCS",
+      "name": "KCS",
+      "tags": ["centralized_exchange"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x081f67afa0ccf8c7b17540767bbe95df2ba8d97f",
+      "symbol": "CET",
+      "name": "CET",
+      "tags": ["centralized_exchange"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x11eef04c884e24d9b7b4760e7476d06ddf797f36",
+      "symbol": "MX",
+      "name": "MX",
+      "tags": ["centralized_exchange"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x72d6066F486bd0052eefB9114B66ae40e0A6031a",
+      "symbol": "WRX",
+      "name": "WRX",
+      "tags": ["centralized_exchange"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x037a54aab062628c9bbae1fdb1583c195585fe41",
+      "symbol": "LCX",
+      "name": "LCX",
+      "tags": ["centralized_exchange"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xc26eEfA5f04eA11e5182B9f63EcF69ba9Ac5bE1A",
+      "symbol": "BXMI",
+      "name": "BXMI",
+      "tags": ["centralized_exchange"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x986EE2B944c42D017F52Af21c4c69B84DBeA35d8",
+      "symbol": "BMX",
+      "name": "BMX",
+      "tags": ["centralized_exchange"]
     }
   ],
   "version": {
