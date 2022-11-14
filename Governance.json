@@ -1,0 +1,31 @@
+{
+  "name": "Governance",
+  "tags": {
+    "governance": {
+      "name": "Governance",
+      "description": "Governance tokens are cryptocurrencies that represent voting power on a blockchain project. Usually utility token known as a governance token is represent stake(voting power) in the DAO."
+    }
+  },
+  "timestamp": "2022-11-13T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
+      "symbol": "YFI",
+      "name": "YFI",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1ceb5cb57c4d4e2b2433641b95dd330a33185a44",
+      "symbol": "KP3R",
+      "name": "KP3R",
+      "tags": ["governance"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
