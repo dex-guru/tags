@@ -16,10 +16,1704 @@
       "tags": ["governance"]
     },
     {
+      "chainId": 100,
+      "address": "0xbf65bfcb5da067446cee6a706ba3fe2fb1a9fdfd",
+      "symbol": "YFI",
+      "name": "YFI",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xda537104d6a5edd53c6fbba9a898708e465260b6",
+      "symbol": "YFI",
+      "name": "YFI",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x9eaac1b23d935365bd7b542fe22ceee2922f52dc",
+      "symbol": "YFI",
+      "name": "YFI",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 250,
+      "address": "0x29b0da86e484e1c0029b56e817912d778ac0ec69",
+      "symbol": "YFI",
+      "name": "YFI",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0x82e3a8f066a6989666b031d916c43672085b1582",
+      "symbol": "YFI",
+      "name": "YFI",
+      "tags": ["governance"]
+    },
+    {
       "chainId": 1,
       "address": "0x1ceb5cb57c4d4e2b2433641b95dd330a33185a44",
       "symbol": "KP3R",
       "name": "KP3R",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+      "symbol": "UNI",
+      "name": "UNI",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 100,
+      "address": "0x4537e328bf7e4efa29d05caea260d7fe26af9d74",
+      "symbol": "UNI",
+      "name": "UNI",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xbf5140a22578168fd562dccf235e5d43a02ce9b1",
+      "symbol": "UNI",
+      "name": "UNI",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xb33eaad8d922b1083446dc23f610c2567fb5180f",
+      "symbol": "UNI",
+      "name": "UNI",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x8ebaf22b6f053dffeaf46f4dd9efa95d89ba8580",
+      "symbol": "UNI",
+      "name": "UNI",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 10,
+      "address": "0x6fd9d7ad17242c41f7131d257212c54a0e816691",
+      "symbol": "UNI",
+      "name": "UNI",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0xfa7f8980b0f1e64a2062791cc3b0871572f1f7f0",
+      "symbol": "UNI",
+      "name": "UNI",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+      "symbol": "AAVE",
+      "name": "AAVE",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xd6df932a45c0f255f85145f286ea0b292b21c90b",
+      "symbol": "AAVE",
+      "name": "AAVE",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 250,
+      "address": "0x6a07a792ab2965c72a5b8088d3a069a7ac3a993b",
+      "symbol": "AAVE",
+      "name": "AAVE",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x63a72806098bd3d9520cc43356dd78afe5d386d9",
+      "symbol": "AAVE",
+      "name": "AAVE",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xfb6115445bff7b52feb98650c87f44907e58f802",
+      "symbol": "AAVE",
+      "name": "AAVE",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 10,
+      "address": "0x76fb31fb4af56892a25e32cfc43de717950c9278",
+      "symbol": "AAVE",
+      "name": "AAVE",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
+      "symbol": "MKR",
+      "name": "MKR",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x88128fd4b259552a9a1d457f435a6527aab72d42",
+      "symbol": "MKR",
+      "name": "MKR",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0x2e9a6df78e42a30712c10a9dc4b1c8656f8f2879",
+      "symbol": "MKR",
+      "name": "MKR",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+      "symbol": "CAKE",
+      "name": "CAKE",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
+      "symbol": "SNX",
+      "name": "SNX",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x50b728d8d964fd00c2d0aad81718b71311fef68a",
+      "symbol": "SNX",
+      "name": "SNX",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 250,
+      "address": "0x56ee926bd8c72b2d5fa1af4d9e4cbb515a1e3adc",
+      "symbol": "SNX",
+      "name": "SNX",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0xbec243c995409e6520d7c41e404da5deba4b209b",
+      "symbol": "SNX",
+      "name": "SNX",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 10,
+      "address": "0x8700daec35af8ff88c16bdf0418774cb3d7599b4",
+      "symbol": "SNX",
+      "name": "SNX",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd533a949740bb3306d119cc777fa900ba034cd52",
+      "symbol": "CRV",
+      "name": "CRV",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x172370d5cd63279efa6d502dab29171933a610af",
+      "symbol": "CRV",
+      "name": "CRV",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 250,
+      "address": "0x1e4f97b9f9f913c46f1632781732927b9019c68b",
+      "symbol": "CRV",
+      "name": "CRV",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0x11cdb42b0eb46d95f990bedd4695a6e3fa034978",
+      "symbol": "CRV",
+      "name": "CRV",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 10,
+      "address": "0x0994206dfe8de6ec6920ff4d779b0d950605fb53",
+      "symbol": "CRV",
+      "name": "CRV",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc18360217d8f7ab5e7c516566761ea12ce7f9d72",
+      "symbol": "ENS",
+      "name": "ENS",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xff20817765cb7f73d4bde2e66e067e58d11095c2",
+      "symbol": "AMP",
+      "name": "AMP",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc00e94cb662c3520282e6f5717214004a7f26888",
+      "symbol": "COMP",
+      "name": "COMP",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x8505b9d2254a7ae468c0e9dd10ccea3a837aef5c",
+      "symbol": "COMP",
+      "name": "COMP",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0xc3048e19e76cb9a3aa9d77d8c03c29fc906e2437",
+      "symbol": "COMP",
+      "name": "COMP",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x52ce071bd9b1c4b00a0b92d298c512478cad67e8",
+      "symbol": "COMP",
+      "name": "COMP",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0x354a6da3fcde098f8389cad84b0182725c6c91de",
+      "symbol": "COMP",
+      "name": "COMP",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
+      "symbol": "SUSHI",
+      "name": "SUSHI",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x0b3f868e0be5597d5db7feb59e1cadbb0fdda50a",
+      "symbol": "SUSHI",
+      "name": "SUSHI",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 250,
+      "address": "0xae75a438b2e0cb8bb01ec1e1e376de11d44477cc",
+      "symbol": "SUSHI",
+      "name": "SUSHI",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x947950bcc74888a40ffa2593c5798f11fc9124c4",
+      "symbol": "SUSHI",
+      "name": "SUSHI",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x37b608519f91f70f2eeb0e5ed9af4061722e4f76",
+      "symbol": "SUSHI",
+      "name": "SUSHI",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0xd4d42f0b6def4ce0383636770ef773390d85c61a",
+      "symbol": "SUSHI",
+      "name": "SUSHI",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 42220,
+      "address": "0xd15ec721c2a896512ad29c671997dd68f9593226",
+      "symbol": "SUSHI",
+      "name": "SUSHI",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xba100000625a3754423978a60c9317c58a424e3d",
+      "symbol": "BAL",
+      "name": "BAL",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x9a71012b13ca4d3d0cdc72a177df3ef03b0e76a3",
+      "symbol": "BAL",
+      "name": "BAL",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0x040d1edc9569d4bab2d15287dc5a4f10f56a56b8",
+      "symbol": "BAL",
+      "name": "BAL",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 10,
+      "address": "0xfe8b128ba8c78aabc59d4c64cee7ff28e9379921",
+      "symbol": "BAL",
+      "name": "BAL",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x69af81e73a73b40adf4f3d4223cd9b1ece623074",
+      "symbol": "MASK",
+      "name": "MASK",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x2ed9a5c8c13b93955103b9a7c167b67ef4d568a3",
+      "symbol": "MASK",
+      "name": "MASK",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x2b9e7ccdf0f4e5b24757c1e1a80e311e34cb10c7",
+      "symbol": "MASK",
+      "name": "MASK",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe41d2489571d322189246dafa5ebde1f4699f498",
+      "symbol": "ZRX",
+      "name": "ZRX",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x596fa47043f99a4e0f122243b841e55375cde0d2",
+      "symbol": "ZRX",
+      "name": "ZRX",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x949d48eca67b17269629c7194f4b727d4ef9e5d6",
+      "symbol": "MC",
+      "name": "MC",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x949d48eca67b17269629c7194f4b727d4ef9e5d6",
+      "symbol": "MC",
+      "name": "MC",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6123b0049f904d730db3c36a31167d9d4121fa6b",
+      "symbol": "RBN",
+      "name": "RBN",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x04fa0d235c4abf4bcf4787af4cf447de572ef828",
+      "symbol": "UMA",
+      "name": "UMA",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x3bd2b1c7ed8d396dbb98ded3aebb41350a5b2339",
+      "symbol": "UMA",
+      "name": "UMA",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0f51bb10119727a7e5ea3538074fb341f56b09ad",
+      "symbol": "DAO",
+      "name": "DAO",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x4d2d32d8652058bf98c772953e1df5c5c85d9f45",
+      "symbol": "DAO",
+      "name": "DAO",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc7283b66eb1eb5fb86327f08e1b5816b0720212b",
+      "symbol": "TRIBE",
+      "name": "TRIBE",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8798249c2e607446efb7ad49ec89dd1865ff4272",
+      "symbol": "XSUSHI",
+      "name": "XSUSHI",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa1d0e215a23d7030842fc67ce582a6afa3ccab83",
+      "symbol": "YFII",
+      "name": "YFII",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa117000000f279d81a1d3cc75430faa017fa5a2e",
+      "symbol": "ANT",
+      "name": "ANT",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcb86c6a22cb56b6cf40cafedb06ba0df188a416e",
+      "symbol": "SURE",
+      "name": "SURE",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x9b17baadf0f21f03e35249e0e59723f34994f806",
+      "symbol": "SURE",
+      "name": "SURE",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x5fc17416925789e0852fbfcd81c490ca4abc51f9",
+      "symbol": "SURE",
+      "name": "SURE",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xf88332547c680f755481bf489d890426248bb275",
+      "symbol": "SURE",
+      "name": "SURE",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x62359ed7505efc61ff1d56fef82158ccaffa23d7",
+      "symbol": "CORE",
+      "name": "CORE",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3f382dbd960e3a9bbceae22651e88158d2791550",
+      "symbol": "GHST",
+      "name": "GHST",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7",
+      "symbol": "GHST",
+      "name": "GHST",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3472a5a71965499acd81997a54bba8d852c6e53d",
+      "symbol": "BADGER",
+      "name": "BADGER",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 100,
+      "address": "0xdfc20ae04ed70bd9c7d720f449eedae19f659d65",
+      "symbol": "BADGER",
+      "name": "BADGER",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 250,
+      "address": "0x753fbc5800a8c8e3fb6dc6415810d627a387dfc9",
+      "symbol": "BADGER",
+      "name": "BADGER",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0xbfa641051ba0a0ad1b0acf549a89536a0d76472e",
+      "symbol": "BADGER",
+      "name": "BADGER",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeec2be5c91ae7f8a338e1e5f3b5de49d07afdc81",
+      "symbol": "DPX",
+      "name": "DPX",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0x6c2c06790b3e3e3c38e12ee22f8183b37a13ee55",
+      "symbol": "DPX",
+      "name": "DPX",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0391d2021f89dc339f60fff84546ea23e337750f",
+      "symbol": "BOND",
+      "name": "BOND",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 10,
+      "address": "0x3e7ef8f50246f725885102e8238cbba33f276747",
+      "symbol": "BOND",
+      "name": "BOND",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x8f0528ce5ef7b51152a59745befdd91d97091d2f",
+      "symbol": "ALPACA",
+      "name": "ALPACA",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 250,
+      "address": "0xad996a45fd2373ed0b10efa4a8ecb9de445a4302",
+      "symbol": "ALPACA",
+      "name": "ALPACA",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd417144312dbf50465b1c641d016962017ef6240",
+      "symbol": "CQT",
+      "name": "CQT",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfca59cd816ab1ead66534d82bc21e7515ce441cf",
+      "symbol": "RARI",
+      "name": "RARI",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x77fba179c79de5b7653f68b5039af940ada60ce0",
+      "symbol": "FORTH",
+      "name": "FORTH",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x111111517e4929d3dcbdfa7cce55d30d4b6bc4d6",
+      "symbol": "ICHI",
+      "name": "ICHI",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x111111517e4929d3dcbdfa7cce55d30d4b6bc4d6",
+      "symbol": "ICHI",
+      "name": "ICHI",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2e9d63788249371f1dfc918a52f8d799f4a38c94",
+      "symbol": "TOKE",
+      "name": "TOKE",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x07bac35846e5ed502aa91adf6a9e7aa210f2dcbe",
+      "symbol": "EROWAN",
+      "name": "EROWAN",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xa7051c5a22d963b81d71c2ba64d46a877fbc1821",
+      "symbol": "EROWAN",
+      "name": "EROWAN",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa0246c9032bc3a600820415ae600c6388619a14d",
+      "symbol": "FARM",
+      "name": "FARM",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x4b5c23cac08a567ecf0c1ffca8372a45a5d33743",
+      "symbol": "FARM",
+      "name": "FARM",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x32353a6c91143bfd6c7d363b546e62a9a2489a20",
+      "symbol": "AGLD",
+      "name": "AGLD",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2a3bff78b79a009976eea096a51a948a3dc00e34",
+      "symbol": "WILD",
+      "name": "WILD",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa1d65e8fb6e87b60feccbc582f7f97804b725521",
+      "symbol": "DXD",
+      "name": "DXD",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 100,
+      "address": "0xb90d6bec20993be5d72a5ab353343f7a0281f158",
+      "symbol": "DXD",
+      "name": "DXD",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0xc3ae0333f0f34aa734d5493276223d95b8f9cb37",
+      "symbol": "DXD",
+      "name": "DXD",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x20de22029ab63cf9a7cf5feb2b737ca1ee4c82a6",
+      "symbol": "CHESS",
+      "name": "CHESS",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdd974d5c2e2928dea5f71b9825b8b646686bd200",
+      "symbol": "KNCL",
+      "name": "KNCL",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 250,
+      "address": "0x765277eebeca2e31912c9946eae1021199b39c61",
+      "symbol": "KNCL",
+      "name": "KNCL",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x27054b13b1b798b345b591a4d22e6562d47ea75a",
+      "symbol": "AST",
+      "name": "AST",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf5581dfefd8fb0e4aec526be659cfab1f8c781da",
+      "symbol": "HOPR",
+      "name": "HOPR",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 100,
+      "address": "0xd057604a14982fe8d88c5fc25aac3267ea142a08",
+      "symbol": "HOPR",
+      "name": "HOPR",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0954906da0bf32d5479e25f46056d22f08464cab",
+      "symbol": "INDEX",
+      "name": "INDEX",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xfbd8a3b908e764dbcd51e27992464b4432a1132b",
+      "symbol": "INDEX",
+      "name": "INDEX",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x38e4adb44ef08f22f5b5b76a8f0c2d0dcbe7dca1",
+      "symbol": "CVP",
+      "name": "CVP",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x892a6f9df0147e5f079b0993f486f9aca3c87881",
+      "symbol": "XFUND",
+      "name": "XFUND",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x321c2fe4446c7c963dc41dd58879af648838f98d",
+      "symbol": "CTX",
+      "name": "CTX",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3da932456d082cba208feb0b096d49b202bf89c8",
+      "symbol": "DEGO",
+      "name": "DEGO",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x3da932456d082cba208feb0b096d49b202bf89c8",
+      "symbol": "DEGO",
+      "name": "DEGO",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2ba592f78db6436527729929aaf6c908497cb200",
+      "symbol": "CREAM",
+      "name": "CREAM",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 250,
+      "address": "0x657a1861c15a3ded9af0b6799a195a249ebdcbc6",
+      "symbol": "CREAM",
+      "name": "CREAM",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0xf4d48ce3ee1ac3651998971541badbb9a14d7234",
+      "symbol": "CREAM",
+      "name": "CREAM",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd291e7a03283640fdc51b121ac401383a46cc623",
+      "symbol": "RGT",
+      "name": "RGT",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 250,
+      "address": "0xcf726a06f3dcec8ef2b033336d138caa0eae5af2",
+      "symbol": "RGT",
+      "name": "RGT",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0xef888bca6ab6b1d26dbec977c455388ecd794794",
+      "symbol": "RGT",
+      "name": "RGT",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xf4bb0ed25ac7bcc9c327b88bac5ca288a08ec41e",
+      "symbol": "RGT",
+      "name": "RGT",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 250,
+      "address": "0x4cdf39285d7ca8eb3f090fda0c069ba5f4145b37",
+      "symbol": "TSHARE",
+      "name": "TSHARE",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3ea8ea4237344c9931214796d9417af1a1180770",
+      "symbol": "FLX",
+      "name": "FLX",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6100dd79fcaa88420750dcee3f735d168abcb771",
+      "symbol": "OS",
+      "name": "OS",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x69fa8e7f6bf1ca1fb0de61e1366f7412b827cc51",
+      "symbol": "NRCH",
+      "name": "NRCH",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x69fa8e7f6bf1ca1fb0de61e1366f7412b827cc51",
+      "symbol": "NRCH",
+      "name": "NRCH",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf2051511b9b121394fa75b8f7d4e7424337af687",
+      "symbol": "HAUS",
+      "name": "HAUS",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 100,
+      "address": "0xb0c5f3100a4d9d9532a4cfd68c55f1ae8da987eb",
+      "symbol": "HAUS",
+      "name": "HAUS",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb4d930279552397bba2ee473229f89ec245bc365",
+      "symbol": "MAHA",
+      "name": "MAHA",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xedd6ca8a4202d4a36611e2fff109648c4863ae19",
+      "symbol": "MAHA",
+      "name": "MAHA",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x961c8c0b1aad0c0b10a51fef6a867e3091bcef17",
+      "symbol": "DYP",
+      "name": "DYP",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x961c8c0b1aad0c0b10a51fef6a867e3091bcef17",
+      "symbol": "DYP",
+      "name": "DYP",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x961c8c0b1aad0c0b10a51fef6a867e3091bcef17",
+      "symbol": "DYP",
+      "name": "DYP",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xca1207647ff814039530d7d35df0e1dd2e91fa84",
+      "symbol": "DHT",
+      "name": "DHT",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x8c92e38eca8210f4fcbf17f0951b198dd7668292",
+      "symbol": "DHT",
+      "name": "DHT",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0x8038f3c971414fd1fc220ba727f2d4a0fc98cb65",
+      "symbol": "DHT",
+      "name": "DHT",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 10,
+      "address": "0xaf9fe3b5ccdae78188b1f8b9a49da7ae9510f151",
+      "symbol": "DHT",
+      "name": "DHT",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0aacfbec6a24756c20d41914f2caba817c0d8521",
+      "symbol": "YAM",
+      "name": "YAM",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1c9922314ed1415c95b9fd453c3818fd41867d0b",
+      "symbol": "TOWER",
+      "name": "TOWER",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xe7c9c6bc87b86f9e5b57072f907ee6460b593924",
+      "symbol": "TOWER",
+      "name": "TOWER",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x2bc07124d8dac638e290f401046ad584546bc47b",
+      "symbol": "TOWER",
+      "name": "TOWER",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1321f1f1aa541a56c31682c57b80ecfccd9bb288",
+      "symbol": "ARCX",
+      "name": "ARCX",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x9853a30c69474bed37595f9b149ad634b5c323d9",
+      "symbol": "TENDIE",
+      "name": "TENDIE",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0cec1a9154ff802e7934fc916ed7ca50bde6844e",
+      "symbol": "POOL",
+      "name": "POOL",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x25788a1a171ec66da6502f9975a15b609ff54cf6",
+      "symbol": "POOL",
+      "name": "POOL",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x69d9905b2e5f6f5433212b7f3c954433f23c1572",
+      "symbol": "OOKS",
+      "name": "OOKS",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xc0eff7749b125444953ef89682201fb8c6a917cd",
+      "symbol": "HZN",
+      "name": "HZN",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xab846fb6c81370327e784ae7cbb6d6a6af6ff4bf",
+      "symbol": "PAL",
+      "name": "PAL",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa3bed4e1c75d00fa6f4e5e6922db7261b5e9acd2",
+      "symbol": "MTA",
+      "name": "MTA",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xf501dd45a1198c2e1b5aef5314a68b9006d842e0",
+      "symbol": "MTA",
+      "name": "MTA",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xed0439eacf4c4965ae4613d77a5c2efe10e5f183",
+      "symbol": "SHROOM",
+      "name": "SHROOM",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x43a96962254855f16b925556f9e97be436a43448",
+      "symbol": "HORD",
+      "name": "HORD",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x39d4549908e7adcee9b439429294eeb4c65c2c9e",
+      "symbol": "HORD",
+      "name": "HORD",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x55671114d774ee99d653d6c12460c780a67f1d18",
+      "symbol": "PACOCA",
+      "name": "PACOCA",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb8baa0e4287890a5f79863ab62b7f175cecbd433",
+      "symbol": "SWRV",
+      "name": "SWRV",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5a56da75c50aa2733f5fa9a2442aaefcbc60b2e6",
+      "symbol": "CXD",
+      "name": "CXD",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5218e472cfcfe0b64a064f055b43b4cdc9efd3a6",
+      "symbol": "ERSDL",
+      "name": "ERSDL",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeb986da994e4a118d5956b02d8b7c3c7ce373674",
+      "symbol": "GTH",
+      "name": "GTH",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7ae1d57b58fa6411f32948314badd83583ee0e8c",
+      "symbol": "PAPER",
+      "name": "PAPER",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xc28ea768221f67b6a1fd33e6aa903d4e42f6b177",
+      "symbol": "PAPER",
+      "name": "PAPER",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x875773784af8135ea0ef43b5a374aad105c5d39e",
+      "symbol": "IDLE",
+      "name": "IDLE",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xc25351811983818c9fe6d8c580531819c8ade90f",
+      "symbol": "IDLE",
+      "name": "IDLE",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x888888888889c00c67689029d7856aac1065ec11",
+      "symbol": "OPIUM",
+      "name": "OPIUM",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x566cedd201f67e542a6851a2959c1a449a041945",
+      "symbol": "OPIUM",
+      "name": "OPIUM",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xe8f157e041df3b28151b667364e9c90789da7923",
+      "symbol": "OPIUM",
+      "name": "OPIUM",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe3818504c1b32bf1557b16c238b2e01fd3149c17",
+      "symbol": "PLR",
+      "name": "PLR",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xa6b37fc85d870711c56fbcb8afe2f8db049ae774",
+      "symbol": "PLR",
+      "name": "PLR",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x790cfdc6ab2e0ee45a433aac5434f183be1f6a20",
+      "symbol": "PLR",
+      "name": "PLR",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa0bed124a09ac2bd941b10349d8d224fe3c955eb",
+      "symbol": "DEPAY",
+      "name": "DEPAY",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xa0bed124a09ac2bd941b10349d8d224fe3c955eb",
+      "symbol": "DEPAY",
+      "name": "DEPAY",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x02d3a27ac3f55d5d91fb0f52759842696a864217",
+      "symbol": "IONX",
+      "name": "IONX",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x429881672b9ae42b8eba0e26cd9c73711b891ca5",
+      "symbol": "PICKLE",
+      "name": "PICKLE",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x2b88ad57897a8b496595925f43048301c37615da",
+      "symbol": "PICKLE",
+      "name": "PICKLE",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0x965772e0e9c84b6f359c8597c891108dcf1c5b1a",
+      "symbol": "PICKLE",
+      "name": "PICKLE",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x92e187a03b6cd19cb6af293ba17f2745fd2357d5",
+      "symbol": "DUCK",
+      "name": "DUCK",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 250,
+      "address": "0x602a3ad311e66b6f5e567a13016b712aba0625c6",
+      "symbol": "DUCK",
+      "name": "DUCK",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcb8d1260f9c92a3a545d409466280ffdd7af7042",
+      "symbol": "NFT",
+      "name": "NFT",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe1fc4455f62a6e89476f1072530c20cf1a0622da",
+      "symbol": "PHTR",
+      "name": "PHTR",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x054d64b73d3d8a21af3d764efd76bcaa774f3bb2",
+      "symbol": "PPAY",
+      "name": "PPAY",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xfb288d60d3b66f9c3e231a9a39ed3f158a4269aa",
+      "symbol": "PPAY",
+      "name": "PPAY",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x08158a6b5d4018340387d1a302f882e98a8bc5b4",
+      "symbol": "PPAY",
+      "name": "PPAY",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbebdab6da046bc49ffbb61fbd7b33157eb270d05",
+      "symbol": "SHARD",
+      "name": "SHARD",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xd8a1734945b9ba38eb19a291b475e31f49e59877",
+      "symbol": "SHARD",
+      "name": "SHARD",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xad32a8e6220741182940c5abf610bde99e737b2d",
+      "symbol": "DOUGH",
+      "name": "DOUGH",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7b39917f9562c8bc83c7a6c2950ff571375d505d",
+      "symbol": "LEAG",
+      "name": "LEAG",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7240ac91f01233baaf8b064248e80feaa5912ba3",
+      "symbol": "OCTO",
+      "name": "OCTO",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 250,
+      "address": "0x639a647fbe20b6c8ac19e48e2de44ea792c62c5c",
+      "symbol": "OCTO",
+      "name": "OCTO",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x4adae3ad22c4e8fb56d4ae5c7eb3abc0dd2d3379",
+      "symbol": "XGRO",
+      "name": "XGRO",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x72699ba15cc734f8db874fa9652c8de12093f187",
+      "symbol": "XGRO",
+      "name": "XGRO",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 250,
+      "address": "0x91f1430833879272643658f8ed07d60257ddf321",
+      "symbol": "XGRO",
+      "name": "XGRO",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7b123f53421b1bf8533339bfbdc7c98aa94163db",
+      "symbol": "BUIDL",
+      "name": "BUIDL",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x515d7e9d75e2b76db60f8a051cd890eba23286bc",
+      "symbol": "GDAO",
+      "name": "GDAO",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x28cb7e841ee97947a86b06fa4090c8451f64c0be",
+      "symbol": "YFL",
+      "name": "YFL",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xed91879919b71bb6905f23af0a68d231ecf87b14",
+      "symbol": "DMG",
+      "name": "DMG",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x515d7e9d75e2b76db60f8a051cd890eba23286bc",
+      "symbol": "GDAO",
+      "name": "GDAO",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0e29e5abbb5fd88e28b2d355774e73bd47de3bcd",
+      "symbol": "HAKKA",
+      "name": "HAKKA",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf0939011a9bb95c3b791f0cb546377ed2693a574",
+      "symbol": "ZERO",
+      "name": "ZERO",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x008e26068b3eb40b443d3ea88c1ff99b789c10f7",
+      "symbol": "ZERO",
+      "name": "ZERO",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x1f534d2b1ee2933f1fdf8e4b63a44b2249d77eaf",
+      "symbol": "ZERO",
+      "name": "ZERO",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc57d533c50bc22247d49a368880fb49a1caa39f7",
+      "symbol": "PTF",
+      "name": "PTF",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd8e3fb3b08eba982f2754988d70d57edc0055ae6",
+      "symbol": "ZORA",
+      "name": "ZORA",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfd30c9bea1a952feeed2ef2c6b2ff8a8fc4aad07",
+      "symbol": "KALLY",
+      "name": "KALLY",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc1d9b5a0776d7c8b98b8a838e5a0dd1bc5fdd53c",
+      "symbol": "ZONE",
+      "name": "ZONE",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf4cd3d3fda8d7fd6c5a500203e38640a70bf9577",
+      "symbol": "YF-DAI",
+      "name": "YF-DAI",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x7e7ff932fab08a0af569f93ce65e7b8b23698ad8",
+      "symbol": "YF-DAI",
+      "name": "YF-DAI",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x94d863173ee77439e4292284ff13fad54b3ba182",
+      "symbol": "ADEL",
+      "name": "ADEL",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x86772b1409b61c639eaac9ba0acfbb6e238e5f83",
+      "symbol": "NDX",
+      "name": "NDX",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0xb965029343d55189c25a7f3e0c9394dc0f5d41b1",
+      "symbol": "NDX",
+      "name": "NDX",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xf6cb4ad242bab681effc5de40f7c8ff921a12d63",
+      "symbol": "CNS",
+      "name": "CNS",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x68a118ef45063051eac49c7e647ce5ace48a68a5",
+      "symbol": "BASED",
+      "name": "BASED",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x65ad6a2288b2dd23e466226397c8f5d1794e58fc",
+      "symbol": "GFX",
+      "name": "GFX",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x65ad6a2288b2dd23e466226397c8f5d1794e58fc",
+      "symbol": "GFX",
+      "name": "GFX",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x65ad6a2288b2dd23e466226397c8f5d1794e58fc",
+      "symbol": "GFX",
+      "name": "GFX",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0xc38f41a296a4493ff429f1238e030924a1542e50",
+      "symbol": "SNOB",
+      "name": "SNOB",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x607c794cda77efb21f8848b7910ecf27451ae842",
+      "symbol": "PIE",
+      "name": "PIE",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xc4b35d3a24e3e8941c5d87fd21d0725642f50308",
+      "symbol": "PIE",
+      "name": "PIE",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbd1848e1491d4308ad18287a745dd4db2a4bd55b",
+      "symbol": "MOMA",
+      "name": "MOMA",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xb72842d6f5fedf91d22d56202802bb9a79c6322e",
+      "symbol": "MOMA",
+      "name": "MOMA",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xe3ab61371ecc88534c522922a026f2296116c109",
+      "symbol": "MOMA",
+      "name": "MOMA",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x87b008e57f640d94ee44fd893f0323af933f9195",
+      "symbol": "COIN",
+      "name": "COIN",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x60f63b76e2fc1649e57a3489162732a90acf59fe",
+      "symbol": "FLURRY",
+      "name": "FLURRY",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x47c9bcef4fe2dbcdf3abf508f147f1bbe8d4fef2",
+      "symbol": "FLURRY",
+      "name": "FLURRY",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb81d70802a816b5dacba06d708b5acf19dcd436d",
+      "symbol": "DEXG",
+      "name": "DEXG",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x708739980021a0b0b2e555383fe1283697e140e9",
+      "symbol": "BLS",
+      "name": "BLS",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x882e5b370d595e50c24b2a0e7a94e87cc32adda1",
+      "symbol": "GAME",
+      "name": "GAME",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x93dfaf57d986b9ca77df9376c50878e013d9c7c8",
+      "symbol": "RARE",
+      "name": "RARE",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x69e8b9528cabda89fe846c67675b5d73d463a916",
+      "symbol": "OPEN",
+      "name": "OPEN",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xf35262a9d427f96d2437379ef090db986eae5d42",
+      "symbol": "OPEN",
+      "name": "OPEN",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xabae871b7e3b67aeec6b46ae9fe1a91660aadac5",
+      "symbol": "OPEN",
+      "name": "OPEN",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x44564d0bd94343f72e3c8a0d22308b7fa71db0bb",
+      "symbol": "BASK",
+      "name": "BASK",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0ace32f6e87ac1457a5385f8eb0208f37263b415",
+      "symbol": "HBT",
+      "name": "HBT",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x63b8b7d4a3efd0735c4bffbd95b332a55e4eb851",
+      "symbol": "DGCL",
+      "name": "DGCL",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x878cf148ccbb50426043a9affe54ba408221c7fa",
+      "symbol": "KOMBAT",
+      "name": "KOMBAT",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x29e0a541c368528009715c03558c1ec4b8d0aeee",
+      "symbol": "KOMBAT",
+      "name": "KOMBAT",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xefc1c73a3d8728dc4cf2a18ac5705fe93e5914ac",
+      "symbol": "METRIC",
+      "name": "METRIC",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6e36556b3ee5aa28def2a8ec3dae30ec2b208739",
+      "symbol": "BUILD",
+      "name": "BUILD",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x6e8a8726639d12935b3219892155520bdc57366b",
+      "symbol": "GNOME",
+      "name": "GNOME",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x000000000000d0151e748d25b766e77efe2a6c83",
+      "symbol": "XDEX",
+      "name": "XDEX",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0ab87046fbb341d058f17cbc4c1133f25a20a52f",
+      "symbol": "GOHM",
+      "name": "GOHM",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x321e7092a180bb43555132ec53aaa65a5bf84251",
+      "symbol": "GOHM",
+      "name": "GOHM",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xd8ca34fd379d9ca3c6ee3b3905678320f5b45195",
+      "symbol": "GOHM",
+      "name": "GOHM",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 250,
+      "address": "0x91fa20244fb509e8289ca630e5db3e9166233fdc",
+      "symbol": "GOHM",
+      "name": "GOHM",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0x8d9ba570d6cb60c7e3e0f31343efe75ab8e65fb1",
+      "symbol": "GOHM",
+      "name": "GOHM",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe09216f1d343dd39d6aa732a08036fee48555af0",
+      "symbol": "TRIB",
+      "name": "TRIB",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8a6aca71a218301c7081d4e96d64292d3b275ce0",
+      "symbol": "SFG",
+      "name": "SFG",
       "tags": ["governance"]
     }
   ],
