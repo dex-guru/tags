@@ -1,0 +1,136 @@
+{
+  "name": "Insurance",
+  "tags": {
+    "insurance": {
+      "name": "Insurance",
+      "description": "DeFi insurance protocols provide insurance against smartr contract, hacks and exloits risks. In case you lose money on the platform and want coverage, you can go to an insurer of DeFi assets and get paid a certain amount."
+    }
+  },
+  "timestamp": "2022-11-07T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x0d438f3b5175bebc262bf23753c1e53d03432bde",
+      "symbol": "WNXM",
+      "name": "WNXM",
+      "tags": ["insurance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x544c42fbb96b39b21df61cf322b5edc285ee7429",
+      "symbol": "INSUR",
+      "name": "INSUR",
+      "tags": ["insurance"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x3192ccddf1cdce4ff055ebc80f3f0231b86a7e30",
+      "symbol": "INSUR",
+      "name": "INSUR",
+      "tags": ["insurance"]
+    },
+    {
+      "chainId": 43144,
+      "address": "0x544c42fbb96b39b21df61cf322b5edc285ee7429",
+      "symbol": "INSUR",
+      "name": "INSUR",
+      "tags": ["insurance"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x8a0e8b4b0903929f47c3ea30973940d4a9702067",
+      "symbol": "INSUR",
+      "name": "INSUR",
+      "tags": ["insurance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc719d010b63e5bbf2c0551872cd5316ed26acd83",
+      "symbol": "DIP",
+      "name": "DIP",
+      "tags": ["insurance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1337def16f9b486faed0293eb623dc8395dfe46a",
+      "symbol": "ARMOR",
+      "name": "ARMOR",
+      "tags": ["insurance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4688a8b1f292fdab17e9a90c8bc379dc1dbd8713",
+      "symbol": "COVER",
+      "name": "COVER",
+      "tags": ["insurance"]
+    },
+    {
+      "chainId": 250,
+      "address": "0xb01e8419d842beebf1b70a7b5f7142abbaf7159d",
+      "symbol": "COVER",
+      "name": "COVER",
+      "tags": ["insurance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x29cbd0510eec0327992cd6006e63f9fa8e7f33b7",
+      "symbol": "TIDAL",
+      "name": "TIDAL",
+      "tags": ["insurance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x725c263e32c72ddc3a19bea12c5a0479a81ee688",
+      "symbol": "BMI",
+      "name": "BMI",
+      "tags": ["insurance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x20945cA1df56D237fD40036d47E866C7DcCD2114",
+      "symbol": "NSURE",
+      "name": "NSURE",
+      "tags": ["insurance"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x2D61F243d1a4c16640c3961100f50222679EC89E",
+      "symbol": "NSURE",
+      "name": "NSURE",
+      "tags": ["insurance"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x948d2a81086A075b3130BAc19e4c6DEe1D2E3fE8",
+      "symbol": "HELMET",
+      "name": "HELMET",
+      "tags": ["insurance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x66186008c1050627f979d464eabb258860563dbe",
+      "symbol": "MDS",
+      "name": "MDS",
+      "tags": ["insurance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x474021845c4643113458ea4414bdb7fb74a01a77",
+      "symbol": "UNO",
+      "name": "UNO",
+      "tags": ["insurance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe0e05c43c097b0982db6c9d626c4eb9e95c3b9ce",
+      "symbol": "USF",
+      "name": "USF",
+      "tags": ["insurance"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
