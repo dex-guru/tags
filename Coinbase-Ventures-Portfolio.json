@@ -1,0 +1,388 @@
+{
+  "name": "Coinbase Ventures Portfolio",
+  "tags": {
+    "coinbase_portfolio": {
+      "name": "Coinbase Ventures Portfolio",
+      "description": "Coinbase Ventures invests in exceptional founders who share Coinbase’s mission of creating more economic freedom for the world. Coinbase Ventures Portfolio of tokens: https://www.coinbase.com/ventures/portfolio"
+    }
+  },
+  "timestamp": "2022-11-12T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xe41d2489571d322189246dafa5ebde1f4699f498",
+      "symbol": "ZRX",
+      "name": "ZRX",
+      "tags": ["coinbase_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x823556202e86763853b40e9cde725f412e294689",
+      "symbol": "ASTO",
+      "name": "ASTO",
+      "tags": ["coinbase_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x18aaa7115705e8be94bffebde57af9bfc265b998",
+      "symbol": "AUDIO",
+      "name": "AUDIO",
+      "tags": ["coinbase_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1ab43204a195a0fd37edec621482afd3792ef90b",
+      "symbol": "PLY",
+      "name": "PLY",
+      "tags": ["coinbase_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x467719ad09025fcc6cf6f8311755809d45a5e5f3",
+      "symbol": "AXL",
+      "name": "AXL",
+      "tags": ["coinbase_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf17e65822b568b3903685a7c9f496cf7656cc6c2",
+      "symbol": "BICO",
+      "name": "BICO",
+      "tags": ["coinbase_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa9b1eb5908cfc3cdf91f9b8b3a74108598009096",
+      "symbol": "AUCTION",
+      "name": "AUCTION",
+      "tags": ["coinbase_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x799ebfabe77a6e34311eeee9825190b9ece32824",
+      "symbol": "BTRST",
+      "name": "BTRST",
+      "tags": ["coinbase_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0d8775f648430679a709e98d2b0cb6250d2887ef",
+      "symbol": "BAT",
+      "name": "BAT",
+      "tags": ["coinbase_portfolio"]
+    },
+    {
+      "chainId": 42220,
+      "address": "0x471ece3750da237f93b8e339c536989b8978a438",
+      "symbol": "CELO",
+      "name": "CELO",
+      "tags": ["coinbase_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1a23a6bfbadb59fa563008c0fb7cf96dfcf34ea1",
+      "symbol": "COFI",
+      "name": "COFI",
+      "tags": ["coinbase_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc00e94cb662c3520282e6f5717214004a7f26888",
+      "symbol": "COMP",
+      "name": "COMP",
+      "tags": ["coinbase_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc00e94cb662c3520282e6f5717214004a7f26888",
+      "symbol": "COMP",
+      "name": "COMP",
+      "tags": ["coinbase_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd417144312dbf50465b1c641d016962017ef6240",
+      "symbol": "CQT",
+      "name": "CQT",
+      "tags": ["coinbase_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3a880652f47bfaa771908c07dd8673a787daed3a",
+      "symbol": "DDX",
+      "name": "DDX",
+      "tags": ["coinbase_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x43dfc4159d86f3a37a5a4b3d4580b888ad7d4ddd",
+      "symbol": "DODO",
+      "name": "DODO",
+      "tags": ["coinbase_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd9fcd98c322942075a5c3860693e9f4f03aae07b",
+      "symbol": "EUL",
+      "name": "EUL",
+      "tags": ["coinbase_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x956f47f50a910163d8bf957cf5846d573e7f87ca",
+      "symbol": "FEI",
+      "name": "FEI",
+      "tags": ["coinbase_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3ea8ea4237344c9931214796d9417af1a1180770",
+      "symbol": "FLX",
+      "name": "FLX",
+      "tags": ["coinbase_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x35bd01fc9d6d5d81ca9e055db88dc49aa2c699a8",
+      "symbol": "FWB",
+      "name": "FWB",
+      "tags": ["coinbase_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
+      "symbol": "FTT",
+      "name": "FTT",
+      "tags": ["coinbase_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5afe3855358e112b5647b952709e6165e1c1eeee",
+      "symbol": "SAFE",
+      "name": "SAFE",
+      "tags": ["coinbase_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdab396ccf3d84cf2d07c4454e10c8a6f5b008d2b",
+      "symbol": "GFI",
+      "name": "GFI",
+      "tags": ["coinbase_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc944e90c64b2c07662a292be6244bdf05cda44a7",
+      "symbol": "GRT",
+      "name": "GRT",
+      "tags": ["coinbase_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaaef88cea01475125522e117bfe45cf32044e238",
+      "symbol": "GF",
+      "name": "GF",
+      "tags": ["coinbase_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb3999f658c0391d94a37f7ff328f3fec942bcadc",
+      "symbol": "HFT",
+      "name": "HFT",
+      "tags": ["coinbase_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc5102fe9359fd9a28f877a67e36b0f050d81a3cc",
+      "symbol": "HOP",
+      "name": "HOP",
+      "tags": ["coinbase_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4bd70556ae3f8a6ec6c4080a0c327b24325438f3",
+      "symbol": "HXRO",
+      "name": "HXRO",
+      "tags": ["coinbase_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf57e7e7c23978c3caec3c3548e3d615c346e79ff",
+      "symbol": "IMX",
+      "name": "IMX",
+      "tags": ["coinbase_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6f40d4a6237c257fff2db00fa0510deeecd303eb",
+      "symbol": "INST",
+      "name": "INST",
+      "tags": ["coinbase_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x85eee30c52b0b379b046fb0f85f4f3dc3009afec",
+      "symbol": "KEEP",
+      "name": "KEEP",
+      "tags": ["coinbase_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x58b6a8a3302369daec383334672404ee733ab239",
+      "symbol": "LPT",
+      "name": "LPT",
+      "tags": ["coinbase_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4a615bb7166210cce20e6642a6f8fb5d4d044496",
+      "symbol": "NAOS",
+      "name": "NAOS",
+      "tags": ["coinbase_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcfeaead4947f0705a14ec42ac3d44129e1ef3ed5",
+      "symbol": "NOTE",
+      "name": "NOTE",
+      "tags": ["coinbase_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfaba6f8e4a5e8ab82f62fe7c39859fa577269be3",
+      "symbol": "ONDO",
+      "name": "ONDO",
+      "tags": ["coinbase_portfolio"]
+    },
+    {
+      "chainId": 10,
+      "address": "0x4200000000000000000000000000000000000042",
+      "symbol": "OP",
+      "name": "OP",
+      "tags": ["coinbase_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
+      "symbol": "MATIC",
+      "name": "MATIC",
+      "tags": ["coinbase_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4123a133ae3c521fd134d7b13a2dec35b56c2463",
+      "symbol": "QRDO",
+      "name": "QRDO",
+      "tags": ["coinbase_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x31c8eacbffdd875c74b94b077895bd78cf1e64a3",
+      "symbol": "RAD",
+      "name": "RAD",
+      "tags": ["coinbase_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfca59cd816ab1ead66534d82bc21e7515ce441cf",
+      "symbol": "RARI",
+      "name": "RARI",
+      "tags": ["coinbase_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x320623b8e4ff03373931769a31fc52a4e78b5d70",
+      "symbol": "RSR",
+      "name": "RSR",
+      "tags": ["coinbase_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6123b0049f904d730db3c36a31167d9d4121fa6b",
+      "symbol": "RBN",
+      "name": "RBN",
+      "tags": ["coinbase_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x16eccfdbb4ee1a85a33f3a9b21175cd7ae753db4",
+      "symbol": "ROUTE",
+      "name": "ROUTE",
+      "tags": ["coinbase_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc98d64da73a6616c42117b582e832812e7b8d57f",
+      "symbol": "RSS3",
+      "name": "RSS3",
+      "tags": ["coinbase_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf1dc500fde233a4055e25e5bbf516372bc4f6871",
+      "symbol": "SDL",
+      "name": "SDL",
+      "tags": ["coinbase_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb753428af26e81097e7fd17f40c88aaa3e04902c",
+      "symbol": "SFI",
+      "name": "SFI",
+      "tags": ["coinbase_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x30d20208d987713f46dfd34ef128bb16c404d10f",
+      "symbol": "SD",
+      "name": "SD",
+      "tags": ["coinbase_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
+      "symbol": "SNX",
+      "name": "SNX",
+      "tags": ["coinbase_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2e9d63788249371f1dfc918a52f8d799f4a38c94",
+      "symbol": "TOKE",
+      "name": "TOKE",
+      "tags": ["coinbase_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x04fa0d235c4abf4bcf4787af4cf447de572ef828",
+      "symbol": "UMA",
+      "name": "UMA",
+      "tags": ["coinbase_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc0a4df35568f116c370e6a6a6022ceb908eeddac",
+      "symbol": "UMEE",
+      "name": "UMEE",
+      "tags": ["coinbase_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+      "symbol": "UNI",
+      "name": "UNI",
+      "tags": ["coinbase_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcb84d72e61e383767c4dfeb2d8ff7f4fb89abc6e",
+      "symbol": "VEGA",
+      "name": "VEGA",
+      "tags": ["coinbase_portfolio"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
