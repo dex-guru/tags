@@ -1,0 +1,59 @@
+{
+  "name": "DEX Aggregator",
+  "tags": {
+    "dex_aggregator": {
+      "name": "DEX Aggregator",
+      "description": "DEX aggregators source liquidity from different DEXs and thus offer users better token swap rates than they could get on any single DEX."
+    }
+  },
+  "timestamp": "2022-11-13T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x111111111117dc0aa78b770fa6a738034120c302",
+      "symbol": "1INCH",
+      "name": "1INCH",
+      "tags": ["dex_aggregator"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe41d2489571d322189246dafa5ebde1f4699f498",
+      "symbol": "ZRX",
+      "name": "ZRX",
+      "tags": ["dex_aggregator"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdeFA4e8a7bcBA345F687a2f1456F5Edd9CE97202",
+      "symbol": "KNC",
+      "name": "KNC",
+      "tags": ["dex_aggregator"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcafe001067cdef266afb7eb5a286dcfd277f3de5",
+      "symbol": "PSP",
+      "name": "PSP",
+      "tags": ["dex_aggregator"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdef1ca1fb7fbcdc777520aa7f396b4e015f497ab",
+      "symbol": "COW",
+      "name": "COW",
+      "tags": ["dex_aggregator"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x9029fdfae9a03135846381c7ce16595c3554e10a",
+      "symbol": "OOE",
+      "name": "OOE",
+      "tags": ["dex_aggregator"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
