@@ -52,6 +52,13 @@
     },
     {
       "chainId": 1,
+      "address": "0x6BeA7CFEF803D1e3d5f7C0103f7ded065644e197",
+      "symbol": "GAMMA",
+      "name": "GAMMA",
+      "tags": ["1confirmation_portfolio"]
+    },
+    {
+      "chainId": 1,
       "address": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
       "symbol": "MKR",
       "name": "MKR",
