@@ -94,6 +94,13 @@
     },
     {
       "chainId": 1,
+      "address": "0x6BeA7CFEF803D1e3d5f7C0103f7ded065644e197",
+      "symbol": "GAMMA",
+      "name": "GAMMA",
+      "tags": ["defi_index"]
+    },
+    {
+      "chainId": 1,
       "address": "0xe1fc4455f62a6e89476f1072530c20cf1a0622da",
       "symbol": "PHTR",
       "name": "PHTR",
