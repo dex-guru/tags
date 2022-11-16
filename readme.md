@@ -7,12 +7,18 @@ Keep in mind, this is NOT investment advice, a stamp of approval, or any kind of
 
 ## How to add a new token to a list
 
-- Look for the JSON file in this repo with the tag name you are looking for.
+- Look for the JSON file in this repo with the tag name you are looking for. Please make sure that the token that you are going to add matches the tag description. See this line at beginning of JSON, eg.: 
+```
+  "tags": {
+    "layer_2": {
+      "name": "Layer 2",
+      "description": "Layer 2 (L2) is a collective term to describe a specific set of Ethereum scaling solutions. L2 tokens can be used to decentralize a variety of protocol functions."
+    }
+```  
 - Edit the JSON file. <br />
 - Add an object to the JSON with the token's metadata like this <br />
 
 ```
-	,
 	 {
 	 "chainId": "NETWORK_CHAIN_ID",
 	 "address": "TOKEN_CONTRACT_ADDRESS",
