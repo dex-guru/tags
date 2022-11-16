@@ -77,6 +77,13 @@
       "symbol": "SKL",
       "name": "SKL",
       "tags": ["layer_2"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCa14007Eff0dB1f8135f4C25B34De49AB0d42766",
+      "symbol": "STRK",
+      "name": "STRK",
+      "tags": ["layer_2"]
     }
   ],
   "version": {
