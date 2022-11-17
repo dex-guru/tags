@@ -1,0 +1,143 @@
+{
+  "name": "Dragonfly Portfolio",
+  "tags": {
+    "dragonfly_portfolio": {
+      "name": "Dragonfly Portfolio",
+      "description": "Dragonfly is an investment firm focused on supporting the great crypto/Web3 companies and protocols. Dragonfly Portfolio of tokens: https://www.dragonfly.xyz/#portfolio"
+    }
+  },
+  "timestamp": "2022-11-17T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x111111111117dc0aa78b770fa6a738034120c302",
+      "symbol": "1INCH",
+      "name": "1INCH",
+      "tags": ["dragonfly_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1321f1f1aa541a56c31682c57b80ecfccd9bb288",
+      "symbol": "ARCX",
+      "name": "ARCX",
+      "tags": ["dragonfly_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+      "symbol": "WAVAX",
+      "name": "WAVAX",
+      "tags": ["dragonfly_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x467719ad09025fcc6cf6f8311755809d45a5e5f3",
+      "symbol": "AXL",
+      "name": "AXL",
+      "tags": ["dragonfly_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x8729438eb15e2c8b576fcc6aecda6a148776c0f5",
+      "symbol": "QI",
+      "name": "QI",
+      "tags": ["dragonfly_portfolio"]
+    },
+    {
+      "chainId": 42220,
+      "address": "0x471ece3750da237f93b8e339c536989b8978a438",
+      "symbol": "CELO",
+      "name": "CELO",
+      "tags": ["dragonfly_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc00e94cb662c3520282e6f5717214004a7f26888",
+      "symbol": "COMP",
+      "name": "COMP",
+      "tags": ["dragonfly_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3a880652f47bfaa771908c07dd8673a787daed3a",
+      "symbol": "DDX",
+      "name": "DDX",
+      "tags": ["dragonfly_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x92d6c1e31e14520e676a687f0a93788b716beff5",
+      "symbol": "DYDX",
+      "name": "DYDX",
+      "tags": ["dragonfly_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb3999f658c0391d94a37f7ff328f3fec942bcadc",
+      "symbol": "HFT",
+      "name": "HFT",
+      "tags": ["dragonfly_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb3999f658c0391d94a37f7ff328f3fec942bcadc",
+      "symbol": "HFT",
+      "name": "HFT",
+      "tags": ["dragonfly_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
+      "symbol": "MKR",
+      "name": "MKR",
+      "tags": ["dragonfly_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0cec1a9154ff802e7934fc916ed7ca50bde6844e",
+      "symbol": "POOL",
+      "name": "POOL",
+      "tags": ["dragonfly_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6123b0049f904d730db3c36a31167d9d4121fa6b",
+      "symbol": "RBN",
+      "name": "RBN",
+      "tags": ["dragonfly_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf1dc500fde233a4055e25e5bbf516372bc4f6871",
+      "symbol": "SDL",
+      "name": "SDL",
+      "tags": ["dragonfly_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb753428af26e81097e7fd17f40c88aaa3e04902c",
+      "symbol": "SFI",
+      "name": "SFI",
+      "tags": ["dragonfly_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x04fa0d235c4abf4bcf4787af4cf447de572ef828",
+      "symbol": "UMA",
+      "name": "UMA",
+      "tags": ["dragonfly_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4691937a7508860f876c9c0a2a617e7d9e945d4b",
+      "symbol": "WOO",
+      "name": "WOO",
+      "tags": ["dragonfly_portfolio"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
