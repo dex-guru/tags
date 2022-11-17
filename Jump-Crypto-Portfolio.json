@@ -1,0 +1,73 @@
+{
+  "name": "Jump Crypto Portfolio",
+  "tags": {
+    "jump_crypto_portfolio": {
+      "name": "Jump Crypto Portfolio",
+      "description": "Jump Crypto is an investment firm who take a long-term view of crypto's prospects and operate to unlock the full potential of open, community-driven networks. Jump Crypto Portfolio of tokens: https://jumpcrypto.com/"
+    }
+  },
+  "timestamp": "2022-11-17T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xe41d2489571d322189246dafa5ebde1f4699f498",
+      "symbol": "ZRX",
+      "name": "ZRX",
+      "tags": ["jump_crypto_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xff20817765cb7f73d4bde2e66e067e58d11095c2",
+      "symbol": "AMP",
+      "name": "AMP",
+      "tags": ["jump_crypto_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa2120b9e674d3fc3875f415a7df52e382f141225",
+      "symbol": "ATA",
+      "name": "ATA",
+      "tags": ["jump_crypto_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x666d875c600aa06ac1cf15641361dec3b00432ef",
+      "symbol": "BTSE",
+      "name": "BTSE",
+      "tags": ["jump_crypto_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3506424f91fd33084466f402d5d97f05f8e3b4af",
+      "symbol": "CHZ",
+      "name": "CHZ",
+      "tags": ["jump_crypto_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb3999f658c0391d94a37f7ff328f3fec942bcadc",
+      "symbol": "HFT",
+      "name": "HFT",
+      "tags": ["jump_crypto_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe28b3b32b6c345a34ff64674606124dd5aceca30",
+      "symbol": "INJ",
+      "name": "INJ",
+      "tags": ["jump_crypto_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x476c5e26a75bd202a9683ffd34359c0cc15be0ff",
+      "symbol": "SRM",
+      "name": "SRM",
+      "tags": ["jump_crypto_portfolio"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
