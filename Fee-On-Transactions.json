@@ -1,0 +1,38 @@
+{
+  "name": "Fee On Transactions",
+  "tags": {
+    "fee_on_transactions": {
+      "name": "Fee On Transactions",
+      "description": "Fee On Transactions also known as a sales tax is a built-in token mechanism where The token charges a fee on transactions. Usually, fees are redistributed (or reflected) to token holders and DAO or developer's team."
+    }
+  },
+  "timestamp": "2022-11-17T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x42981d0bfbaf196529376ee702f2a9eb9092fcb5",
+      "symbol": "SFM",
+      "name": "SFM",
+      "tags": ["fee_on_transactions"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x3ad9594151886ce8538c1ff615efa2385a8c3a88",
+      "symbol": "SAFEMARS",
+      "name": "SAFEMARS",
+      "tags": ["fee_on_transactions"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xb27adaffb9fea1801459a1a81b17218288c097cc",
+      "symbol": "POOCOIN",
+      "name": "POOCOIN",
+      "tags": ["fee_on_transactions"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
