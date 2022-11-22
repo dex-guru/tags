@@ -1,0 +1,108 @@
+{
+  "name": "Digital Currency Group Portfolio",
+  "tags": {
+    "digitalcurrencygroup_portfolio": {
+      "name": "Digital Currency Group Portfolio",
+      "description": "Digital Currency Group is an investment firm focused on supporting the great crypto/Web3 companies and protocols. Digital Currency Group Portfolio of tokens: https://dcg.co/portfolio/"
+    }
+  },
+  "timestamp": "2022-11-22T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x0b38210ea11411557c13457d4da7dc6ea731b88a",
+      "symbol": "API3",
+      "name": "API3",
+      "tags": ["digitalcurrencygroup_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0d8775f648430679a709e98d2b0cb6250d2887ef",
+      "symbol": "BAT",
+      "name": "BAT",
+      "tags": ["digitalcurrencygroup_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x41e5560054824ea6b0732e656e3ad64e20e94e45",
+      "symbol": "CVC",
+      "name": "CVC",
+      "tags": ["digitalcurrencygroup_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0f5d2fb29fb7d3cfee444a200298f468908cc942",
+      "symbol": "MANA",
+      "name": "MANA",
+      "tags": ["digitalcurrencygroup_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
+      "symbol": "FTT",
+      "name": "FTT",
+      "tags": ["digitalcurrencygroup_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb3999f658c0391d94a37f7ff328f3fec942bcadc",
+      "symbol": "HFT",
+      "name": "HFT",
+      "tags": ["digitalcurrencygroup_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x58b6a8a3302369daec383334672404ee733ab239",
+      "symbol": "LPT",
+      "name": "LPT",
+      "tags": ["digitalcurrencygroup_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x69af81e73a73b40adf4f3d4223cd9b1ece623074",
+      "symbol": "MASK",
+      "name": "MASK",
+      "tags": ["digitalcurrencygroup_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf5cfbc74057c610c8ef151a439252680ac68c6dc",
+      "symbol": "OCT",
+      "name": "OCT",
+      "tags": ["digitalcurrencygroup_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x320623b8e4ff03373931769a31fc52a4e78b5d70",
+      "symbol": "RSR",
+      "name": "RSR",
+      "tags": ["digitalcurrencygroup_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc770eefad204b5180df6a14ee197d99d808ee52d",
+      "symbol": "FOX",
+      "name": "FOX",
+      "tags": ["digitalcurrencygroup_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc944e90c64b2c07662a292be6244bdf05cda44a7",
+      "symbol": "GRT",
+      "name": "GRT",
+      "tags": ["digitalcurrencygroup_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x08f5a9235b08173b7569f83645d2c7fb55e8ccd8",
+      "symbol": "TNT",
+      "name": "TNT",
+      "tags": ["digitalcurrencygroup_portfolio"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
