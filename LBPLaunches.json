@@ -1,0 +1,24 @@
+{
+  "name": "LBP Launches",
+  "tags": {
+    "lbp_launches": {
+      "name": "LBP Launches",
+      "description": "Tokens that had launched, distributed, or conducted a token sale via Liquidity Bootstrapping Pools (LBPs) on the Copper Platform."
+    }
+  },
+  "timestamp": "2022-11-22T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x9625ce7753ace1fa1865a47aae2c5c2ce4418569",
+      "symbol": "KAP",
+      "name": "KAP",
+      "tags": ["lbp_launches"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
