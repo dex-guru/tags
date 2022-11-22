@@ -1,0 +1,360 @@
+{
+  "name": "LBP Launches",
+  "tags": {
+    "lbp_launches": {
+      "name": "LBP Launches",
+      "description": "Tokens that had launched, distributed, or conducted a token sale via Liquidity Bootstrapping Pools (LBPs) on the Copper Platform."
+    }
+  },
+  "timestamp": "2022-11-22T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x9625ce7753ace1fa1865a47aae2c5c2ce4418569",
+      "symbol": "KAP",
+      "name": "KAP",
+      "tags": ["lbp_launches"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x656bf6767fa8863ac0dd0b7d2a26602b838a2e70",
+      "symbol": "FITT",
+      "name": "FITT",
+      "tags": ["lbp_launches"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcbc6922bb75e55d7ca5dabcf0ea2d7787fd023f6",
+      "symbol": "BITS",
+      "name": "BITS",
+      "tags": ["lbp_launches"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xff9fea2666ac0b074a1a53579ff95add4df0601a",
+      "symbol": "SEA",
+      "name": "SEA",
+      "tags": ["lbp_launches"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0xd99b770fffa3918125f5eb288ff520b4a8cadb4d",
+      "symbol": "FLAKE",
+      "name": "FLAKE",
+      "tags": ["lbp_launches"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x94e9eb8b5ab9fd6b9ea3169d55ffade62a01702e",
+      "symbol": "BREED",
+      "name": "BREED",
+      "tags": ["lbp_launches"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x88aa4a6c5050b9a1b2aa7e34d0582025ca6ab745",
+      "symbol": "DXP",
+      "name": "DXP",
+      "tags": ["lbp_launches"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcd747366bf5684f133fc019c61750e00624d8e87",
+      "symbol": "ALPHAPLAYER",
+      "name": "ALPHAPLAYER",
+      "tags": ["lbp_launches"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe8521b61f64fc45a0bc3db36d2a524fe61a69b52",
+      "symbol": "DUET",
+      "name": "DUET",
+      "tags": ["lbp_launches"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x60e6895184448f3e8ef509d083e3cc3ac31f82fd",
+      "symbol": "KTX",
+      "name": "KTX",
+      "tags": ["lbp_launches"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x431cd3c9ac9fc73644bf68bf5691f4b83f9e104f",
+      "symbol": "RBW",
+      "name": "RBW",
+      "tags": ["lbp_launches"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe26c82750b72f33bf85ebf965dd022825b7f791a",
+      "symbol": "FAME",
+      "name": "FAME",
+      "tags": ["lbp_launches"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfd4168e642ebd04c3684a6cdb3a5e86de85d3908",
+      "symbol": "API",
+      "name": "API",
+      "tags": ["lbp_launches"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x09f098b155d561fc9f7bccc97038b7e3d20baf74",
+      "symbol": "ZOO",
+      "name": "ZOO",
+      "tags": ["lbp_launches"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0c3983165e9bce0a9bb43184cc4eebb26dce48fa",
+      "symbol": "AFLOOR",
+      "name": "AFLOOR",
+      "tags": ["lbp_launches"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0xd3f1da62cafb7e7bc6531ff1cef6f414291f03d3",
+      "symbol": "DBL",
+      "name": "DBL",
+      "tags": ["lbp_launches"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe4b5936dce1820f84509c89cce0f28c87988bad8",
+      "symbol": "UNT",
+      "name": "UNT",
+      "tags": ["lbp_launches"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfe459828c90c0ba4bc8b42f5c5d44f316700b430",
+      "symbol": "BBS",
+      "name": "BBS",
+      "tags": ["lbp_launches"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc98d64da73a6616c42117b582e832812e7b8d57f",
+      "symbol": "RSS3",
+      "name": "RSS3",
+      "tags": ["lbp_launches"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x105e3ac19f28a768a350fac8b7dac571b6f09db9",
+      "symbol": "MNT",
+      "name": "MNT",
+      "tags": ["lbp_launches"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3250e701413896cf32a5bed36a148707d817a22e",
+      "symbol": "AGAAS",
+      "name": "AGAAS",
+      "tags": ["lbp_launches"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0xa684cd057951541187f288294a1e1c2646aa2d24",
+      "symbol": "VSTA",
+      "name": "VSTA",
+      "tags": ["lbp_launches"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd4e12b224c316664ebb647f69abc1fb8bb2697c7",
+      "symbol": "BRIBE",
+      "name": "BRIBE",
+      "tags": ["lbp_launches"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3e828ac5c480069d4765654fb4b8733b910b13b2",
+      "symbol": "CLNY",
+      "name": "CLNY",
+      "tags": ["lbp_launches"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbc6e06778708177a18210181b073da747c88490a",
+      "symbol": "SYNR",
+      "name": "SYNR",
+      "tags": ["lbp_launches"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x12e56851ec22874520dc4c7fa0a8a8d7dba1bac8",
+      "symbol": "GENART",
+      "name": "GENART",
+      "tags": ["lbp_launches"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb30f5d11b94efbbfdeaa4de38edffceec0be6513",
+      "symbol": "PIF",
+      "name": "PIF",
+      "tags": ["lbp_launches"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x375abb85c329753b1ba849a601438ae77eec9893",
+      "symbol": "PDT",
+      "name": "PDT",
+      "tags": ["lbp_launches"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7f3141c4d6b047fb930991b450f1ed996a51cb26",
+      "symbol": "X",
+      "name": "X",
+      "tags": ["lbp_launches"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa41f142b6eb2b164f8164cae0716892ce02f311f",
+      "symbol": "AVG",
+      "name": "AVG",
+      "tags": ["lbp_launches"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6b0b3a982b4634ac68dd83a4dbf02311ce324181",
+      "symbol": "ALI",
+      "name": "ALI",
+      "tags": ["lbp_launches"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfa3aabe175b5fbdc714e7d52492e1c73537404eb",
+      "symbol": "MGG",
+      "name": "MGG",
+      "tags": ["lbp_launches"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x71fc1f555a39e0b698653ab0b475488ec3c34d57",
+      "symbol": "RAIN",
+      "name": "RAIN",
+      "tags": ["lbp_launches"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7f280dac515121dcda3eac69eb4c13a52392cace",
+      "symbol": "FNC",
+      "name": "FNC",
+      "tags": ["lbp_launches"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x40803cea2b2a32bda1be61d3604af6a814e70976",
+      "symbol": "SPOOL",
+      "name": "SPOOL",
+      "tags": ["lbp_launches"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5ba19d656b65f1684cfea4af428c23b9f3628f97",
+      "symbol": "AAG",
+      "name": "AAG",
+      "tags": ["lbp_launches"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x77777777772cf0455fb38ee0e75f38034dfa50de",
+      "symbol": "XY",
+      "name": "XY",
+      "tags": ["lbp_launches"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x83e9f223e1edb3486f876ee888d76bfba26c475a",
+      "symbol": "GUILD",
+      "name": "GUILD",
+      "tags": ["lbp_launches"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xdd2af2e723547088d3846841fbdcc6a8093313d6",
+      "symbol": "GOGO",
+      "name": "GOGO",
+      "tags": ["lbp_launches"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0edf9bc41bbc1354c70e2107f80c42cae7fbbca8",
+      "symbol": "STRM",
+      "name": "STRM",
+      "tags": ["lbp_launches"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2a2550e0a75acec6d811ae3930732f7f3ad67588",
+      "symbol": "PATH",
+      "name": "PATH",
+      "tags": ["lbp_launches"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdac657ffd44a3b9d8aba8749830bf14beb66ff2d",
+      "symbol": "HDAO",
+      "name": "HDAO",
+      "tags": ["lbp_launches"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x72928d5436ff65e57f72d5566dcd3baedc649a88",
+      "symbol": "HDAO",
+      "name": "HDAO",
+      "tags": ["lbp_launches"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x2934b36ca9a4b31e633c5be670c8c8b28b6aa015",
+      "symbol": "THX",
+      "name": "THX",
+      "tags": ["lbp_launches"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3ea8ea4237344c9931214796d9417af1a1180770",
+      "symbol": "FLX",
+      "name": "FLX",
+      "tags": ["lbp_launches"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaaef88cea01475125522e117bfe45cf32044e238",
+      "symbol": "GF",
+      "name": "GF",
+      "tags": ["lbp_launches"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd0cd466b34a24fcb2f87676278af2005ca8a78c4",
+      "symbol": "POP",
+      "name": "POP",
+      "tags": ["lbp_launches"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xc5b57e9a1e7914fda753a88f24e5703e617ee50c",
+      "symbol": "POP",
+      "name": "POP",
+      "tags": ["lbp_launches"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa36fdbbae3c9d55a1d67ee5821d53b50b63a1ab9",
+      "symbol": "TEMP",
+      "name": "TEMP",
+      "tags": ["lbp_launches"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
