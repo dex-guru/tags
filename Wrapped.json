@@ -93,7 +93,7 @@
       "symbol": "renBCH",
       "name": "renBCH",
       "decimals": 8,
-      "tags": ["wrapped", "bitcoin"]
+      "tags": ["wrapped"]
     },
     {
       "chainId": 1,
