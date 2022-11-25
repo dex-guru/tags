@@ -960,6 +960,104 @@
       "symbol": "GMT",
       "name": "GMT",
       "tags": ["binance", "wrapped"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6",
+      "symbol": "WBTC",
+      "name": "WBTC",
+      "tags": ["wrapped", "bitcoin"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x50b7545627a5162f82a992c33b87adc75187b218",
+      "symbol": "WBTC",
+      "name": "WBTC",
+      "tags": ["wrapped", "bitcoin"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x152b9d0fdc40c096757f570a51e494bd4b943e50",
+      "symbol": "BTC.b",
+      "name": "BTC.b",
+      "tags": ["wrapped", "bitcoin"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
+      "symbol": "WBTC",
+      "name": "WBTC",
+      "tags": ["wrapped", "bitcoin"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+      "symbol": "BTCB",
+      "name": "BTCB",
+      "tags": ["wrapped", "bitcoin", "binance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0316eb71485b0ab14103307bf65a021042c6d380",
+      "symbol": "HBTC",
+      "name": "HBTC",
+      "tags": ["wrapped", "bitcoin"]
+    },
+    {
+      "chainId": 250,
+      "address": "0x321162cd933e2be498cd2267a90534a804051b11",
+      "symbol": "BTC",
+      "name": "BTC",
+      "tags": ["wrapped", "bitcoin"]
+    },
+    {
+      "chainId": 10,
+      "address": "0x68f180fcce6836688e9084f035309e29bf0a2095",
+      "symbol": "WBTC",
+      "name": "WBTC",
+      "tags": ["wrapped", "bitcoin"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9be89d2a4cd102d8fecc6bf9da793be995c22541",
+      "symbol": "BBTC",
+      "name": "BBTC",
+      "tags": ["wrapped", "bitcoin", "binance"]
+    },
+    {
+      "chainId": 100,
+      "address": "0x8e5bbbb09ed1ebde8674cda39a0c169401db4252",
+      "symbol": "WBTC",
+      "name": "WBTC",
+      "tags": ["wrapped", "bitcoin"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x9c32185b81766a051e08de671207b34466dd1021",
+      "symbol": "BTCpx",
+      "name": "BTCpx",
+      "tags": ["wrapped", "bitcoin"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8064d9ae6cdf087b1bcd5bdf3531bd5d8c537a68",
+      "symbol": "oBTC",
+      "name": "oBTC",
+      "tags": ["wrapped", "bitcoin"]
+    },
+    {
+      "chainId": 42220,
+      "address": "0xbaab46e28388d2779e6e31fd00cf0e5ad95e327b",
+      "symbol": "WBTC",
+      "name": "WBTC",
+      "tags": ["wrapped", "bitcoin"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5228a22e72ccc52d415ecfd199f99d0665e7733b",
+      "symbol": "pBTC",
+      "name": "pBTC",
+      "tags": ["wrapped", "bitcoin"]
     }
   ],
   "version": {
