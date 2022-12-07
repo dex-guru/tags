@@ -1246,6 +1246,104 @@
       "symbol": "XCV",
       "name": "XCV",
       "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
+      "symbol": "MATIC",
+      "name": "MATIC",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+      "symbol": "MATIC",
+      "name": "MATIC",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd9fcd98c322942075a5c3860693e9f4f03aae07b",
+      "symbol": "EUL",
+      "name": "EUL",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x0b15ddf19d47e6a86a56148fb4afffc6929bcb89",
+      "symbol": "IDIA",
+      "name": "IDIA",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9f52c8ecbee10e00d9faaac5ee9ba0ff6550f511",
+      "symbol": "SIPHER",
+      "name": "SIPHER",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9ab7bb7fdc60f4357ecfef43986818a2a3569c62",
+      "symbol": "GOG",
+      "name": "GOG",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x467719ad09025fcc6cf6f8311755809d45a5e5f3",
+      "symbol": "AXL",
+      "name": "AXL",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfb5c6815ca3ac72ce9f5006869ae67f18bf77006",
+      "symbol": "PSTAKE",
+      "name": "PSTAKE",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x16eccfdbb4ee1a85a33f3a9b21175cd7ae753db4",
+      "symbol": "ROUTE",
+      "name": "ROUTE",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf57e7e7c23978c3caec3c3548e3d615c346e79ff",
+      "symbol": "IMX",
+      "name": "IMX",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x9720ca160bbd4e7f3dd4bb3f8bd4227ca0342e63",
+      "symbol": "GMPD",
+      "name": "GMPD",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x549020a9cb845220d66d3e9c6d9f9ef61c981102",
+      "symbol": "SIDUS",
+      "name": "SIDUS",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x34be5b8c30ee4fde069dc878989686abe9884470",
+      "symbol": "SENATE",
+      "name": "SENATE",
+      "tags": ["alameda_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd9fcd98c322942075a5c3860693e9f4f03aae07b",
+      "symbol": "EUL",
+      "name": "EUL",
+      "tags": ["alameda_portfolio"]
     }
   ],
   "version": {
