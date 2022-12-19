@@ -1,6 +1,6 @@
 {
   "name": "Wrapped Tokens",
-  "timestamp": "2021-11-10T18:18:00+00:00",
+  "timestamp": "2021-12-18",
   "tags": {
     "wrapped": {
       "name": "Wrapped",
@@ -1057,6 +1057,34 @@
       "address": "0x5228a22e72ccc52d415ecfd199f99d0665e7733b",
       "symbol": "pBTC",
       "name": "pBTC",
+      "tags": ["wrapped", "bitcoin"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x66eff5221ca926636224650fd3b9c497ff828f7d",
+      "symbol": "multiBTC",
+      "name": "multiBTC",
+      "tags": ["wrapped", "bitcoin"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfe18be6b3bd88a2d2a7f928d00292e7a9963cfc6",
+      "symbol": "sBTC",
+      "name": "sBTC",
+      "tags": ["wrapped", "bitcoin"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x62199b909fb8b8cf870f97bef2ce6783493c4908",
+      "symbol": "pBTC",
+      "name": "pBTC",
+      "tags": ["wrapped", "bitcoin"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8751d4196027d4e6da63716fa7786b5174f04c15",
+      "symbol": "wibBTC",
+      "name": "wibBTC",
       "tags": ["wrapped", "bitcoin"]
     }
   ],
