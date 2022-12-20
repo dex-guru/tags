@@ -1,0 +1,59 @@
+{
+  "name": "Tokenized Gold",
+  "tags": {
+    "tokenized_gold": {
+      "name": "Tokenized Gold",
+      "description": "Tokenizing gold tokens represents a specific amount of gold, with the token's value and ownership corresponding with the value of the physical gold it represents."
+    }
+  },
+  "timestamp": "2022-12-19",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x45804880de22913dafe09f4980848ece6ecbaf78",
+      "symbol": "PAXG",
+      "name": "PAXG",
+      "tags": ["tokenized_gold"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x7950865a9140cb519342433146ed5b40c6f210f7",
+      "symbol": "PAXG",
+      "name": "PAXG",
+      "tags": ["tokenized_gold"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x68749665FF8D2d112Fa859AA293F07A622782F38",
+      "symbol": "XAUT",
+      "name": "XAUT",
+      "tags": ["tokenized_gold"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4f3afec4e5a3f2a6a1a411def7d7dfe50ee057bf",
+      "symbol": "DGX",
+      "name": "DGX",
+      "tags": ["tokenized_gold"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaffcdd96531bcd66faed95fc61e443d08f79efef",
+      "symbol": "PMGT",
+      "name": "PMGT",
+      "tags": ["tokenized_gold"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe4a6f23fb9e00fca037aa0ea0a6954de0a6c53bf",
+      "symbol": "TXAU",
+      "name": "TXAU",
+      "tags": ["tokenized_gold"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
