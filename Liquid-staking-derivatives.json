@@ -6,7 +6,7 @@
       "description": "Ethereum liquid staking derivatives. Liquid staking protocols let users acquire liquidity on staked assets and use staked assets as collateral in (decentralized) financial applications"
     }
   },
-  "timestamp": "2022-10-03T00:00:00+00:00",
+  "timestamp": "2022-12-22",
   "tokens": [
     {
       "chainId": 1,
@@ -48,6 +48,13 @@
       "address": "0xbe9895146f7af43049ca1c1ae358b0541ea49704",
       "symbol": "cbETH",
       "name": "cbRETH",
+      "tags": ["liquid_staking_derivatives"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
+      "symbol": "wstETH",
+      "name": "wstETH",
       "tags": ["liquid_staking_derivatives"]
     }
   ],
