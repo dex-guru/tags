@@ -1,0 +1,129 @@
+{
+  "name": "Placeholder Ventures Portfolio",
+  "tags": {
+    "placeholder_ventures_portfolio": {
+      "name": "Placeholder Ventures Portfolio",
+      "description": ""
+    }
+  },
+  "timestamp": "2022-12-21T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x1ba42e5193dfa8b03d15dd1b86a3113bbbef8eeb",
+      "symbol": "ZEC",
+      "name": "ZEC",
+      "tags": ["placeholder_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
+      "symbol": "MKR",
+      "name": "MKR",
+      "tags": ["placeholder_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xba100000625a3754423978a60c9317c58a424e3D",
+      "symbol": "BAL",
+      "name": "BAL",
+      "tags": ["placeholder_ventures_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3",
+      "symbol": "BAL",
+      "name": "BAL",
+      "tags": ["placeholder_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe41d2489571d322189246dafa5ebde1f4699f498",
+      "symbol": "ZRX",
+      "name": "ZRX",
+      "tags": ["placeholder_ventures_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x596fa47043f99a4e0f122243b841e55375cde0d2",
+      "symbol": "ZRX",
+      "name": "ZRX",
+      "tags": ["placeholder_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0b38210ea11411557c13457D4dA7dC6ea731B88a",
+      "symbol": "API3",
+      "name": "API3",
+      "tags": ["placeholder_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa117000000f279d81a1d3cc75430faa017fa5a2e",
+      "symbol": "ANT",
+      "name": "ANT",
+      "tags": ["placeholder_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x31c8eacbffdd875c74b94b077895bd78cf1e64a3",
+      "symbol": "RAD",
+      "name": "RAD",
+      "tags": ["placeholder_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1776e1F26f98b1A5dF9cD347953a26dd3Cb46671",
+      "symbol": "NMR",
+      "name": "NMR",
+      "tags": ["placeholder_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xec67005c4E498Ec7f55E092bd1d35cbC47C91892",
+      "symbol": "MLN",
+      "name": "MLN",
+      "tags": ["placeholder_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0d438f3b5175bebc262bf23753c1e53d03432bde",
+      "symbol": "WNXM",
+      "name": "WNXM",
+      "tags": ["placeholder_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x41545f8b9472d758bb669ed8eaeeecd7a9c4ec29",
+      "symbol": "FORT",
+      "name": "FORT",
+      "tags": ["placeholder_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4946Fcea7C692606e8908002e55A582af44AC121",
+      "symbol": "FOAM",
+      "name": "FOAM",
+      "tags": ["placeholder_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0e192d382a36de7011f795acc4391cd302003606",
+      "symbol": "FST",
+      "name": "FST",
+      "tags": ["placeholder_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x44108f0223a3c3028f5fe7aec7f9bb2e66bef82f",
+      "symbol": "ACX",
+      "name": "ACX",
+      "tags": ["placeholder_ventures_portfolio"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}

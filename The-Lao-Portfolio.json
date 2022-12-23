@@ -1,0 +1,185 @@
+{
+  "name": "The LAO Portfolio",
+  "tags": {
+    "the_lao_portfolio": {
+      "name": "The LAO Portfolio",
+      "description": ""
+    }
+  },
+  "timestamp": "2022-12-21T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x5a98fcbea516cf06857215779fd812ca3bef1b32",
+      "symbol": "LDO",
+      "name": "LDO",
+      "tags": ["the_lao_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x986854779804799C1d68867F5E03e601E781e41b",
+      "symbol": "LDO",
+      "name": "LDO",
+      "tags": ["the_lao_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x33349b282065b0284d756f0577fb39c158f935e6",
+      "symbol": "MPL",
+      "name": "MPL",
+      "tags": ["the_lao_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xde30da39c46104798bb5aa3fe8b9e0e1f348163f",
+      "symbol": "GTC",
+      "name": "GTC",
+      "tags": ["the_lao_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xba5bde662c17e2adff1075610382b9b691296350",
+      "symbol": "RARE",
+      "name": "RARE",
+      "tags": ["the_lao_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9c4a4204b79dd291d6b6571c5be8bbcd0622f050",
+      "symbol": "TCR",
+      "name": "TCR",
+      "tags": ["the_lao_portfolio"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0xa72159fc390f0e3c6d415e658264c7c4051e9b87",
+      "symbol": "TCR",
+      "name": "TCR",
+      "tags": ["the_lao_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdef1ca1fb7fbcdc777520aa7f396b4e015f497ab",
+      "symbol": "COW",
+      "name": "COW",
+      "tags": ["the_lao_portfolio"]
+    },
+    {
+      "chainId": 100,
+      "address": "0x177127622c4a00f3d409b75571e12cb3c8973d3c",
+      "symbol": "COW",
+      "name": "COW",
+      "tags": ["the_lao_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4b13006980acb09645131b91d259eaa111eaf5ba",
+      "symbol": "MYC",
+      "name": "MYC",
+      "tags": ["the_lao_portfolio"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0xC74fE4c715510Ec2F8C61d70D397B32043F55Abe",
+      "symbol": "MYC",
+      "name": "MYC",
+      "tags": ["the_lao_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x35bd01fc9d6d5d81ca9e055db88dc49aa2c699a8",
+      "symbol": "FWB",
+      "name": "FWB",
+      "tags": ["the_lao_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdb298285fe4c5410b05390ca80e8fbe9de1f259b",
+      "symbol": "FOREX",
+      "name": "FOREX",
+      "tags": ["the_lao_portfolio"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0xDb298285FE4C5410B05390cA80e8Fbe9DE1F259B",
+      "symbol": "FOREX",
+      "name": "FOREX",
+      "tags": ["the_lao_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf418588522d5dd018b425e472991e52ebbeeeeee",
+      "symbol": "PUSH",
+      "name": "PUSH",
+      "tags": ["the_lao_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0cec1a9154ff802e7934fc916ed7ca50bde6844e",
+      "symbol": "POOL",
+      "name": "POOL",
+      "tags": ["the_lao_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x25788a1a171ec66da6502f9975a15b609ff54cf6",
+      "symbol": "POOL",
+      "name": "POOL",
+      "tags": ["the_lao_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xca1207647Ff814039530D7d35df0e1Dd2e91Fa84",
+      "symbol": "DHT",
+      "name": "DHT",
+      "tags": ["the_lao_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x94E9EB8b5Ab9fd6B9ea3169D55FFAde62a01702e",
+      "symbol": "BREED",
+      "name": "BREED",
+      "tags": ["the_lao_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x02d3a27ac3f55d5d91fb0f52759842696a864217",
+      "symbol": "IONX",
+      "name": "IONX",
+      "tags": ["the_lao_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb0e1fc65c1a741b4662b813eb787d369b8614af1",
+      "symbol": "IF",
+      "name": "IF",
+      "tags": ["the_lao_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xb0e1fc65c1a741b4662b813eb787d369b8614af1",
+      "symbol": "IF",
+      "name": "IF",
+      "tags": ["the_lao_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x24a6a37576377f63f194caa5f518a60f45b42921",
+      "symbol": "BANK",
+      "name": "BANK",
+      "tags": ["the_lao_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb5c578947de0fd71303f71f2c3d41767438bd0de",
+      "symbol": "DEVT",
+      "name": "DEVT",
+      "tags": ["the_lao_portfolio"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}

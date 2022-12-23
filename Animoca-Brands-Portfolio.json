@@ -1,0 +1,815 @@
+{
+  "name": "Animoca Brands Portfolio",
+  "tags": {
+    "animoca_brands_portfolio": {
+      "name": "Animoca Brands Portfolio",
+      "description": ""
+    }
+  },
+  "timestamp": "2022-12-22T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
+      "symbol": "MATIC",
+      "name": "MATIC",
+      "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 56,
+        "address": "0xCC42724C6683B7E57334c4E856f4c9965ED682bD",
+        "symbol": "MATIC",
+        "name": "MATIC",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 137,
+        "address": "0x0000000000000000000000000000000000001010",
+        "symbol": "MATIC",
+        "name": "MATIC",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 1,
+        "address": "0xbb0e17ef65f82ab018d8edd776e8dd940327b28b",
+        "symbol": "AXS",
+        "name": "AXS",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 56,
+        "address": "0x715d400f88c167884bbcc41c5fea407ed4d2f8a0",
+        "symbol": "AXS",
+        "name": "AXS",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 1,
+        "address": "0x3845badade8e6dff049820680d1f14bd3903a5d0",
+        "symbol": "SAND",
+        "name": "SAND",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 137,
+        "address": "0xbbba073c31bf03b8acf7c28ef0738decf3695683",
+        "symbol": "SAND",
+        "name": "SAND",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 1,
+        "address": "0x0f5d2fb29fb7d3cfee444a200298f468908cc942",
+        "symbol": "MANA",
+        "name": "MANA",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 1,
+        "address": "0xf57e7e7c23978c3caec3c3548e3d615c346e79ff",
+        "symbol": "IMX",
+        "name": "IMX",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 1,
+        "address": "0x69af81e73a73b40adf4f3d4223cd9b1ece623074",
+        "symbol": "MASK",
+        "name": "MASK",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 56,
+        "address": "0x2ed9a5c8c13b93955103b9a7c167b67ef4d568a3",
+        "symbol": "MASK",
+        "name": "MASK",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 137,
+        "address": "0x2b9e7ccdf0f4e5b24757c1e1a80e311e34cb10c7",
+        "symbol": "MASK",
+        "name": "MASK",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 56,
+        "address": "0xd41fdb03ba84762dd66a0af1a6c8540ff1ba5dfb",
+        "symbol": "SFP",
+        "name": "SFP",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 56,
+        "address": "0x3203c9e46ca618c8c1ce5dc67e7e9d75f5da2377",
+        "symbol": "MBOX",
+        "name": "MBOX",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 1,
+        "address": "0x888888848B652B3E3a0f34c96E00EEC0F3a23F72",
+        "symbol": "TLM",
+        "name": "TLM",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 56,
+        "address": "0x2222227e22102fe3322098e4cbfe18cfebd57c95",
+        "symbol": "TLM",
+        "name": "TLM",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 1,
+        "address": "0x25f8087ead173b73d6e8b84329989a8eea16cf73",
+        "symbol": "YGG",
+        "name": "YGG",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 137,
+        "address": "0x229b1b6c23ff8953d663c4cbb519717e323a0a84",
+        "symbol": "BLOK",
+        "name": "BLOK",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 56,
+        "address": "0x89Af13A10b32F1b2f8d1588f93027F69B6F4E27e",
+        "symbol": "GAFI",
+        "name": "GAFI",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 1,
+        "address": "0xe53ec727dbdeb9e2d5456c3be40cff031ab40a55",
+        "symbol": "SUPER",
+        "name": "SUPER",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 137,
+        "address": "0xDfCe1e99A31C4597a3f8A8945cBfa9037655e335",
+        "symbol": "ASTRAFER",
+        "name": "ASTRAFER",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 1,
+        "address": "0x2a3bff78b79a009976eea096a51a948a3dc00e34",
+        "symbol": "WILD",
+        "name": "WILD",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 1,
+        "address": "0xC477D038d5420C6A9e0b031712f61c5120090de9",
+        "symbol": "BOSON",
+        "name": "BOSON",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 56,
+        "address": "0x23ce9e926048273ef83be0a3a8ba9cb6d45cd978",
+        "symbol": "DAR",
+        "name": "DAR",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 1,
+        "address": "0x081131434f93063751813c619ecca9c4dc7862a3",
+        "symbol": "DAR",
+        "name": "DAR",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 1,
+        "address": "0xaaef88cea01475125522e117bfe45cf32044e238",
+        "symbol": "GF",
+        "name": "GF",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 56,
+        "address": "0x1633b7157e7638c4d6593436111bf125ee74703f",
+        "symbol": "SPS",
+        "name": "SPS",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 1,
+        "address": "0x9fa69536d1cda4a04cfb50688294de75b505a9ae",
+        "symbol": "DERC",
+        "name": "DERC",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 56,
+        "address": "0x373e768f79c820aa441540d254dca6d045c6d25b",
+        "symbol": "DERC",
+        "name": "DERC",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 1,
+        "address": "0x71ab77b7dbb4fa7e017bc15090b2163221420282",
+        "symbol": "HIGH",
+        "name": "HIGH",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 56,
+        "address": "0x5f4bde007dc06b867f86ebfe4802e34a1ffeed63",
+        "symbol": "HIGH",
+        "name": "HIGH",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 1,
+        "address": "0xf203Ca1769ca8e9e8FE1DA9D147DB68B6c919817",
+        "symbol": "WNCG",
+        "name": "WNCG",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 1,
+        "address": "0x72b886d09c117654ab7da13a14d603001de0b777",
+        "symbol": "XDEFI",
+        "name": "XDEFI",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 1,
+        "address": "0x817bbdbc3e8a1204f3691d14bb44992841e3db35",
+        "symbol": "CUDOS",
+        "name": "CUDOS",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 1,
+        "address": "0x557b933a7c2c45672b610f8954a3deb39a51a8ca",
+        "symbol": "REVV",
+        "name": "REVV",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 56,
+        "address": "0x833f307ac507d47309fd8cdd1f835bef8d702a93",
+        "symbol": "REVV",
+        "name": "REVV",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 137,
+        "address": "0x70c006878a5A50Ed185ac4C87d837633923De296",
+        "symbol": "REVV",
+        "name": "REVV",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 1,
+        "address": "0x70edf1c215d0ce69e7f16fd4e6276ba0d99d4de7",
+        "symbol": "CHEQ",
+        "name": "CHEQ",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 1,
+        "address": "0xDA9FDAb21bC4A5811134A6E0Ba6CA06624e67c07",
+        "symbol": "QUIDD",
+        "name": "QUIDD",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 56,
+        "address": "0x7961ade0a767c0e5b67dd1a1f78ba44f727642ed",
+        "symbol": "QUIDD",
+        "name": "QUIDD",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 137,
+        "address": "0x123706cDD8e60324e610E9A2CC7012D0F45A5b8E",
+        "symbol": "QUIDD",
+        "name": "QUIDD",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 1,
+        "address": "0x549020a9Cb845220D66d3E9c6D9F9eF61C981102",
+        "symbol": "SIDUS",
+        "name": "SIDUS",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 56,
+        "address": "0x9fd87aefe02441b123c3c32466cd9db4c578618f",
+        "symbol": "THG",
+        "name": "THG",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 56,
+        "address": "0xAD6742A35fB341A9Cc6ad674738Dd8da98b94Fb1",
+        "symbol": "WOM",
+        "name": "WOM",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 1,
+        "address": "0x1c9922314ed1415c95b9fd453c3818fd41867d0b",
+        "symbol": "TOWER",
+        "name": "TOWER",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 56,
+        "address": "0xe7c9c6bc87b86f9e5b57072f907ee6460b593924",
+        "symbol": "TOWER",
+        "name": "TOWER",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 137,
+        "address": "0x2bc07124d8dac638e290f401046ad584546bc47b",
+        "symbol": "TOWER",
+        "name": "TOWER",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 1,
+        "address": "0xdacd69347de42babfaecd09dc88958378780fb62",
+        "symbol": "ATRI",
+        "name": "ATRI",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 1,
+        "address": "0xb31ef9e52d94d4120eb44fe1ddfde5b4654a6515",
+        "symbol": "DOSE",
+        "name": "DOSE",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 56,
+        "address": "0x7837fd820ba38f95c54d6dac4ca3751b81511357",
+        "symbol": "DOSE",
+        "name": "DOSE",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 1,
+        "address": "0x83e9f223e1edb3486f876ee888d76bfba26c475a",
+        "symbol": "GUILD",
+        "name": "GUILD",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 56,
+        "address": "0x0565805ca3a4105faee51983b0bd8ffb5ce1455c",
+        "symbol": "GUILD",
+        "name": "GUILD",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 1,
+        "address": "0x30D20208d987713f46DFD34EF128Bb16C404D10f",
+        "symbol": "SD",
+        "name": "SD",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 1,
+        "address": "0x310C8F00b9dE3c31Ab95ea68feb6C877538f7947",
+        "symbol": "UNDEAD",
+        "name": "UNDEAD",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 137,
+        "address": "0x503836c8c3A453c57f58CC99B070F2E78Ec14fC0",
+        "symbol": "SPORT",
+        "name": "SPORT",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 56,
+        "address": "0xfb62ae373aca027177d1c18ee0862817f9080d08",
+        "symbol": "DPET",
+        "name": "DPET",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 1,
+        "address": "0xfb62ae373aca027177d1c18ee0862817f9080d08",
+        "symbol": "DPET",
+        "name": "DPET",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 56,
+        "address": "0x9df465460938f9EBDF51C38CC87D72184471F8F0",
+        "symbol": "GENE",
+        "name": "GENE",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 1,
+        "address": "0x94e0bab2f6ab1f19f4750e42d7349f2740513ad5",
+        "symbol": "UNIC",
+        "name": "UNIC",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 137,
+        "address": "0x21ce5251d47aa72d2d1dc849b1bcce14d2467d1b",
+        "symbol": "UNIC",
+        "name": "UNIC",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 1,
+        "address": "0x4da0c48376c277cdbd7fc6fdc6936dee3e4adf75",
+        "symbol": "EPIK",
+        "name": "EPIK",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 56,
+        "address": "0x368ce786Ea190f32439074e8d22e12ecb718B44c",
+        "symbol": "EPIK",
+        "name": "EPIK",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 1,
+        "address": "0x46e98FFE40E408bA6412bEb670507e083C8B95ff",
+        "symbol": "PRIMATE",
+        "name": "PRIMATE",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 56,
+        "address": "0xa19863e302fd1b41276fce5a48d9c511dbeef34c",
+        "symbol": "PRIMATE",
+        "name": "PRIMATE",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 1,
+        "address": "0x2ba8349123de45e931a8c8264c332e6e9cf593f9",
+        "symbol": "BCMC",
+        "name": "BCMC",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 137,
+        "address": "0xc10358f062663448a3489fC258139944534592ac",
+        "symbol": "BCMC",
+        "name": "BCMC",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 1,
+        "address": "0xa499648fd0e80fd911972bbeb069e4c20e68bf22",
+        "symbol": "UJENNY",
+        "name": "UJENNY",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 1,
+        "address": "0x71Fc1F555a39E0B698653AB0b475488EC3c34D57",
+        "symbol": "RAIN",
+        "name": "RAIN",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 1,
+        "address": "0x77777777772cf0455fb38ee0e75f38034dfa50de",
+        "symbol": "XY",
+        "name": "XY",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 1,
+        "address": "0x60be1e1fe41c1370adaf5d8e66f07cf1c2df2268",
+        "symbol": "PERC",
+        "name": "PERC",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 1,
+        "address": "0x72f020f8f3e8fd9382705723cd26380f8d0c66bb",
+        "symbol": "PLOT",
+        "name": "PLOT",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 137,
+        "address": "0xe82808eaA78339b06a691fd92E1Be79671cAd8D3",
+        "symbol": "PLOT",
+        "name": "PLOT",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 1,
+        "address": "0x57ad67acf9bf015e4820fbd66ea1a21bed8852ec",
+        "symbol": "LYM",
+        "name": "LYM",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 56,
+        "address": "0x56156fb7860d7eb0b4b1a5356c5354b295194a45",
+        "symbol": "SPRT",
+        "name": "SPRT",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 1,
+        "address": "0x34Be5b8C30eE4fDe069DC878989686aBE9884470",
+        "symbol": "SENATE",
+        "name": "SENATE",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 1,
+        "address": "0xa41f142b6eb2b164f8164cae0716892ce02f311f",
+        "symbol": "AVG",
+        "name": "AVG",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 56,
+        "address": "0xe369fec23380f9F14ffD07a1DC4b7c1a9fdD81c9",
+        "symbol": "FROYO",
+        "name": "FROYO",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 1,
+        "address": "0x96184d9c811ea0624fc30c80233b1d749b9e485b",
+        "symbol": "DAPPT",
+        "name": "DAPPT",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 137,
+        "address": "0x071AC29d569a47EbfFB9e57517F855Cb577DCc4C",
+        "symbol": "GCOIN",
+        "name": "GCOIN",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 137,
+        "address": "0xe26cda27c13f4f87cFFc2F437C5900b27eBb5bbB",
+        "symbol": "RBLS",
+        "name": "RBLS",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 137,
+        "address": "0xf78610d0a197842bf98ca45254897edd13c5d182",
+        "symbol": "FCD",
+        "name": "FCD",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 1,
+        "address": "0xdebe620609674F21B1089042527F420372eA98A5",
+        "symbol": "TAVA",
+        "name": "TAVA",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 1,
+        "address": "0x2c4e8f2d746113d0696ce89b35f0d8bf88e0aeca",
+        "symbol": "OST",
+        "name": "OST",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 56,
+        "address": "0x200C234721b5e549c3693CCc93cF191f90dC2aF9",
+        "symbol": "METAL",
+        "name": "METAL",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 56,
+        "address": "0x0cca2f5561bb0fca88e5b9b48b7fbf000349c357",
+        "symbol": "ZODI",
+        "name": "ZODI",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 1,
+        "address": "0x06576eb3b212d605b797dc15523d9dc9f4f66db4",
+        "symbol": "TCP",
+        "name": "TCP",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 1,
+        "address": "0xbc6e06778708177a18210181b073da747c88490a",
+        "symbol": "SYNR",
+        "name": "SYNR",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 1,
+        "address": "0x14a32f050FACF226Ec60882398A9BF36d91DBaC2",
+        "symbol": "KYOKO",
+        "name": "KYOKO",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 56,
+        "address": "0xbbca42c60b5290f2c48871a596492f93ff0ddc82",
+        "symbol": "DOMI",
+        "name": "DOMI",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 1,
+        "address": "0x45c2f8c9b4c0bdc76200448cc26c48ab6ffef83f",
+        "symbol": "DOMI",
+        "name": "DOMI",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 137,
+        "address": "0xBF9f916bBda29A7F990F5F55c7607D94D7C3A60b",
+        "symbol": "DEFY",
+        "name": "DEFY",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 1,
+        "address": "0x31c2415c946928e9fd1af83cdfa38d3edbd4326f",
+        "symbol": "UMAD",
+        "name": "UMAD",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 56,
+        "address": "0xf3147987a00d35eecc10c731269003ca093740ca",
+        "symbol": "MAT",
+        "name": "MAT",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 56,
+        "address": "0xa9d75cc3405f0450955050c520843f99aff8749d",
+        "symbol": "RENA",
+        "name": "RENA",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 1,
+        "address": "0xb2ea51BAa12C461327d12A2069d47b30e680b69D",
+        "symbol": "SMCW",
+        "name": "SMCW",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 56,
+        "address": "0xb2ea51BAa12C461327d12A2069d47b30e680b69D",
+        "symbol": "SMCW",
+        "name": "SMCW",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 137,
+        "address": "0x4455ef8b4b4a007a93daa12de63a47eeac700d9d",
+        "symbol": "KNIGHT",
+        "name": "KNIGHT",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 1,
+        "address": "0x3f5294df68f871241c4b18fcf78ebd8ac18ab654",
+        "symbol": "STZ",
+        "name": "STZ",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 56,
+        "address": "0x7fe378c5e0b5c32af2ecc8829bedf02245a0e4ef",
+        "symbol": "STZ",
+        "name": "STZ",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 137,
+        "address": "0x2c92a8a41f4b806a6f6f1f7c9d9dec78dcd8c18e",
+        "symbol": "STZ",
+        "name": "STZ",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 56,
+        "address": "0xd8047afecb86e44eff3add991b9f063ed4ca716b",
+        "symbol": "GGG",
+        "name": "GGG",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 1,
+        "address": "0xa23C1194d421F252b4e6D5edcc3205F7650a4eBE",
+        "symbol": "LBP",
+        "name": "LBP",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 1,
+        "address": "0xb5c578947de0fd71303f71f2c3d41767438bd0de",
+        "symbol": "DEVT",
+        "name": "DEVT",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 1,
+        "address": "0xd7f0cc50ad69408ae58be033f4f85d2367c2e468",
+        "symbol": "VERA",
+        "name": "VERA",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 56,
+        "address": "0x4a0a3902e091cdb3aec4279a6bfac50297f0a79e",
+        "symbol": "VERA",
+        "name": "VERA",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 56,
+        "address": "0x9720CA160Bbd4E7f3dD4bb3f8BD4227ca0342e63",
+        "symbol": "GMPD",
+        "name": "GMPD",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 56,
+        "address": "0xe64017bdacbe7dfc84886c3704a26d566e7550de",
+        "symbol": "KKT",
+        "name": "KKT",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 56,
+        "address": "0x7c73967dC8c804Ea028247f5A953052f0CD5Fd58",
+        "symbol": "CBT",
+        "name": "CBT",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 1,
+        "address": "0x823556202e86763853b40e9cde725f412e294689",
+        "symbol": "ASTO",
+        "name": "ASTO",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 56,
+        "address": "0xd44fd09d74cd13838f137b590497595d6b3feea4",
+        "symbol": "ETERNAL",
+        "name": "ETERNAL",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 1,
+        "address": "0x0944d5848bd9f60a34ba92aea300d4286696eb76",
+        "symbol": "PLT",
+        "name": "PLT",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 1,
+        "address": "0x3392d8a60b77f8d3eaa4fb58f09d835bd31add29",
+        "symbol": "INDI",
+        "name": "INDI",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 56,
+        "address": "0x8de5aa37a7c40a53062ead382b8eead3b08a7a46",
+        "symbol": "VTG",
+        "name": "VTG",
+        "tags": ["animoca_brands_portfolio"]
+    },
+    {
+        "chainId": 56,
+        "address": "0x37b53894e7429f794B56F22a32E1695567Ee9913",
+        "symbol": "KRS",
+        "name": "KRS",
+        "tags": ["animoca_brands_portfolio"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
