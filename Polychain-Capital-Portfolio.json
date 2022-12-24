@@ -3,7 +3,7 @@
   "tags": {
     "polychain_capital_portfolio": {
       "name": "Polychain Capital Portfolio",
-      "description": ""
+      "description": "Polychain is an investment firm committed to exceptional returns for investors through actively managed portfolios of these blockchain assets. Polychain Capital Portfolio of liquid tokens"
     }
   },
   "timestamp": "2022-12-22T00:00:00+00:00",
@@ -16,438 +16,438 @@
       "tags": ["polychain_capital_portfolio"]
     },
     {
-        "chainId": 100,
-        "address": "0x4537e328bf7e4efa29d05caea260d7fe26af9d74",
-        "symbol": "UNI",
-        "name": "UNI",
-        "tags": ["polychain_capital_portfolio"]
+      "chainId": 100,
+      "address": "0x4537e328bf7e4efa29d05caea260d7fe26af9d74",
+      "symbol": "UNI",
+      "name": "UNI",
+      "tags": ["polychain_capital_portfolio"]
     },
     {
-        "chainId": 56,
-        "address": "0xbf5140a22578168fd562dccf235e5d43a02ce9b1",
-        "symbol": "UNI",
-        "name": "UNI",
-        "tags": ["polychain_capital_portfolio"]
+      "chainId": 56,
+      "address": "0xbf5140a22578168fd562dccf235e5d43a02ce9b1",
+      "symbol": "UNI",
+      "name": "UNI",
+      "tags": ["polychain_capital_portfolio"]
     },
     {
-        "chainId": 137,
-        "address": "0xb33eaad8d922b1083446dc23f610c2567fb5180f",
-        "symbol": "UNI",
-        "name": "UNI",
-        "tags": ["polychain_capital_portfolio"]
+      "chainId": 137,
+      "address": "0xb33eaad8d922b1083446dc23f610c2567fb5180f",
+      "symbol": "UNI",
+      "name": "UNI",
+      "tags": ["polychain_capital_portfolio"]
     },
     {
-        "chainId": 43114,
-        "address": "0x8ebaf22b6f053dffeaf46f4dd9efa95d89ba8580",
-        "symbol": "UNI",
-        "name": "UNI",
-        "tags": ["polychain_capital_portfolio"]
+      "chainId": 43114,
+      "address": "0x8ebaf22b6f053dffeaf46f4dd9efa95d89ba8580",
+      "symbol": "UNI",
+      "name": "UNI",
+      "tags": ["polychain_capital_portfolio"]
     },
     {
-        "chainId": 42161,
-        "address": "0xfa7f8980b0f1e64a2062791cc3b0871572f1f7f0",
-        "symbol": "UNI",
-        "name": "UNI",
-        "tags": ["polychain_capital_portfolio"]
+      "chainId": 42161,
+      "address": "0xfa7f8980b0f1e64a2062791cc3b0871572f1f7f0",
+      "symbol": "UNI",
+      "name": "UNI",
+      "tags": ["polychain_capital_portfolio"]
     },
     {
-        "chainId": 56,
-        "address": "0x1CE0c2827e2eF14D5C4f29a091d735A204794041",
-        "symbol": "AVAX",
-        "name": "AVAX",
-        "tags": ["polychain_capital_portfolio"]
+      "chainId": 56,
+      "address": "0x1CE0c2827e2eF14D5C4f29a091d735A204794041",
+      "symbol": "AVAX",
+      "name": "AVAX",
+      "tags": ["polychain_capital_portfolio"]
     },
     {
-        "chainId": 137,
-        "address": "0x2C89bbc92BD86F8075d1DEcc58C7F4E0107f286b",
-        "symbol": "AVAX",
-        "name": "AVAX",
-        "tags": ["polychain_capital_portfolio"]
+      "chainId": 137,
+      "address": "0x2C89bbc92BD86F8075d1DEcc58C7F4E0107f286b",
+      "symbol": "AVAX",
+      "name": "AVAX",
+      "tags": ["polychain_capital_portfolio"]
     },
     {
-        "chainId": 56,
-        "address": "0x0eb3a705fc54725037cc9e008bdede697f62f335",
-        "symbol": "ATOM",
-        "name": "ATOM",
-        "tags": ["polychain_capital_portfolio"]
+      "chainId": 56,
+      "address": "0x0eb3a705fc54725037cc9e008bdede697f62f335",
+      "symbol": "ATOM",
+      "name": "ATOM",
+      "tags": ["polychain_capital_portfolio"]
     },
     {
-        "chainId": 1,
-        "address": "0x8D983cb9388EaC77af0474fA441C4815500Cb7BB",
-        "symbol": "ATOM",
-        "name": "ATOM",
-        "tags": ["polychain_capital_portfolio"]
+      "chainId": 1,
+      "address": "0x8D983cb9388EaC77af0474fA441C4815500Cb7BB",
+      "symbol": "ATOM",
+      "name": "ATOM",
+      "tags": ["polychain_capital_portfolio"]
     },
     {
-        "chainId": 137,
-        "address": "0xac51C4c48Dc3116487eD4BC16542e27B5694Da1b",
-        "symbol": "ATOM",
-        "name": "ATOM",
-        "tags": ["polychain_capital_portfolio"]
+      "chainId": 137,
+      "address": "0xac51C4c48Dc3116487eD4BC16542e27B5694Da1b",
+      "symbol": "ATOM",
+      "name": "ATOM",
+      "tags": ["polychain_capital_portfolio"]
     },
     {
-        "chainId": 1,
-        "address": "0xbd31ea8212119f94a611fa969881cba3ea06fa3d",
-        "symbol": "LUNC",
-        "name": "LUNC",
-        "tags": ["polychain_capital_portfolio"]
+      "chainId": 1,
+      "address": "0xbd31ea8212119f94a611fa969881cba3ea06fa3d",
+      "symbol": "LUNC",
+      "name": "LUNC",
+      "tags": ["polychain_capital_portfolio"]
     },
     {
-        "chainId": 56,
-        "address": "0x156ab3346823B651294766e23e6Cf87254d68962",
-        "symbol": "LUNC",
-        "name": "LUNC",
-        "tags": ["polychain_capital_portfolio"]
+      "chainId": 56,
+      "address": "0x156ab3346823B651294766e23e6Cf87254d68962",
+      "symbol": "LUNC",
+      "name": "LUNC",
+      "tags": ["polychain_capital_portfolio"]
     },
     {
-        "chainId": 56,
-        "address": "0x16939ef78684453bfdfb47825f8a5f714f12623a",
-        "symbol": "XTZ",
-        "name": "XTZ",
-        "tags": ["polychain_capital_portfolio"]
+      "chainId": 56,
+      "address": "0x16939ef78684453bfdfb47825f8a5f714f12623a",
+      "symbol": "XTZ",
+      "name": "XTZ",
+      "tags": ["polychain_capital_portfolio"]
     },
     {
-        "chainId": 1,
-        "address": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
-        "symbol": "MKR",
-        "name": "MKR",
-        "tags": ["polychain_capital_portfolio"]
+      "chainId": 1,
+      "address": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
+      "symbol": "MKR",
+      "name": "MKR",
+      "tags": ["polychain_capital_portfolio"]
     },
     {
-        "chainId": 56,
-        "address": "0xb86AbCb37C3A4B64f74f59301AFF131a1BEcC787",
-        "symbol": "ZIL",
-        "name": "ZIL",
-        "tags": ["polychain_capital_portfolio"]
+      "chainId": 56,
+      "address": "0xb86AbCb37C3A4B64f74f59301AFF131a1BEcC787",
+      "symbol": "ZIL",
+      "name": "ZIL",
+      "tags": ["polychain_capital_portfolio"]
     },
     {
-        "chainId": 42220,
-        "address": "0x471ece3750da237f93b8e339c536989b8978a438",
-        "symbol": "CELO",
-        "name": "CELO",
-        "tags": ["polychain_capital_portfolio"]
+      "chainId": 42220,
+      "address": "0x471ece3750da237f93b8e339c536989b8978a438",
+      "symbol": "CELO",
+      "name": "CELO",
+      "tags": ["polychain_capital_portfolio"]
     },
     {
-        "chainId": 1,
-        "address": "0xc00e94cb662c3520282e6f5717214004a7f26888",
-        "symbol": "COMP",
-        "name": "COMP",
-        "tags": ["polychain_capital_portfolio"]
+      "chainId": 1,
+      "address": "0xc00e94cb662c3520282e6f5717214004a7f26888",
+      "symbol": "COMP",
+      "name": "COMP",
+      "tags": ["polychain_capital_portfolio"]
     },
     {
-        "chainId": 137,
-        "address": "0x8505b9d2254a7ae468c0e9dd10ccea3a837aef5c",
-        "symbol": "COMP",
-        "name": "COMP",
-        "tags": ["polychain_capital_portfolio"]
+      "chainId": 137,
+      "address": "0x8505b9d2254a7ae468c0e9dd10ccea3a837aef5c",
+      "symbol": "COMP",
+      "name": "COMP",
+      "tags": ["polychain_capital_portfolio"]
     },
     {
-        "chainId": 56,
-        "address": "0x52CE071Bd9b1C4B00A0b92D298c512478CaD67e8",
-        "symbol": "COMP",
-        "name": "COMP",
-        "tags": ["polychain_capital_portfolio"]
+      "chainId": 56,
+      "address": "0x52CE071Bd9b1C4B00A0b92D298c512478CaD67e8",
+      "symbol": "COMP",
+      "name": "COMP",
+      "tags": ["polychain_capital_portfolio"]
     },
     {
-        "chainId": 1,
-        "address": "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
-        "symbol": "YFI",
-        "name": "YFI",
-        "tags": ["polychain_capital_portfolio"]
+      "chainId": 1,
+      "address": "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
+      "symbol": "YFI",
+      "name": "YFI",
+      "tags": ["polychain_capital_portfolio"]
     },
     {
-        "chainId": 137,
-        "address": "0xda537104d6a5edd53c6fbba9a898708e465260b6",
-        "symbol": "YFI",
-        "name": "YFI",
-        "tags": ["polychain_capital_portfolio"]
+      "chainId": 137,
+      "address": "0xda537104d6a5edd53c6fbba9a898708e465260b6",
+      "symbol": "YFI",
+      "name": "YFI",
+      "tags": ["polychain_capital_portfolio"]
     },
     {
-        "chainId": 43114,
-        "address": "0x9eaac1b23d935365bd7b542fe22ceee2922f52dc",
-        "symbol": "YFI",
-        "name": "YFI",
-        "tags": ["polychain_capital_portfolio"]
+      "chainId": 43114,
+      "address": "0x9eaac1b23d935365bd7b542fe22ceee2922f52dc",
+      "symbol": "YFI",
+      "name": "YFI",
+      "tags": ["polychain_capital_portfolio"]
     },
     {
-        "chainId": 250,
-        "address": "0x29b0da86e484e1c0029b56e817912d778ac0ec69",
-        "symbol": "YFI",
-        "name": "YFI",
-        "tags": ["polychain_capital_portfolio"]
+      "chainId": 250,
+      "address": "0x29b0da86e484e1c0029b56e817912d778ac0ec69",
+      "symbol": "YFI",
+      "name": "YFI",
+      "tags": ["polychain_capital_portfolio"]
     },
     {
-        "chainId": 100,
-        "address": "0xbf65bfcb5da067446cee6a706ba3fe2fb1a9fdfd",
-        "symbol": "YFI",
-        "name": "YFI",
-        "tags": ["polychain_capital_portfolio"]
+      "chainId": 100,
+      "address": "0xbf65bfcb5da067446cee6a706ba3fe2fb1a9fdfd",
+      "symbol": "YFI",
+      "name": "YFI",
+      "tags": ["polychain_capital_portfolio"]
     },
     {
-        "chainId": 56,
-        "address": "0x88f1a5ae2a3bf98aeaf342d26b30a79438c9142e",
-        "symbol": "YFI",
-        "name": "YFI",
-        "tags": ["polychain_capital_portfolio"]
+      "chainId": 56,
+      "address": "0x88f1a5ae2a3bf98aeaf342d26b30a79438c9142e",
+      "symbol": "YFI",
+      "name": "YFI",
+      "tags": ["polychain_capital_portfolio"]
     },
     {
-        "chainId": 1,
-        "address": "0x26B80FBfC01b71495f477d5237071242e0d959d7",
-        "symbol": "ROSE",
-        "name": "ROSE",
-        "tags": ["polychain_capital_portfolio"]
+      "chainId": 1,
+      "address": "0x26B80FBfC01b71495f477d5237071242e0d959d7",
+      "symbol": "ROSE",
+      "name": "ROSE",
+      "tags": ["polychain_capital_portfolio"]
     },
     {
-        "chainId": 56,
-        "address": "0x6c6D604D3f07aBE287C1A3dF0281e999A83495C0",
-        "symbol": "ROSE",
-        "name": "ROSE",
-        "tags": ["polychain_capital_portfolio"]
+      "chainId": 56,
+      "address": "0x6c6D604D3f07aBE287C1A3dF0281e999A83495C0",
+      "symbol": "ROSE",
+      "name": "ROSE",
+      "tags": ["polychain_capital_portfolio"]
     },
     {
-        "chainId": 43114,
-        "address": "0x12AF5C1a232675f62F405b5812A80e7a6F75D746",
-        "symbol": "ROSE",
-        "name": "ROSE",
-        "tags": ["polychain_capital_portfolio"]
+      "chainId": 43114,
+      "address": "0x12AF5C1a232675f62F405b5812A80e7a6F75D746",
+      "symbol": "ROSE",
+      "name": "ROSE",
+      "tags": ["polychain_capital_portfolio"]
     },
     {
-        "chainId": 1,
-        "address": "0x92d6c1e31e14520e676a687f0a93788b716beff5",
-        "symbol": "DYDX",
-        "name": "DYDX",
-        "tags": ["polychain_capital_portfolio"]
+      "chainId": 1,
+      "address": "0x92d6c1e31e14520e676a687f0a93788b716beff5",
+      "symbol": "DYDX",
+      "name": "DYDX",
+      "tags": ["polychain_capital_portfolio"]
     },
     {
-        "chainId": 1,
-        "address": "0xe41d2489571d322189246dafa5ebde1f4699f498",
-        "symbol": "ZRX",
-        "name": "ZRX",
-        "tags": ["polychain_capital_portfolio"]
+      "chainId": 1,
+      "address": "0xe41d2489571d322189246dafa5ebde1f4699f498",
+      "symbol": "ZRX",
+      "name": "ZRX",
+      "tags": ["polychain_capital_portfolio"]
     },
     {
-        "chainId": 43114,
-        "address": "0x596fa47043f99a4e0f122243b841e55375cde0d2",
-        "symbol": "ZRX",
-        "name": "ZRX",
-        "tags": ["polychain_capital_portfolio"]
+      "chainId": 43114,
+      "address": "0x596fa47043f99a4e0f122243b841e55375cde0d2",
+      "symbol": "ZRX",
+      "name": "ZRX",
+      "tags": ["polychain_capital_portfolio"]
     },
     {
-        "chainId": 1,
-        "address": "0x4fE83213D56308330EC302a8BD641f1d0113A4Cc",
-        "symbol": "NU",
-        "name": "NU",
-        "tags": ["polychain_capital_portfolio"]
+      "chainId": 1,
+      "address": "0x4fE83213D56308330EC302a8BD641f1d0113A4Cc",
+      "symbol": "NU",
+      "name": "NU",
+      "tags": ["polychain_capital_portfolio"]
     },
     {
-        "chainId": 1,
-        "address": "0x408e41876cccdc0f92210600ef50372656052a38",
-        "symbol": "REN",
-        "name": "REN",
-        "tags": ["polychain_capital_portfolio"]
+      "chainId": 1,
+      "address": "0x408e41876cccdc0f92210600ef50372656052a38",
+      "symbol": "REN",
+      "name": "REN",
+      "tags": ["polychain_capital_portfolio"]
     },
     {
-        "chainId": 1,
-        "address": "0x6DEA81C8171D0bA574754EF6F8b412F2Ed88c54D",
-        "symbol": "LQTY",
-        "name": "LQTY",
-        "tags": ["polychain_capital_portfolio"]
+      "chainId": 1,
+      "address": "0x6DEA81C8171D0bA574754EF6F8b412F2Ed88c54D",
+      "symbol": "LQTY",
+      "name": "LQTY",
+      "tags": ["polychain_capital_portfolio"]
     },
     {
-        "chainId": 1,
-        "address": "0xff742d05420b6aca4481f635ad8341f81a6300c2",
-        "symbol": "ASD",
-        "name": "ASD",
-        "tags": ["polychain_capital_portfolio"]
+      "chainId": 1,
+      "address": "0xff742d05420b6aca4481f635ad8341f81a6300c2",
+      "symbol": "ASD",
+      "name": "ASD",
+      "tags": ["polychain_capital_portfolio"]
     },
     {
-        "chainId": 1,
-        "address": "0x4575f41308EC1483f3d399aa9a2826d74Da13Deb",
-        "symbol": "OXT",
-        "name": "OXT",
-        "tags": ["polychain_capital_portfolio"]
+      "chainId": 1,
+      "address": "0x4575f41308EC1483f3d399aa9a2826d74Da13Deb",
+      "symbol": "OXT",
+      "name": "OXT",
+      "tags": ["polychain_capital_portfolio"]
     },
     {
-        "chainId": 1,
-        "address": "0x85eee30c52b0b379b046fb0f85f4f3dc3009afec",
-        "symbol": "KEEP",
-        "name": "KEEP",
-        "tags": ["polychain_capital_portfolio"]
+      "chainId": 1,
+      "address": "0x85eee30c52b0b379b046fb0f85f4f3dc3009afec",
+      "symbol": "KEEP",
+      "name": "KEEP",
+      "tags": ["polychain_capital_portfolio"]
     },
     {
-        "chainId": 1,
-        "address": "0x467719ad09025fcc6cf6f8311755809d45a5e5f3",
-        "symbol": "WAXL",
-        "name": "WAXL",
-        "tags": ["polychain_capital_portfolio"]
+      "chainId": 1,
+      "address": "0x467719ad09025fcc6cf6f8311755809d45a5e5f3",
+      "symbol": "WAXL",
+      "name": "WAXL",
+      "tags": ["polychain_capital_portfolio"]
     },
     {
-        "chainId": 56,
-        "address": "0x8b1f4432f943c465a973fedc6d7aa50fc96f1f65",
-        "symbol": "WAXL",
-        "name": "WAXL",
-        "tags": ["polychain_capital_portfolio"]
+      "chainId": 56,
+      "address": "0x8b1f4432f943c465a973fedc6d7aa50fc96f1f65",
+      "symbol": "WAXL",
+      "name": "WAXL",
+      "tags": ["polychain_capital_portfolio"]
     },
     {
-        "chainId": 43114,
-        "address": "0x44c784266cf024a60e8acf2427b9857ace194c5d",
-        "symbol": "WAXL",
-        "name": "WAXL",
-        "tags": ["polychain_capital_portfolio"]
+      "chainId": 43114,
+      "address": "0x44c784266cf024a60e8acf2427b9857ace194c5d",
+      "symbol": "WAXL",
+      "name": "WAXL",
+      "tags": ["polychain_capital_portfolio"]
     },
     {
-        "chainId": 137,
-        "address": "0x6e4e624106cb12e168e6533f8ec7c82263358940",
-        "symbol": "WAXL",
-        "name": "WAXL",
-        "tags": ["polychain_capital_portfolio"]
+      "chainId": 137,
+      "address": "0x6e4e624106cb12e168e6533f8ec7c82263358940",
+      "symbol": "WAXL",
+      "name": "WAXL",
+      "tags": ["polychain_capital_portfolio"]
     },
     {
-        "chainId": 250,
-        "address": "0x8b1f4432f943c465a973fedc6d7aa50fc96f1f65",
-        "symbol": "WAXL",
-        "name": "WAXL",
-        "tags": ["polychain_capital_portfolio"]
+      "chainId": 250,
+      "address": "0x8b1f4432f943c465a973fedc6d7aa50fc96f1f65",
+      "symbol": "WAXL",
+      "name": "WAXL",
+      "tags": ["polychain_capital_portfolio"]
     },
     {
-        "chainId": 1,
-        "address": "0x3472a5a71965499acd81997a54bba8d852c6e53d",
-        "symbol": "BADGER",
-        "name": "BADGER",
-        "tags": ["polychain_capital_portfolio"]
+      "chainId": 1,
+      "address": "0x3472a5a71965499acd81997a54bba8d852c6e53d",
+      "symbol": "BADGER",
+      "name": "BADGER",
+      "tags": ["polychain_capital_portfolio"]
     },
     {
-        "chainId": 42161,
-        "address": "0xbfa641051ba0a0ad1b0acf549a89536a0d76472e",
-        "symbol": "BADGER",
-        "name": "BADGER",
-        "tags": ["polychain_capital_portfolio"]
+      "chainId": 42161,
+      "address": "0xbfa641051ba0a0ad1b0acf549a89536a0d76472e",
+      "symbol": "BADGER",
+      "name": "BADGER",
+      "tags": ["polychain_capital_portfolio"]
     },
     {
-        "chainId": 137,
-        "address": "0x1fcbe5937b0cc2adf69772d228fa4205acf4d9b2",
-        "symbol": "BADGER",
-        "name": "BADGER",
-        "tags": ["polychain_capital_portfolio"]
+      "chainId": 137,
+      "address": "0x1fcbe5937b0cc2adf69772d228fa4205acf4d9b2",
+      "symbol": "BADGER",
+      "name": "BADGER",
+      "tags": ["polychain_capital_portfolio"]
     },
     {
-        "chainId": 1,
-        "address": "0x80c62fe4487e1351b47ba49809ebd60ed085bf52",
-        "symbol": "CLV",
-        "name": "CLV",
-        "tags": ["polychain_capital_portfolio"]
+      "chainId": 1,
+      "address": "0x80c62fe4487e1351b47ba49809ebd60ed085bf52",
+      "symbol": "CLV",
+      "name": "CLV",
+      "tags": ["polychain_capital_portfolio"]
     },
     {
-        "chainId": 56,
-        "address": "0x09e889bb4d5b474f561db0491c38702f367a4e4d",
-        "symbol": "CLV",
-        "name": "CLV",
-        "tags": ["polychain_capital_portfolio"]
+      "chainId": 56,
+      "address": "0x09e889bb4d5b474f561db0491c38702f367a4e4d",
+      "symbol": "CLV",
+      "name": "CLV",
+      "tags": ["polychain_capital_portfolio"]
     },
     {
-        "chainId": 1,
-        "address": "0x33349b282065b0284d756f0577fb39c158f935e6",
-        "symbol": "MPL",
-        "name": "MPL",
-        "tags": ["polychain_capital_portfolio"]
+      "chainId": 1,
+      "address": "0x33349b282065b0284d756f0577fb39c158f935e6",
+      "symbol": "MPL",
+      "name": "MPL",
+      "tags": ["polychain_capital_portfolio"]
     },
     {
-        "chainId": 1,
-        "address": "0xc0a4df35568f116c370e6a6a6022ceb908eeddac",
-        "symbol": "UMEE",
-        "name": "UMEE",
-        "tags": ["polychain_capital_portfolio"]
+      "chainId": 1,
+      "address": "0xc0a4df35568f116c370e6a6a6022ceb908eeddac",
+      "symbol": "UMEE",
+      "name": "UMEE",
+      "tags": ["polychain_capital_portfolio"]
     },
     {
-        "chainId": 1,
-        "address": "0xfa5047c9c78b8877af97bdcb85db743fd7313d4a",
-        "symbol": "ROOK",
-        "name": "ROOK",
-        "tags": ["polychain_capital_portfolio"]
+      "chainId": 1,
+      "address": "0xfa5047c9c78b8877af97bdcb85db743fd7313d4a",
+      "symbol": "ROOK",
+      "name": "ROOK",
+      "tags": ["polychain_capital_portfolio"]
     },
     {
-        "chainId": 1,
-        "address": "0x3a880652f47bfaa771908c07dd8673a787daed3a",
-        "symbol": "DDX",
-        "name": "DDX",
-        "tags": ["polychain_capital_portfolio"]
+      "chainId": 1,
+      "address": "0x3a880652f47bfaa771908c07dd8673a787daed3a",
+      "symbol": "DDX",
+      "name": "DDX",
+      "tags": ["polychain_capital_portfolio"]
     },
     {
-        "chainId": 1,
-        "address": "0x35bd01fc9d6d5d81ca9e055db88dc49aa2c699a8",
-        "symbol": "FWB",
-        "name": "FWB",
-        "tags": ["polychain_capital_portfolio"]
+      "chainId": 1,
+      "address": "0x35bd01fc9d6d5d81ca9e055db88dc49aa2c699a8",
+      "symbol": "FWB",
+      "name": "FWB",
+      "tags": ["polychain_capital_portfolio"]
     },
     {
-        "chainId": 1,
-        "address": "0xcfeaead4947f0705a14ec42ac3d44129e1ef3ed5",
-        "symbol": "NOTE",
-        "name": "NOTE",
-        "tags": ["polychain_capital_portfolio"]
+      "chainId": 1,
+      "address": "0xcfeaead4947f0705a14ec42ac3d44129e1ef3ed5",
+      "symbol": "NOTE",
+      "name": "NOTE",
+      "tags": ["polychain_capital_portfolio"]
     },
     {
-        "chainId": 1,
-        "address": "0x888888435fde8e7d4c54cab67f206e4199454c60",
-        "symbol": "DFX",
-        "name": "DFX",
-        "tags": ["polychain_capital_portfolio"]
+      "chainId": 1,
+      "address": "0x888888435fde8e7d4c54cab67f206e4199454c60",
+      "symbol": "DFX",
+      "name": "DFX",
+      "tags": ["polychain_capital_portfolio"]
     },
     {
-        "chainId": 1,
-        "address": "0xE7804D91dfCDE7F776c90043E03eAa6Df87E6395",
-        "symbol": "DFX",
-        "name": "DFX",
-        "tags": ["polychain_capital_portfolio"]
+      "chainId": 1,
+      "address": "0xE7804D91dfCDE7F776c90043E03eAa6Df87E6395",
+      "symbol": "DFX",
+      "name": "DFX",
+      "tags": ["polychain_capital_portfolio"]
     },
     {
-        "chainId": 1,
-        "address": "0xb26c4b3ca601136daf98593feaeff9e0ca702a8d",
-        "symbol": "ALD",
-        "name": "ALD",
-        "tags": ["polychain_capital_portfolio"]
+      "chainId": 1,
+      "address": "0xb26c4b3ca601136daf98593feaeff9e0ca702a8d",
+      "symbol": "ALD",
+      "name": "ALD",
+      "tags": ["polychain_capital_portfolio"]
     },
     {
-        "chainId": 1,
-        "address": "0xf1Dc500FdE233A4055e25e5BbF516372BC4F6871",
-        "symbol": "SDL",
-        "name": "SDL",
-        "tags": ["polychain_capital_portfolio"]
+      "chainId": 1,
+      "address": "0xf1Dc500FdE233A4055e25e5BbF516372BC4F6871",
+      "symbol": "SDL",
+      "name": "SDL",
+      "tags": ["polychain_capital_portfolio"]
     },
     {
-        "chainId": 42161,
-        "address": "0x75C9bC761d88f70156DAf83aa010E84680baF131",
-        "symbol": "SDL",
-        "name": "SDL",
-        "tags": ["polychain_capital_portfolio"]
+      "chainId": 42161,
+      "address": "0x75C9bC761d88f70156DAf83aa010E84680baF131",
+      "symbol": "SDL",
+      "name": "SDL",
+      "tags": ["polychain_capital_portfolio"]
     },
     {
-        "chainId": 1,
-        "address": "0xfe459828c90c0ba4bc8b42f5c5d44f316700b430",
-        "symbol": "BBS",
-        "name": "BBS",
-        "tags": ["polychain_capital_portfolio"]
+      "chainId": 1,
+      "address": "0xfe459828c90c0ba4bc8b42f5c5d44f316700b430",
+      "symbol": "BBS",
+      "name": "BBS",
+      "tags": ["polychain_capital_portfolio"]
     },
     {
-        "chainId": 56,
-        "address": "0xa477a79a118a84a0d371a53c8f46f8ce883ec1dd",
-        "symbol": "BBS",
-        "name": "BBS",
-        "tags": ["polychain_capital_portfolio"]
+      "chainId": 56,
+      "address": "0xa477a79a118a84a0d371a53c8f46f8ce883ec1dd",
+      "symbol": "BBS",
+      "name": "BBS",
+      "tags": ["polychain_capital_portfolio"]
     },
     {
-        "chainId": 1,
-        "address": "0x1ab43204a195a0fd37edec621482afd3792ef90b",
-        "symbol": "PLY",
-        "name": "PLY",
-        "tags": ["polychain_capital_portfolio"]
+      "chainId": 1,
+      "address": "0x1ab43204a195a0fd37edec621482afd3792ef90b",
+      "symbol": "PLY",
+      "name": "PLY",
+      "tags": ["polychain_capital_portfolio"]
     },
     {
-        "chainId": 1,
-        "address": "0xa670d7237398238DE01267472C6f13e5B8010FD1",
-        "symbol": "SOMM",
-        "name": "SOMM",
-        "tags": ["polychain_capital_portfolio"]
+      "chainId": 1,
+      "address": "0xa670d7237398238DE01267472C6f13e5B8010FD1",
+      "symbol": "SOMM",
+      "name": "SOMM",
+      "tags": ["polychain_capital_portfolio"]
     }
   ],
   "version": {
