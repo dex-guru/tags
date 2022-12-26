@@ -1,0 +1,276 @@
+{
+  "name": "Bitscale Capital Portfolio",
+  "tags": {
+    "bitscale_capital_portfolio": {
+      "name": "Bitscale Capital Portfolio",
+      "description": ""
+    }
+  },
+  "timestamp": "2022-12-25T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x7083609fce4d1d8dc0c979aab8c869ea2c873402",
+      "symbol": "DOT",
+      "name": "DOT",
+      "tags": ["bitscale_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x16939ef78684453bfdfb47825f8a5f714f12623a",
+      "symbol": "XTZ",
+      "name": "XTZ",
+      "tags": ["bitscale_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4e15361fd6b4bb609fa63c81a2be19d873717870",
+      "symbol": "FTM",
+      "name": "FTM",
+      "tags": ["bitscale_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xad29abb318791d579433d831ed122afeaf29dcfe",
+      "symbol": "FTM",
+      "name": "FTM",
+      "tags": ["bitscale_capital_portfolio"]
+    },
+    {
+      "chainId": 42220,
+      "address": "0x218c3c3d49d0e7b37aff0d8bb079de36ae61a4c0",
+      "symbol": "FTM",
+      "name": "FTM",
+      "tags": ["bitscale_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x949d48eca67b17269629c7194f4b727d4ef9e5d6",
+      "symbol": "MC",
+      "name": "MC",
+      "tags": ["bitscale_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x767fe9edc9e0df98e07454847909b5e959d7ca0e",
+      "symbol": "ILV",
+      "name": "ILV",
+      "tags": ["bitscale_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x915044526758533dfB918ecEb6e44bc21632060D",
+      "symbol": "CHR",
+      "name": "CHR",
+      "tags": ["bitscale_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x91af0fbb28aba7e31403cb457106ce79397fd4e6",
+      "symbol": "AERGO",
+      "name": "AERGO",
+      "tags": ["bitscale_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x57b946008913b82e4df85f501cbaed910e58d26c",
+      "symbol": "POND",
+      "name": "POND",
+      "tags": ["bitscale_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xac51066d7bec65dc4589368da368b212745d63e8",
+      "symbol": "ALICE",
+      "name": "ALICE",
+      "tags": ["bitscale_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xac51066d7bec65dc4589368da368b212745d63e8",
+      "symbol": "ALICE",
+      "name": "ALICE",
+      "tags": ["bitscale_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x25f8087ead173b73d6e8b84329989a8eea16cf73",
+      "symbol": "YGG",
+      "name": "YGG",
+      "tags": ["bitscale_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x19062190b1925b5b6689d7073fdfc8c2976ef8cb",
+      "symbol": "BZZ",
+      "name": "BZZ",
+      "tags": ["bitscale_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2da719db753dfa10a62e140f436e1d67f2ddb0d6",
+      "symbol": "CERE",
+      "name": "CERE",
+      "tags": ["bitscale_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x33349b282065b0284d756f0577fb39c158f935e6",
+      "symbol": "MPL",
+      "name": "MPL",
+      "tags": ["bitscale_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x23ce9e926048273ef83be0a3a8ba9cb6d45cd978",
+      "symbol": "DAR",
+      "name": "DAR",
+      "tags": ["bitscale_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x081131434f93063751813c619ecca9c4dc7862a3",
+      "symbol": "DAR",
+      "name": "DAR",
+      "tags": ["bitscale_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6b0b3a982b4634ac68dd83a4dbf02311ce324181",
+      "symbol": "ALI",
+      "name": "ALI",
+      "tags": ["bitscale_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x32a7c02e79c4ea1008dd6564b35f131428673c41",
+      "symbol": "CRU",
+      "name": "CRU",
+      "tags": ["bitscale_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x808507121b80c02388fad14726482e061b8da827",
+      "symbol": "PENDLE",
+      "name": "PENDLE",
+      "tags": ["bitscale_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf418588522d5dd018b425e472991e52ebbeeeeee",
+      "symbol": "PUSH",
+      "name": "PUSH",
+      "tags": ["bitscale_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x9fd87aefe02441b123c3c32466cd9db4c578618f",
+      "symbol": "THG",
+      "name": "THG",
+      "tags": ["bitscale_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4b520c812e8430659fc9f12f6d0c39026c83588d",
+      "symbol": "DG",
+      "name": "DG",
+      "tags": ["bitscale_capital_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xef938b6da8576a896f6e0321ef80996f4890f9c4",
+      "symbol": "DG",
+      "name": "DG",
+      "tags": ["bitscale_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x83e9f223e1edb3486f876ee888d76bfba26c475a",
+      "symbol": "GUILD",
+      "name": "GUILD",
+      "tags": ["bitscale_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x0565805ca3a4105faee51983b0bd8ffb5ce1455c",
+      "symbol": "GUILD",
+      "name": "GUILD",
+      "tags": ["bitscale_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xca1207647Ff814039530D7d35df0e1Dd2e91Fa84",
+      "symbol": "DHT",
+      "name": "DHT",
+      "tags": ["bitscale_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6bb61215298f296c55b19ad842d3df69021da2ef",
+      "symbol": "DOP",
+      "name": "DOP",
+      "tags": ["bitscale_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x9df465460938f9EBDF51C38CC87D72184471F8F0",
+      "symbol": "GENE",
+      "name": "GENE",
+      "tags": ["bitscale_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x94E9EB8b5Ab9fd6B9ea3169D55FFAde62a01702e",
+      "symbol": "BREED",
+      "name": "BREED",
+      "tags": ["bitscale_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x07bac35846e5ed502aa91adf6a9e7aa210f2dcbe",
+      "symbol": "EROWAN",
+      "name": "EROWAN",
+      "tags": ["bitscale_capital_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xa7051c5a22d963b81d71c2ba64d46a877fbc1821",
+      "symbol": "EROWAN",
+      "name": "EROWAN",
+      "tags": ["bitscale_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb0e1fc65c1a741b4662b813eb787d369b8614af1",
+      "symbol": "IF",
+      "name": "IF",
+      "tags": ["bitscale_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xb0e1fc65c1a741b4662b813eb787d369b8614af1",
+      "symbol": "IF",
+      "name": "IF",
+      "tags": ["bitscale_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb5c578947de0fd71303f71f2c3d41767438bd0de",
+      "symbol": "DEVT",
+      "name": "DEVT",
+      "tags": ["bitscale_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x6ef238e9e8cd2a96740897761c18894fc086b9d0",
+      "symbol": "MYRA",
+      "name": "MYRA",
+      "tags": ["bitscale_capital_portfolio"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "name": "Lightspeed Venture Partners Portfolio",
+  "tags": {
+    "lightspeed_venture_partners_portfolio": {
+      "name": "Lightspeed Venture Partners Portfolio",
+      "description": ""
+    }
+  },
+  "timestamp": "2022-12-25T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe",
+      "symbol": "XRP",
+      "name": "XRP",
+      "tags": ["lightspeed_venture_partners_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4d224452801aced8b2f0aebe155379bb5d594381",
+      "symbol": "APE",
+      "name": "APE",
+      "tags": ["lightspeed_venture_partners_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC229c69eB3BB51828D0cAA3509A05a51083898dd",
+      "symbol": "PTU",
+      "name": "PTU",
+      "tags": ["lightspeed_venture_partners_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdddddd4301a082e62e84e43f474f044423921918",
+      "symbol": "DVF",
+      "name": "DVF",
+      "tags": ["lightspeed_venture_partners_portfolio"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0xa7aa2921618e3d63da433829d448b58c9445a4c3",
+      "symbol": "DVF",
+      "name": "DVF",
+      "tags": ["lightspeed_venture_partners_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8dBF9A4c99580fC7Fd4024ee08f3994420035727",
+      "symbol": "ECO",
+      "name": "ECO",
+      "tags": ["lightspeed_venture_partners_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3449FC1Cd036255BA1EB19d65fF4BA2b8903A69a",
+      "symbol": "BAC",
+      "name": "BAC",
+      "tags": ["lightspeed_venture_partners_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
+      "symbol": "FTT",
+      "name": "FTT",
+      "tags": ["lightspeed_venture_partners_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3392d8a60b77f8d3eaa4fb58f09d835bd31add29",
+      "symbol": "INDI",
+      "name": "INDI",
+      "tags": ["lightspeed_venture_partners_portfolio"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "name": "Tiger Global Management Portfolio",
+  "tags": {
+    "tiger_global_management_portfolio": {
+      "name": "Tiger Global Management Portfolio",
+      "description": ""
+    }
+  },
+  "timestamp": "2022-12-23T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
+      "symbol": "MATIC",
+      "name": "MATIC",
+      "tags": ["tiger_global_management_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xCC42724C6683B7E57334c4E856f4c9965ED682bD",
+      "symbol": "MATIC",
+      "name": "MATIC",
+      "tags": ["tiger_global_management_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x0000000000000000000000000000000000001010",
+      "symbol": "MATIC",
+      "name": "MATIC",
+      "tags": ["tiger_global_management_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4d224452801aced8b2f0aebe155379bb5d594381",
+      "symbol": "APE",
+      "name": "APE",
+      "tags": ["tiger_global_management_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc944e90c64b2c07662a292be6244bdf05cda44a7",
+      "symbol": "GRT",
+      "name": "GRT",
+      "tags": ["tiger_global_management_portfolio"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0x23a941036ae778ac51ab04cea08ed6e2fe103614",
+      "symbol": "GRT",
+      "name": "GRT",
+      "tags": ["tiger_global_management_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x5fe2b58c013d7601147dcdd68c143a77499f5531",
+      "symbol": "GRT",
+      "name": "GRT",
+      "tags": ["tiger_global_management_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x8a0cac13c7da965a312f08ea4229c37869e85cb9",
+      "symbol": "GRT",
+      "name": "GRT",
+      "tags": ["tiger_global_management_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x58b6a8a3302369daec383334672404ee733ab239",
+      "symbol": "LPT",
+      "name": "LPT",
+      "tags": ["tiger_global_management_portfolio"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0x289ba1701C2F088cf0faf8B3705246331cB8A839",
+      "symbol": "LPT",
+      "name": "LPT",
+      "tags": ["tiger_global_management_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x476c5e26a75bd202a9683ffd34359c0cc15be0ff",
+      "symbol": "SRM",
+      "name": "SRM",
+      "tags": ["tiger_global_management_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x52a8845df664d76c69d2eea607cd793565af42b8",
+      "symbol": "APEX",
+      "name": "APEX",
+      "tags": ["tiger_global_management_portfolio"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0x61a1ff55c5216b636a294a07d77c6f4df10d3b56",
+      "symbol": "APEX",
+      "name": "APEX",
+      "tags": ["tiger_global_management_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x799ebfabe77a6e34311eeee9825190b9ece32824",
+      "symbol": "BTRST",
+      "name": "BTRST",
+      "tags": ["tiger_global_management_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf418588522d5dd018b425e472991e52ebbeeeeee",
+      "symbol": "PUSH",
+      "name": "PUSH",
+      "tags": ["tiger_global_management_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
+      "symbol": "FTT",
+      "name": "FTT",
+      "tags": ["tiger_global_management_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfAbA6f8e4a5E8Ab82F62fe7C39859FA577269BE3",
+      "symbol": "ONDO",
+      "name": "ONDO",
+      "tags": ["tiger_global_management_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCa14007Eff0dB1f8135f4C25B34De49AB0d42766",
+      "symbol": "STRK",
+      "name": "STRK",
+      "tags": ["tiger_global_management_portfolio"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}

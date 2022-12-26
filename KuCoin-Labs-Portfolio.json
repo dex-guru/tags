@@ -1,0 +1,248 @@
+{
+  "name": "KuCoin Labs Portfolio",
+  "tags": {
+    "kucoin_labs_portfolio": {
+      "name": "KuCoin Labs Portfolio",
+      "description": ""
+    }
+  },
+  "timestamp": "2022-12-26T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 137,
+      "address": "0x229b1b6c23ff8953d663c4cbb519717e323a0a84",
+      "symbol": "BLOK",
+      "name": "BLOK",
+      "tags": ["kucoin_labs_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x505b5eda5e25a67e1c24a2bf1a527ed9eb88bf04",
+      "symbol": "CWEB",
+      "name": "CWEB",
+      "tags": ["kucoin_labs_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xF2c96E402c9199682d5dED26D3771c6B192c01af",
+      "symbol": "SCLP",
+      "name": "SCLP",
+      "tags": ["kucoin_labs_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x23894DC9da6c94ECb439911cAF7d337746575A72",
+      "symbol": "JAM",
+      "name": "JAM",
+      "tags": ["kucoin_labs_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa130e3a33a4d84b04c3918c4e5762223ae252f80",
+      "symbol": "SWASH",
+      "name": "SWASH",
+      "tags": ["kucoin_labs_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x23c5D1164662758b3799103Effe19cC064d897D6",
+      "symbol": "AURA",
+      "name": "AURA",
+      "tags": ["kucoin_labs_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcd1faff6e578fa5cac469d2418c95671ba1a62fe",
+      "symbol": "XTM",
+      "name": "XTM",
+      "tags": ["kucoin_labs_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xcd1faff6e578fa5cac469d2418c95671ba1a62fe",
+      "symbol": "XTM",
+      "name": "XTM",
+      "tags": ["kucoin_labs_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xe1c42be9699ff4e11674819c1885d43bd92e9d15",
+      "symbol": "XTM",
+      "name": "XTM",
+      "tags": ["kucoin_labs_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x474021845c4643113458ea4414bdb7fb74a01a77",
+      "symbol": "UNO",
+      "name": "UNO",
+      "tags": ["kucoin_labs_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x5f2f6c4c491b690216e0f8ea753ff49ef4e36ba6",
+      "symbol": "MLS",
+      "name": "MLS",
+      "tags": ["kucoin_labs_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf4d861575ecc9493420a3f5a14f85b13f0b50eb3",
+      "symbol": "FCL",
+      "name": "FCL",
+      "tags": ["kucoin_labs_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd38bb40815d2b0c2d2c866e0c72c5728ffc76dd9",
+      "symbol": "SIS",
+      "name": "SIS",
+      "tags": ["kucoin_labs_portfolio"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0x9e758b8a98a42d612b3d38b66a22074dc03d7370",
+      "symbol": "SIS",
+      "name": "SIS",
+      "tags": ["kucoin_labs_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x60be1e1fe41c1370adaf5d8e66f07cf1c2df2268",
+      "symbol": "PERC",
+      "name": "PERC",
+      "tags": ["kucoin_labs_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd7d8f3b8bc8bc48d3acc37879eaba7b85889fa52",
+      "symbol": "CLH",
+      "name": "CLH",
+      "tags": ["kucoin_labs_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x071AC29d569a47EbfFB9e57517F855Cb577DCc4C",
+      "symbol": "GCOIN",
+      "name": "GCOIN",
+      "tags": ["kucoin_labs_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9040e237C3bF18347bb00957Dc22167D0f2b999d",
+      "symbol": "STND",
+      "name": "STND",
+      "tags": ["kucoin_labs_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x724a32dfff9769a0a0e1f0515c0012d1fb14c3bd",
+      "symbol": "SQUAD",
+      "name": "SQUAD",
+      "tags": ["kucoin_labs_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xc3028fbc1742a16a5d69de1b334cbce28f5d7eb3",
+      "symbol": "SSS",
+      "name": "SSS",
+      "tags": ["kucoin_labs_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x94b69263FCA20119Ae817b6f783Fc0F13B02ad50",
+      "symbol": "LOA",
+      "name": "LOA",
+      "tags": ["kucoin_labs_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x936B6659Ad0C1b244Ba8Efe639092acae30dc8d6",
+      "symbol": "CO",
+      "name": "CO",
+      "tags": ["kucoin_labs_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd85ad783cc94bd04196a13dc042a3054a9b52210",
+      "symbol": "HAKA",
+      "name": "HAKA",
+      "tags": ["kucoin_labs_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xd85ad783cc94bd04196a13dc042a3054a9b52210",
+      "symbol": "HAKA",
+      "name": "HAKA",
+      "tags": ["kucoin_labs_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x0cca2f5561bb0fca88e5b9b48b7fbf000349c357",
+      "symbol": "ZODI",
+      "name": "ZODI",
+      "tags": ["kucoin_labs_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x45c13620b55c35a5f539d26e88247011eb10fdbd",
+      "symbol": "HCT",
+      "name": "HCT",
+      "tags": ["kucoin_labs_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xD9063a24630f24cd4Dc99a9C7aBe73F82Fc6B722",
+      "symbol": "ARNM",
+      "name": "ARNM",
+      "tags": ["kucoin_labs_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd9063a24630f24cd4dc99a9c7abe73f82fc6b722",
+      "symbol": "ARNM",
+      "name": "ARNM",
+      "tags": ["kucoin_labs_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xa803778ab953d3ffe4fbd20cfa0042ecefe8319d",
+      "symbol": "CTZN",
+      "name": "CTZN",
+      "tags": ["kucoin_labs_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa803778ab953d3ffe4fbd20cfa0042ecefe8319d",
+      "symbol": "CTZN",
+      "name": "CTZN",
+      "tags": ["kucoin_labs_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbd9908b0cdd50386f92efcc8e1d71766c2782df0",
+      "symbol": "RICE",
+      "name": "RICE",
+      "tags": ["kucoin_labs_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x26193c7fa4354ae49ec53ea2cebc513dc39a10aa",
+      "symbol": "SEA",
+      "name": "SEA",
+      "tags": ["kucoin_labs_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x1e155e26085be757780b45a5420d9f16a938f76b",
+      "symbol": "KARA",
+      "name": "KARA",
+      "tags": ["kucoin_labs_portfolio"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}

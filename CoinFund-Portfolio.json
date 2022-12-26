@@ -1,0 +1,199 @@
+{
+  "name": "CoinFund Portfolio",
+  "tags": {
+    "coinfund_portfolio": {
+      "name": "CoinFund Portfolio",
+      "description": ""
+    }
+  },
+  "timestamp": "2022-12-25T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
+      "symbol": "MATIC",
+      "name": "MATIC",
+      "tags": ["coinfund_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xCC42724C6683B7E57334c4E856f4c9965ED682bD",
+      "symbol": "MATIC",
+      "name": "MATIC",
+      "tags": ["coinfund_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x0000000000000000000000000000000000001010",
+      "symbol": "MATIC",
+      "name": "MATIC",
+      "tags": ["coinfund_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xba100000625a3754423978a60c9317c58a424e3D",
+      "symbol": "BAL",
+      "name": "BAL",
+      "tags": ["coinfund_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3",
+      "symbol": "BAL",
+      "name": "BAL",
+      "tags": ["coinfund_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x58b6a8a3302369daec383334672404ee733ab239",
+      "symbol": "LPT",
+      "name": "LPT",
+      "tags": ["coinfund_portfolio"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0x289ba1701C2F088cf0faf8B3705246331cB8A839",
+      "symbol": "LPT",
+      "name": "LPT",
+      "tags": ["coinfund_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4fE83213D56308330EC302a8BD641f1d0113A4Cc",
+      "symbol": "NU",
+      "name": "NU",
+      "tags": ["coinfund_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0b38210ea11411557c13457D4dA7dC6ea731B88a",
+      "symbol": "API3",
+      "name": "API3",
+      "tags": ["coinfund_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa117000000f279d81a1d3cc75430faa017fa5a2e",
+      "symbol": "ANT",
+      "name": "ANT",
+      "tags": ["coinfund_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1776e1F26f98b1A5dF9cD347953a26dd3Cb46671",
+      "symbol": "NMR",
+      "name": "NMR",
+      "tags": ["coinfund_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf17e65822b568b3903685a7c9f496cf7656cc6c2",
+      "symbol": "BICO",
+      "name": "BICO",
+      "tags": ["coinfund_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4bd70556ae3f8a6ec6c4080a0c327b24325438f3",
+      "symbol": "HXRO",
+      "name": "HXRO",
+      "tags": ["coinfund_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfca59cd816ab1ead66534d82bc21e7515ce441cf",
+      "symbol": "RARI",
+      "name": "RARI",
+      "tags": ["coinfund_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcafe001067cdef266afb7eb5a286dcfd277f3de5",
+      "symbol": "PSP",
+      "name": "PSP",
+      "tags": ["coinfund_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xcafe001067cdef266afb7eb5a286dcfd277f3de5",
+      "symbol": "PSP",
+      "name": "PSP",
+      "tags": ["coinfund_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x42d61d766b85431666b39b89c43011f24451bff6",
+      "symbol": "PSP",
+      "name": "PSP",
+      "tags": ["coinfund_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3Ea8ea4237344C9931214796d9417Af1A1180770",
+      "symbol": "FLX",
+      "name": "FLX",
+      "tags": ["coinfund_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x87d73e916d7057945c9bcd8cdd94e42a6f47f776",
+      "symbol": "NFTX",
+      "name": "NFTX",
+      "tags": ["coinfund_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb17c88bda07d28b3838e0c1de6a30eafbcf52d85",
+      "symbol": "SHFT",
+      "name": "SHFT",
+      "tags": ["coinfund_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x71Fc1F555a39E0B698653AB0b475488EC3c34D57",
+      "symbol": "RAIN",
+      "name": "RAIN",
+      "tags": ["coinfund_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6fe56c0bcdd471359019fcbc48863d6c3e9d4f41",
+      "symbol": "PROPS",
+      "name": "PROPS",
+      "tags": ["coinfund_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x33b48893B8f119Fb45F431b36F830a9584804201",
+      "symbol": "COWS",
+      "name": "COWS",
+      "tags": ["coinfund_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf1b99e3e573a1a9c5e6b2ce818b617f0e664e86b",
+      "symbol": "OSQTH",
+      "name": "OSQTH",
+      "tags": ["coinfund_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xe261d618a959afffd53168cd07d12e37b26761db",
+      "symbol": "DIMO",
+      "name": "DIMO",
+      "tags": ["coinfund_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5fab9761d60419c9eeebe3915a8fa1ed7e8d2e1b",
+      "symbol": "DIMO",
+      "name": "DIMO",
+      "tags": ["coinfund_portfolio"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}

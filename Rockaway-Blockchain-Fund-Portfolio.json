@@ -1,0 +1,192 @@
+{
+  "name": "Rockaway Blockchain Fund Portfolio",
+  "tags": {
+    "rockaway_blockchain_fund_portfolio": {
+      "name": "Rockaway Blockchain Fund Portfolio",
+      "description": ""
+    }
+  },
+  "timestamp": "2022-12-25T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x111111111117dc0aa78b770fa6a738034120c302",
+      "symbol": "1INCH",
+      "name": "1INCH",
+      "tags": ["rockaway_blockchain_fund_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x111111111117dc0aa78b770fa6a738034120c302",
+      "symbol": "1INCH",
+      "name": "1INCH",
+      "tags": ["rockaway_blockchain_fund_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x9c2c5fd7b07e95ee044ddeba0e97a665f142394f",
+      "symbol": "1INCH",
+      "name": "1INCH",
+      "tags": ["rockaway_blockchain_fund_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0xd501281565bf7789224523144fe5d98e8b28f267",
+      "symbol": "1INCH",
+      "name": "1INCH",
+      "tags": ["rockaway_blockchain_fund_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc00e94cb662c3520282e6f5717214004a7f26888",
+      "symbol": "COMP",
+      "name": "COMP",
+      "tags": ["rockaway_blockchain_fund_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x8505b9d2254a7ae468c0e9dd10ccea3a837aef5c",
+      "symbol": "COMP",
+      "name": "COMP",
+      "tags": ["rockaway_blockchain_fund_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x52CE071Bd9b1C4B00A0b92D298c512478CaD67e8",
+      "symbol": "COMP",
+      "name": "COMP",
+      "tags": ["rockaway_blockchain_fund_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
+      "symbol": "SUSHI",
+      "name": "SUSHI",
+      "tags": ["rockaway_blockchain_fund_portfolio"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0xd4d42f0b6def4ce0383636770ef773390d85c61a",
+      "symbol": "SUSHI",
+      "name": "SUSHI",
+      "tags": ["rockaway_blockchain_fund_portfolio"]
+    },
+    {
+      "chainId": 250,
+      "address": "0xae75A438b2E0cB8Bb01Ec1E1e376De11D44477CC",
+      "symbol": "SUSHI",
+      "name": "SUSHI",
+      "tags": ["rockaway_blockchain_fund_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x947950bcc74888a40ffa2593c5798f11fc9124c4",
+      "symbol": "SUSHI",
+      "name": "SUSHI",
+      "tags": ["rockaway_blockchain_fund_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x0b3f868e0be5597d5db7feb59e1cadbb0fdda50a",
+      "symbol": "SUSHI",
+      "name": "SUSHI",
+      "tags": ["rockaway_blockchain_fund_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x37b608519f91f70f2eeb0e5ed9af4061722e4f76q",
+      "symbol": "SUSHI",
+      "name": "SUSHI",
+      "tags": ["rockaway_blockchain_fund_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x26B80FBfC01b71495f477d5237071242e0d959d7",
+      "symbol": "ROSE",
+      "name": "ROSE",
+      "tags": ["rockaway_blockchain_fund_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x6c6D604D3f07aBE287C1A3dF0281e999A83495C0",
+      "symbol": "ROSE",
+      "name": "ROSE",
+      "tags": ["rockaway_blockchain_fund_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x12AF5C1a232675f62F405b5812A80e7a6F75D746",
+      "symbol": "ROSE",
+      "name": "ROSE",
+      "tags": ["rockaway_blockchain_fund_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x467719ad09025fcc6cf6f8311755809d45a5e5f3",
+      "symbol": "WAXL",
+      "name": "WAXL",
+      "tags": ["rockaway_blockchain_fund_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x8b1f4432f943c465a973fedc6d7aa50fc96f1f65",
+      "symbol": "WAXL",
+      "name": "WAXL",
+      "tags": ["rockaway_blockchain_fund_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x44c784266cf024a60e8acf2427b9857ace194c5d",
+      "symbol": "WAXL",
+      "name": "WAXL",
+      "tags": ["rockaway_blockchain_fund_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x6e4e624106cb12e168e6533f8ec7c82263358940",
+      "symbol": "WAXL",
+      "name": "WAXL",
+      "tags": ["rockaway_blockchain_fund_portfolio"]
+    },
+    {
+      "chainId": 250,
+      "address": "0x8b1f4432f943c465a973fedc6d7aa50fc96f1f65",
+      "symbol": "WAXL",
+      "name": "WAXL",
+      "tags": ["rockaway_blockchain_fund_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xea26c4ac16d4a5a106820bc8aee85fd0b7b2b664",
+      "symbol": "QKC",
+      "name": "QKC",
+      "tags": ["rockaway_blockchain_fund_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x91af0fbb28aba7e31403cb457106ce79397fd4e6",
+      "symbol": "AERGO",
+      "name": "AERGO",
+      "tags": ["rockaway_blockchain_fund_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcb84d72e61e383767c4dfeb2d8ff7f4fb89abc6e",
+      "symbol": "VEGA",
+      "name": "VEGA",
+      "tags": ["rockaway_blockchain_fund_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x888888888889c00c67689029d7856aac1065ec11",
+      "symbol": "OPIUM",
+      "name": "OPIUM",
+      "tags": ["rockaway_blockchain_fund_portfolio"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}

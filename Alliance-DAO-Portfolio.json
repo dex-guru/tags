@@ -1,0 +1,94 @@
+{
+  "name": "Alliance DAO Portfolio",
+  "tags": {
+    "alliance_dao_portfolio": {
+      "name": "Alliance DAO Portfolio",
+      "description": ""
+    }
+  },
+  "timestamp": "2022-12-25T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x3019BF2a2eF8040C242C9a4c5c4BD4C81678b2A1",
+      "symbol": "GMT",
+      "name": "GMT",
+      "tags": ["alliance_dao_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe3c408BD53c31C085a1746AF401A4042954ff740",
+      "symbol": "GMT",
+      "name": "GMT",
+      "tags": ["alliance_dao_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcb84d72e61e383767c4dfeb2d8ff7f4fb89abc6e",
+      "symbol": "VEGA",
+      "name": "VEGA",
+      "tags": ["alliance_dao_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x01ba67aac7f75f647d94220cc98fb30fcc5105bf",
+      "symbol": "LYRA",
+      "name": "LYRA",
+      "tags": ["alliance_dao_portfolio"]
+    },
+    {
+      "chainId": 10,
+      "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
+      "symbol": "LYRA",
+      "name": "LYRA",
+      "tags": ["alliance_dao_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6f40d4A6237C257fff2dB00FA0510DeEECd303eb",
+      "symbol": "INST",
+      "name": "INST",
+      "tags": ["alliance_dao_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x888888435fde8e7d4c54cab67f206e4199454c60",
+      "symbol": "DFX",
+      "name": "DFX",
+      "tags": ["alliance_dao_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xE7804D91dfCDE7F776c90043E03eAa6Df87E6395",
+      "symbol": "DFX",
+      "name": "DFX",
+      "tags": ["alliance_dao_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x9df465460938f9EBDF51C38CC87D72184471F8F0",
+      "symbol": "GENE",
+      "name": "GENE",
+      "tags": ["alliance_dao_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4a615bb7166210cce20e6642a6f8fb5d4d044496",
+      "symbol": "NAOS",
+      "name": "NAOS",
+      "tags": ["alliance_dao_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x0fe178b9a471b3698cB6FcB4625DF9A756A2C55C",
+      "symbol": "STRIP",
+      "name": "STRIP",
+      "tags": ["alliance_dao_portfolio"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}

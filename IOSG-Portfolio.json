@@ -1,0 +1,402 @@
+{
+  "name": "IOSG Portfolio",
+  "tags": {
+    "iosg_portfolio": {
+      "name": "IOSG Portfolio",
+      "description": ""
+    }
+  },
+  "timestamp": "2022-12-25T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x3883f5e181fccaF8410FA61e12b59BAd963fb645",
+      "symbol": "THETA",
+      "name": "THETA",
+      "tags": ["iosg_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
+      "symbol": "SNX",
+      "name": "SNX",
+      "tags": ["iosg_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x9ac983826058b8a9c7aa1c9171441191232e8404",
+      "symbol": "SNX",
+      "name": "SNX",
+      "tags": ["iosg_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x111111111117dc0aa78b770fa6a738034120c302",
+      "symbol": "1INCH",
+      "name": "1INCH",
+      "tags": ["iosg_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x111111111117dc0aa78b770fa6a738034120c302",
+      "symbol": "1INCH",
+      "name": "1INCH",
+      "tags": ["iosg_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x9c2c5fd7b07e95ee044ddeba0e97a665f142394f",
+      "symbol": "1INCH",
+      "name": "1INCH",
+      "tags": ["iosg_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0xd501281565bf7789224523144fe5d98e8b28f267",
+      "symbol": "1INCH",
+      "name": "1INCH",
+      "tags": ["iosg_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xb86AbCb37C3A4B64f74f59301AFF131a1BEcC787",
+      "symbol": "ZIL",
+      "name": "ZIL",
+      "tags": ["iosg_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x26B80FBfC01b71495f477d5237071242e0d959d7",
+      "symbol": "ROSE",
+      "name": "ROSE",
+      "tags": ["iosg_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x6c6D604D3f07aBE287C1A3dF0281e999A83495C0",
+      "symbol": "ROSE",
+      "name": "ROSE",
+      "tags": ["iosg_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x12AF5C1a232675f62F405b5812A80e7a6F75D746",
+      "symbol": "ROSE",
+      "name": "ROSE",
+      "tags": ["iosg_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x69af81e73a73b40adf4f3d4223cd9b1ece623074",
+      "symbol": "MASK",
+      "name": "MASK",
+      "tags": ["iosg_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x2ed9a5c8c13b93955103b9a7c167b67ef4d568a3",
+      "symbol": "MASK",
+      "name": "MASK",
+      "tags": ["iosg_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x2b9e7ccdf0f4e5b24757c1e1a80e311e34cb10c7",
+      "symbol": "MASK",
+      "name": "MASK",
+      "tags": ["iosg_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4691937a7508860f876c9c0a2a617e7d9e945d4b",
+      "symbol": "WOO",
+      "name": "WOO",
+      "tags": ["iosg_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x4691937a7508860f876c9c0a2a617e7d9e945d4b",
+      "symbol": "WOO",
+      "name": "WOO",
+      "tags": ["iosg_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x1B815d120B3eF02039Ee11dC2d33DE7aA4a8C603",
+      "symbol": "WOO",
+      "name": "WOO",
+      "tags": ["iosg_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0xabc9547b534519ff73921b1fba6e672b5f58d083",
+      "symbol": "WOO",
+      "name": "WOO",
+      "tags": ["iosg_portfolio"]
+    },
+    {
+      "chainId": 250,
+      "address": "0x6626c47c00f1d87902fc13eecfac3ed06d5e8d8a",
+      "symbol": "WOO",
+      "name": "WOO",
+      "tags": ["iosg_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828",
+      "symbol": "UMA",
+      "name": "UMA",
+      "tags": ["iosg_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdeFA4e8a7bcBA345F687a2f1456F5Edd9CE97202",
+      "symbol": "KNC",
+      "name": "KNC",
+      "tags": ["iosg_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x1c954e8fe737f99f68fa1ccda3e51ebdb291948c",
+      "symbol": "KNC",
+      "name": "KNC",
+      "tags": ["iosg_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xfe56d5892bdffc7bf58f2e84be1b2c32d21c308b",
+      "symbol": "KNC",
+      "name": "KNC",
+      "tags": ["iosg_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x767fe9edc9e0df98e07454847909b5e959d7ca0e",
+      "symbol": "ILV",
+      "name": "ILV",
+      "tags": ["iosg_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6c5bA91642F10282b576d91922Ae6448C9d52f4E",
+      "symbol": "PHA",
+      "name": "PHA",
+      "tags": ["iosg_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x0112e557d400474717056C4e6D40eDD846F38351",
+      "symbol": "PHA",
+      "name": "PHA",
+      "tags": ["iosg_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xaec945e04baf28b135fa7c640f624f8d90f1c3a6",
+      "symbol": "C98",
+      "name": "C98",
+      "tags": ["iosg_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xae12c5930881c53715b369cec7606b70d8eb229f",
+      "symbol": "C98",
+      "name": "C98",
+      "tags": ["iosg_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6DEA81C8171D0bA574754EF6F8b412F2Ed88c54D",
+      "symbol": "LQTY",
+      "name": "LQTY",
+      "tags": ["iosg_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5fAa989Af96Af85384b8a938c2EdE4A7378D9875",
+      "symbol": "GAL",
+      "name": "GAL",
+      "tags": ["iosg_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xe4cc45bb5dbda06db6183e8bf016569f40497aa5",
+      "symbol": "GAL",
+      "name": "GAL",
+      "tags": ["iosg_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x43dfc4159d86f3a37a5a4b3d4580b888ad7d4ddd",
+      "symbol": "DODO",
+      "name": "DODO",
+      "tags": ["iosg_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x67ee3cb086f8a16f34bee3ca72fad36f7db929e2",
+      "symbol": "DODO",
+      "name": "DODO",
+      "tags": ["iosg_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xe4bf2864ebec7b7fdf6eeca9bacae7cdfdaffe78",
+      "symbol": "DODO",
+      "name": "DODO",
+      "tags": ["iosg_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa2120b9e674d3fc3875f415a7df52e382f141225",
+      "symbol": "ATA",
+      "name": "ATA",
+      "tags": ["iosg_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xa2120b9e674d3fc3875f415a7df52e382f141225",
+      "symbol": "ATA",
+      "name": "ATA",
+      "tags": ["iosg_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x0df0f72ee0e5c9b7ca761ecec42754992b2da5bf",
+      "symbol": "ATA",
+      "name": "ATA",
+      "tags": ["iosg_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4e352cf164e64adcbad318c3a1e222e9eba4ce42",
+      "symbol": "MCB",
+      "name": "MCB",
+      "tags": ["iosg_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x5fe80d2cd054645b9419657d3d10d26391780a7b",
+      "symbol": "MCB",
+      "name": "MCB",
+      "tags": ["iosg_portfolio"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0x4e352cF164E64ADCBad318C3a1e222E9EBa4Ce42",
+      "symbol": "MCB",
+      "name": "MCB",
+      "tags": ["iosg_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x32a7c02e79c4ea1008dd6564b35f131428673c41",
+      "symbol": "CRU",
+      "name": "CRU",
+      "tags": ["iosg_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x15b7c0c907e4c6b9adaaaabc300c08991d6cea05",
+      "symbol": "GEL",
+      "name": "GEL",
+      "tags": ["iosg_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3Ea8ea4237344C9931214796d9417Af1A1180770",
+      "symbol": "FLX",
+      "name": "FLX",
+      "tags": ["iosg_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x544c42fbb96b39b21df61cf322b5edc285ee7429",
+      "symbol": "INSUR",
+      "name": "INSUR",
+      "tags": ["iosg_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x3192ccddf1cdce4ff055ebc80f3f0231b86a7e30",
+      "symbol": "INSUR",
+      "name": "INSUR",
+      "tags": ["iosg_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x544c42fbb96b39b21df61cf322b5edc285ee7429",
+      "symbol": "INSUR",
+      "name": "INSUR",
+      "tags": ["iosg_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x8a0e8b4b0903929f47c3ea30973940d4a9702067",
+      "symbol": "INSUR",
+      "name": "INSUR",
+      "tags": ["iosg_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf418588522d5dd018b425e472991e52ebbeeeeee",
+      "symbol": "PUSH",
+      "name": "PUSH",
+      "tags": ["iosg_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xca1207647Ff814039530D7d35df0e1Dd2e91Fa84",
+      "symbol": "DHT",
+      "name": "DHT",
+      "tags": ["iosg_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9ad37205d608B8b219e6a2573f922094CEc5c200",
+      "symbol": "IZI",
+      "name": "IZI",
+      "tags": ["iosg_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa499648fd0e80fd911972bbeb069e4c20e68bf22",
+      "symbol": "UJENNY",
+      "name": "UJENNY",
+      "tags": ["iosg_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x60be1e1fe41c1370adaf5d8e66f07cf1c2df2268",
+      "symbol": "PERC",
+      "name": "PERC",
+      "tags": ["iosg_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb0e1fc65c1a741b4662b813eb787d369b8614af1",
+      "symbol": "IF",
+      "name": "IF",
+      "tags": ["iosg_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xb0e1fc65c1a741b4662b813eb787d369b8614af1",
+      "symbol": "IF",
+      "name": "IF",
+      "tags": ["iosg_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xbcb24afb019be7e93ea9c43b7e22bb55d5b7f45d",
+      "symbol": "BSCS",
+      "name": "BSCS",
+      "tags": ["iosg_portfolio"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
