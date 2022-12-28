@@ -1,0 +1,843 @@
+{
+  "name": "GBV Capital Portfolio",
+  "tags": {
+    "gbv_capital_portfolio": {
+      "name": "GBV Capital Portfolio",
+      "description": "GBV Capital focuses exclusively on investment related to blockchain technology, digital currency, and cryptocurrency. GBV Capital Portfolio of liquid tokens"
+    }
+  },
+  "timestamp": "2022-12-25T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x4691937a7508860f876c9c0a2a617e7d9e945d4b",
+      "symbol": "WOO",
+      "name": "WOO",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x4691937a7508860f876c9c0a2a617e7d9e945d4b",
+      "symbol": "WOO",
+      "name": "WOO",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x1B815d120B3eF02039Ee11dC2d33DE7aA4a8C603",
+      "symbol": "WOO",
+      "name": "WOO",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0xabc9547b534519ff73921b1fba6e672b5f58d083",
+      "symbol": "WOO",
+      "name": "WOO",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 250,
+      "address": "0x6626c47c00f1d87902fc13eecfac3ed06d5e8d8a",
+      "symbol": "WOO",
+      "name": "WOO",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x42bbfa2e77757c645eeaad1655e0911a7553efbc",
+      "symbol": "BOBA",
+      "name": "BOBA",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x408e41876cccdc0f92210600ef50372656052a38",
+      "symbol": "REN",
+      "name": "REN",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xaec945e04baf28b135fa7c640f624f8d90f1c3a6",
+      "symbol": "C98",
+      "name": "C98",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xae12c5930881c53715b369cec7606b70d8eb229f",
+      "symbol": "C98",
+      "name": "C98",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
+      "symbol": "JOE",
+      "name": "JOE",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x656c00e1bcd96f256f224ad9112ff426ef053733",
+      "symbol": "EFI",
+      "name": "EFI",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7659ce147d0e714454073a5dd7003544234b6aa0",
+      "symbol": "XCAD",
+      "name": "XCAD",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x431e0cD023a32532BF3969CddFc002c00E98429d",
+      "symbol": "XCAD",
+      "name": "XCAD",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xa55870278d6389ec5b524553d03c04f5677c061e",
+      "symbol": "XCAD",
+      "name": "XCAD",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa2120b9e674d3fc3875f415a7df52e382f141225",
+      "symbol": "ATA",
+      "name": "ATA",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xa2120b9e674d3fc3875f415a7df52e382f141225",
+      "symbol": "ATA",
+      "name": "ATA",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x0df0f72ee0e5c9b7ca761ecec42754992b2da5bf",
+      "symbol": "ATA",
+      "name": "ATA",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbbc2ae13b23d715c30720f079fcd9b4a74093505",
+      "symbol": "ERN",
+      "name": "ERN",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe53ec727dbdeb9e2d5456c3be40cff031ab40a55",
+      "symbol": "SUPER",
+      "name": "SUPER",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x51ba0b044d96c3abfca52b64d733603ccc4f0d4d",
+      "symbol": "SUPER",
+      "name": "SUPER",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xa1428174f516f527fafdd146b883bb4428682737",
+      "symbol": "SUPER",
+      "name": "SUPER",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdbdb4d16eda451d0503b854cf79d55697f90c8df",
+      "symbol": "ALCX",
+      "name": "ALCX",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3e9bc21c9b189c09df3ef1b824798658d5011937",
+      "symbol": "LINA",
+      "name": "LINA",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x762539b45a1dcce3d36d080f74d1aed37844b878",
+      "symbol": "LINA",
+      "name": "LINA",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5",
+      "symbol": "QI",
+      "name": "QI",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd084944d3c05CD115C09d072B9F44bA3E0E45921",
+      "symbol": "FOLD",
+      "name": "FOLD",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x111111111111ed1D73f860F57b2798b683f2d325",
+      "symbol": "YUSD",
+      "name": "YUSD",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x71ab77b7dbb4fa7e017bc15090b2163221420282",
+      "symbol": "HIGH",
+      "name": "HIGH",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x5f4bde007dc06b867f86ebfe4802e34a1ffeed63",
+      "symbol": "HIGH",
+      "name": "HIGH",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x66761fa41377003622aee3c7675fc7b5c1c2fac5",
+      "symbol": "CPOOL",
+      "name": "CPOOL",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x993864e43caa7f7f12953ad6feb1d1ca635b875f",
+      "symbol": "SDAO",
+      "name": "SDAO",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x90ed8f1dc86388f14b64ba8fb4bbd23099f18240",
+      "symbol": "SDAO",
+      "name": "SDAO",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf59ae934f6fe444afc309586cc60a84a0f89aaea",
+      "symbol": "PDEX",
+      "name": "PDEX",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x41a3dba3d677e573636ba691a70ff2d606c29666",
+      "symbol": "BLANK",
+      "name": "BLANK",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xf4c83080e80ae530d6f8180572cbbf1ac9d5d435",
+      "symbol": "BLANK",
+      "name": "BLANK",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x808507121b80c02388fad14726482e061b8da827",
+      "symbol": "PENDLE",
+      "name": "PENDLE",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9F52c8ecbEe10e00D9faaAc5Ee9Ba0fF6550F511",
+      "symbol": "SIPHER",
+      "name": "SIPHER",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x23c5D1164662758b3799103Effe19cC064d897D6",
+      "symbol": "AURA",
+      "name": "AURA",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x464fdb8affc9bac185a7393fd4298137866dcfb8",
+      "symbol": "REALM",
+      "name": "REALM",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x464fdb8affc9bac185a7393fd4298137866dcfb8",
+      "symbol": "REALM",
+      "name": "REALM",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x69a95185ee2a045cdc4bcd1b1df10710395e4e23",
+      "symbol": "POOLZ",
+      "name": "POOLZ",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4b520c812e8430659fc9f12f6d0c39026c83588d",
+      "symbol": "DG",
+      "name": "DG",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xef938b6da8576a896f6e0321ef80996f4890f9c4",
+      "symbol": "DG",
+      "name": "DG",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xee573a945b01b788b9287ce062a0cfc15be9fd86",
+      "symbol": "XED",
+      "name": "XED",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1fe24f25b1cf609b9c4e7e12d802e3640dfa5e43",
+      "symbol": "CGG",
+      "name": "CGG",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x1613957159e9b0ac6c80e824f7eea748a32a0ae2",
+      "symbol": "CGG",
+      "name": "CGG",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x2ab4f9ac80f33071211729e45cfc346c1f8446d5",
+      "symbol": "CGG",
+      "name": "CGG",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb31ef9e52d94d4120eb44fe1ddfde5b4654a6515",
+      "symbol": "DOSE",
+      "name": "DOSE",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x7837fd820ba38f95c54d6dac4ca3751b81511357",
+      "symbol": "DOSE",
+      "name": "DOSE",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd47bdf574b4f76210ed503e0efe81b58aa061f3d",
+      "symbol": "TRVL",
+      "name": "TRVL",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x6a8fd46f88dbd7bdc2d536c604f811c63052ce0f",
+      "symbol": "TRVL",
+      "name": "TRVL",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0xec3492a2508DDf4FDc0cD76F31f340b30d1793e6",
+      "symbol": "CLY",
+      "name": "CLY",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x83e9f223e1edb3486f876ee888d76bfba26c475a",
+      "symbol": "GUILD",
+      "name": "GUILD",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x0565805ca3a4105faee51983b0bd8ffb5ce1455c",
+      "symbol": "GUILD",
+      "name": "GUILD",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x188e817b02e635d482ae4d81e25dda98a97c4a42",
+      "symbol": "LITH",
+      "name": "LITH",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x0ebd9537a25f56713e34c45b38f421a1e7191469",
+      "symbol": "MOOV",
+      "name": "MOOV",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x24ec2ca132abf8f6f8a6e24a1b97943e31f256a7",
+      "symbol": "MOOV",
+      "name": "MOOV",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x9df465460938f9EBDF51C38CC87D72184471F8F0",
+      "symbol": "GENE",
+      "name": "GENE",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5a666c7d92e5fa7edcb6390e4efd6d0cdd69cf37",
+      "symbol": "MARSH",
+      "name": "MARSH",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x2FA5dAF6Fe0708fBD63b1A7D1592577284f52256",
+      "symbol": "MARSH",
+      "name": "MARSH",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xD3c325848D7c6E29b574Cb0789998b2ff901f17E",
+      "symbol": "1ART",
+      "name": "1ART",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 250,
+      "address": "0xD3c325848D7c6E29b574Cb0789998b2ff901f17E",
+      "symbol": "1ART",
+      "name": "1ART",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4ee438be38f8682abb089f2bfea48851c5e71eaf",
+      "symbol": "YAE",
+      "name": "YAE",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x4ee438be38f8682abb089f2bfea48851c5e71eaf",
+      "symbol": "YAE",
+      "name": "YAE",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xe369fec23380f9F14ffD07a1DC4b7c1a9fdD81c9",
+      "symbol": "FROYO",
+      "name": "FROYO",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x948c70dc6169bfb10028fdbe96cbc72e9562b2ac",
+      "symbol": "XP",
+      "name": "XP",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x180cFBE9843d79BcAFcbcDF23590247793DFc95B",
+      "symbol": "XP",
+      "name": "XP",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x180cFBE9843d79BcAFcbcDF23590247793DFc95B",
+      "symbol": "XP",
+      "name": "XP",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4a615bb7166210cce20e6642a6f8fb5d4d044496",
+      "symbol": "NAOS",
+      "name": "NAOS",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcd2828fc4d8e8a0ede91bb38cf64b1a81de65bf6",
+      "symbol": "ODDZ",
+      "name": "ODDZ",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x217ddead61a42369a266f1fb754eb5d3ebadc88a",
+      "symbol": "DON",
+      "name": "DON",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x86b3f23b6e90f5bbfac59b5b2661134ef8ffd255",
+      "symbol": "DON",
+      "name": "DON",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x22d4002028f537599be9f666d1c4fa138522f9c8",
+      "symbol": "PTP",
+      "name": "PTP",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x850aab69f0e0171a9a49db8be3e71351c8247df4",
+      "symbol": "KONO",
+      "name": "KONO",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x4e6415a5727ea08aAE4580057187923aeC331227",
+      "symbol": "FINE",
+      "name": "FINE",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb0e1fc65c1a741b4662b813eb787d369b8614af1",
+      "symbol": "IF",
+      "name": "IF",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xb0e1fc65c1a741b4662b813eb787d369b8614af1",
+      "symbol": "IF",
+      "name": "IF",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9f7fc686cfd64aa5ae15b351d03071e91533094b",
+      "symbol": "TRACE",
+      "name": "TRACE",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x4287f07cbe6954f9f0decd91d0705c926d8d03a4",
+      "symbol": "TRACE",
+      "name": "TRACE",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x77777777777d4554c39223c354a05825b2e8faa3",
+      "symbol": "YETI",
+      "name": "YETI",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x661ab0ed68000491d98c796146bcf28c20d7c559",
+      "symbol": "DOWS",
+      "name": "DOWS",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0aa7efe4945db24d95ca6e117bba65ed326e291a",
+      "symbol": "OJA",
+      "name": "OJA",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x26373ec913876c9e6d38494dde458cb8649cb30c",
+      "symbol": "OJA",
+      "name": "OJA",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb30f5d11b94efbbfdeaa4de38edffceec0be6513",
+      "symbol": "PIF",
+      "name": "PIF",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x4f39c3319188A723003670c3F9B9e7EF991E52F3",
+      "symbol": "FIGHT",
+      "name": "FIGHT",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA719CB79Af39A9C10eDA2755E0938bCE35e9DE24",
+      "symbol": "SEAN",
+      "name": "SEAN",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2C2f7e7C5604D162d75641256b80F1Bf6f4dC796",
+      "symbol": "PRARE",
+      "name": "PRARE",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xe6bf0e14e33a469f2b0640b53949a9f90e675135",
+      "symbol": "PRARE",
+      "name": "PRARE",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3ef389f264e07fff3106a3926f2a166d1393086f",
+      "symbol": "SAO",
+      "name": "SAO",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0xF891214fdcF9cDaa5fdC42369eE4F27F226AdaD6",
+      "symbol": "IME",
+      "name": "IME",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x94804dc4948184ffd7355f62ccbb221c9765886f",
+      "symbol": "RAGE",
+      "name": "RAGE",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x51e7b598c9155b9dccb04eb42519f6eec9c841e9",
+      "symbol": "BTL",
+      "name": "BTL",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x51e7b598c9155b9dccb04eb42519f6eec9c841e9",
+      "symbol": "BTL",
+      "name": "BTL",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xa0b9bb05da11e3b19ffd64554400f59d4a378515",
+      "symbol": "MOOO",
+      "name": "MOOO",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf7413489c474ca4399eee604716c72879eea3615",
+      "symbol": "APYS",
+      "name": "APYS",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x509a51394CC4D6bb474FeFB2994b8975A55A6e79",
+      "symbol": "FUFU",
+      "name": "FUFU",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0xfda866cfece71f4c17b4a5e5f9a00ac08c72eadc",
+      "symbol": "PERA",
+      "name": "PERA",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x182f4c4c97cd1c24e1df8fc4c053e5c47bf53bef",
+      "symbol": "TANGO",
+      "name": "TANGO",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xaA20c2e278D99f978989dAa4460F933745F862d5",
+      "symbol": "ARKN",
+      "name": "ARKN",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xd73f32833b6d5d9c8070c23e599e283a3039823c",
+      "symbol": "WTF",
+      "name": "WTF",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x873801ae2ff12d816db9a7b082f5796bec64c82c",
+      "symbol": "WTF",
+      "name": "WTF",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x0e7beec376099429b85639eb3abe7cf22694ed49",
+      "symbol": "BUNI",
+      "name": "BUNI",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x21381e026Ad6d8266244f2A583b35F9E4413FA2a",
+      "symbol": "FORM",
+      "name": "FORM",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x25a528af62e56512a19ce8c3cab427807c28cc19",
+      "symbol": "FORM",
+      "name": "FORM",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x9f285507Ea5B4F33822CA7aBb5EC8953ce37A645",
+      "symbol": "DEG",
+      "name": "DEG",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1a57367c6194199e5d9aea1ce027431682dfb411",
+      "symbol": "MDF",
+      "name": "MDF",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x56694577564FdD577a0ABB20FE95C1E2756C2a11",
+      "symbol": "ASW",
+      "name": "ASW",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x9133049fb1fddc110c92bf5b7df635abb70c89dc",
+      "symbol": "PINK",
+      "name": "PINK",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xc58158c14D4757EF36Ce25e493758F2fcEEDec5D",
+      "symbol": "D11",
+      "name": "D11",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9bf02cF6B0435A0523E6f6e0D2f35A920144F5FA",
+      "symbol": "D11",
+      "name": "D11",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 250,
+      "address": "0xe36ac17edb23bdd89d363d152365df019e3eaf71",
+      "symbol": "TART",
+      "name": "TART",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbd9908b0cdd50386f92efcc8e1d71766c2782df0",
+      "symbol": "RICE",
+      "name": "RICE",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9cf98eb8a8b28c83e8612046cf55701ce3eb0063",
+      "symbol": "UGT",
+      "name": "UGT",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xBa4c54Ea2d66b904C82847A7d2357d22B857E812",
+      "symbol": "UGT",
+      "name": "UGT",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6ef238e9e8cd2a96740897761c18894fc086b9d0",
+      "symbol": "MYRA",
+      "name": "MYRA",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9eBBEB7f6b842377714EAdD987CaA4510205107A",
+      "symbol": "BRE",
+      "name": "BRE",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc3C6cf6Bbca7B759d23a2586e80F795C57A32beF",
+      "symbol": "LUSD",
+      "name": "LUSD",
+      "tags": ["gbv_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x23e8a70534308a4AAF76fb8C32ec13d17a3BD89e",
+      "symbol": "LUSD",
+      "name": "LUSD",
+      "tags": ["gbv_capital_portfolio"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}

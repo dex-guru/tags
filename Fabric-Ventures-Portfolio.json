@@ -1,0 +1,206 @@
+{
+  "name": "Fabric Ventures Portfolio",
+  "tags": {
+    "fabric_ventures_portfolio": {
+      "name": "Fabric Ventures Portfolio",
+      "description": "Fabric backs the founders of the Open Economy. Investing in builders, businesses, and networks from inception to scaling since 2012. Fabric Ventures Portfolio of liquid tokens"
+    }
+  },
+  "timestamp": "2022-12-24T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x7083609fce4d1d8dc0c979aab8c869ea2c873402",
+      "symbol": "DOT",
+      "name": "DOT",
+      "tags": ["fabric_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbb0e17ef65f82ab018d8edd776e8dd940327b28b",
+      "symbol": "AXS",
+      "name": "AXS",
+      "tags": ["fabric_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x715d400f88c167884bbcc41c5fea407ed4d2f8a0",
+      "symbol": "AXS",
+      "name": "AXS",
+      "tags": ["fabric_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0f5d2fb29fb7d3cfee444a200298f468908cc942",
+      "symbol": "MANA",
+      "name": "MANA",
+      "tags": ["fabric_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf57e7e7c23978c3caec3c3548e3d615c346e79ff",
+      "symbol": "IMX",
+      "name": "IMX",
+      "tags": ["fabric_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x111111111117dc0aa78b770fa6a738034120c302",
+      "symbol": "1INCH",
+      "name": "1INCH",
+      "tags": ["fabric_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x111111111117dc0aa78b770fa6a738034120c302",
+      "symbol": "1INCH",
+      "name": "1INCH",
+      "tags": ["fabric_ventures_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x9c2c5fd7b07e95ee044ddeba0e97a665f142394f",
+      "symbol": "1INCH",
+      "name": "1INCH",
+      "tags": ["fabric_ventures_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0xd501281565bf7789224523144fe5d98e8b28f267",
+      "symbol": "1INCH",
+      "name": "1INCH",
+      "tags": ["fabric_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe41d2489571d322189246dafa5ebde1f4699f498",
+      "symbol": "ZRX",
+      "name": "ZRX",
+      "tags": ["fabric_ventures_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x596fa47043f99a4e0f122243b841e55375cde0d2",
+      "symbol": "ZRX",
+      "name": "ZRX",
+      "tags": ["fabric_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x744d70fdbe2ba4cf95131626614a1763df805b9e",
+      "symbol": "SNT",
+      "name": "SNT",
+      "tags": ["fabric_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x967da4048cd07ab37855c090aaf366e4ce1b9f48",
+      "symbol": "OCEAN",
+      "name": "OCEAN",
+      "tags": ["fabric_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb3999F658C0391d94A37f7FF328F3feC942BcADC",
+      "symbol": "HFT",
+      "name": "HFT",
+      "tags": ["fabric_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x44Ec807ce2F4a6F2737A92e985f318d035883e47",
+      "symbol": "HFT",
+      "name": "HFT",
+      "tags": ["fabric_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4575f41308EC1483f3d399aa9a2826d74Da13Deb",
+      "symbol": "OXT",
+      "name": "OXT",
+      "tags": ["fabric_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x85eee30c52b0b379b046fb0f85f4f3dc3009afec",
+      "symbol": "KEEP",
+      "name": "KEEP",
+      "tags": ["fabric_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x25f8087ead173b73d6e8b84329989a8eea16cf73",
+      "symbol": "YGG",
+      "name": "YGG",
+      "tags": ["fabric_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaaaaaa20d9e0e2461697782ef11675f668207961",
+      "symbol": "AURORA",
+      "name": "AURORA",
+      "tags": ["fabric_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0cf0ee63788a0849fe5297f3407f701e122cc023",
+      "symbol": "DATA",
+      "name": "DATA",
+      "tags": ["fabric_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc98d64da73a6616c42117b582e832812e7b8d57f",
+      "symbol": "RSS3",
+      "name": "RSS3",
+      "tags": ["fabric_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x97872EAfd79940C7b24f7BCc1EADb1457347ADc9",
+      "symbol": "STRP",
+      "name": "STRP",
+      "tags": ["fabric_ventures_portfolio"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0x326c33fd1113c1f29b35b4407f3d6312a8518431",
+      "symbol": "STRP",
+      "name": "STRP",
+      "tags": ["fabric_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x31429d1856ad1377a8a0079410b297e1a9e214c2",
+      "symbol": "ANGLE",
+      "name": "ANGLE",
+      "tags": ["fabric_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0eC9F76202a7061eB9b3a7D6B59D36215A7e37da",
+      "symbol": "BPT",
+      "name": "BPT",
+      "tags": ["fabric_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x255aa6df07540cb5d3d297f0d0d4d84cb52bc8e6",
+      "symbol": "RDN",
+      "name": "RDN",
+      "tags": ["fabric_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x107c4504cd79c5d2696ea0030a8dd4e92601b82e",
+      "symbol": "BLT",
+      "name": "BLT",
+      "tags": ["fabric_ventures_portfolio"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}

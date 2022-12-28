@@ -1,0 +1,66 @@
+{
+  "name": "ConsenSys Portfolio",
+  "tags": {
+    "consensys_portfolio": {
+      "name": "ConsenSys Portfolio",
+      "description": "ConsenSys enable developers, enterprises, and people worldwide to build next-generation applications, launch modern financial infrastructure, and access the decentralized web. ConsenSys Portfolio of liquid tokens"
+    }
+  },
+  "timestamp": "2022-12-23T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xbb0e17ef65f82ab018d8edd776e8dd940327b28b",
+      "symbol": "AXS",
+      "name": "AXS",
+      "tags": ["consensys_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x715d400f88c167884bbcc41c5fea407ed4d2f8a0",
+      "symbol": "AXS",
+      "name": "AXS",
+      "tags": ["consensys_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2e9d63788249371f1DFC918a52f8d799F4a38C94",
+      "symbol": "TOKE",
+      "name": "TOKE",
+      "tags": ["consensys_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc0a4df35568f116c370e6a6a6022ceb908eeddac",
+      "symbol": "UMEE",
+      "name": "UMEE",
+      "tags": ["consensys_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5eeaa2dcb23056f4e8654a349e57ebe5e76b5e6e",
+      "symbol": "VPP",
+      "name": "VPP",
+      "tags": ["consensys_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x90de74265a416e1393a450752175aed98fe11517",
+      "symbol": "UDT",
+      "name": "UDT",
+      "tags": ["consensys_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCa14007Eff0dB1f8135f4C25B34De49AB0d42766",
+      "symbol": "STRK",
+      "name": "STRK",
+      "tags": ["consensys_portfolio"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
