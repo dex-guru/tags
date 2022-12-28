@@ -1,9 +1,9 @@
 {
-  "name": "KuCoin Labs Portfolio",
+  "name": "KuCoin Ventures Portfolio",
   "tags": {
     "kucoin_labs_portfolio": {
-      "name": "KuCoin Labs Portfolio",
-      "description": ""
+      "name": "KuCoin Ventures Portfolio",
+      "description": "KuCoin Ventures is an investment arm of KuCoin Exchange."
     }
   },
   "timestamp": "2022-12-26T00:00:00+00:00",

@@ -3,7 +3,7 @@
   "tags": {
     "ld_capital_portfolio": {
       "name": "LD Capital Portfolio",
-      "description": ""
+      "description": "LD Capital is a leading crypto fund in investment and trading in primary and secondary markets. LD Capital Portfolio of liquid tokens"
     }
   },
   "timestamp": "2022-12-25T00:00:00+00:00",
@@ -689,7 +689,7 @@
     },
     {
       "chainId": 1,
-      "address": "0x63f584FA56E60e4D0fE8802b27C7e6E3b33E007f", 
+      "address": "0x63f584FA56E60e4D0fE8802b27C7e6E3b33E007f",
       "symbol": "BOX",
       "name": "BOX",
       "tags": ["ld_capital_portfolio"]

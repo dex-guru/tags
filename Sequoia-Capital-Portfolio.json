@@ -3,7 +3,7 @@
   "tags": {
     "sequoia_capital_portfolio": {
       "name": "Sequoia Capital Portfolio",
-      "description": ""
+      "description": "Sequoia Capital is an American venture capital firm that specializes in seed stage, early stage, and growth stage investments in private companies across technology sectors. Sequoia Capital Portfolio of liquid tokens"
     }
   },
   "timestamp": "2022-12-24T00:00:00+00:00",
@@ -16,228 +16,228 @@
       "tags": ["sequoia_capital_portfolio"]
     },
     {
-       "chainId": 1,
-       "address": "0x6f259637dcd74c767781e37bc6133cd6a68aa161",
-       "symbol": "HT",
-       "name": "HT",
-       "tags": ["sequoia_capital_portfolio"]
+      "chainId": 1,
+      "address": "0x6f259637dcd74c767781e37bc6133cd6a68aa161",
+      "symbol": "HT",
+      "name": "HT",
+      "tags": ["sequoia_capital_portfolio"]
     },
     {
-       "chainId": 1,
-       "address": "0xba11d00c5f74255f56a5e366f4f77f5a186d7f55",
-       "symbol": "BAND",
-       "name": "BAND",
-       "tags": ["sequoia_capital_portfolio"]
+      "chainId": 1,
+      "address": "0xba11d00c5f74255f56a5e366f4f77f5a186d7f55",
+      "symbol": "BAND",
+      "name": "BAND",
+      "tags": ["sequoia_capital_portfolio"]
     },
     {
-       "chainId": 56,
-       "address": "0xad6caeb32cd2c308980a548bd0bc5aa4306c6c18",
-       "symbol": "BAND",
-       "name": "BAND",
-       "tags": ["sequoia_capital_portfolio"]
+      "chainId": 56,
+      "address": "0xad6caeb32cd2c308980a548bd0bc5aa4306c6c18",
+      "symbol": "BAND",
+      "name": "BAND",
+      "tags": ["sequoia_capital_portfolio"]
     },
     {
-       "chainId": 250,
-       "address": "0x46E7628E8b4350b2716ab470eE0bA1fa9e76c6C5",
-       "symbol": "BAND",
-       "name": "BAND",
-       "tags": ["sequoia_capital_portfolio"]
+      "chainId": 250,
+      "address": "0x46E7628E8b4350b2716ab470eE0bA1fa9e76c6C5",
+      "symbol": "BAND",
+      "name": "BAND",
+      "tags": ["sequoia_capital_portfolio"]
     },
     {
-       "chainId": 100,
-       "address": "0xe154A435408211AC89757B76C4FbE4Dc9ED2Ef27",
-       "symbol": "BAND",
-       "name": "BAND",
-       "tags": ["sequoia_capital_portfolio"]
+      "chainId": 100,
+      "address": "0xe154A435408211AC89757B76C4FbE4Dc9ED2Ef27",
+      "symbol": "BAND",
+      "name": "BAND",
+      "tags": ["sequoia_capital_portfolio"]
     },
     {
-       "chainId": 56,
-       "address": "0x3019BF2a2eF8040C242C9a4c5c4BD4C81678b2A1",
-       "symbol": "GMT",
-       "name": "GMT",
-       "tags": ["sequoia_capital_portfolio"]
+      "chainId": 56,
+      "address": "0x3019BF2a2eF8040C242C9a4c5c4BD4C81678b2A1",
+      "symbol": "GMT",
+      "name": "GMT",
+      "tags": ["sequoia_capital_portfolio"]
     },
     {
-       "chainId": 1,
-       "address": "0xe3c408BD53c31C085a1746AF401A4042954ff740",
-       "symbol": "GMT",
-       "name": "GMT",
-       "tags": ["sequoia_capital_portfolio"]
+      "chainId": 1,
+      "address": "0xe3c408BD53c31C085a1746AF401A4042954ff740",
+      "symbol": "GMT",
+      "name": "GMT",
+      "tags": ["sequoia_capital_portfolio"]
     },
     {
-       "chainId": 1,
-       "address": "0x65ef703f5594d2573eb71aaf55bc0cb548492df4",
-       "symbol": "MULTI",
-       "name": "MULTI",
-       "tags": ["sequoia_capital_portfolio"]
+      "chainId": 1,
+      "address": "0x65ef703f5594d2573eb71aaf55bc0cb548492df4",
+      "symbol": "MULTI",
+      "name": "MULTI",
+      "tags": ["sequoia_capital_portfolio"]
     },
     {
-       "chainId": 56,
-       "address": "0x9fb9a33956351cf4fa040f65a13b835a3c8764e3",
-       "symbol": "MULTI",
-       "name": "MULTI",
-       "tags": ["sequoia_capital_portfolio"]
+      "chainId": 56,
+      "address": "0x9fb9a33956351cf4fa040f65a13b835a3c8764e3",
+      "symbol": "MULTI",
+      "name": "MULTI",
+      "tags": ["sequoia_capital_portfolio"]
     },
     {
-       "chainId": 43114,
-       "address": "0x9fb9a33956351cf4fa040f65a13b835a3c8764e3",
-       "symbol": "MULTI",
-       "name": "MULTI",
-       "tags": ["sequoia_capital_portfolio"]
+      "chainId": 43114,
+      "address": "0x9fb9a33956351cf4fa040f65a13b835a3c8764e3",
+      "symbol": "MULTI",
+      "name": "MULTI",
+      "tags": ["sequoia_capital_portfolio"]
     },
     {
-       "chainId": 137,
-       "address": "0x9fb9a33956351cf4fa040f65a13b835a3c8764e3",
-       "symbol": "MULTI",
-       "name": "MULTI",
-       "tags": ["sequoia_capital_portfolio"]
+      "chainId": 137,
+      "address": "0x9fb9a33956351cf4fa040f65a13b835a3c8764e3",
+      "symbol": "MULTI",
+      "name": "MULTI",
+      "tags": ["sequoia_capital_portfolio"]
     },
     {
-       "chainId": 250,
-       "address": "0x9fb9a33956351cf4fa040f65a13b835a3c8764e3",
-       "symbol": "MULTI",
-       "name": "MULTI",
-       "tags": ["sequoia_capital_portfolio"]
+      "chainId": 250,
+      "address": "0x9fb9a33956351cf4fa040f65a13b835a3c8764e3",
+      "symbol": "MULTI",
+      "name": "MULTI",
+      "tags": ["sequoia_capital_portfolio"]
     },
     {
-       "chainId": 56,
-       "address": "0xa260E12d2B924cb899AE80BB58123ac3fEE1E2F0",
-       "symbol": "HOOK",
-       "name": "HOOK",
-       "tags": ["sequoia_capital_portfolio"]
+      "chainId": 56,
+      "address": "0xa260E12d2B924cb899AE80BB58123ac3fEE1E2F0",
+      "symbol": "HOOK",
+      "name": "HOOK",
+      "tags": ["sequoia_capital_portfolio"]
     },
     {
-       "chainId": 56,
-       "address": "0x045c4324039da91c52c55df5d785385aab073dcf",
-       "symbol": "CFX",
-       "name": "CFX",
-       "tags": ["sequoia_capital_portfolio"]
+      "chainId": 56,
+      "address": "0x045c4324039da91c52c55df5d785385aab073dcf",
+      "symbol": "CFX",
+      "name": "CFX",
+      "tags": ["sequoia_capital_portfolio"]
     },
     {
-       "chainId": 1,
-       "address": "0x4575f41308EC1483f3d399aa9a2826d74Da13Deb",
-       "symbol": "OXT",
-       "name": "OXT",
-       "tags": ["sequoia_capital_portfolio"]
+      "chainId": 1,
+      "address": "0x4575f41308EC1483f3d399aa9a2826d74Da13Deb",
+      "symbol": "OXT",
+      "name": "OXT",
+      "tags": ["sequoia_capital_portfolio"]
     },
     {
-       "chainId": 1,
-       "address": "0x91af0fbb28aba7e31403cb457106ce79397fd4e6",
-       "symbol": "AERGO",
-       "name": "AERGO",
-       "tags": ["sequoia_capital_portfolio"]
+      "chainId": 1,
+      "address": "0x91af0fbb28aba7e31403cb457106ce79397fd4e6",
+      "symbol": "AERGO",
+      "name": "AERGO",
+      "tags": ["sequoia_capital_portfolio"]
     },
     {
-       "chainId": 1,
-       "address": "0xbe1a001fe942f96eea22ba08783140b9dcc09d28",
-       "symbol": "BETA",
-       "name": "BETA",
-       "tags": ["sequoia_capital_portfolio"]
+      "chainId": 1,
+      "address": "0xbe1a001fe942f96eea22ba08783140b9dcc09d28",
+      "symbol": "BETA",
+      "name": "BETA",
+      "tags": ["sequoia_capital_portfolio"]
     },
     {
-       "chainId": 56,
-       "address": "0xbe1a001fe942f96eea22ba08783140b9dcc09d28",
-       "symbol": "BETA",
-       "name": "BETA",
-       "tags": ["sequoia_capital_portfolio"]
+      "chainId": 56,
+      "address": "0xbe1a001fe942f96eea22ba08783140b9dcc09d28",
+      "symbol": "BETA",
+      "name": "BETA",
+      "tags": ["sequoia_capital_portfolio"]
     },
     {
-       "chainId": 43114,
-       "address": "0x511D35c52a3C244E7b8bd92c0C297755FbD89212",
-       "symbol": "BETA",
-       "name": "BETA",
-       "tags": ["sequoia_capital_portfolio"]
+      "chainId": 43114,
+      "address": "0x511D35c52a3C244E7b8bd92c0C297755FbD89212",
+      "symbol": "BETA",
+      "name": "BETA",
+      "tags": ["sequoia_capital_portfolio"]
     },
     {
-       "chainId": 1,
-       "address": "0x61e90a50137e1f645c9ef4a0d3a4f01477738406",
-       "symbol": "LOKA",
-       "name": "LOKA",
-       "tags": ["sequoia_capital_portfolio"]
+      "chainId": 1,
+      "address": "0x61e90a50137e1f645c9ef4a0d3a4f01477738406",
+      "symbol": "LOKA",
+      "name": "LOKA",
+      "tags": ["sequoia_capital_portfolio"]
     },
     {
-       "chainId": 1,
-       "address": "0xfB5c6815cA3AC72Ce9F5006869AE67f18bF77006",
-       "symbol": "PSTAKE",
-       "name": "PSTAKE",
-       "tags": ["sequoia_capital_portfolio"]
+      "chainId": 1,
+      "address": "0xfB5c6815cA3AC72Ce9F5006869AE67f18bF77006",
+      "symbol": "PSTAKE",
+      "name": "PSTAKE",
+      "tags": ["sequoia_capital_portfolio"]
     },
     {
-       "chainId": 1,
-       "address": "0x66761fa41377003622aee3c7675fc7b5c1c2fac5",
-       "symbol": "CPOOL",
-       "name": "CPOOL",
-       "tags": ["sequoia_capital_portfolio"]
+      "chainId": 1,
+      "address": "0x66761fa41377003622aee3c7675fc7b5c1c2fac5",
+      "symbol": "CPOOL",
+      "name": "CPOOL",
+      "tags": ["sequoia_capital_portfolio"]
     },
     {
-       "chainId": 1,
-       "address": "0x97872EAfd79940C7b24f7BCc1EADb1457347ADc9",
-       "symbol": "STRP",
-       "name": "STRP",
-       "tags": ["sequoia_capital_portfolio"]
+      "chainId": 1,
+      "address": "0x97872EAfd79940C7b24f7BCc1EADb1457347ADc9",
+      "symbol": "STRP",
+      "name": "STRP",
+      "tags": ["sequoia_capital_portfolio"]
     },
     {
-       "chainId": 42161,
-       "address": "0x326c33fd1113c1f29b35b4407f3d6312a8518431",
-       "symbol": "STRP",
-       "name": "STRP",
-       "tags": ["sequoia_capital_portfolio"]
+      "chainId": 42161,
+      "address": "0x326c33fd1113c1f29b35b4407f3d6312a8518431",
+      "symbol": "STRP",
+      "name": "STRP",
+      "tags": ["sequoia_capital_portfolio"]
     },
     {
-       "chainId": 1,
-       "address": "0x0954906da0Bf32d5479e25f46056d22f08464cab",
-       "symbol": "INDEX",
-       "name": "INDEX",
-       "tags": ["sequoia_capital_portfolio"]
+      "chainId": 1,
+      "address": "0x0954906da0Bf32d5479e25f46056d22f08464cab",
+      "symbol": "INDEX",
+      "name": "INDEX",
+      "tags": ["sequoia_capital_portfolio"]
     },
     {
-       "chainId": 137,
-       "address": "0xfbd8a3b908e764dbcd51e27992464b4432a1132b",
-       "symbol": "INDEX",
-       "name": "INDEX",
-       "tags": ["sequoia_capital_portfolio"]
+      "chainId": 137,
+      "address": "0xfbd8a3b908e764dbcd51e27992464b4432a1132b",
+      "symbol": "INDEX",
+      "name": "INDEX",
+      "tags": ["sequoia_capital_portfolio"]
     },
     {
-       "chainId": 1,
-       "address": "0xDA9FDAb21bC4A5811134A6E0Ba6CA06624e67c07",
-       "symbol": "QUIDD",
-       "name": "QUIDD",
-       "tags": ["sequoia_capital_portfolio"]
+      "chainId": 1,
+      "address": "0xDA9FDAb21bC4A5811134A6E0Ba6CA06624e67c07",
+      "symbol": "QUIDD",
+      "name": "QUIDD",
+      "tags": ["sequoia_capital_portfolio"]
     },
     {
-       "chainId": 56,
-       "address": "0x7961ade0a767c0e5b67dd1a1f78ba44f727642ed",
-       "symbol": "QUIDD",
-       "name": "QUIDD",
-       "tags": ["sequoia_capital_portfolio"]
+      "chainId": 56,
+      "address": "0x7961ade0a767c0e5b67dd1a1f78ba44f727642ed",
+      "symbol": "QUIDD",
+      "name": "QUIDD",
+      "tags": ["sequoia_capital_portfolio"]
     },
     {
-       "chainId": 137,
-       "address": "0x123706cDD8e60324e610E9A2CC7012D0F45A5b8E",
-       "symbol": "QUIDD",
-       "name": "QUIDD",
-       "tags": ["sequoia_capital_portfolio"]
+      "chainId": 137,
+      "address": "0x123706cDD8e60324e610E9A2CC7012D0F45A5b8E",
+      "symbol": "QUIDD",
+      "name": "QUIDD",
+      "tags": ["sequoia_capital_portfolio"]
     },
     {
-       "chainId": 1,
-       "address": "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
-       "symbol": "FTT",
-       "name": "FTT",
-       "tags": ["sequoia_capital_portfolio"]
+      "chainId": 1,
+      "address": "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
+      "symbol": "FTT",
+      "name": "FTT",
+      "tags": ["sequoia_capital_portfolio"]
     },
     {
-       "chainId": 1,
-       "address": "0x3392d8a60b77f8d3eaa4fb58f09d835bd31add29",
-       "symbol": "INDI",
-       "name": "INDI",
-       "tags": ["sequoia_capital_portfolio"]
+      "chainId": 1,
+      "address": "0x3392d8a60b77f8d3eaa4fb58f09d835bd31add29",
+      "symbol": "INDI",
+      "name": "INDI",
+      "tags": ["sequoia_capital_portfolio"]
     },
     {
-       "chainId": 1,
-       "address": "0xCa14007Eff0dB1f8135f4C25B34De49AB0d42766",
-       "symbol": "STRK",
-       "name": "STRK",
-       "tags": ["sequoia_capital_portfolio"]
+      "chainId": 1,
+      "address": "0xCa14007Eff0dB1f8135f4C25B34De49AB0d42766",
+      "symbol": "STRK",
+      "name": "STRK",
+      "tags": ["sequoia_capital_portfolio"]
     }
   ],
   "version": {
