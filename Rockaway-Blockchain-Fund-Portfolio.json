@@ -93,13 +93,6 @@
       "tags": ["rockaway_blockchain_fund_portfolio"]
     },
     {
-      "chainId": 43114,
-      "address": "0x37b608519f91f70f2eeb0e5ed9af4061722e4f76q",
-      "symbol": "SUSHI",
-      "name": "SUSHI",
-      "tags": ["rockaway_blockchain_fund_portfolio"]
-    },
-    {
       "chainId": 1,
       "address": "0x26B80FBfC01b71495f477d5237071242e0d959d7",
       "symbol": "ROSE",
