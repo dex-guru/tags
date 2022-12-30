@@ -1,0 +1,122 @@
+{
+  "name": "Polygon Studios Portfolio",
+  "tags": {
+    "polygon_studios_portfolio": {
+      "name": "Polygon Studios Portfolio",
+      "description": ""
+    }
+  },
+  "timestamp": "2022-12-27T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x3845badade8e6dff049820680d1f14bd3903a5d0",
+      "symbol": "SAND",
+      "name": "SAND",
+      "tags": ["polygon_studios_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xbbba073c31bf03b8acf7c28ef0738decf3695683",
+      "symbol": "SAND",
+      "name": "SAND",
+      "tags": ["polygon_studios_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbbc2ae13b23d715c30720f079fcd9b4a74093505",
+      "symbol": "ERN",
+      "name": "ERN",
+      "tags": ["polygon_studios_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x431cd3c9ac9fc73644bf68bf5691f4b83f9e104f",
+      "symbol": "RBW",
+      "name": "RBW",
+      "tags": ["polygon_studios_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf418588522d5dd018b425e472991e52ebbeeeeee",
+      "symbol": "PUSH",
+      "name": "PUSH",
+      "tags": ["polygon_studios_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x71Fc1F555a39E0B698653AB0b475488EC3c34D57",
+      "symbol": "RAIN",
+      "name": "RAIN",
+      "tags": ["polygon_studios_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa41f142b6eb2b164f8164cae0716892ce02f311f",
+      "symbol": "AVG",
+      "name": "AVG",
+      "tags": ["polygon_studios_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x72f020f8f3e8fd9382705723cd26380f8d0c66bb",
+      "symbol": "PLOT",
+      "name": "PLOT",
+      "tags": ["polygon_studios_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xe82808eaA78339b06a691fd92E1Be79671cAd8D3",
+      "symbol": "PLOT",
+      "name": "PLOT",
+      "tags": ["polygon_studios_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x1DaCbcD9B3fc2d6A341Dca3634439D12bC71cA4d",
+      "symbol": "BVT",
+      "name": "BVT",
+      "tags": ["polygon_studios_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xb763f1177e9b2fb66fbe0d50372e3e2575c043e5",
+      "symbol": "KNOT",
+      "name": "KNOT",
+      "tags": ["polygon_studios_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xBF9f916bBda29A7F990F5F55c7607D94D7C3A60b",
+      "symbol": "DEFY",
+      "name": "DEFY",
+      "tags": ["polygon_studios_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x32ea3dc70e2962334864a9665254d2433e4ddbfd",
+      "symbol": "SPN",
+      "name": "SPN",
+      "tags": ["polygon_studios_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xa3C53b53Fe43083aa31c6F32ffe90C4d91b44391",
+      "symbol": "SPN",
+      "name": "SPN",
+      "tags": ["polygon_studios_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x823556202e86763853b40e9cde725f412e294689",
+      "symbol": "ASTO",
+      "name": "ASTO",
+      "tags": ["polygon_studios_portfolio"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}

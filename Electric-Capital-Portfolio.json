@@ -1,0 +1,199 @@
+{
+  "name": "Electric Capital Portfolio",
+  "tags": {
+    "electric_capital_portfolio": {
+      "name": "Electric Capital Portfolio",
+      "description": ""
+    }
+  },
+  "timestamp": "2022-12-29T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x853d955acef822db058eb8505911ed77f175b99e",
+      "symbol": "FRAX",
+      "name": "FRAX",
+      "tags": ["electric_capital_portfolio"]
+    },
+    {
+      "chainId": 250,
+      "address": "0xdc301622e621166BD8E82f2cA0A26c13Ad0BE355",
+      "symbol": "FRAX",
+      "name": "FRAX",
+      "tags": ["electric_capital_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0xD24C2Ad096400B6FBcd2ad8B24E7acBc21A1da64",
+      "symbol": "FRAX",
+      "name": "FRAX",
+      "tags": ["electric_capital_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x45c32fA6DF82ead1e2EF74d17b76547EDdFaFF89",
+      "symbol": "FRAX",
+      "name": "FRAX",
+      "tags": ["electric_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x90C97F71E18723b0Cf0dfa30ee176Ab653E89F40",
+      "symbol": "FRAX",
+      "name": "FRAX",
+      "tags": ["electric_capital_portfolio"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0x17fc002b466eec40dae837fc4be5c67993ddbd6f",
+      "symbol": "FRAX",
+      "name": "FRAX",
+      "tags": ["electric_capital_portfolio"]
+    },
+    {
+      "chainId": 10,
+      "address": "0x2E3D870790dC77A83DD1d18184Acc7439A53f475",
+      "symbol": "FRAX",
+      "name": "FRAX",
+      "tags": ["electric_capital_portfolio"]
+    },
+    {
+      "chainId": 42220,
+      "address": "0x471ece3750da237f93b8e339c536989b8978a438",
+      "symbol": "CELO",
+      "name": "CELO",
+      "tags": ["electric_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x26B80FBfC01b71495f477d5237071242e0d959d7",
+      "symbol": "ROSE",
+      "name": "ROSE",
+      "tags": ["electric_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x6c6D604D3f07aBE287C1A3dF0281e999A83495C0",
+      "symbol": "ROSE",
+      "name": "ROSE",
+      "tags": ["electric_capital_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x12AF5C1a232675f62F405b5812A80e7a6F75D746",
+      "symbol": "ROSE",
+      "name": "ROSE",
+      "tags": ["electric_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x92d6c1e31e14520e676a687f0a93788b716beff5",
+      "symbol": "DYDX",
+      "name": "DYDX",
+      "tags": ["electric_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x31c8eacbffdd875c74b94b077895bd78cf1e64a3",
+      "symbol": "RAD",
+      "name": "RAD",
+      "tags": ["electric_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb3999F658C0391d94A37f7FF328F3feC942BcADC",
+      "symbol": "HFT",
+      "name": "HFT",
+      "tags": ["electric_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x44Ec807ce2F4a6F2737A92e985f318d035883e47",
+      "symbol": "HFT",
+      "name": "HFT",
+      "tags": ["electric_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb4b9dc1c77bdbb135ea907fd5a08094d98883a35",
+      "symbol": "SWEAT",
+      "name": "SWEAT",
+      "tags": ["electric_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x57b946008913b82e4df85f501cbaed910e58d26c",
+      "symbol": "POND",
+      "name": "POND",
+      "tags": ["electric_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1e053d89e08c24aa2ce5c5b4206744dc2d7bd8f5",
+      "symbol": "TT",
+      "name": "TT",
+      "tags": ["electric_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaaaaaa20d9e0e2461697782ef11675f668207961",
+      "symbol": "AURORA",
+      "name": "AURORA",
+      "tags": ["electric_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xde30da39c46104798bb5aa3fe8b9e0e1f348163f",
+      "symbol": "GTC",
+      "name": "GTC",
+      "tags": ["electric_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2e9d63788249371f1DFC918a52f8d799F4a38C94",
+      "symbol": "TOKE",
+      "name": "TOKE",
+      "tags": ["electric_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf5cfbc74057c610c8ef151a439252680ac68c6dc",
+      "symbol": "OCT",
+      "name": "OCT",
+      "tags": ["electric_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3a880652f47bfaa771908c07dd8673a787daed3a",
+      "symbol": "DDX",
+      "name": "DDX",
+      "tags": ["electric_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6bea7cfef803d1e3d5f7c0103f7ded065644e197",
+      "symbol": "GAMMA",
+      "name": "GAMMA",
+      "tags": ["electric_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf1Dc500FdE233A4055e25e5BbF516372BC4F6871",
+      "symbol": "SDL",
+      "name": "SDL",
+      "tags": ["electric_capital_portfolio"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0x75C9bC761d88f70156DAf83aa010E84680baF131",
+      "symbol": "SDL",
+      "name": "SDL",
+      "tags": ["electric_capital_portfolio"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}

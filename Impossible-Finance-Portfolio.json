@@ -1,0 +1,52 @@
+{
+  "name": "Impossible Finance Portfolio",
+  "tags": {
+    "impossible_finance_portfolio": {
+      "name": "Impossible Finance Portfolio",
+      "description": ""
+    }
+  },
+  "timestamp": "2022-12-29T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x23ce9e926048273ef83be0a3a8ba9cb6d45cd978",
+      "symbol": "DAR",
+      "name": "DAR",
+      "tags": ["impossible_finance_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x081131434f93063751813c619ecca9c4dc7862a3",
+      "symbol": "DAR",
+      "name": "DAR",
+      "tags": ["impossible_finance_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x23c5D1164662758b3799103Effe19cC064d897D6",
+      "symbol": "AURA",
+      "name": "AURA",
+      "tags": ["impossible_finance_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xdbccd9131405dd1fe7320090af337952b9845dfa",
+      "symbol": "BOT",
+      "name": "BOT",
+      "tags": ["impossible_finance_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x509a51394CC4D6bb474FeFB2994b8975A55A6e79",
+      "symbol": "FUFU",
+      "name": "FUFU",
+      "tags": ["impossible_finance_portfolio"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
