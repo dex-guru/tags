@@ -1,0 +1,479 @@
+{
+  "name": "DeFiance Capital Portfolio",
+  "tags": {
+    "defiance_capital_portfolio": {
+      "name": "DeFiance Capital Portfolio",
+      "description": ""
+    }
+  },
+  "timestamp": "2023-01-02T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x1CE0c2827e2eF14D5C4f29a091d735A204794041",
+      "symbol": "AVAX",
+      "name": "AVAX",
+      "tags": ["defiance_capital_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x2C89bbc92BD86F8075d1DEcc58C7F4E0107f286b",
+      "symbol": "AVAX",
+      "name": "AVAX",
+      "tags": ["defiance_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x92d6c1e31e14520e676a687f0a93788b716beff5",
+      "symbol": "DYDX",
+      "name": "DYDX",
+      "tags": ["defiance_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0f2d719407fdbeff09d87557abb7232601fd9f29",
+      "symbol": "MC",
+      "name": "MC",
+      "tags": ["defiance_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xa4080f1778e69467e905b8d6f72f6e441f9e9484",
+      "symbol": "SYN",
+      "name": "SYN",
+      "tags": ["defiance_capital_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x1f1e7c893855525b303f99bdf5c3c05be09ca251",
+      "symbol": "SYN",
+      "name": "SYN",
+      "tags": ["defiance_capital_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xf8f9efc0db77d8881500bb06ff5d6abc3070e695",
+      "symbol": "SYN",
+      "name": "SYN",
+      "tags": ["defiance_capital_portfolio"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0x080f6aed32fc474dd5717105dba5ea57268f46eb",
+      "symbol": "SYN",
+      "name": "SYN",
+      "tags": ["defiance_capital_portfolio"]
+    },
+    {
+      "chainId": 250,
+      "address": "0xe55e19fb4f2d85af758950957714292dac1e25b2",
+      "symbol": "SYN",
+      "name": "SYN",
+      "tags": ["defiance_capital_portfolio"]
+    },
+    {
+      "chainId": 10,
+      "address": "0x5A5fFf6F753d7C11A56A52FE47a177a87e431655",
+      "symbol": "SYN",
+      "name": "SYN",
+      "tags": ["defiance_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x949d48eca67b17269629c7194f4b727d4ef9e5d6",
+      "symbol": "MC",
+      "name": "MC",
+      "tags": ["defiance_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x949d48eca67b17269629c7194f4b727d4ef9e5d6",
+      "symbol": "MC",
+      "name": "MC",
+      "tags": ["defiance_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x65ef703f5594d2573eb71aaf55bc0cb548492df4",
+      "symbol": "MULTI",
+      "name": "MULTI",
+      "tags": ["defiance_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x9fb9a33956351cf4fa040f65a13b835a3c8764e3",
+      "symbol": "MULTI",
+      "name": "MULTI",
+      "tags": ["defiance_capital_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x9fb9a33956351cf4fa040f65a13b835a3c8764e3",
+      "symbol": "MULTI",
+      "name": "MULTI",
+      "tags": ["defiance_capital_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x9fb9a33956351cf4fa040f65a13b835a3c8764e3",
+      "symbol": "MULTI",
+      "name": "MULTI",
+      "tags": ["defiance_capital_portfolio"]
+    },
+    {
+      "chainId": 250,
+      "address": "0x9fb9a33956351cf4fa040f65a13b835a3c8764e3",
+      "symbol": "MULTI",
+      "name": "MULTI",
+      "tags": ["defiance_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c",
+      "symbol": "BNT",
+      "name": "BNT",
+      "tags": ["defiance_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xA069008A669e2Af00a86673D9D584cfb524A42Cc",
+      "symbol": "BNT",
+      "name": "BNT",
+      "tags": ["defiance_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xa1faa113cbe53436df28ff0aee54275c13b40975",
+      "symbol": "ALPHA",
+      "name": "ALPHA",
+      "tags": ["defiance_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa1faa113cbe53436df28ff0aee54275c13b40975",
+      "symbol": "ALPHA",
+      "name": "ALPHA",
+      "tags": ["defiance_capital_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x2147efff675e4a4ee1c2f918d181cdbd7a8e208f",
+      "symbol": "ALPHA",
+      "name": "ALPHA",
+      "tags": ["defiance_capital_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
+      "symbol": "JOE",
+      "name": "JOE",
+      "tags": ["defiance_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbe1a001fe942f96eea22ba08783140b9dcc09d28",
+      "symbol": "BETA",
+      "name": "BETA",
+      "tags": ["defiance_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xbe1a001fe942f96eea22ba08783140b9dcc09d28",
+      "symbol": "BETA",
+      "name": "BETA",
+      "tags": ["defiance_capital_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x511D35c52a3C244E7b8bd92c0C297755FbD89212",
+      "symbol": "BETA",
+      "name": "BETA",
+      "tags": ["defiance_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x43dfc4159d86f3a37a5a4b3d4580b888ad7d4ddd",
+      "symbol": "DODO",
+      "name": "DODO",
+      "tags": ["defiance_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x67ee3cb086f8a16f34bee3ca72fad36f7db929e2",
+      "symbol": "DODO",
+      "name": "DODO",
+      "tags": ["defiance_capital_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xe4bf2864ebec7b7fdf6eeca9bacae7cdfdaffe78",
+      "symbol": "DODO",
+      "name": "DODO",
+      "tags": ["defiance_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xec67005c4E498Ec7f55E092bd1d35cbC47C91892",
+      "symbol": "MLN",
+      "name": "MLN",
+      "tags": ["defiance_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaaef88cea01475125522e117bfe45cf32044e238",
+      "symbol": "GF",
+      "name": "GF",
+      "tags": ["defiance_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfB5c6815cA3AC72Ce9F5006869AE67f18bF77006",
+      "symbol": "PSTAKE",
+      "name": "PSTAKE",
+      "tags": ["defiance_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6b0b3a982b4634ac68dd83a4dbf02311ce324181",
+      "symbol": "ALI",
+      "name": "ALI",
+      "tags": ["defiance_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4e352cf164e64adcbad318c3a1e222e9eba4ce42",
+      "symbol": "MCB",
+      "name": "MCB",
+      "tags": ["defiance_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x5fe80d2cd054645b9419657d3d10d26391780a7b",
+      "symbol": "MCB",
+      "name": "MCB",
+      "tags": ["defiance_capital_portfolio"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0x4e352cF164E64ADCBad318C3a1e222E9EBa4Ce42",
+      "symbol": "MCB",
+      "name": "MCB",
+      "tags": ["defiance_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4e352cf164e64adcbad318c3a1e222e9eba4ce42",
+      "symbol": "MCB",
+      "name": "MCB",
+      "tags": ["defiance_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x5fe80d2cd054645b9419657d3d10d26391780a7b",
+      "symbol": "MCB",
+      "name": "MCB",
+      "tags": ["defiance_capital_portfolio"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0x4e352cF164E64ADCBad318C3a1e222E9EBa4Ce42",
+      "symbol": "MCB",
+      "name": "MCB",
+      "tags": ["defiance_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x97872EAfd79940C7b24f7BCc1EADb1457347ADc9",
+      "symbol": "STRP",
+      "name": "STRP",
+      "tags": ["defiance_capital_portfolio"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0x326c33fd1113c1f29b35b4407f3d6312a8518431",
+      "symbol": "STRP",
+      "name": "STRP",
+      "tags": ["defiance_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x72b886d09c117654ab7da13a14d603001de0b777",
+      "symbol": "XDEFI",
+      "name": "XDEFI",
+      "tags": ["defiance_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdddddd4301a082e62e84e43f474f044423921918",
+      "symbol": "DVF",
+      "name": "DVF",
+      "tags": ["defiance_capital_portfolio"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0xa7aa2921618e3d63da433829d448b58c9445a4c3",
+      "symbol": "DVF",
+      "name": "DVF",
+      "tags": ["defiance_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0954906da0Bf32d5479e25f46056d22f08464cab",
+      "symbol": "INDEX",
+      "name": "INDEX",
+      "tags": ["defiance_capital_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xfbd8a3b908e764dbcd51e27992464b4432a1132b",
+      "symbol": "INDEX",
+      "name": "INDEX",
+      "tags": ["defiance_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1559fa1b8f28238fd5d76d9f434ad86fd20d1559",
+      "symbol": "EDEN",
+      "name": "EDEN",
+      "tags": ["defiance_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x544c42fbb96b39b21df61cf322b5edc285ee7429",
+      "symbol": "INSUR",
+      "name": "INSUR",
+      "tags": ["defiance_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x3192ccddf1cdce4ff055ebc80f3f0231b86a7e30",
+      "symbol": "INSUR",
+      "name": "INSUR",
+      "tags": ["defiance_capital_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x544c42fbb96b39b21df61cf322b5edc285ee7429",
+      "symbol": "INSUR",
+      "name": "INSUR",
+      "tags": ["defiance_capital_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x8a0e8b4b0903929f47c3ea30973940d4a9702067",
+      "symbol": "INSUR",
+      "name": "INSUR",
+      "tags": ["defiance_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9F52c8ecbEe10e00D9faaAc5Ee9Ba0fF6550F511",
+      "symbol": "SIPHER",
+      "name": "SIPHER",
+      "tags": ["defiance_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xca1207647Ff814039530D7d35df0e1Dd2e91Fa84",
+      "symbol": "DHT",
+      "name": "DHT",
+      "tags": ["defiance_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbc19712feb3a26080ebf6f2f7849b417fdd792ca",
+      "symbol": "BORING",
+      "name": "BORING",
+      "tags": ["defiance_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xffeecbf8d7267757c2dc3d13d730e97e15bfdf7f",
+      "symbol": "BORING",
+      "name": "BORING",
+      "tags": ["defiance_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2a2550e0a75acec6d811ae3930732f7f3ad67588",
+      "symbol": "PATH",
+      "name": "PATH",
+      "tags": ["defiance_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa3BeD4E1c75D00fa6f4E5E6922DB7261B5E9AcD2",
+      "symbol": "MTA",
+      "name": "MTA",
+      "tags": ["defiance_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1337def16f9b486faed0293eb623dc8395dfe46a",
+      "symbol": "ARMOR",
+      "name": "ARMOR",
+      "tags": ["defiance_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfFffFffF2ba8F66D4e51811C5190992176930278",
+      "symbol": "COMBO",
+      "name": "COMBO",
+      "tags": ["defiance_capital_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xcd7361ac3307d1c5a46b63086a90742ff44c63b3",
+      "symbol": "RAIDER",
+      "name": "RAIDER",
+      "tags": ["defiance_capital_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x22d4002028f537599be9f666d1c4fa138522f9c8",
+      "symbol": "PTP",
+      "name": "PTP",
+      "tags": ["defiance_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbF776e4FCa664D791C4Ee3A71e2722990E003283",
+      "symbol": "SMTY",
+      "name": "SMTY",
+      "tags": ["defiance_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xbF776e4FCa664D791C4Ee3A71e2722990E003283",
+      "symbol": "SMTY",
+      "name": "SMTY",
+      "tags": ["defiance_capital_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xe8377a076adabb3f9838afb77bee96eac101ffb1",
+      "symbol": "MSU",
+      "name": "MSU",
+      "tags": ["defiance_capital_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xAa9654BECca45B5BDFA5ac646c939C62b527D394",
+      "symbol": "DINO",
+      "name": "DINO",
+      "tags": ["defiance_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x778682c19797d985c595429fbc51d67736013a86",
+      "symbol": "HEGG",
+      "name": "HEGG",
+      "tags": ["defiance_capital_portfolio"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "name": "Ava Labs Portfolio",
+  "tags": {
+    "ava_labs_portfolio": {
+      "name": "Ava Labs Portfolio",
+      "description": ""
+    }
+  },
+  "timestamp": "2022-12-30T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x4123a133ae3c521fd134d7b13a2dec35b56c2463",
+      "symbol": "QRDO",
+      "name": "QRDO",
+      "tags": ["ava_labs_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5",
+      "symbol": "QI",
+      "name": "QI",
+      "tags": ["ava_labs_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2c537e5624e4af88a7ae4060c022609376c8d0eb",
+      "symbol": "TRYB",
+      "name": "TRYB",
+      "tags": ["ava_labs_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x564A341Df6C126f90cf3ECB92120FD7190ACb401",
+      "symbol": "TRYB",
+      "name": "TRYB",
+      "tags": ["ava_labs_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xC1fdbed7Dac39caE2CcC0748f7a80dC446F6a594",
+      "symbol": "TRYB",
+      "name": "TRYB",
+      "tags": ["ava_labs_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x4fb71290ac171e1d144f7221d882becac7196eb5",
+      "symbol": "TRYB",
+      "name": "TRYB",
+      "tags": ["ava_labs_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0xb2a85C5ECea99187A977aC34303b80AcbDdFa208",
+      "symbol": "ROCO",
+      "name": "ROCO",
+      "tags": ["ava_labs_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x22d4002028f537599be9f666d1c4fa138522f9c8",
+      "symbol": "PTP",
+      "name": "PTP",
+      "tags": ["ava_labs_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x937e077abaea52d3abf879c9b9d3f2ebd15baa21",
+      "symbol": "OH",
+      "name": "OH",
+      "tags": ["ava_labs_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x16ba8efe847ebdfef99d399902ec29397d403c30",
+      "symbol": "OH",
+      "name": "OH",
+      "tags": ["ava_labs_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x45c13620b55c35a5f539d26e88247011eb10fdbd",
+      "symbol": "HCT",
+      "name": "HCT",
+      "tags": ["ava_labs_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x5085434227aB73151fAd2DE546210Cbc8663dF96",
+      "symbol": "DBY",
+      "name": "DBY",
+      "tags": ["ava_labs_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x449674B82F05d498E126Dd6615a1057A9c088f2C",
+      "symbol": "LOST",
+      "name": "LOST",
+      "tags": ["ava_labs_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x2905d6d6957983d9ed73bc019ff2782c39dd7a49",
+      "symbol": "SNCT",
+      "name": "SNCT",
+      "tags": ["ava_labs_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x1111111111182587795eF1098ac7da81a108C97a",
+      "symbol": "BPT",
+      "name": "BPT",
+      "tags": ["ava_labs_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0xfd538ca3f58dc309da55b11f007ff53fb4602876",
+      "symbol": "BFG",
+      "name": "BFG",
+      "tags": ["ava_labs_portfolio"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}

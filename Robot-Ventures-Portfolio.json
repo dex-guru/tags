@@ -1,0 +1,150 @@
+{
+  "name": "Robot Ventures Portfolio",
+  "tags": {
+    "robot_ventures_portfolio": {
+      "name": "Robot Ventures Portfolio",
+      "description": ""
+    }
+  },
+  "timestamp": "2023-01-03T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x5a98fcbea516cf06857215779fd812ca3bef1b32",
+      "symbol": "LDO",
+      "name": "LDO",
+      "tags": ["robot_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x986854779804799C1d68867F5E03e601E781e41b",
+      "symbol": "LDO",
+      "name": "LDO",
+      "tags": ["robot_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc00e94cb662c3520282e6f5717214004a7f26888",
+      "symbol": "COMP",
+      "name": "COMP",
+      "tags": ["robot_ventures_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x8505b9d2254a7ae468c0e9dd10ccea3a837aef5c",
+      "symbol": "COMP",
+      "name": "COMP",
+      "tags": ["robot_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x52CE071Bd9b1C4B00A0b92D298c512478CaD67e8",
+      "symbol": "COMP",
+      "name": "COMP",
+      "tags": ["robot_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xff20817765cb7f73d4bde2e66e067e58d11095c2",
+      "symbol": "AMP",
+      "name": "AMP",
+      "tags": ["robot_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x467719ad09025fcc6cf6f8311755809d45a5e5f3",
+      "symbol": "WAXL",
+      "name": "WAXL",
+      "tags": ["robot_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x8b1f4432f943c465a973fedc6d7aa50fc96f1f65",
+      "symbol": "WAXL",
+      "name": "WAXL",
+      "tags": ["robot_ventures_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x44c784266cf024a60e8acf2427b9857ace194c5d",
+      "symbol": "WAXL",
+      "name": "WAXL",
+      "tags": ["robot_ventures_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x6e4e624106cb12e168e6533f8ec7c82263358940",
+      "symbol": "WAXL",
+      "name": "WAXL",
+      "tags": ["robot_ventures_portfolio"]
+    },
+    {
+      "chainId": 250,
+      "address": "0x8b1f4432f943c465a973fedc6d7aa50fc96f1f65",
+      "symbol": "WAXL",
+      "name": "WAXL",
+      "tags": ["robot_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x01ba67aac7f75f647d94220cc98fb30fcc5105bf",
+      "symbol": "LYRA",
+      "name": "LYRA",
+      "tags": ["robot_ventures_portfolio"]
+    },
+    {
+      "chainId": 10,
+      "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
+      "symbol": "LYRA",
+      "name": "LYRA",
+      "tags": ["robot_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdef1ca1fb7fbcdc777520aa7f396b4e015f497ab",
+      "symbol": "COW",
+      "name": "COW",
+      "tags": ["robot_ventures_portfolio"]
+    },
+    {
+      "chainId": 100,
+      "address": "0x177127622c4a00f3d409b75571e12cb3c8973d3c",
+      "symbol": "COW",
+      "name": "COW",
+      "tags": ["robot_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6f40d4A6237C257fff2dB00FA0510DeEECd303eb",
+      "symbol": "INST",
+      "name": "INST",
+      "tags": ["robot_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbbbbbbb5aa847a2003fbc6b5c16df0bd1e725f61",
+      "symbol": "BPRO",
+      "name": "BPRO",
+      "tags": ["robot_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0cec1a9154ff802e7934fc916ed7ca50bde6844e",
+      "symbol": "POOL",
+      "name": "POOL",
+      "tags": ["robot_ventures_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x25788a1a171ec66da6502f9975a15b609ff54cf6",
+      "symbol": "POOL",
+      "name": "POOL",
+      "tags": ["robot_ventures_portfolio"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}

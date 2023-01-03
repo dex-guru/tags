@@ -1,0 +1,199 @@
+{
+  "name": "LongHash Ventures Portfolio",
+  "tags": {
+    "longhash_ventures_portfolio": {
+      "name": "LongHash Ventures Portfolio",
+      "description": ""
+    }
+  },
+  "timestamp": "2023-01-03T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xba100000625a3754423978a60c9317c58a424e3D",
+      "symbol": "BAL",
+      "name": "BAL",
+      "tags": ["longhash_ventures_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3",
+      "symbol": "BAL",
+      "name": "BAL",
+      "tags": ["longhash_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x43dfc4159d86f3a37a5a4b3d4580b888ad7d4ddd",
+      "symbol": "DODO",
+      "name": "DODO",
+      "tags": ["longhash_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x67ee3cb086f8a16f34bee3ca72fad36f7db929e2",
+      "symbol": "DODO",
+      "name": "DODO",
+      "tags": ["longhash_ventures_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xe4bf2864ebec7b7fdf6eeca9bacae7cdfdaffe78",
+      "symbol": "DODO",
+      "name": "DODO",
+      "tags": ["longhash_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x20de22029ab63cf9a7cf5feb2b737ca1ee4c82a6",
+      "symbol": "CHESS",
+      "name": "CHESS",
+      "tags": ["longhash_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdef1ca1fb7fbcdc777520aa7f396b4e015f497ab",
+      "symbol": "COW",
+      "name": "COW",
+      "tags": ["longhash_ventures_portfolio"]
+    },
+    {
+      "chainId": 100,
+      "address": "0x177127622c4a00f3d409b75571e12cb3c8973d3c",
+      "symbol": "COW",
+      "name": "COW",
+      "tags": ["longhash_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdddddd4301a082e62e84e43f474f044423921918",
+      "symbol": "DVF",
+      "name": "DVF",
+      "tags": ["longhash_ventures_portfolio"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0xa7aa2921618e3d63da433829d448b58c9445a4c3",
+      "symbol": "DVF",
+      "name": "DVF",
+      "tags": ["longhash_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6f40d4A6237C257fff2dB00FA0510DeEECd303eb",
+      "symbol": "INST",
+      "name": "INST",
+      "tags": ["longhash_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3496b523e5c00a4b4150d6721320cddb234c3079",
+      "symbol": "NUM",
+      "name": "NUM",
+      "tags": ["longhash_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xeceb87cf00dcbf2d4e2880223743ff087a995ad9",
+      "symbol": "NUM",
+      "name": "NUM",
+      "tags": ["longhash_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x67b6d479c7bb412c54e03dca8e1bc6740ce6b99c",
+      "symbol": "KYL",
+      "name": "KYL",
+      "tags": ["longhash_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x188e817b02e635d482ae4d81e25dda98a97c4a42",
+      "symbol": "LITH",
+      "name": "LITH",
+      "tags": ["longhash_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8888801af4d980682e47f1a9036e589479e835c5",
+      "symbol": "MPH",
+      "name": "MPH",
+      "tags": ["longhash_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x875773784af8135ea0ef43b5a374aad105c5d39e",
+      "symbol": "IDLE",
+      "name": "IDLE",
+      "tags": ["longhash_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x02d3a27ac3f55d5d91fb0f52759842696a864217",
+      "symbol": "IONX",
+      "name": "IONX",
+      "tags": ["longhash_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x88cb253d4c8cab8cdf7948a9251db85a13669e23",
+      "symbol": "YLDY",
+      "name": "YLDY",
+      "tags": ["longhash_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf001937650bb4f62b57521824b2c20f5b91bea05",
+      "symbol": "TARA",
+      "name": "TARA",
+      "tags": ["longhash_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb0e1fc65c1a741b4662b813eb787d369b8614af1",
+      "symbol": "IF",
+      "name": "IF",
+      "tags": ["longhash_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xb0e1fc65c1a741b4662b813eb787d369b8614af1",
+      "symbol": "IF",
+      "name": "IF",
+      "tags": ["longhash_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe63d6b308bce0f6193aec6b7e6eba005f41e36ab",
+      "symbol": "STN",
+      "name": "STN",
+      "tags": ["longhash_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x52da44b5e584f730005dac8d2d2acbdee44d4ba3",
+      "symbol": "KT",
+      "name": "KT",
+      "tags": ["longhash_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbd9908b0cdd50386f92efcc8e1d71766c2782df0",
+      "symbol": "RICE",
+      "name": "RICE",
+      "tags": ["longhash_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x763fa6806e1acf68130d2d0f0df754c93cc546b2",
+      "symbol": "LIT",
+      "name": "LIT",
+      "tags": ["longhash_ventures_portfolio"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}

@@ -1,0 +1,374 @@
+{
+  "name": "Divergence Ventures Portfolio",
+  "tags": {
+    "divergence_ventures_portfolio": {
+      "name": "Divergence Ventures Portfolio",
+      "description": ""
+    }
+  },
+  "timestamp": "2023-01-02T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x5a98fcbea516cf06857215779fd812ca3bef1b32",
+      "symbol": "LDO",
+      "name": "LDO",
+      "tags": ["divergence_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x986854779804799C1d68867F5E03e601E781e41b",
+      "symbol": "LDO",
+      "name": "LDO",
+      "tags": ["divergence_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x111111111117dc0aa78b770fa6a738034120c302",
+      "symbol": "1INCH",
+      "name": "1INCH",
+      "tags": ["divergence_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x111111111117dc0aa78b770fa6a738034120c302",
+      "symbol": "1INCH",
+      "name": "1INCH",
+      "tags": ["divergence_ventures_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x9c2c5fd7b07e95ee044ddeba0e97a665f142394f",
+      "symbol": "1INCH",
+      "name": "1INCH",
+      "tags": ["divergence_ventures_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0xd501281565bf7789224523144fe5d98e8b28f267",
+      "symbol": "1INCH",
+      "name": "1INCH",
+      "tags": ["divergence_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc00e94cb662c3520282e6f5717214004a7f26888",
+      "symbol": "COMP",
+      "name": "COMP",
+      "tags": ["divergence_ventures_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x8505b9d2254a7ae468c0e9dd10ccea3a837aef5c",
+      "symbol": "COMP",
+      "name": "COMP",
+      "tags": ["divergence_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x52CE071Bd9b1C4B00A0b92D298c512478CaD67e8",
+      "symbol": "COMP",
+      "name": "COMP",
+      "tags": ["divergence_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xa1faa113cbe53436df28ff0aee54275c13b40975",
+      "symbol": "ALPHA",
+      "name": "ALPHA",
+      "tags": ["divergence_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa1faa113cbe53436df28ff0aee54275c13b40975",
+      "symbol": "ALPHA",
+      "name": "ALPHA",
+      "tags": ["divergence_ventures_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x2147efff675e4a4ee1c2f918d181cdbd7a8e208f",
+      "symbol": "ALPHA",
+      "name": "ALPHA",
+      "tags": ["divergence_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5fAa989Af96Af85384b8a938c2EdE4A7378D9875",
+      "symbol": "GAL",
+      "name": "GAL",
+      "tags": ["divergence_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xe4cc45bb5dbda06db6183e8bf016569f40497aa5",
+      "symbol": "GAL",
+      "name": "GAL",
+      "tags": ["divergence_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd9Fcd98c322942075A5C3860693e9f4f03AAE07b",
+      "symbol": "EUL",
+      "name": "EUL",
+      "tags": ["divergence_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x467719ad09025fcc6cf6f8311755809d45a5e5f3",
+      "symbol": "WAXL",
+      "name": "WAXL",
+      "tags": ["divergence_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x8b1f4432f943c465a973fedc6d7aa50fc96f1f65",
+      "symbol": "WAXL",
+      "name": "WAXL",
+      "tags": ["divergence_ventures_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x44c784266cf024a60e8acf2427b9857ace194c5d",
+      "symbol": "WAXL",
+      "name": "WAXL",
+      "tags": ["divergence_ventures_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x6e4e624106cb12e168e6533f8ec7c82263358940",
+      "symbol": "WAXL",
+      "name": "WAXL",
+      "tags": ["divergence_ventures_portfolio"]
+    },
+    {
+      "chainId": 250,
+      "address": "0x8b1f4432f943c465a973fedc6d7aa50fc96f1f65",
+      "symbol": "WAXL",
+      "name": "WAXL",
+      "tags": ["divergence_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa2120b9e674d3fc3875f415a7df52e382f141225",
+      "symbol": "ATA",
+      "name": "ATA",
+      "tags": ["divergence_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xa2120b9e674d3fc3875f415a7df52e382f141225",
+      "symbol": "ATA",
+      "name": "ATA",
+      "tags": ["divergence_ventures_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x0df0f72ee0e5c9b7ca761ecec42754992b2da5bf",
+      "symbol": "ATA",
+      "name": "ATA",
+      "tags": ["divergence_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x80c62fe4487e1351b47ba49809ebd60ed085bf52",
+      "symbol": "CLV",
+      "name": "CLV",
+      "tags": ["divergence_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x09e889bb4d5b474f561db0491c38702f367a4e4d",
+      "symbol": "CLV",
+      "name": "CLV",
+      "tags": ["divergence_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xde30da39c46104798bb5aa3fe8b9e0e1f348163f",
+      "symbol": "GTC",
+      "name": "GTC",
+      "tags": ["divergence_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdab396ccf3d84cf2d07c4454e10c8a6f5b008d2b",
+      "symbol": "GFI",
+      "name": "GFI",
+      "tags": ["divergence_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x01ba67aac7f75f647d94220cc98fb30fcc5105bf",
+      "symbol": "LYRA",
+      "name": "LYRA",
+      "tags": ["divergence_ventures_portfolio"]
+    },
+    {
+      "chainId": 10,
+      "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
+      "symbol": "LYRA",
+      "name": "LYRA",
+      "tags": ["divergence_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2e9d63788249371f1DFC918a52f8d799F4a38C94",
+      "symbol": "TOKE",
+      "name": "TOKE",
+      "tags": ["divergence_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf203Ca1769ca8e9e8FE1DA9D147DB68B6c919817",
+      "symbol": "WNCG",
+      "name": "WNCG",
+      "tags": ["divergence_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfcf8eda095e37a41e002e266daad7efc1579bc0a",
+      "symbol": "FLEX",
+      "name": "FLEX",
+      "tags": ["divergence_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x31429d1856ad1377a8a0079410b297e1a9e214c2",
+      "symbol": "ANGLE",
+      "name": "ANGLE",
+      "tags": ["divergence_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x35bd01fc9d6d5d81ca9e055db88dc49aa2c699a8",
+      "symbol": "FWB",
+      "name": "FWB",
+      "tags": ["divergence_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa36fdbbae3c9d55a1d67ee5821d53b50b63a1ab9",
+      "symbol": "TEMP",
+      "name": "TEMP",
+      "tags": ["divergence_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x188e817b02e635d482ae4d81e25dda98a97c4a42",
+      "symbol": "LITH",
+      "name": "LITH",
+      "tags": ["divergence_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf1Dc500FdE233A4055e25e5BbF516372BC4F6871",
+      "symbol": "SDL",
+      "name": "SDL",
+      "tags": ["divergence_ventures_portfolio"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0x75C9bC761d88f70156DAf83aa010E84680baF131",
+      "symbol": "SDL",
+      "name": "SDL",
+      "tags": ["divergence_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xca1207647Ff814039530D7d35df0e1Dd2e91Fa84",
+      "symbol": "DHT",
+      "name": "DHT",
+      "tags": ["divergence_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb9d99c33ea2d86ec5ec6b8a4dd816ebba64404af",
+      "symbol": "K21",
+      "name": "K21",
+      "tags": ["divergence_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1337def16f9b486faed0293eb623dc8395dfe46a",
+      "symbol": "ARMOR",
+      "name": "ARMOR",
+      "tags": ["divergence_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x02Bdf640fba368E7Ba5c6429cCaF251512273865",
+      "symbol": "BLT",
+      "name": "BLT",
+      "tags": ["divergence_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb0e1fc65c1a741b4662b813eb787d369b8614af1",
+      "symbol": "IF",
+      "name": "IF",
+      "tags": ["divergence_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xb0e1fc65c1a741b4662b813eb787d369b8614af1",
+      "symbol": "IF",
+      "name": "IF",
+      "tags": ["divergence_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x20c36f062a31865bed8a5b1e512d9a1a20aa333a",
+      "symbol": "DFD",
+      "name": "DFD",
+      "tags": ["divergence_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x9899a98b222fcb2f3dbee7df45d943093a4ff9ff",
+      "symbol": "DFD",
+      "name": "DFD",
+      "tags": ["divergence_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7e9d8f07a64e363e97a648904a89fb4cd5fb94cd",
+      "symbol": "FF",
+      "name": "FF",
+      "tags": ["divergence_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1a57367c6194199e5d9aea1ce027431682dfb411",
+      "symbol": "MDF",
+      "name": "MDF",
+      "tags": ["divergence_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xd73f32833b6d5d9c8070c23e599e283a3039823c",
+      "symbol": "WTF",
+      "name": "WTF",
+      "tags": ["divergence_ventures_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x873801ae2ff12d816db9a7b082f5796bec64c82c",
+      "symbol": "WTF",
+      "name": "WTF",
+      "tags": ["divergence_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x274e7eb07b485cfde53d02270555213447570ac6",
+      "symbol": "GOV",
+      "name": "GOV",
+      "tags": ["divergence_ventures_portfolio"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "name": "Dapper Labs Portfolio",
+  "tags": {
+    "dapper_labs_portfolio": {
+      "name": "Dapper Labs Portfolio",
+      "description": ""
+    }
+  },
+  "timestamp": "2022-12-30T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x69af81e73a73b40adf4f3d4223cd9b1ece623074",
+      "symbol": "MASK",
+      "name": "MASK",
+      "tags": ["dapper_labs_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x2ed9a5c8c13b93955103b9a7c167b67ef4d568a3",
+      "symbol": "MASK",
+      "name": "MASK",
+      "tags": ["dapper_labs_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x2b9e7ccdf0f4e5b24757c1e1a80e311e34cb10c7",
+      "symbol": "MASK",
+      "name": "MASK",
+      "tags": ["dapper_labs_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaaef88cea01475125522e117bfe45cf32044e238",
+      "symbol": "GF",
+      "name": "GF",
+      "tags": ["dapper_labs_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6b0b3a982b4634ac68dd83a4dbf02311ce324181",
+      "symbol": "ALI",
+      "name": "ALI",
+      "tags": ["dapper_labs_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc98d64da73a6616c42117b582e832812e7b8d57f",
+      "symbol": "RSS3",
+      "name": "RSS3",
+      "tags": ["dapper_labs_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x56156fb7860d7eb0b4b1a5356c5354b295194a45",
+      "symbol": "SPRT",
+      "name": "SPRT",
+      "tags": ["dapper_labs_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1afb69dbc9f54d08dab1bd3436f8da1af819e647",
+      "symbol": "MELOS",
+      "name": "MELOS",
+      "tags": ["dapper_labs_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3F68e7B44e9bCB486C2FeAdB7A2289D9cdFC9088",
+      "symbol": "ICONS",
+      "name": "ICONS",
+      "tags": ["dapper_labs_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xe896aa5e01ef58789f2f17f740af5df33d45f311",
+      "symbol": "ICONS",
+      "name": "ICONS",
+      "tags": ["dapper_labs_portfolio"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
