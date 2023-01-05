@@ -1,8 +1,8 @@
 {
-  "name": "Liquid staking derivatives(LSD)",
+  "name": "Liquid staking governance",
   "tags": {
     "lsd_governance_tokens": {
-      "name": "Liquid staking derivatives(LSD) - governance",
+      "name": "Liquid staking governance",
       "description": "Governance tokens of Liquid staking protocols."
     }
   },
