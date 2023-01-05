@@ -45,7 +45,7 @@
     },
     {
       "chainId": 43114,
-      "address": "0x31c994AC062C1970C086260Bc61babB708643fA",
+      "address": "0x31c994ac062c1970c086260bc61babb708643fac",
       "symbol": "XETA",
       "name": "XETA",
       "tags": ["dao_maker_portfolio"]
