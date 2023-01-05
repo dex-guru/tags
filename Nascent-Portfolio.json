@@ -1,0 +1,136 @@
+{
+  "name": "Nascent Portfolio",
+  "tags": {
+    "nascent_portfolio": {
+      "name": "Nascent Portfolio",
+      "description": "Nascent is a global, multi-strategy investment firm focused on crypto and open finance. Nascent Portfolio of liquid tokens"
+    }
+  },
+  "timestamp": "2023-01-01T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xe41d2489571d322189246dafa5ebde1f4699f498",
+      "symbol": "ZRX",
+      "name": "ZRX",
+      "tags": ["nascent_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x596fa47043f99a4e0f122243b841e55375cde0d2",
+      "symbol": "ZRX",
+      "name": "ZRX",
+      "tags": ["nascent_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6123b0049f904d730db3c36a31167d9d4121fa6b",
+      "symbol": "RBN",
+      "name": "RBN",
+      "tags": ["nascent_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xaec945e04baf28b135fa7c640f624f8d90f1c3a6",
+      "symbol": "C98",
+      "name": "C98",
+      "tags": ["nascent_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xae12c5930881c53715b369cec7606b70d8eb229f",
+      "symbol": "C98",
+      "name": "C98",
+      "tags": ["nascent_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x99fe3b1391503a1bc1788051347a1324bff41452",
+      "symbol": "SX",
+      "name": "SX",
+      "tags": ["nascent_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x840195888db4d6a99ed9f73fcd3b225bb3cb1a79",
+      "symbol": "SX",
+      "name": "SX",
+      "tags": ["nascent_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdbdb4d16eda451d0503b854cf79d55697f90c8df",
+      "symbol": "ALCX",
+      "name": "ALCX",
+      "tags": ["nascent_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x15b7c0c907e4c6b9adaaaabc300c08991d6cea05",
+      "symbol": "GEL",
+      "name": "GEL",
+      "tags": ["nascent_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfcf8eda095e37a41e002e266daad7efc1579bc0a",
+      "symbol": "FLEX",
+      "name": "FLEX",
+      "tags": ["nascent_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x35bd01fc9d6d5d81ca9e055db88dc49aa2c699a8",
+      "symbol": "FWB",
+      "name": "FWB",
+      "tags": ["nascent_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcfeaead4947f0705a14ec42ac3d44129e1ef3ed5",
+      "symbol": "NOTE",
+      "name": "NOTE",
+      "tags": ["nascent_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0cec1a9154ff802e7934fc916ed7ca50bde6844e",
+      "symbol": "POOL",
+      "name": "POOL",
+      "tags": ["nascent_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x25788a1a171ec66da6502f9975a15b609ff54cf6",
+      "symbol": "POOL",
+      "name": "POOL",
+      "tags": ["nascent_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf1Dc500FdE233A4055e25e5BbF516372BC4F6871",
+      "symbol": "SDL",
+      "name": "SDL",
+      "tags": ["nascent_portfolio"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0x75C9bC761d88f70156DAf83aa010E84680baF131",
+      "symbol": "SDL",
+      "name": "SDL",
+      "tags": ["nascent_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb9d99c33ea2d86ec5ec6b8a4dd816ebba64404af",
+      "symbol": "K21",
+      "name": "K21",
+      "tags": ["nascent_portfolio"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "name": "Mechanism Capital Portfolio",
+  "tags": {
+    "mechanism_capital_portfolio": {
+      "name": "Mechanism Capital Portfolio",
+      "description": "Mechanism Capital is an investment firm that invests in the cryptocurrency industry with a focus on DeFi."
+    }
+  },
+  "timestamp": "2022-12-31T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x949d48eca67b17269629c7194f4b727d4ef9e5d6",
+      "symbol": "MC",
+      "name": "MC",
+      "tags": ["mechanism_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf17e65822b568b3903685a7c9f496cf7656cc6c2",
+      "symbol": "BICO",
+      "name": "BICO",
+      "tags": ["mechanism_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD417144312DbF50465b1C641d016962017Ef6240",
+      "symbol": "CQT",
+      "name": "CQT",
+      "tags": ["mechanism_capital_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
+      "symbol": "JOE",
+      "name": "JOE",
+      "tags": ["mechanism_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x25f8087ead173b73d6e8b84329989a8eea16cf73",
+      "symbol": "YGG",
+      "name": "YGG",
+      "tags": ["mechanism_capital_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5",
+      "symbol": "QI",
+      "name": "QI",
+      "tags": ["mechanism_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x71ab77b7dbb4fa7e017bc15090b2163221420282",
+      "symbol": "HIGH",
+      "name": "HIGH",
+      "tags": ["mechanism_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x5f4bde007dc06b867f86ebfe4802e34a1ffeed63",
+      "symbol": "HIGH",
+      "name": "HIGH",
+      "tags": ["mechanism_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x97872EAfd79940C7b24f7BCc1EADb1457347ADc9",
+      "symbol": "STRP",
+      "name": "STRP",
+      "tags": ["mechanism_capital_portfolio"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0x326c33fd1113c1f29b35b4407f3d6312a8518431",
+      "symbol": "STRP",
+      "name": "STRP",
+      "tags": ["mechanism_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x72b886d09c117654ab7da13a14d603001de0b777",
+      "symbol": "XDEFI",
+      "name": "XDEFI",
+      "tags": ["mechanism_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x808507121b80c02388fad14726482e061b8da827",
+      "symbol": "PENDLE",
+      "name": "PENDLE",
+      "tags": ["mechanism_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xca1207647Ff814039530D7d35df0e1Dd2e91Fa84",
+      "symbol": "DHT",
+      "name": "DHT",
+      "tags": ["mechanism_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x83e9f223e1edb3486f876ee888d76bfba26c475a",
+      "symbol": "GUILD",
+      "name": "GUILD",
+      "tags": ["mechanism_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x0565805ca3a4105faee51983b0bd8ffb5ce1455c",
+      "symbol": "GUILD",
+      "name": "GUILD",
+      "tags": ["mechanism_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x9df465460938f9EBDF51C38CC87D72184471F8F0",
+      "symbol": "GENE",
+      "name": "GENE",
+      "tags": ["mechanism_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb9d99c33ea2d86ec5ec6b8a4dd816ebba64404af",
+      "symbol": "K21",
+      "name": "K21",
+      "tags": ["mechanism_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x94E9EB8b5Ab9fd6B9ea3169D55FFAde62a01702e",
+      "symbol": "BREED",
+      "name": "BREED",
+      "tags": ["mechanism_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x77777777772cf0455fb38ee0e75f38034dfa50de",
+      "symbol": "XY",
+      "name": "XY",
+      "tags": ["mechanism_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfb782396c9b20e564a64896181c7ac8d8979d5f4",
+      "symbol": "DIVER",
+      "name": "DIVER",
+      "tags": ["mechanism_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1ab43204a195a0fd37edec621482afd3792ef90b",
+      "symbol": "PLY",
+      "name": "PLY",
+      "tags": ["mechanism_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4a615bb7166210cce20e6642a6f8fb5d4d044496",
+      "symbol": "NAOS",
+      "name": "NAOS",
+      "tags": ["mechanism_capital_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x22d4002028f537599be9f666d1c4fa138522f9c8",
+      "symbol": "PTP",
+      "name": "PTP",
+      "tags": ["mechanism_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x20945cA1df56D237fD40036d47E866C7DcCD2114",
+      "symbol": "NSURE",
+      "name": "NSURE",
+      "tags": ["mechanism_capital_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x2D61F243d1a4c16640c3961100f50222679EC89E",
+      "symbol": "NSURE",
+      "name": "NSURE",
+      "tags": ["mechanism_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x4da996c5fe84755c80e108cf96fe705174c5e36a",
+      "symbol": "WOW",
+      "name": "WOW",
+      "tags": ["mechanism_capital_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x855d4248672a1fce482165e8dbe1207b94b1968a",
+      "symbol": "WOW",
+      "name": "WOW",
+      "tags": ["mechanism_capital_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0xA384Bc7Cdc0A93e686da9E7B8C0807cD040F4E0b",
+      "symbol": "WOW",
+      "name": "WOW",
+      "tags": ["mechanism_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb5c578947de0fd71303f71f2c3d41767438bd0de",
+      "symbol": "DEVT",
+      "name": "DEVT",
+      "tags": ["mechanism_capital_portfolio"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}

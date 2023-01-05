@@ -1,0 +1,486 @@
+{
+  "name": "FBG Capital Portfolio",
+  "tags": {
+    "fbg_capital_portfolio": {
+      "name": "FBG Capital Portfolio",
+      "description": "FBG is one of the largest and earliest blockchain investment firms, focused on early stage companies that accelerate disruptive innovations"
+    }
+  },
+  "timestamp": "2023-01-01T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xbd31ea8212119f94a611fa969881cba3ea06fa3d",
+      "symbol": "LUNC",
+      "name": "LUNC",
+      "tags": ["fbg_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x156ab3346823B651294766e23e6Cf87254d68962",
+      "symbol": "LUNC",
+      "name": "LUNC",
+      "tags": ["fbg_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3506424f91fd33084466f402d5d97f05f8e3b4af",
+      "symbol": "CHZ",
+      "name": "CHZ",
+      "tags": ["fbg_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
+      "symbol": "MKR",
+      "name": "MKR",
+      "tags": ["fbg_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xb86AbCb37C3A4B64f74f59301AFF131a1BEcC787",
+      "symbol": "ZIL",
+      "name": "ZIL",
+      "tags": ["fbg_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x26B80FBfC01b71495f477d5237071242e0d959d7",
+      "symbol": "ROSE",
+      "name": "ROSE",
+      "tags": ["fbg_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x6c6D604D3f07aBE287C1A3dF0281e999A83495C0",
+      "symbol": "ROSE",
+      "name": "ROSE",
+      "tags": ["fbg_capital_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x12AF5C1a232675f62F405b5812A80e7a6F75D746",
+      "symbol": "ROSE",
+      "name": "ROSE",
+      "tags": ["fbg_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe41d2489571d322189246dafa5ebde1f4699f498",
+      "symbol": "ZRX",
+      "name": "ZRX",
+      "tags": ["fbg_capital_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x596fa47043f99a4e0f122243b841e55375cde0d2",
+      "symbol": "ZRX",
+      "name": "ZRX",
+      "tags": ["fbg_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4fE83213D56308330EC302a8BD641f1d0113A4Cc",
+      "symbol": "NU",
+      "name": "NU",
+      "tags": ["fbg_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x491604c0fdf08347dd1fa4ee062a822a5dd06b5d",
+      "symbol": "CTSI",
+      "name": "CTSI",
+      "tags": ["fbg_capital_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x2727ab1c2d22170abc9b595177b2d5c6e1ab7b7b",
+      "symbol": "CTSI",
+      "name": "CTSI",
+      "tags": ["fbg_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x8da443f84fea710266c8eb6bc34b71702d033ef2",
+      "symbol": "CTSI",
+      "name": "CTSI",
+      "tags": ["fbg_capital_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x6b289cceaa8639e3831095d75a3e43520fabf552",
+      "symbol": "CTSI",
+      "name": "CTSI",
+      "tags": ["fbg_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x408e41876cccdc0f92210600ef50372656052a38",
+      "symbol": "REN",
+      "name": "REN",
+      "tags": ["fbg_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd46ba6d942050d489dbd938a2c909a5d5039a161",
+      "symbol": "AMPL",
+      "name": "AMPL",
+      "tags": ["fbg_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8207c1ffc5b6804f6024322ccf34f29c3541ae26",
+      "symbol": "OGN",
+      "name": "OGN",
+      "tags": ["fbg_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xff742d05420b6aca4481f635ad8341f81a6300c2",
+      "symbol": "ASD",
+      "name": "ASD",
+      "tags": ["fbg_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x91af0fbb28aba7e31403cb457106ce79397fd4e6",
+      "symbol": "AERGO",
+      "name": "AERGO",
+      "tags": ["fbg_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcaabcaa4ca42e1d86de1a201c818639def0ba7a7",
+      "symbol": "TALK",
+      "name": "TALK",
+      "tags": ["fbg_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1e053d89e08c24aa2ce5c5b4206744dc2d7bd8f5",
+      "symbol": "TT",
+      "name": "TT",
+      "tags": ["fbg_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb59490ab09a0f526cc7305822ac65f2ab12f9723",
+      "symbol": "LIT",
+      "name": "LIT",
+      "tags": ["fbg_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xb59490ab09a0f526cc7305822ac65f2ab12f9723",
+      "symbol": "LIT",
+      "name": "LIT",
+      "tags": ["fbg_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x33349b282065b0284d756f0577fb39c158f935e6",
+      "symbol": "MPL",
+      "name": "MPL",
+      "tags": ["fbg_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x27054b13b1b798b345b591a4d22e6562d47ea75a",
+      "symbol": "AST",
+      "name": "AST",
+      "tags": ["fbg_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x66761fa41377003622aee3c7675fc7b5c1c2fac5",
+      "symbol": "CPOOL",
+      "name": "CPOOL",
+      "tags": ["fbg_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe4815ae53b124e7263f08dcdbbb757d41ed658c6",
+      "symbol": "ZKS",
+      "name": "ZKS",
+      "tags": ["fbg_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa393473d64d2f9f026b60b6df7859a689715d092",
+      "symbol": "LTX",
+      "name": "LTX",
+      "tags": ["fbg_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB4A3B0Faf0Ab53df58001804DdA5Bfc6a3D59008",
+      "symbol": "SPA",
+      "name": "SPA",
+      "tags": ["fbg_capital_portfolio"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0x5575552988A3A80504bBaeB1311674fCFd40aD4B",
+      "symbol": "SPA",
+      "name": "SPA",
+      "tags": ["fbg_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7778360f035c589fce2f4ea5786cbd8b36e5396b",
+      "symbol": "OOE",
+      "name": "OOE",
+      "tags": ["fbg_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x9029fdfae9a03135846381c7ce16595c3554e10a",
+      "symbol": "OOE",
+      "name": "OOE",
+      "tags": ["fbg_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x188e817b02e635d482ae4d81e25dda98a97c4a42",
+      "symbol": "LITH",
+      "name": "LITH",
+      "tags": ["fbg_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8971f9fd7196e5cee2c1032b50f656855af7dd26",
+      "symbol": "LAMB",
+      "name": "LAMB",
+      "tags": ["fbg_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa487bf43cf3b10dffc97a9a744cbb7036965d3b9",
+      "symbol": "DERI",
+      "name": "DERI",
+      "tags": ["fbg_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xe60eaf5A997DFAe83739e035b005A33AfdCc6df5",
+      "symbol": "DERI",
+      "name": "DERI",
+      "tags": ["fbg_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEe9801669C6138E84bD50dEB500827b776777d28",
+      "symbol": "O3",
+      "name": "O3",
+      "tags": ["fbg_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xee9801669c6138e84bd50deb500827b776777d28",
+      "symbol": "O3",
+      "name": "O3",
+      "tags": ["fbg_capital_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xee9801669c6138e84bd50deb500827b776777d28",
+      "symbol": "O3",
+      "name": "O3",
+      "tags": ["fbg_capital_portfolio"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0xEe9801669C6138E84bD50dEB500827b776777d28",
+      "symbol": "O3",
+      "name": "O3",
+      "tags": ["fbg_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9b00e6E8D787b13756eb919786c9745054DB64f9",
+      "symbol": "SIENNA",
+      "name": "SIENNA",
+      "tags": ["fbg_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x6b23c89196deb721e6fd9726e6c76e4810a464bc",
+      "symbol": "XWG",
+      "name": "XWG",
+      "tags": ["fbg_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdaf88906ac1de12ba2b1d2f7bfc94e9638ac40c4",
+      "symbol": "EPK",
+      "name": "EPK",
+      "tags": ["fbg_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x547b2F82ceCfAb9C2B1D36fddA96eF9F58C63B8C",
+      "symbol": "TXT",
+      "name": "TXT",
+      "tags": ["fbg_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x92CfbEC26C206C90aeE3b7C66A9AE673754FaB7e",
+      "symbol": "OLE",
+      "name": "OLE",
+      "tags": ["fbg_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xa865197a84e780957422237b5d152772654341f3",
+      "symbol": "OLE",
+      "name": "OLE",
+      "tags": ["fbg_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1cc30e2eac975416060ec6fe682041408420d414",
+      "symbol": "KOL",
+      "name": "KOL",
+      "tags": ["fbg_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x96184d9c811ea0624fc30c80233b1d749b9e485b",
+      "symbol": "DAPPT",
+      "name": "DAPPT",
+      "tags": ["fbg_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf970b8e36e23f7fc3fd752eea86f8be8d83375a6",
+      "symbol": "RCN",
+      "name": "RCN",
+      "tags": ["fbg_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6149c26cd2f7b5ccdb32029af817123f6e37df5b",
+      "symbol": "LPOOL",
+      "name": "LPOOL",
+      "tags": ["fbg_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x850aab69f0e0171a9a49db8be3e71351c8247df4",
+      "symbol": "KONO",
+      "name": "KONO",
+      "tags": ["fbg_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1117ac6ad6cdf1a3bc543bad3b133724620522d5",
+      "symbol": "MODA",
+      "name": "MODA",
+      "tags": ["fbg_capital_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x5e430f88d1be82eb3ef92b6ff06125168fd5dcf2",
+      "symbol": "MODA",
+      "name": "MODA",
+      "tags": ["fbg_capital_portfolio"]
+    },
+    {
+      "chainId": 250,
+      "address": "0x6496994241804d7fe2b032901931e03bcd82301f",
+      "symbol": "MODA",
+      "name": "MODA",
+      "tags": ["fbg_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7968bc6a03017eA2de509AAA816F163Db0f35148",
+      "symbol": "HGET",
+      "name": "HGET",
+      "tags": ["fbg_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5c59a5b139b0538cb106d775a022cad98dd14b5a",
+      "symbol": "ORT",
+      "name": "ORT",
+      "tags": ["fbg_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9aeB50f542050172359A0e1a25a9933Bc8c01259",
+      "symbol": "OIN",
+      "name": "OIN",
+      "tags": ["fbg_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x658e64ffcf40d240a43d52ca9342140316ae44fa",
+      "symbol": "OIN",
+      "name": "OIN",
+      "tags": ["fbg_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa350da05405cc204e551c4eed19c3039646528d5",
+      "symbol": "BSPT",
+      "name": "BSPT",
+      "tags": ["fbg_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd6caf5bd23cf057f5fccce295dcc50c01c198707",
+      "symbol": "EVA",
+      "name": "EVA",
+      "tags": ["fbg_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x800a25741a414ea6e6e2b382435081a479a8cc3c",
+      "symbol": "SEOR",
+      "name": "SEOR",
+      "tags": ["fbg_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x13A637026dF26F846D55ACC52775377717345c06",
+      "symbol": "SPAY",
+      "name": "SPAY",
+      "tags": ["fbg_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x58FaD9E3C3AE54c9BA98c3f0E4bF88aB3E8Cf3c5",
+      "symbol": "SPAY",
+      "name": "SPAY",
+      "tags": ["fbg_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
+      "symbol": "FTT",
+      "name": "FTT",
+      "tags": ["fbg_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb06B8186cc008A79FD6722B1eefad07c14E97dA0",
+      "symbol": "SIGN",
+      "name": "SIGN",
+      "tags": ["fbg_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xed025a9fe4b30bcd68460bca42583090c2266468",
+      "symbol": "RPC",
+      "name": "RPC",
+      "tags": ["fbg_capital_portfolio"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}

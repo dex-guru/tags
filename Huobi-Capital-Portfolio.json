@@ -1,0 +1,486 @@
+{
+  "name": "Huobi Capital Portfolio",
+  "tags": {
+    "huobi_capital_portfolio": {
+      "name": "Huobi Capital Portfolio",
+      "description": "Huobi Capital is the investment arm of Huobi Group, focusing exclusively on ventures and projects related to blockchain technology, digital currency, and crypto assets."
+    }
+  },
+  "timestamp": "2023-01-03T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xbd31ea8212119f94a611fa969881cba3ea06fa3d",
+      "symbol": "LUNC",
+      "name": "LUNC",
+      "tags": ["huobi_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x156ab3346823B651294766e23e6Cf87254d68962",
+      "symbol": "LUNC",
+      "name": "LUNC",
+      "tags": ["huobi_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x26B80FBfC01b71495f477d5237071242e0d959d7",
+      "symbol": "ROSE",
+      "name": "ROSE",
+      "tags": ["huobi_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x6c6D604D3f07aBE287C1A3dF0281e999A83495C0",
+      "symbol": "ROSE",
+      "name": "ROSE",
+      "tags": ["huobi_capital_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x12AF5C1a232675f62F405b5812A80e7a6F75D746",
+      "symbol": "ROSE",
+      "name": "ROSE",
+      "tags": ["huobi_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xfd7b3a77848f1c2d67e05e54d78d174a0c850335",
+      "symbol": "ONT",
+      "name": "ONT",
+      "tags": ["huobi_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbf2179859fc6D5BEE9Bf9158632Dc51678a4100e",
+      "symbol": "ELF",
+      "name": "ELF",
+      "tags": ["huobi_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xa3f020a5C92e15be13CAF0Ee5C95cF79585EeCC9",
+      "symbol": "ELF",
+      "name": "ELF",
+      "tags": ["huobi_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf17e65822b568b3903685a7c9f496cf7656cc6c2",
+      "symbol": "BICO",
+      "name": "BICO",
+      "tags": ["huobi_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x408e41876cccdc0f92210600ef50372656052a38",
+      "symbol": "REN",
+      "name": "REN",
+      "tags": ["huobi_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x42bbfa2e77757c645eeaad1655e0911a7553efbc",
+      "symbol": "BOBA",
+      "name": "BOBA",
+      "tags": ["huobi_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcaabcaa4ca42e1d86de1a201c818639def0ba7a7",
+      "symbol": "TALK",
+      "name": "TALK",
+      "tags": ["huobi_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1e053d89e08c24aa2ce5c5b4206744dc2d7bd8f5",
+      "symbol": "TT",
+      "name": "TT",
+      "tags": ["huobi_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd7c302fc3ac829c7e896a32c4bd126f3e8bd0a1f",
+      "symbol": "B2M",
+      "name": "B2M",
+      "tags": ["huobi_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x431ad2ff6a9c365805ebad47ee021148d6f7dbe0",
+      "symbol": "DF",
+      "name": "DF",
+      "tags": ["huobi_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x4A9A2b2b04549C3927dd2c9668A5eF3fCA473623",
+      "symbol": "DF",
+      "name": "DF",
+      "tags": ["huobi_capital_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x08C15FA26E519A78a666D19CE5C646D55047e0a3",
+      "symbol": "DF",
+      "name": "DF",
+      "tags": ["huobi_capital_portfolio"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0xaE6aab43C4f3E0cea4Ab83752C278f8dEbabA689",
+      "symbol": "DF",
+      "name": "DF",
+      "tags": ["huobi_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x66761fa41377003622aee3c7675fc7b5c1c2fac5",
+      "symbol": "CPOOL",
+      "name": "CPOOL",
+      "tags": ["huobi_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x71ab77b7dbb4fa7e017bc15090b2163221420282",
+      "symbol": "HIGH",
+      "name": "HIGH",
+      "tags": ["huobi_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x5f4bde007dc06b867f86ebfe4802e34a1ffeed63",
+      "symbol": "HIGH",
+      "name": "HIGH",
+      "tags": ["huobi_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc98d64da73a6616c42117b582e832812e7b8d57f",
+      "symbol": "RSS3",
+      "name": "RSS3",
+      "tags": ["huobi_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xfb9C339b4BacE4Fe63ccc1dd9a3c3C531441D5fE",
+      "symbol": "SHILL",
+      "name": "SHILL",
+      "tags": ["huobi_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7778360f035c589fce2f4ea5786cbd8b36e5396b",
+      "symbol": "OOE",
+      "name": "OOE",
+      "tags": ["huobi_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x9029fdfae9a03135846381c7ce16595c3554e10a",
+      "symbol": "OOE",
+      "name": "OOE",
+      "tags": ["huobi_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xc2098a8938119A52B1F7661893c0153A6CB116d5",
+      "symbol": "RPG",
+      "name": "RPG",
+      "tags": ["huobi_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0E5C8C387C5EBa2eCbc137aD012aeD5Fe729e251",
+      "symbol": "RPG",
+      "name": "RPG",
+      "tags": ["huobi_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcd1faff6e578fa5cac469d2418c95671ba1a62fe",
+      "symbol": "XTM",
+      "name": "XTM",
+      "tags": ["huobi_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xcd1faff6e578fa5cac469d2418c95671ba1a62fe",
+      "symbol": "XTM",
+      "name": "XTM",
+      "tags": ["huobi_capital_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xe1c42be9699ff4e11674819c1885d43bd92e9d15",
+      "symbol": "XTM",
+      "name": "XTM",
+      "tags": ["huobi_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x30D20208d987713f46DFD34EF128Bb16C404D10f",
+      "symbol": "SD",
+      "name": "SD",
+      "tags": ["huobi_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x188e817b02e635d482ae4d81e25dda98a97c4a42",
+      "symbol": "LITH",
+      "name": "LITH",
+      "tags": ["huobi_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0cec1a9154ff802e7934fc916ed7ca50bde6844e",
+      "symbol": "POOL",
+      "name": "POOL",
+      "tags": ["huobi_capital_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x25788a1a171ec66da6502f9975a15b609ff54cf6",
+      "symbol": "POOL",
+      "name": "POOL",
+      "tags": ["huobi_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x6f9F0c4ad9Af7EbD61Ac5A1D4e0F2227F7B0E5f9",
+      "symbol": "ERA",
+      "name": "ERA",
+      "tags": ["huobi_capital_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0xb2a85C5ECea99187A977aC34303b80AcbDdFa208",
+      "symbol": "ROCO",
+      "name": "ROCO",
+      "tags": ["huobi_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x62959c699a52ec647622c91e79ce73344e4099f5",
+      "symbol": "DFA",
+      "name": "DFA",
+      "tags": ["huobi_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfb782396c9b20e564a64896181c7ac8d8979d5f4",
+      "symbol": "DIVER",
+      "name": "DIVER",
+      "tags": ["huobi_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd7d8f3b8bc8bc48d3acc37879eaba7b85889fa52",
+      "symbol": "CLH",
+      "name": "CLH",
+      "tags": ["huobi_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x2290C6bD9560E6498dFDf10F9eCB17997CA131f2",
+      "symbol": "MSTR",
+      "name": "MSTR",
+      "tags": ["huobi_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4a615bb7166210cce20e6642a6f8fb5d4d044496",
+      "symbol": "NAOS",
+      "name": "NAOS",
+      "tags": ["huobi_capital_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x071AC29d569a47EbfFB9e57517F855Cb577DCc4C",
+      "symbol": "GCOIN",
+      "name": "GCOIN",
+      "tags": ["huobi_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1a23a6BfBAdB59fa563008c0fB7cf96dfCF34Ea1",
+      "symbol": "COFI",
+      "name": "COFI",
+      "tags": ["huobi_capital_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x695FC8B80F344411F34bDbCb4E621aA69AdA384b",
+      "symbol": "NITRO",
+      "name": "NITRO",
+      "tags": ["huobi_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0335A7610D817aeCA1bEBbEfbd392ecC2eD587B8",
+      "symbol": "NITRO",
+      "name": "NITRO",
+      "tags": ["huobi_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x52da44b5e584f730005dac8d2d2acbdee44d4ba3",
+      "symbol": "KT",
+      "name": "KT",
+      "tags": ["huobi_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x35a5cb585d51d836922b78a9bb1f5c04635c39b6",
+      "symbol": "DIO",
+      "name": "DIO",
+      "tags": ["huobi_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xE81257d932280AE440B17AFc5f07C8A110D21432",
+      "symbol": "ZUKI",
+      "name": "ZUKI",
+      "tags": ["huobi_capital_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x45c13620b55c35a5f539d26e88247011eb10fdbd",
+      "symbol": "HCT",
+      "name": "HCT",
+      "tags": ["huobi_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB009BFaAF85e53F55d8657781Eb69feAaed83672",
+      "symbol": "EGS",
+      "name": "EGS",
+      "tags": ["huobi_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x426c72701833fdDBdFc06c944737C6031645c708",
+      "symbol": "FINA",
+      "name": "FINA",
+      "tags": ["huobi_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x21381e026Ad6d8266244f2A583b35F9E4413FA2a",
+      "symbol": "FORM",
+      "name": "FORM",
+      "tags": ["huobi_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x25a528af62e56512a19ce8c3cab427807c28cc19",
+      "symbol": "FORM",
+      "name": "FORM",
+      "tags": ["huobi_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4bb3205bf648b7f59ef90dee0f1b62f6116bc7ca",
+      "symbol": "BYN",
+      "name": "BYN",
+      "tags": ["huobi_capital_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x11602a402281974a70c2b4824d58ebede967e2be",
+      "symbol": "BYN",
+      "name": "BYN",
+      "tags": ["huobi_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x13A637026dF26F846D55ACC52775377717345c06",
+      "symbol": "SPAY",
+      "name": "SPAY",
+      "tags": ["huobi_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x58FaD9E3C3AE54c9BA98c3f0E4bF88aB3E8Cf3c5",
+      "symbol": "SPAY",
+      "name": "SPAY",
+      "tags": ["huobi_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xD9474595Edb03E35C5843335F90eb18671921246",
+      "symbol": "LFC",
+      "name": "LFC",
+      "tags": ["huobi_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x009178997aff09a67d4caccfeb897fb79d036214",
+      "symbol": "1SOL",
+      "name": "1SOL",
+      "tags": ["huobi_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x29CeDDCF0Da3c1D8068a7DFbD0FB06c2E438FF70",
+      "symbol": "FREL",
+      "name": "FREL",
+      "tags": ["huobi_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xfd5af95C12446b60d23e16A4EA95690cE942e5dC",
+      "symbol": "FREL",
+      "name": "FREL",
+      "tags": ["huobi_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7f121d4EC6c2C07eB6BC7989d91d2d4fF654c068",
+      "symbol": "MEET",
+      "name": "MEET",
+      "tags": ["huobi_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc91b523a59acc63a64f61fc7bbfb4bfc82dd25f2",
+      "symbol": "AI",
+      "name": "AI",
+      "tags": ["huobi_capital_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x3709e8615e02c15b096f8a9b460ccb8ca8194e86",
+      "symbol": "VEE",
+      "name": "VEE",
+      "tags": ["huobi_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x274e7eb07b485cfde53d02270555213447570ac6",
+      "symbol": "GOV",
+      "name": "GOV",
+      "tags": ["huobi_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6a969d379700b2e5ea4e684d273d63c1c050ba49",
+      "symbol": "PAF",
+      "name": "PAF",
+      "tags": ["huobi_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xd4c73fd18f732bc6ee9fb193d109b2eed815df80",
+      "symbol": "MAG",
+      "name": "MAG",
+      "tags": ["huobi_capital_portfolio"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}

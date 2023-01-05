@@ -1,0 +1,129 @@
+{
+  "name": "Sino Global Capital Portfolio",
+  "tags": {
+    "sino_global_capital_portfolio": {
+      "name": "Sino Global Capital Portfolio",
+      "description": "Sino Global leveraging emerging markets expertise as strategic investors for best-of-class international blockchain projects"
+    }
+  },
+  "timestamp": "2023-01-02T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
+      "symbol": "MATIC",
+      "name": "MATIC",
+      "tags": ["sino_global_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xCC42724C6683B7E57334c4E856f4c9965ED682bD",
+      "symbol": "MATIC",
+      "name": "MATIC",
+      "tags": ["sino_global_capital_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x0000000000000000000000000000000000001010",
+      "symbol": "MATIC",
+      "name": "MATIC",
+      "tags": ["sino_global_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x69af81e73a73b40adf4f3d4223cd9b1ece623074",
+      "symbol": "MASK",
+      "name": "MASK",
+      "tags": ["sino_global_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x2ed9a5c8c13b93955103b9a7c167b67ef4d568a3",
+      "symbol": "MASK",
+      "name": "MASK",
+      "tags": ["sino_global_capital_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x2b9e7ccdf0f4e5b24757c1e1a80e311e34cb10c7",
+      "symbol": "MASK",
+      "name": "MASK",
+      "tags": ["sino_global_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfB5c6815cA3AC72Ce9F5006869AE67f18bF77006",
+      "symbol": "PSTAKE",
+      "name": "PSTAKE",
+      "tags": ["sino_global_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x66761fa41377003622aee3c7675fc7b5c1c2fac5",
+      "symbol": "CPOOL",
+      "name": "CPOOL",
+      "tags": ["sino_global_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x72b886d09c117654ab7da13a14d603001de0b777",
+      "symbol": "XDEFI",
+      "name": "XDEFI",
+      "tags": ["sino_global_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb2617246d0c6c0087f18703d576831899ca94f01",
+      "symbol": "ZIG",
+      "name": "ZIG",
+      "tags": ["sino_global_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf418588522d5dd018b425e472991e52ebbeeeeee",
+      "symbol": "PUSH",
+      "name": "PUSH",
+      "tags": ["sino_global_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb0e1fc65c1a741b4662b813eb787d369b8614af1",
+      "symbol": "IF",
+      "name": "IF",
+      "tags": ["sino_global_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xb0e1fc65c1a741b4662b813eb787d369b8614af1",
+      "symbol": "IF",
+      "name": "IF",
+      "tags": ["sino_global_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbbca42c60b5290f2c48871a596492f93ff0ddc82",
+      "symbol": "DOMI",
+      "name": "DOMI",
+      "tags": ["sino_global_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x45c2f8c9b4c0bdc76200448cc26c48ab6ffef83f",
+      "symbol": "DOMI",
+      "name": "DOMI",
+      "tags": ["sino_global_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
+      "symbol": "FTT",
+      "name": "FTT",
+      "tags": ["sino_global_capital_portfolio"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}

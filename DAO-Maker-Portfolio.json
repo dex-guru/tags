@@ -1,0 +1,612 @@
+{
+  "name": "DAO Maker Portfolio",
+  "tags": {
+    "dao_maker_portfolio": {
+      "name": "DAO Maker Portfolio",
+      "description": "DAO Maker screen and help best IDO and crypto projects to launch through their launchpad platform."
+    }
+  },
+  "timestamp": "2023-01-01T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x89Af13A10b32F1b2f8d1588f93027F69B6F4E27e",
+      "symbol": "GAFI",
+      "name": "GAFI",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7d5121505149065b562c789a0145ed750e6e8cdd",
+      "symbol": "VR",
+      "name": "VR",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x66761fa41377003622aee3c7675fc7b5c1c2fac5",
+      "symbol": "CPOOL",
+      "name": "CPOOL",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9fa69536d1cda4a04cfb50688294de75b505a9ae",
+      "symbol": "DERC",
+      "name": "DERC",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x373e768f79c820aa441540d254dca6d045c6d25b",
+      "symbol": "DERC",
+      "name": "DERC",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x31c994ac062c1970c086260bc61babb708643fac",
+      "symbol": "XETA",
+      "name": "XETA",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x714f020C54cc9D104B6F4f6998C63ce2a31D1888",
+      "symbol": "FITFI",
+      "name": "FITFI",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3b9be07d622accaed78f479bc0edabfd6397e320",
+      "symbol": "LSS",
+      "name": "LSS",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xf7686f43591302cd9b4b9c4fe1291473fae7d9c9",
+      "symbol": "LSS",
+      "name": "LSS",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x03be5c903c727ee2c8c4e9bc0acc860cca4715e2",
+      "symbol": "CAPS",
+      "name": "CAPS",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x5B6bf0c7f989dE824677cFBD507D9635965e9cD3",
+      "symbol": "GMM",
+      "name": "GMM",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7778360f035c589fce2f4ea5786cbd8b36e5396b",
+      "symbol": "OOE",
+      "name": "OOE",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x9029fdfae9a03135846381c7ce16595c3554e10a",
+      "symbol": "OOE",
+      "name": "OOE",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 250,
+      "address": "0x504ec4f9af7bbf8cad73ccc2121a3a7fb4c81bcf",
+      "symbol": "PORTX",
+      "name": "PORTX",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x189586b5f6317538ae50c20a976597da38984a24",
+      "symbol": "PORTX",
+      "name": "PORTX",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x104f3152d8ebfc3f679392977356962ff36566ac",
+      "symbol": "PORTX",
+      "name": "PORTX",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x54c3b88b7e9702f915ddc6e483aaf369b2615f8d",
+      "symbol": "PORTX",
+      "name": "PORTX",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3496b523e5c00a4b4150d6721320cddb234c3079",
+      "symbol": "NUM",
+      "name": "NUM",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xeceb87cf00dcbf2d4e2880223743ff087a995ad9",
+      "symbol": "NUM",
+      "name": "NUM",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9f7fc686cfd64aa5ae15b351d03071e91533094b",
+      "symbol": "TRACE",
+      "name": "TRACE",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x4287f07cbe6954f9f0decd91d0705c926d8d03a4",
+      "symbol": "TRACE",
+      "name": "TRACE",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb2617246d0c6c0087f18703d576831899ca94f01",
+      "symbol": "ZIG",
+      "name": "ZIG",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD567B5F02b9073aD3a982a099a23Bf019FF11d1c",
+      "symbol": "GAME",
+      "name": "GAME",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x66109633715d2110ddA791E64a7B2afadb517aBB",
+      "symbol": "GAME",
+      "name": "GAME",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfe459828c90c0ba4bc8b42f5c5d44f316700b430",
+      "symbol": "BBS",
+      "name": "BBS",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xa477a79a118a84a0d371a53c8f46f8ce883ec1dd",
+      "symbol": "BBS",
+      "name": "BBS",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc8807f0f5ba3fa45ffbdc66928d71c5289249014",
+      "symbol": "ISP",
+      "name": "ISP",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xD2e7B964770FCf51DF088a5F0Bb2D33a3c60CcCf",
+      "symbol": "ISP",
+      "name": "ISP",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc0ae17eb994fa828540ffa53776b3830233a1b02",
+      "symbol": "ELT",
+      "name": "ELT",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x60eb57d085c59932d5faa6c6026268a4386927d0",
+      "symbol": "LOCG",
+      "name": "LOCG",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x3c1748d647e6a56b37b66fcd2b5626d0461d3aa0",
+      "symbol": "DNXC",
+      "name": "DNXC",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x20a8cec5fffea65be7122bcab2ffe32ed4ebf03a",
+      "symbol": "DNXC",
+      "name": "DNXC",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xcaF5191fc480F43e4DF80106c7695ECA56E48B18",
+      "symbol": "DNXC",
+      "name": "DNXC",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8e0fe2947752be0d5acf73aae77362daf79cb379",
+      "symbol": "NFTD",
+      "name": "NFTD",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd38bb40815d2b0c2d2c866e0c72c5728ffc76dd9",
+      "symbol": "SIS",
+      "name": "SIS",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0x9e758b8a98a42d612b3d38b66a22074dc03d7370",
+      "symbol": "SIS",
+      "name": "SIS",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x20d39a5130f799b95b55a930e5b7ebc589ea9ed8",
+      "symbol": "HE",
+      "name": "HE",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x43a96962254855f16b925556f9e97be436a43448",
+      "symbol": "HORD",
+      "name": "HORD",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x39d4549908e7adcee9b439429294eeb4c65c2c9e",
+      "symbol": "HORD",
+      "name": "HORD",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x02d3a27ac3f55d5d91fb0f52759842696a864217",
+      "symbol": "IONX",
+      "name": "IONX",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xc732b6586a93b6b7cf5fed3470808bc74998224d",
+      "symbol": "KMON",
+      "name": "KMON",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 250,
+      "address": "0x904f51a2e7eeaf76aaf0418cbaf0b71149686f4a",
+      "symbol": "FAME",
+      "name": "FAME",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xc3028fbc1742a16a5d69de1b334cbce28f5d7eb3",
+      "symbol": "SSS",
+      "name": "SSS",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xFCb0f2D2f83a32A847D8ABb183B724C214CD7dD8",
+      "symbol": "POG",
+      "name": "POG",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xe8377a076adabb3f9838afb77bee96eac101ffb1",
+      "symbol": "MSU",
+      "name": "MSU",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x689f8e5913c158ffb5ac5aeb83b3c875f5d20309",
+      "symbol": "SNK",
+      "name": "SNK",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0xAfE3d2A31231230875DEe1fa1eEF14a412443d22",
+      "symbol": "DFIAT",
+      "name": "DFIAT",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1045F5cCb01DAEA4f8eaB055F5FcBB7C0E7c89F0",
+      "symbol": "DFIAT",
+      "name": "DFIAT",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xF64eD9Ad397A1Ae657F31131d4B189220A7f1cc7",
+      "symbol": "DFIAT",
+      "name": "DFIAT",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4674a4F24C5f63D53F22490Fb3A08eAAAD739ff8",
+      "symbol": "BRKL",
+      "name": "BRKL",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x66cafcf6c32315623c7ffd3f2ff690aa36ebed38",
+      "symbol": "BRKL",
+      "name": "BRKL",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2C2f7e7C5604D162d75641256b80F1Bf6f4dC796",
+      "symbol": "PRARE",
+      "name": "PRARE",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xe6bf0e14e33a469f2b0640b53949a9f90e675135",
+      "symbol": "PRARE",
+      "name": "PRARE",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xacbd826394189cf2623c6df98a18b41fc8ffc16d",
+      "symbol": "N1",
+      "name": "N1",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x5989D72a559eB0192F2d20170A43a4Bd28A1B174",
+      "symbol": "N1",
+      "name": "N1",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xacbd826394189cf2623c6df98a18b41fc8ffc16d",
+      "symbol": "N1",
+      "name": "N1",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x6125adcab2f171bc70cfe2caecfec5509273a86a",
+      "symbol": "MGG",
+      "name": "MGG",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7237C0B30B1355f1B76355582f182F6f04B08740",
+      "symbol": "MGG",
+      "name": "MGG",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x794Baab6b878467F93EF17e2f2851ce04E3E34C8",
+      "symbol": "YIN",
+      "name": "YIN",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x794Baab6b878467F93EF17e2f2851ce04E3E34C8",
+      "symbol": "YIN",
+      "name": "YIN",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xef53462838000184f35f7d991452e5f25110b207",
+      "symbol": "KFT",
+      "name": "KFT",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x52da44b5e584f730005dac8d2d2acbdee44d4ba3",
+      "symbol": "KT",
+      "name": "KT",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x51e7b598c9155b9dccb04eb42519f6eec9c841e9",
+      "symbol": "BTL",
+      "name": "BTL",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x51e7b598c9155b9dccb04eb42519f6eec9c841e9",
+      "symbol": "BTL",
+      "name": "BTL",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbc194e6f748a222754C3E8b9946922c09E7d4e91",
+      "symbol": "LEV",
+      "name": "LEV",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xbc194e6f748a222754c3e8b9946922c09e7d4e91",
+      "symbol": "LEV",
+      "name": "LEV",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x1c796c140de269e255372ea687ef7644bab87935",
+      "symbol": "DMLG",
+      "name": "DMLG",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x1a9b49e9f075c37fe5f86c916bac9deb33556d7e",
+      "symbol": "ASPO",
+      "name": "ASPO",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3c021662c2d7bafcf31413388be5465b2e797381",
+      "symbol": "ARTEM",
+      "name": "ARTEM",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x39703A67bAC0E39f9244d97f4c842D15Fbad9C1f",
+      "symbol": "TTK",
+      "name": "TTK",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xa9d75cc3405f0450955050c520843f99aff8749d",
+      "symbol": "RENA",
+      "name": "RENA",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x08037036451c768465369431da5c671ad9b37dbc",
+      "symbol": "NFTS",
+      "name": "NFTS",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x08037036451c768465369431da5c671ad9b37dbc",
+      "symbol": "NFTS",
+      "name": "NFTS",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x0c1253a30da9580472064a91946c5ce0C58aCf7f",
+      "symbol": "TITA",
+      "name": "TITA",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0xfda866cfece71f4c17b4a5e5f9a00ac08c72eadc",
+      "symbol": "PERA",
+      "name": "PERA",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x5198E7cC1640049dE37D1Bd10b03Fa5A3AFDA120",
+      "symbol": "KABY",
+      "name": "KABY",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x02a40c048ee2607b5f5606e445cfc3633fb20b58",
+      "symbol": "KABY",
+      "name": "KABY",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xcb2b25e783a414f0d20a65afa741c51b1ad84c49",
+      "symbol": "SRP",
+      "name": "SRP",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x657b632714e08ac66b79444ad3f3875526ee6689",
+      "symbol": "F2C",
+      "name": "F2C",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3A0b022f32b3191D44E5847da12dc0B63fb07C91",
+      "symbol": "SPELLFIRE",
+      "name": "SPELLFIRE",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xd6f28f15a5cafc8d29556393c08177124b88de0d",
+      "symbol": "SPELLFIRE",
+      "name": "SPELLFIRE",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0ecaf010fc192e2d5cbeb4dfb1fee20fbd733aa1",
+      "symbol": "SPG",
+      "name": "SPG",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xb7258450681f4aad0ab24e336648d44a6696b30f",
+      "symbol": "SB",
+      "name": "SB",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x7B86b0836f3454e50C6F6a190cd692bB17da1928",
+      "symbol": "BEM",
+      "name": "BEM",
+      "tags": ["dao_maker_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x26193c7fa4354ae49ec53ea2cebc513dc39a10aa",
+      "symbol": "SEA",
+      "name": "SEA",
+      "tags": ["dao_maker_portfolio"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
