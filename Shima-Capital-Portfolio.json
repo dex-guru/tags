@@ -305,8 +305,8 @@
     {
       "chainId": 137,
       "address": "0x695FC8B80F344411F34bDbCb4E621aA69AdA384b",
-      "symbol": "",
-      "name": "",
+      "symbol": "NITRO",
+      "name": "NITRO",
       "tags": ["shima_capital_portfolio"]
     },
     {
