@@ -1,9 +1,9 @@
 {
-  "name": "Cross-chain",
+  "name": "Cross chain",
   "tags": {
     "cross_chain": {
-      "name": "Cross-chain",
-      "description": "Protocols and projects working on cross-chain bridging, swapping, and messaging. Cross-chain bridging allows moving tokens from one chain to another without intermediaries."
+      "name": "Cross chain",
+      "description": "Protocols and projects working on cross chain bridging, swapping, and messaging. Cross chain bridging allows moving tokens from one chain to another without intermediaries."
     }
   },
   "timestamp": "2023-01-09T00:00:00+00:00",
