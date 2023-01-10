@@ -1,0 +1,171 @@
+{
+  "name": "veToken Model",
+  "tags": {
+    "vetoken-model": {
+      "name": "veToken Model",
+      "description": "veToken model improves the supply and demand mechanism. Vote-locking serves as a mechanism to remove tokens from the open market. This helps to offset emissions that some of the protocols produce."
+    }
+  },
+  "timestamp": "2023-01-10T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+      "symbol": "CRV",
+      "name": "CRV",
+      "tags": ["vetoken-model"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xba100000625a3754423978a60c9317c58a424e3D",
+      "symbol": "BAL",
+      "name": "BAL",
+      "tags": ["vetoken-model"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0",
+      "symbol": "FXS",
+      "name": "FXS",
+      "tags": ["vetoken-model"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x92D6C1e31e14520e676a687F0a93788B716BEff5",
+      "symbol": "DYDX",
+      "name": "DYDX",
+      "tags": ["vetoken-model"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaf5191b0de278c7286d6c7cc6ab6bb8a73ba2cd6",
+      "symbol": "STG",
+      "name": "STG",
+      "tags": ["vetoken-model"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3ea8ea4237344c9931214796d9417af1a1180770",
+      "symbol": "FLX",
+      "name": "FLX",
+      "tags": ["vetoken-model"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
+      "symbol": "YFI",
+      "name": "YFI",
+      "tags": ["vetoken-model"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6123b0049f904d730db3c36a31167d9d4121fa6b",
+      "symbol": "RBN",
+      "name": "RBN",
+      "tags": ["vetoken-model"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x875773784Af8135eA0ef43b5a374AaD105c5D39e",
+      "symbol": "IDLE",
+      "name": "IDLE",
+      "tags": ["vetoken-model"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x31429d1856aD1377A8A0079410B297e1a9e214c2",
+      "symbol": "ANGLE",
+      "name": "ANGLE",
+      "tags": ["vetoken-model"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x73968b9a57c6e53d41345fd57a6e6ae27d6cdb2f",
+      "symbol": "SDT",
+      "name": "SDT",
+      "tags": ["vetoken-model"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x22d4002028f537599be9f666d1c4fa138522f9c8",
+      "symbol": "PTP",
+      "name": "PTP",
+      "tags": ["vetoken-model"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x77777777777d4554c39223C354A05825b2E8Faa3",
+      "symbol": "Yeti",
+      "name": "Yeti",
+      "tags": ["vetoken-model"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbc396689893d065f41bc2c6ecbee5e0085233447",
+      "symbol": "PERP",
+      "name": "PERP",
+      "tags": ["vetoken-model"]
+    },
+    {
+      "chainId": 250,
+      "address": "0x10b620b2dbac4faa7d7ffd71da486f5d44cd86f9",
+      "symbol": "LQDR",
+      "name": "LQDR",
+      "tags": ["vetoken-model"]
+    },
+    {
+      "chainId": 250,
+      "address": "0x10b620b2dbac4faa7d7ffd71da486f5d44cd86f9",
+      "symbol": "SPIRIT",
+      "name": "SPIRIT",
+      "tags": ["vetoken-model"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x10010078a54396F62c96dF8532dc2B4847d47ED3",
+      "symbol": "HND",
+      "name": "HND",
+      "tags": ["vetoken-model"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x429881672B9AE42b8EbA0E26cD9C73711b891Ca5",
+      "symbol": "PICKLE",
+      "name": "PICKLE",
+      "tags": ["vetoken-model"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8888801aF4d980682e47f1A9036e589479e835C5",
+      "symbol": "MPH",
+      "name": "MPH",
+      "tags": ["vetoken-model"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0xc38f41a296a4493ff429f1238e030924a1542e50",
+      "symbol": "SNOB",
+      "name": "SNOB",
+      "tags": ["vetoken-model"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4104b135dbc9609fc1a9490e61369036497660c8",
+      "symbol": "APW",
+      "name": "APW",
+      "tags": ["vetoken-model"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0ada190c81b814548ddc2f6adc4a689ce7c1fe73",
+      "symbol": "YAXIS",
+      "name": "YAXIS",
+      "tags": ["vetoken-model"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
