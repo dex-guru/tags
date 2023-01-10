@@ -63,6 +63,13 @@
       "symbol": "sfrxETH",
       "name": "sfrxETH",
       "tags": ["liquid_staking_derivatives"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfe2e637202056d30016725477c5da089ab0a043a",
+      "symbol": "SETH2",
+      "name": "SETH2",
+      "tags": ["liquid_staking_derivatives"]
     }
   ],
   "version": {
