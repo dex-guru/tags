@@ -77,6 +77,13 @@
       "symbol": "GRID",
       "name": "GRID",
       "tags": ["wallet"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5afe3855358e112b5647b952709e6165e1c1eeee",
+      "symbol": "SAFE",
+      "name": "SAFE",
+      "tags": ["wallet"]
     }
   ],
   "version": {
