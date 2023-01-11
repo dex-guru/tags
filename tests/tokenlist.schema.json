@@ -50,7 +50,7 @@
       "description": "The unique identifier of a tag",
       "minLength": 1,
       "maxLength": 90,
-      "pattern": "^[\\w\\d]+$",
+      "pattern": "^[\\w\\d\\-]+$",
       "examples": [
         "compound",
         "stablecoin"
