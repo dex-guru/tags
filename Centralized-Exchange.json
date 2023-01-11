@@ -3,7 +3,7 @@
   "tags": {
     "centralized_exchange": {
       "name": "Centralized Exchange",
-      "description": "A stablecoin is a cryptocurrency whose value is pegged to the price of another asset, hence the term \"stable.\" A stablecoin pegged to the EURO should always be valued at €1."
+      "description": "Centralized cryptocurrency exchanges act as an intermediary between a buyer and a seller and make money through commissions and transaction fees."
     }
   },
   "timestamp": "2022-10-19T00:00:00+00:00",

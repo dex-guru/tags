@@ -1,0 +1,73 @@
+{
+  "name": "Cross chain",
+  "tags": {
+    "cross_chain": {
+      "name": "Cross chain",
+      "description": "Protocols and projects working on cross chain bridging, swapping, and messaging. Cross chain bridging allows moving tokens from one chain to another without intermediaries."
+    }
+  },
+  "timestamp": "2023-01-09T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x0f2D719407FdBeFF09D87557AbB7232601FD9F29",
+      "symbol": "SYN",
+      "name": "SYN",
+      "tags": ["cross_chain"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x16eccfdbb4ee1a85a33f3a9b21175cd7ae753db4",
+      "symbol": "ROUTE",
+      "name": "ROUTE",
+      "tags": ["cross_chain"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x65ef703f5594d2573eb71aaf55bc0cb548492df4",
+      "symbol": "MULTI",
+      "name": "MULTI",
+      "tags": ["cross_chain"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa4bbe66f151b22b167127c770016b15ff97dd35c",
+      "symbol": "UMBR",
+      "name": "UMBR",
+      "tags": ["cross_chain"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc5102fe9359fd9a28f877a67e36b0f050d81a3cc",
+      "symbol": "Hop",
+      "name": "Hop",
+      "tags": ["cross_chain"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4f9254c83eb525f9fcf346490bbb3ed28a81c667",
+      "symbol": "CELR",
+      "name": "CELR",
+      "tags": ["cross_chain"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x44108f0223a3c3028f5fe7aec7f9bb2e66bef82f",
+      "symbol": "ACX",
+      "name": "ACX",
+      "tags": ["cross_chain"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaf5191b0de278c7286d6c7cc6ab6bb8a73ba2cd6",
+      "symbol": "STG",
+      "name": "STG",
+      "tags": ["cross_chain"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}

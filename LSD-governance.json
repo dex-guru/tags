@@ -1,0 +1,136 @@
+{
+  "name": "Liquid staking governance",
+  "tags": {
+    "lsd_governance_tokens": {
+      "name": "Liquid staking governance",
+      "description": "Governance tokens of Liquid staking protocols."
+    }
+  },
+  "timestamp": "2023-01-04T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x5a98fcbea516cf06857215779fd812ca3bef1b32",
+      "symbol": "LDO",
+      "name": "STETH",
+      "tags": ["lsd_governance_tokens"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xc3c7d422809852031b44ab29eec9f1eff2a58756",
+      "symbol": "LDO",
+      "name": "LDO",
+      "tags": ["lsd_governance_tokens"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0x13ad51ed4f1b7e9dc168d8a00cb3f4ddd85efa60",
+      "symbol": "LDO",
+      "name": "LDO",
+      "tags": ["lsd_governance_tokens"]
+    },
+    {
+      "chainId": 10,
+      "address": "0xfdb794692724153d1488ccdbe0c56c252596735f",
+      "symbol": "LDO",
+      "name": "LDO",
+      "tags": ["lsd_governance_tokens"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0",
+      "symbol": "FXS",
+      "name": "FXS",
+      "tags": ["lsd_governance_tokens"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xe48a3d7d0bc88d552f730b62c006bc925eadb9ee",
+      "symbol": "FXS",
+      "name": "FXS",
+      "tags": ["lsd_governance_tokens"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x1a3acf6d19267e2d3e7f898f42803e90c9219062",
+      "symbol": "FXS",
+      "name": "FXS",
+      "tags": ["lsd_governance_tokens"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x214db107654ff987ad859f34125307783fc8e387",
+      "symbol": "FXS",
+      "name": "FXS",
+      "tags": ["lsd_governance_tokens"]
+    },
+    {
+      "chainId": 250,
+      "address": "0x7d016eec9c25232b01f23ef992d98ca97fc2af5a",
+      "symbol": "FXS",
+      "name": "FXS",
+      "tags": ["lsd_governance_tokens"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0x9d2f299715d94d8a7e6f5eaa8e654e8c74a988a7",
+      "symbol": "FXS",
+      "name": "FXS",
+      "tags": ["lsd_governance_tokens"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x30d20208d987713f46dfd34ef128bb16c404d10f",
+      "symbol": "SD",
+      "name": "SD",
+      "tags": ["lsd_governance_tokens"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd33526068d116ce69f19a9ee46f0bd304f21a51f",
+      "symbol": "RPL",
+      "name": "RPL",
+      "tags": ["lsd_governance_tokens"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8290333cef9e6d528dd5618fb97a76f268f3edd4",
+      "symbol": "ANKR",
+      "name": "ANKR",
+      "tags": ["lsd_governance_tokens"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xef3a930e1ffffacd2fc13434ac81bd278b0ecc8d",
+      "symbol": "FIS",
+      "name": "FIS",
+      "tags": ["lsd_governance_tokens"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfB5c6815cA3AC72Ce9F5006869AE67f18bF77006",
+      "symbol": "PSTAKE",
+      "name": "PSTAKE",
+      "tags": ["lsd_governance_tokens"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x48c3399719b582dd63eb5aadf12a40b4c3f52fa2",
+      "symbol": "SWISE",
+      "name": "SWISE",
+      "tags": ["lsd_governance_tokens"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x24c19f7101c1731b85f1127eaa0407732e36ecdd",
+      "symbol": "SGTV2",
+      "name": "SGTV2",
+      "tags": ["lsd_governance_tokens"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 1,
+    "patch": 0
+  }
+}

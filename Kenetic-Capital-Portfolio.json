@@ -1,0 +1,598 @@
+{
+  "name": "Kenetic Capital Portfolio",
+  "tags": {
+    "kenetic_capital_portfolio": {
+      "name": "Kenetic Capital Portfolio",
+      "description": "Founded in 2016, Kenetic Capital is a venture capital firm based in Hong Kong. Kenetic Capital Portfolio of liquid tokens"
+    }
+  },
+  "timestamp": "2022-12-27T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xbd31ea8212119f94a611fa969881cba3ea06fa3d",
+      "symbol": "LUNC",
+      "name": "LUNC",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x156ab3346823B651294766e23e6Cf87254d68962",
+      "symbol": "LUNC",
+      "name": "LUNC",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6f259637dcd74c767781e37bc6133cd6a68aa161",
+      "symbol": "HT",
+      "name": "HT",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xb86AbCb37C3A4B64f74f59301AFF131a1BEcC787",
+      "symbol": "ZIL",
+      "name": "ZIL",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6810e776880c02933d47db1b9fc05908e5386b96",
+      "symbol": "GNO",
+      "name": "GNO",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 100,
+      "address": "0x9c58bacc331c9aa871afd802db6379a98e80cedb",
+      "symbol": "GNO",
+      "name": "GNO",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0xa0b862f60edef4452f25b4160f177db44deb6cf1",
+      "symbol": "GNO",
+      "name": "GNO",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6fb3e0a217407efff7ca062d46c26e5d60a14d69",
+      "symbol": "IOTX",
+      "name": "IOTX",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x9678E42ceBEb63F23197D726B29b1CB20d0064E5",
+      "symbol": "IOTX",
+      "name": "IOTX",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x26B80FBfC01b71495f477d5237071242e0d959d7",
+      "symbol": "ROSE",
+      "name": "ROSE",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x6c6D604D3f07aBE287C1A3dF0281e999A83495C0",
+      "symbol": "ROSE",
+      "name": "ROSE",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x12AF5C1a232675f62F405b5812A80e7a6F75D746",
+      "symbol": "ROSE",
+      "name": "ROSE",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe41d2489571d322189246dafa5ebde1f4699f498",
+      "symbol": "ZRX",
+      "name": "ZRX",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x596fa47043f99a4e0f122243b841e55375cde0d2",
+      "symbol": "ZRX",
+      "name": "ZRX",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6de037ef9ad2725eb40118bb1702ebb27e4aeb24",
+      "symbol": "RNDR",
+      "name": "RNDR",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x61299774020dA444Af134c82fa83E3810b309991",
+      "symbol": "RNDR",
+      "name": "RNDR",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4fE83213D56308330EC302a8BD641f1d0113A4Cc",
+      "symbol": "NU",
+      "name": "NU",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdeFA4e8a7bcBA345F687a2f1456F5Edd9CE97202",
+      "symbol": "KNC",
+      "name": "KNC",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x1c954e8fe737f99f68fa1ccda3e51ebdb291948c",
+      "symbol": "KNC",
+      "name": "KNC",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xfe56d5892bdffc7bf58f2e84be1b2c32d21c308b",
+      "symbol": "KNC",
+      "name": "KNC",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x744d70fdbe2ba4cf95131626614a1763df805b9e",
+      "symbol": "SNT",
+      "name": "SNT",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x408e41876cccdc0f92210600ef50372656052a38",
+      "symbol": "REN",
+      "name": "REN",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c",
+      "symbol": "BNT",
+      "name": "BNT",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xA069008A669e2Af00a86673D9D584cfb524A42Cc",
+      "symbol": "BNT",
+      "name": "BNT",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdf2c7238198ad8b389666574f2d8bc411a4b7428",
+      "symbol": "MFT",
+      "name": "MFT",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfe3e6a25e6b192a42a44ecddcd13796471735acf",
+      "symbol": "REEF",
+      "name": "REEF",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xf21768ccbc73ea5b6fd3c687208a7c2def2d966e",
+      "symbol": "REEF",
+      "name": "REEF",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8207c1ffc5b6804f6024322ccf34f29c3541ae26",
+      "symbol": "OGN",
+      "name": "OGN",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x656c00e1bcd96f256f224ad9112ff426ef053733",
+      "symbol": "EFI",
+      "name": "EFI",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4575f41308EC1483f3d399aa9a2826d74Da13Deb",
+      "symbol": "OXT",
+      "name": "OXT",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xea11755ae41d889ceec39a63e6ff75a02bc1c00d",
+      "symbol": "CTXC",
+      "name": "CTXC",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbbc2ae13b23d715c30720f079fcd9b4a74093505",
+      "symbol": "ERN",
+      "name": "ERN",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2da719db753dfa10a62e140f436e1d67f2ddb0d6",
+      "symbol": "CERE",
+      "name": "CERE",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xec67005c4E498Ec7f55E092bd1d35cbC47C91892",
+      "symbol": "MLN",
+      "name": "MLN",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf1f955016ecbcd7321c7266bccfb96c68ea5e49b",
+      "symbol": "RLY",
+      "name": "RLY",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4123a133ae3c521fd134d7b13a2dec35b56c2463",
+      "symbol": "QRDO",
+      "name": "QRDO",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x115eC79F1de567eC68B7AE7eDA501b406626478e",
+      "symbol": "CRE",
+      "name": "CRE",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3e9bc21c9b189c09df3ef1b824798658d5011937",
+      "symbol": "LINA",
+      "name": "LINA",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x762539b45a1dcce3d36d080f74d1aed37844b878",
+      "symbol": "LINA",
+      "name": "LINA",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd0929d411954c47438dc1d871dd6081f5c5e149c",
+      "symbol": "RFR",
+      "name": "RFR",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5732046a883704404f284ce41ffadd5b007fd668",
+      "symbol": "BLZ",
+      "name": "BLZ",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3593d125a4f7849a1b059e64f4517a86dd60c95d",
+      "symbol": "OM",
+      "name": "OM",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xc3ec80343d2bae2f8e680fdadde7c17e71e114ea",
+      "symbol": "OM",
+      "name": "OM",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xf78d2e7936f5fe18308a3b2951a93b6c4a41f5e2",
+      "symbol": "OM",
+      "name": "OM",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x08c32b0726C5684024ea6e141C50aDe9690bBdcc",
+      "symbol": "STOS",
+      "name": "STOS",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x27054b13b1b798b345b591a4d22e6562d47ea75a",
+      "symbol": "AST",
+      "name": "AST",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x66761fa41377003622aee3c7675fc7b5c1c2fac5",
+      "symbol": "CPOOL",
+      "name": "CPOOL",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x99ea4db9ee77acd40b119bd1dc4e33e1c070b80d",
+      "symbol": "QSP",
+      "name": "QSP",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x701c244b988a513c945973defa05de933b23fe1d",
+      "symbol": "OAX",
+      "name": "OAX",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd1ba9bac957322d6e8c07a160a3a8da11a0d2867",
+      "symbol": "HMT",
+      "name": "HMT",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7778360f035c589fce2f4ea5786cbd8b36e5396b",
+      "symbol": "OOE",
+      "name": "OOE",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x9029fdfae9a03135846381c7ce16595c3554e10a",
+      "symbol": "OOE",
+      "name": "OOE",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf59ae934f6fe444afc309586cc60a84a0f89aaea",
+      "symbol": "PDEX",
+      "name": "PDEX",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc834fa996fa3bec7aad3693af486ae53d8aa8b50",
+      "symbol": "CONV",
+      "name": "CONV",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1b40183efb4dd766f11bda7a7c3ad8982e998421",
+      "symbol": "VSP",
+      "name": "VSP",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd47bdf574b4f76210ed503e0efe81b58aa061f3d",
+      "symbol": "TRVL",
+      "name": "TRVL",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x6a8fd46f88dbd7bdc2d536c604f811c63052ce0f",
+      "symbol": "TRVL",
+      "name": "TRVL",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4463e6A3dEd0dBE3F6e15bC8420dFc55e5FeA830",
+      "symbol": "TXA",
+      "name": "TXA",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb97048628db6b661d4c2aa833e95dbe1a905b280",
+      "symbol": "PAY",
+      "name": "PAY",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0cdf9acd87e940837ff21bb40c9fd55f68bba059",
+      "symbol": "MINT",
+      "name": "MINT",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x29cbd0510eec0327992cd6006e63f9fa8e7f33b7",
+      "symbol": "TIDAL",
+      "name": "TIDAL",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaf9f549774ecedbd0966c52f250acc548d3f36e5",
+      "symbol": "RFUEL",
+      "name": "RFUEL",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x888888888889c00c67689029d7856aac1065ec11",
+      "symbol": "OPIUM",
+      "name": "OPIUM",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x07bac35846e5ed502aa91adf6a9e7aa210f2dcbe",
+      "symbol": "EROWAN",
+      "name": "EROWAN",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xa7051c5a22d963b81d71c2ba64d46a877fbc1821",
+      "symbol": "EROWAN",
+      "name": "EROWAN",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa41f142b6eb2b164f8164cae0716892ce02f311f",
+      "symbol": "AVG",
+      "name": "AVG",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1cc30e2eac975416060ec6fe682041408420d414",
+      "symbol": "KOL",
+      "name": "KOL",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa58a4f5c4bb043d2cc1e170613b74e767c94189b",
+      "symbol": "UTU",
+      "name": "UTU",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xed4Bb33F20F32E989AF975196E86019773A7CFf0",
+      "symbol": "UTU",
+      "name": "UTU",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x558ec3152e2eb2174905cd19aea4e34a23de9ad6",
+      "symbol": "BRD",
+      "name": "BRD",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7",
+      "symbol": "AKRO",
+      "name": "AKRO",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 100,
+      "address": "0xD27E1ECC4748F42e052331BeA917D89bEB883fc3",
+      "symbol": "AKRO",
+      "name": "AKRO",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2c4e8f2d746113d0696ce89b35f0d8bf88e0aeca",
+      "symbol": "OST",
+      "name": "OST",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x076ddce096c93dcf5d51fe346062bf0ba9523493",
+      "symbol": "PARA",
+      "name": "PARA",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3a8d5BC8A8948b68DfC0Ce9C14aC4150e083518c",
+      "symbol": "PARA",
+      "name": "PARA",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x675bbc7514013e2073db7a919f6e4cbef576de37",
+      "symbol": "CLS",
+      "name": "CLS",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9008064E6cf73e27a3Aba4B10E69f855A4F8efcC",
+      "symbol": "GEM",
+      "name": "GEM",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x21381e026Ad6d8266244f2A583b35F9E4413FA2a",
+      "symbol": "FORM",
+      "name": "FORM",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x25a528af62e56512a19ce8c3cab427807c28cc19",
+      "symbol": "FORM",
+      "name": "FORM",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
+      "symbol": "FTT",
+      "name": "FTT",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x4861ba0ce919fee66b41c85a08a7476557914275",
+      "symbol": "CTN",
+      "name": "CTN",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc3C6cf6Bbca7B759d23a2586e80F795C57A32beF",
+      "symbol": "LUSD",
+      "name": "LUSD",
+      "tags": ["kenetic_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x23e8a70534308a4AAF76fb8C32ec13d17a3BD89e",
+      "symbol": "LUSD",
+      "name": "LUSD",
+      "tags": ["kenetic_capital_portfolio"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}

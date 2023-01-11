@@ -6,7 +6,7 @@
       "description": "Decentralized Cryptocurrency Exchanges (\"DEX\") A decentralized exchange is another type of exchange that allows peer-to-peer transactions directly from your digital wallet without going through an intermediary."
     }
   },
-  "timestamp": "2022-10-19T00:00:00+00:00",
+  "timestamp": "2022-11-18T00:00:00+00:00",
   "tokens": [
     {
       "chainId": 1,
@@ -342,6 +342,13 @@
       "address": "0xe02df9e3e622debdd69fb838bb799e3f168902c5",
       "symbol": "BAKE",
       "name": "BAKE",
+      "tags": ["decentralized_exchange"]
+    },
+    {
+      "chainId": 10,
+      "address": "0x920Cf626a271321C151D027030D5d08aF699456b",
+      "symbol": "KWENTA",
+      "name": "KWENTA",
       "tags": ["decentralized_exchange"]
     }
   ],

@@ -1,0 +1,1088 @@
+{
+  "name": "NGC Ventures Portfolio",
+  "tags": {
+    "ngs_ventures_portfolio": {
+      "name": "NGC Ventures Portfolio",
+      "description": "NGC Ventures is one of the largest institutional investors of blockchain technologies, and has been a key contributor to a number of leading projects. NGC Ventures Portfolio of liquid tokens"
+    }
+  },
+  "timestamp": "2022-12-27T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x1CE0c2827e2eF14D5C4f29a091d735A204794041",
+      "symbol": "AVAX",
+      "name": "AVAX",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x2C89bbc92BD86F8075d1DEcc58C7F4E0107f286b",
+      "symbol": "AVAX",
+      "name": "AVAX",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf34960d9d60be18cc1d5afc1a6f012a723a28811",
+      "symbol": "KCS",
+      "name": "KCS",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1A4b46696b2bB4794Eb3D4c26f1c55F9170fa4C5",
+      "symbol": "BIT",
+      "name": "BIT",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xb86AbCb37C3A4B64f74f59301AFF131a1BEcC787",
+      "symbol": "ZIL",
+      "name": "ZIL",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x26B80FBfC01b71495f477d5237071242e0d959d7",
+      "symbol": "ROSE",
+      "name": "ROSE",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x6c6D604D3f07aBE287C1A3dF0281e999A83495C0",
+      "symbol": "ROSE",
+      "name": "ROSE",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x12AF5C1a232675f62F405b5812A80e7a6F75D746",
+      "symbol": "ROSE",
+      "name": "ROSE",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x915044526758533dfB918ecEb6e44bc21632060D",
+      "symbol": "CHR",
+      "name": "CHR",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xaec945e04baf28b135fa7c640f624f8d90f1c3a6",
+      "symbol": "C98",
+      "name": "C98",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xae12c5930881c53715b369cec7606b70d8eb229f",
+      "symbol": "C98",
+      "name": "C98",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfe3e6a25e6b192a42a44ecddcd13796471735acf",
+      "symbol": "REEF",
+      "name": "REEF",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xf21768ccbc73ea5b6fd3c687208a7c2def2d966e",
+      "symbol": "REEF",
+      "name": "REEF",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x91af0fbb28aba7e31403cb457106ce79397fd4e6",
+      "symbol": "AERGO",
+      "name": "AERGO",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfa14fa6958401314851a17d6c5360ca29f74b57b",
+      "symbol": "SAITO",
+      "name": "SAITO",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x83e6f1E41cdd28eAcEB20Cb649155049Fac3D5Aa",
+      "symbol": "POLS",
+      "name": "POLS",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x7e624fa0e1c4abfd309cc15719b7e2580887f570",
+      "symbol": "POLS",
+      "name": "POLS",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xac51066d7bec65dc4589368da368b212745d63e8",
+      "symbol": "ALICE",
+      "name": "ALICE",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xac51066d7bec65dc4589368da368b212745d63e8",
+      "symbol": "ALICE",
+      "name": "ALICE",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x19062190b1925b5b6689d7073fdfc8c2976ef8cb",
+      "symbol": "BZZ",
+      "name": "BZZ",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcb84d72e61e383767c4dfeb2d8ff7f4fb89abc6e",
+      "symbol": "VEGA",
+      "name": "VEGA",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb59490ab09a0f526cc7305822ac65f2ab12f9723",
+      "symbol": "LIT",
+      "name": "LIT",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xb59490ab09a0f526cc7305822ac65f2ab12f9723",
+      "symbol": "LIT",
+      "name": "LIT",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2da719db753dfa10a62e140f436e1d67f2ddb0d6",
+      "symbol": "CERE",
+      "name": "CERE",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3e9bc21c9b189c09df3ef1b824798658d5011937",
+      "symbol": "LINA",
+      "name": "LINA",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x762539b45a1dcce3d36d080f74d1aed37844b878",
+      "symbol": "LINA",
+      "name": "LINA",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x08d967bb0134f2d07f7cfb6e246680c53927dd30",
+      "symbol": "MATH",
+      "name": "MATH",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xf218184af829cf2b0019f8e6f0b2423498a36983",
+      "symbol": "MATH",
+      "name": "MATH",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf8c3527cc04340b208c854e985240c02f7b7793f",
+      "symbol": "FRONT",
+      "name": "FRONT",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x928e55dab735aa8260af3cedada18b5f70c72f1b",
+      "symbol": "FRONT",
+      "name": "FRONT",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x23ce9e926048273ef83be0a3a8ba9cb6d45cd978",
+      "symbol": "DAR",
+      "name": "DAR",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x081131434f93063751813c619ecca9c4dc7862a3",
+      "symbol": "DAR",
+      "name": "DAR",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4e352cf164e64adcbad318c3a1e222e9eba4ce42",
+      "symbol": "MCB",
+      "name": "MCB",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x5fe80d2cd054645b9419657d3d10d26391780a7b",
+      "symbol": "MCB",
+      "name": "MCB",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0x4e352cF164E64ADCBad318C3a1e222E9EBa4Ce42",
+      "symbol": "MCB",
+      "name": "MCB",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd084b83c305dafd76ae3e1b4e1f1fe2ecccb3988",
+      "symbol": "TVK",
+      "name": "TVK",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x71ab77b7dbb4fa7e017bc15090b2163221420282",
+      "symbol": "HIGH",
+      "name": "HIGH",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x5f4bde007dc06b867f86ebfe4802e34a1ffeed63",
+      "symbol": "HIGH",
+      "name": "HIGH",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbc4171f45ef0ef66e76f979df021a34b46dcc81d",
+      "symbol": "DORA",
+      "name": "DORA",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x32a7c02e79c4ea1008dd6564b35f131428673c41",
+      "symbol": "CRU",
+      "name": "CRU",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf5cfbc74057c610c8ef151a439252680ac68c6dc",
+      "symbol": "OCT",
+      "name": "OCT",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf59ae934f6fe444afc309586cc60a84a0f89aaea",
+      "symbol": "PDEX",
+      "name": "PDEX",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x464fdb8affc9bac185a7393fd4298137866dcfb8",
+      "symbol": "REALM",
+      "name": "REALM",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x464fdb8affc9bac185a7393fd4298137866dcfb8",
+      "symbol": "REALM",
+      "name": "REALM",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x23c5D1164662758b3799103Effe19cC064d897D6",
+      "symbol": "AURA",
+      "name": "AURA",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD478161C952357F05f0292B56012Cd8457F1cfbF",
+      "symbol": "POLK",
+      "name": "POLK",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc834fa996fa3bec7aad3693af486ae53d8aa8b50",
+      "symbol": "CONV",
+      "name": "CONV",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8aa688AB789d1848d131C65D98CEAA8875D97eF1",
+      "symbol": "MTV",
+      "name": "MTV",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd47bdf574b4f76210ed503e0efe81b58aa061f3d",
+      "symbol": "TRVL",
+      "name": "TRVL",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x6a8fd46f88dbd7bdc2d536c604f811c63052ce0f",
+      "symbol": "TRVL",
+      "name": "TRVL",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0xec3492a2508DDf4FDc0cD76F31f340b30d1793e6",
+      "symbol": "CLY",
+      "name": "CLY",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x50de6856358cc35f3a9a57eaaa34bd4cb707d2cd",
+      "symbol": "RAZOR",
+      "name": "RAZOR",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xca1207647Ff814039530D7d35df0e1Dd2e91Fa84",
+      "symbol": "DHT",
+      "name": "DHT",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x188e817b02e635d482ae4d81e25dda98a97c4a42",
+      "symbol": "LITH",
+      "name": "LITH",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x62959c699a52ec647622c91e79ce73344e4099f5",
+      "symbol": "DFA",
+      "name": "DFA",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5a666c7d92e5fa7edcb6390e4efd6d0cdd69cf37",
+      "symbol": "MARSH",
+      "name": "MARSH",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x2FA5dAF6Fe0708fBD63b1A7D1592577284f52256",
+      "symbol": "MARSH",
+      "name": "MARSH",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEe9801669C6138E84bD50dEB500827b776777d28",
+      "symbol": "O3",
+      "name": "O3",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xee9801669c6138e84bd50deb500827b776777d28",
+      "symbol": "O3",
+      "name": "O3",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xee9801669c6138e84bd50deb500827b776777d28",
+      "symbol": "O3",
+      "name": "O3",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0xEe9801669C6138E84bD50dEB500827b776777d28",
+      "symbol": "O3",
+      "name": "O3",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9b00e6E8D787b13756eb919786c9745054DB64f9",
+      "symbol": "SIENNA",
+      "name": "SIENNA",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe4cfe9eaa8cdb0942a80b7bc68fd8ab0f6d44903",
+      "symbol": "XEND",
+      "name": "XEND",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x4a080377f83d669d7bb83b3184a8a5e61b500608",
+      "symbol": "XEND",
+      "name": "XEND",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x16980b3B4a3f9D89E33311B5aa8f80303E5ca4F8",
+      "symbol": "KEX",
+      "name": "KEX",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9B99CcA871Be05119B2012fd4474731dd653FEBe",
+      "symbol": "MATTER",
+      "name": "MATTER",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x1c9491865a1de77c5b6e19d2e6a5f1d7a6f2b25f",
+      "symbol": "MATTER",
+      "name": "MATTER",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0xaaa62d9584cbe8e4d68a43ec91bff4ff1fadb202",
+      "symbol": "MATTER",
+      "name": "MATTER",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x6b23c89196deb721e6fd9726e6c76e4810a464bc",
+      "symbol": "XWG",
+      "name": "XWG",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x60eb57d085c59932d5faa6c6026268a4386927d0",
+      "symbol": "LOCG",
+      "name": "LOCG",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x29cbd0510eec0327992cd6006e63f9fa8e7f33b7",
+      "symbol": "TIDAL",
+      "name": "TIDAL",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x07bac35846e5ed502aa91adf6a9e7aa210f2dcbe",
+      "symbol": "EROWAN",
+      "name": "EROWAN",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xa7051c5a22d963b81d71c2ba64d46a877fbc1821",
+      "symbol": "EROWAN",
+      "name": "EROWAN",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x16cda4028e9e872a38acb903176719299beaed87",
+      "symbol": "MARS4",
+      "name": "MARS4",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1da87b114f35e1dc91f72bf57fc07a768ad40bb0",
+      "symbol": "EQZ",
+      "name": "EQZ",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x1Da87b114f35E1DC91F72bF57fc07A768Ad40Bb0",
+      "symbol": "EQZ",
+      "name": "EQZ",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x72f020f8f3e8fd9382705723cd26380f8d0c66bb",
+      "symbol": "PLOT",
+      "name": "PLOT",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xe82808eaA78339b06a691fd92E1Be79671cAd8D3",
+      "symbol": "PLOT",
+      "name": "PLOT",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcbfef8fdd706cde6f208460f2bf39aa9c785f05d",
+      "symbol": "KINE",
+      "name": "KINE",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x8cf8238abf7b933bf8bb5ea2c7e4be101c11de2a",
+      "symbol": "XPNET",
+      "name": "XPNET",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x88cb253d4c8cab8cdf7948a9251db85a13669e23",
+      "symbol": "YLDY",
+      "name": "YLDY",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcd2828fc4d8e8a0ede91bb38cf64b1a81de65bf6",
+      "symbol": "ODDZ",
+      "name": "ODDZ",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x695FC8B80F344411F34bDbCb4E621aA69AdA384b",
+      "symbol": "NITRO",
+      "name": "NITRO",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0335A7610D817aeCA1bEBbEfbd392ecC2eD587B8",
+      "symbol": "NITRO",
+      "name": "NITRO",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x0A356f512f6fCE740111ee04Ab1699017a908680",
+      "symbol": "UFARM",
+      "name": "UFARM",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x40986a85b4cfcdb054a6cbfb1210194fee51af88",
+      "symbol": "UFARM",
+      "name": "UFARM",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xa7305ae84519ff8be02484cda45834c4e7d13dd6",
+      "symbol": "UFARM",
+      "name": "UFARM",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0xd60effed653f3f1b69047f2d2dc4e808a548767b",
+      "symbol": "UFARM",
+      "name": "UFARM",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE1Fc4455f62a6E89476f1072530C20CF1A0622dA",
+      "symbol": "PHTR",
+      "name": "PHTR",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9f7fc686cfd64aa5ae15b351d03071e91533094b",
+      "symbol": "TRACE",
+      "name": "TRACE",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x4287f07cbe6954f9f0decd91d0705c926d8d03a4",
+      "symbol": "TRACE",
+      "name": "TRACE",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1afb69dbc9f54d08dab1bd3436f8da1af819e647",
+      "symbol": "MELOS",
+      "name": "MELOS",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xc3028fbc1742a16a5d69de1b334cbce28f5d7eb3",
+      "symbol": "SSS",
+      "name": "SSS",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7968bc6a03017eA2de509AAA816F163Db0f35148",
+      "symbol": "HGET",
+      "name": "HGET",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8a0cdfab62ed35b836dc0633482798421c81b3ec",
+      "symbol": "SPHRI",
+      "name": "SPHRI",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xbcb24afb019be7e93ea9c43b7e22bb55d5b7f45d",
+      "symbol": "BSCS",
+      "name": "BSCS",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x689f8e5913c158ffb5ac5aeb83b3c875f5d20309",
+      "symbol": "SNK",
+      "name": "SNK",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x661ab0ed68000491d98c796146bcf28c20d7c559",
+      "symbol": "DOWS",
+      "name": "DOWS",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x8bdd8dbcbdf0c066ca5f3286d33673aa7a553c10",
+      "symbol": "KART",
+      "name": "KART",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x936B6659Ad0C1b244Ba8Efe639092acae30dc8d6",
+      "symbol": "CO",
+      "name": "CO",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x633237C6FA30FAe46Cc5bB22014DA30e50a718cC",
+      "symbol": "FIWA",
+      "name": "FIWA",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb32aC3C79A94aC1eb258f3C830bBDbc676483c93",
+      "symbol": "OSWAP",
+      "name": "OSWAP",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x076ddce096c93dcf5d51fe346062bf0ba9523493",
+      "symbol": "PARA",
+      "name": "PARA",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3a8d5BC8A8948b68DfC0Ce9C14aC4150e083518c",
+      "symbol": "PARA",
+      "name": "PARA",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 42220,
+      "address": "0x74c0C58B99b68cF16A717279AC2d056A34ba2bFe",
+      "symbol": "SOURCE",
+      "name": "SOURCE",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xea136fc555e695ba96d22e10b7e2151c4c6b2a20",
+      "symbol": "SOURCE",
+      "name": "SOURCE",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8d2b3350edf2e8a0bf9deee1dd215bcebc772048",
+      "symbol": "SOURCE",
+      "name": "SOURCE",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xde4ce5447ce0c67920a1371605a39187cb6847c8",
+      "symbol": "LOVE",
+      "name": "LOVE",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcbe771323587ea16dacb6016e269d7f08a7acc4e",
+      "symbol": "SPO",
+      "name": "SPO",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x14a32f050FACF226Ec60882398A9BF36d91DBaC2",
+      "symbol": "KYOKO",
+      "name": "KYOKO",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe1a4c5bbb704a92599fedb191f451e0d3a1ed842",
+      "symbol": "NAME",
+      "name": "NAME",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbc194e6f748a222754C3E8b9946922c09E7d4e91",
+      "symbol": "LEV",
+      "name": "LEV",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xbc194e6f748a222754c3e8b9946922c09e7d4e91",
+      "symbol": "LEV",
+      "name": "LEV",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1f4cb968b76931c494ff92ed80ccb169ad641cb1",
+      "symbol": "STF",
+      "name": "STF",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x36bfBb1d5B3C9b336f3D64976599B6020cA805F1",
+      "symbol": "PSB",
+      "name": "PSB",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x734c90044a0ba31b3f2e640c10dc5d3540499bfd",
+      "symbol": "TSX",
+      "name": "TSX",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x270388e0ca29cfd7c7e73903d9d933a23d1bab39",
+      "symbol": "TSX",
+      "name": "TSX",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xa0b9bb05da11e3b19ffd64554400f59d4a378515",
+      "symbol": "MOOO",
+      "name": "MOOO",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9008064E6cf73e27a3Aba4B10E69f855A4F8efcC",
+      "symbol": "GEM",
+      "name": "GEM",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf7413489c474ca4399eee604716c72879eea3615",
+      "symbol": "APYS",
+      "name": "APYS",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x508df5aa4746be37b5b6a69684dfd8bdc322219d",
+      "symbol": "CRF",
+      "name": "CRF",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7777777777697cfeecf846a76326da79cc606517",
+      "symbol": "SIG",
+      "name": "SIG",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB14eBF566511B9e6002bB286016AB2497B9b9c9D",
+      "symbol": "HID",
+      "name": "HID",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3f9bec82c776c47405bcb38070d2395fd18f89d3",
+      "symbol": "PHM",
+      "name": "PHM",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x4399AE7538c33cA24edD4C28C5dd7Ce9a80acF81",
+      "symbol": "PHM",
+      "name": "PHM",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xd8047afecb86e44eff3add991b9f063ed4ca716b",
+      "symbol": "GGG",
+      "name": "GGG",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x33f391f4c4fe802b70b77ae37670037a92114a7c",
+      "symbol": "BURP",
+      "name": "BURP",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x538d47d142f6993038a667e9d6210d3735749b36",
+      "symbol": "BURP",
+      "name": "BURP",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd6caf5bd23cf057f5fccce295dcc50c01c198707",
+      "symbol": "EVA",
+      "name": "EVA",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xa803778ab953d3ffe4fbd20cfa0042ecefe8319d",
+      "symbol": "CTZN",
+      "name": "CTZN",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa803778ab953d3ffe4fbd20cfa0042ecefe8319d",
+      "symbol": "CTZN",
+      "name": "CTZN",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xD0513DB39d87e8825389fEB10BD911dC53B3a153",
+      "symbol": "FINT",
+      "name": "FINT",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd61143652af94f570c7d9429356662dd859ca6ec",
+      "symbol": "FINT",
+      "name": "FINT",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x009178997aff09a67d4caccfeb897fb79d036214",
+      "symbol": "1SOL",
+      "name": "1SOL",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd714d91A169127e11D8FAb3665d72E8b7ef9Dbe2",
+      "symbol": "BLACK",
+      "name": "BLACK",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xfd195a17e2a60D248a7148A919c5166AE907479A",
+      "symbol": "KOL",
+      "name": "KOL",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xf339e8c294046e6e7ef6ad4f6fa9e202b59b556b",
+      "symbol": "BGS",
+      "name": "BGS",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x3465fD2D9f900e34280aBab60E8d9987B5b5bb47",
+      "symbol": "DOR",
+      "name": "DOR",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x3C45A24d36Ab6fc1925533C1F57bC7e1b6fbA8a4",
+      "symbol": "ROOM",
+      "name": "ROOM",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x216e9D8A521d93EC769635859c57938119fE5369",
+      "symbol": "BDT",
+      "name": "BDT",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbd9908b0cdd50386f92efcc8e1d71766c2782df0",
+      "symbol": "RICE",
+      "name": "RICE",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x6c1efbed2f57dd486ec091dffd08ee5235a570b1",
+      "symbol": "PNDR",
+      "name": "PNDR",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf55a93b613d172b86c2ba3981a849dae2aecde2f",
+      "symbol": "YFX",
+      "name": "YFX",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 100,
+      "address": "0xe91d153e0b41518a2ce8dd3d7944fa863463a97d",
+      "symbol": "XDAI",
+      "name": "XDAI",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd83ae04c9ed29d6d3e6bf720c71bc7beb424393e",
+      "symbol": "INSURE",
+      "name": "INSURE",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x3709e8615e02c15b096f8a9b460ccb8ca8194e86",
+      "symbol": "VEE",
+      "name": "VEE",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xa25610a77077390a75ad9072a084c5fbc7d43a0d",
+      "symbol": "MCASH",
+      "name": "MCASH",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x4be63a9b26ee89b9a3a13fd0aa1d0b2427c135f8",
+      "symbol": "XCV",
+      "name": "XCV",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x274e7eb07b485cfde53d02270555213447570ac6",
+      "symbol": "GOV",
+      "name": "GOV",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6a969d379700b2e5ea4e684d273d63c1c050ba49",
+      "symbol": "PAF",
+      "name": "PAF",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x26193c7fa4354ae49ec53ea2cebc513dc39a10aa",
+      "symbol": "SEA",
+      "name": "SEA",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc3C6cf6Bbca7B759d23a2586e80F795C57A32beF",
+      "symbol": "LUSD",
+      "name": "LUSD",
+      "tags": ["ngs_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x23e8a70534308a4AAF76fb8C32ec13d17a3BD89e",
+      "symbol": "LUSD",
+      "name": "LUSD",
+      "tags": ["ngs_ventures_portfolio"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}

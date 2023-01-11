@@ -1,0 +1,45 @@
+{
+  "name": "eGirl Capital Portfolio",
+  "tags": {
+    "egirl_capital_portfolio": {
+      "name": "eGirl Capital Portfolio",
+      "description": "eGirl Capital is a venture firm"
+    }
+  },
+  "timestamp": "2023-01-02T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xdbdb4d16eda451d0503b854cf79d55697f90c8df",
+      "symbol": "ALCX",
+      "name": "ALCX",
+      "tags": ["egirl_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xba3335588d9403515223f109edc4eb7269a9ab5d",
+      "symbol": "GEAR",
+      "name": "GEAR",
+      "tags": ["egirl_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf1Dc500FdE233A4055e25e5BbF516372BC4F6871",
+      "symbol": "SDL",
+      "name": "SDL",
+      "tags": ["egirl_capital_portfolio"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0x75C9bC761d88f70156DAf83aa010E84680baF131",
+      "symbol": "SDL",
+      "name": "SDL",
+      "tags": ["egirl_capital_portfolio"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}

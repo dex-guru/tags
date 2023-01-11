@@ -1,0 +1,248 @@
+{
+  "name": "Delphi Digital Portfolio",
+  "tags": {
+    "delphi_digital_portfolio": {
+      "name": "Delphi Digital Portfolio",
+      "description": "Thesis-driven, high-conviction funds that allocate across core themes that we believe will dramatically shape the world. Delphi Digital Portfolio of liquid tokens"
+    }
+  },
+  "timestamp": "2022-12-22T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x5a98fcbea516cf06857215779fd812ca3bef1b32",
+      "symbol": "LDO",
+      "name": "LDO",
+      "tags": ["delphi_digital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x986854779804799C1d68867F5E03e601E781e41b",
+      "symbol": "LDO",
+      "name": "LDO",
+      "tags": ["delphi_digital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x92d6c1e31e14520e676a687f0a93788b716beff5",
+      "symbol": "DYDX",
+      "name": "DYDX",
+      "tags": ["delphi_digital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x767fe9edc9e0df98e07454847909b5e959d7ca0e",
+      "symbol": "ILV",
+      "name": "ILV",
+      "tags": ["delphi_digital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xa1faa113cbe53436df28ff0aee54275c13b40975",
+      "symbol": "ALPHA",
+      "name": "ALPHA",
+      "tags": ["delphi_digital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa1faa113cbe53436df28ff0aee54275c13b40975",
+      "symbol": "ALPHA",
+      "name": "ALPHA",
+      "tags": ["delphi_digital_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x2147efff675e4a4ee1c2f918d181cdbd7a8e208f",
+      "symbol": "ALPHA",
+      "name": "ALPHA",
+      "tags": ["delphi_digital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD417144312DbF50465b1C641d016962017Ef6240",
+      "symbol": "CQT",
+      "name": "CQT",
+      "tags": ["delphi_digital_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
+      "symbol": "JOE",
+      "name": "JOE",
+      "tags": ["delphi_digital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbe1a001fe942f96eea22ba08783140b9dcc09d28",
+      "symbol": "BETA",
+      "name": "BETA",
+      "tags": ["delphi_digital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xbe1a001fe942f96eea22ba08783140b9dcc09d28",
+      "symbol": "BETA",
+      "name": "BETA",
+      "tags": ["delphi_digital_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x511D35c52a3C244E7b8bd92c0C297755FbD89212",
+      "symbol": "BETA",
+      "name": "BETA",
+      "tags": ["delphi_digital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x25f8087ead173b73d6e8b84329989a8eea16cf73",
+      "symbol": "YGG",
+      "name": "YGG",
+      "tags": ["delphi_digital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcb84d72e61e383767c4dfeb2d8ff7f4fb89abc6e",
+      "symbol": "VEGA",
+      "name": "VEGA",
+      "tags": ["delphi_digital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdbdb4d16eda451d0503b854cf79d55697f90c8df",
+      "symbol": "ALCX",
+      "name": "ALCX",
+      "tags": ["delphi_digital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2e9d63788249371f1DFC918a52f8d799F4a38C94",
+      "symbol": "TOKE",
+      "name": "TOKE",
+      "tags": ["delphi_digital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4e352cf164e64adcbad318c3a1e222e9eba4ce42",
+      "symbol": "MCB",
+      "name": "MCB",
+      "tags": ["delphi_digital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x5fe80d2cd054645b9419657d3d10d26391780a7b",
+      "symbol": "MCB",
+      "name": "MCB",
+      "tags": ["delphi_digital_portfolio"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0x4e352cF164E64ADCBad318C3a1e222E9EBa4Ce42",
+      "symbol": "MCB",
+      "name": "MCB",
+      "tags": ["delphi_digital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdef1ca1fb7fbcdc777520aa7f396b4e015f497ab",
+      "symbol": "COW",
+      "name": "COW",
+      "tags": ["delphi_digital_portfolio"]
+    },
+    {
+      "chainId": 100,
+      "address": "0x177127622c4a00f3d409b75571e12cb3c8973d3c",
+      "symbol": "COW",
+      "name": "COW",
+      "tags": ["delphi_digital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x72b886d09c117654ab7da13a14d603001de0b777",
+      "symbol": "XDEFI",
+      "name": "XDEFI",
+      "tags": ["delphi_digital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdddddd4301a082e62e84e43f474f044423921918",
+      "symbol": "DVF",
+      "name": "DVF",
+      "tags": ["delphi_digital_portfolio"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0xa7aa2921618e3d63da433829d448b58c9445a4c3",
+      "symbol": "DVF",
+      "name": "DVF",
+      "tags": ["delphi_digital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3155ba85d5f96b2d030a4966af206230e46849cb",
+      "symbol": "RUNE",
+      "name": "RUNE",
+      "tags": ["delphi_digital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9F52c8ecbEe10e00D9faaAc5Ee9Ba0fF6550F511",
+      "symbol": "SIPHER",
+      "name": "SIPHER",
+      "tags": ["delphi_digital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x94E9EB8b5Ab9fd6B9ea3169D55FFAde62a01702e",
+      "symbol": "BREED",
+      "name": "BREED",
+      "tags": ["delphi_digital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1337def16f9b486faed0293eb623dc8395dfe46a",
+      "symbol": "ARMOR",
+      "name": "ARMOR",
+      "tags": ["delphi_digital_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xcd7361ac3307d1c5a46b63086a90742ff44c63b3",
+      "symbol": "RAIDER",
+      "name": "RAIDER",
+      "tags": ["delphi_digital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x727f064a78dc734d33eec18d5370aef32ffd46e4",
+      "symbol": "ORION",
+      "name": "ORION",
+      "tags": ["delphi_digital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x5530ec23f4eE1521182bd158C09F4CA7efEC1ef0",
+      "symbol": "ORION",
+      "name": "ORION",
+      "tags": ["delphi_digital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x4861ba0ce919fee66b41c85a08a7476557914275",
+      "symbol": "CTN",
+      "name": "CTN",
+      "tags": ["delphi_digital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x823556202e86763853b40e9cde725f412e294689",
+      "symbol": "ASTO",
+      "name": "ASTO",
+      "tags": ["delphi_digital_portfolio"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}

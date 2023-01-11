@@ -49,7 +49,7 @@
       "type": "string",
       "description": "The unique identifier of a tag",
       "minLength": 1,
-      "maxLength": 30,
+      "maxLength": 90,
       "pattern": "^[\\w\\d]+$",
       "examples": [
         "compound",
@@ -171,7 +171,7 @@
           "description": "The name of the tag",
           "pattern": "^[ \\w\\.,/\\-:\\(\\)#$€ \" ’' ]+$",
           "minLength": 1,
-          "maxLength": 40
+          "maxLength": 90
         },
         "description": {
           "type": "string",
@@ -227,7 +227,7 @@
           "type": "string",
           "description": "The name of the token",
           "minLength": 1,
-          "maxLength": 40,
+          "maxLength": 90,
           "pattern": "^[ \\w.'+\\-%/a-zA-Z0-9:&\\[\\]\\(\\)]+$",
           "examples": [
             "USD Coin"
@@ -273,7 +273,7 @@
       "type": "string",
       "description": "The name of the token list",
       "minLength": 1,
-      "maxLength": 30,
+      "maxLength": 90,
       "pattern": "^[\\w\\d ]+$",
       "examples": [
         "My Token List"

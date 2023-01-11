@@ -1,0 +1,178 @@
+{
+  "name": "PetRock Capital Portfolio",
+  "tags": {
+    "petrock_capital_portfolio": {
+      "name": "PetRock Capital Portfolio",
+      "description": "Petrock Capital is a blockchain venture fund focused on building and accelerating the future of Web 3.0 and decentralised financial systems."
+    }
+  },
+  "timestamp": "2022-12-31T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x408e41876cccdc0f92210600ef50372656052a38",
+      "symbol": "REN",
+      "name": "REN",
+      "tags": ["petrock_capital_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x4e78011ce80ee02d2c3e649fb657e45898257815",
+      "symbol": "KLIMA",
+      "name": "KLIMA",
+      "tags": ["petrock_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x188e817b02e635d482ae4d81e25dda98a97c4a42",
+      "symbol": "LITH",
+      "name": "LITH",
+      "tags": ["petrock_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x83e9f223e1edb3486f876ee888d76bfba26c475a",
+      "symbol": "GUILD",
+      "name": "GUILD",
+      "tags": ["petrock_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x0565805ca3a4105faee51983b0bd8ffb5ce1455c",
+      "symbol": "GUILD",
+      "name": "GUILD",
+      "tags": ["petrock_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6bb61215298f296c55b19ad842d3df69021da2ef",
+      "symbol": "DOP",
+      "name": "DOP",
+      "tags": ["petrock_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAF691508BA57d416f895e32a1616dA1024e882D2",
+      "symbol": "PNODE",
+      "name": "PNODE",
+      "tags": ["petrock_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9798dF2f5d213a872c787bD03b2b91F54D0D04A1",
+      "symbol": "TBC",
+      "name": "TBC",
+      "tags": ["petrock_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x9798dF2f5d213a872c787bD03b2b91F54D0D04A1",
+      "symbol": "TBC",
+      "name": "TBC",
+      "tags": ["petrock_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xF4Ed363144981D3A65f42e7D0DC54FF9EEf559A1",
+      "symbol": "FARA",
+      "name": "FARA",
+      "tags": ["petrock_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x651Cd665bD558175A956fb3D72206eA08Eb3dF5b",
+      "symbol": "ROSN",
+      "name": "ROSN",
+      "tags": ["petrock_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBf6Ff49FfD3d104302Ef0AB0F10f5a84324c091c",
+      "symbol": "NFTFY",
+      "name": "NFTFY",
+      "tags": ["petrock_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xbf6ff49ffd3d104302ef0ab0f10f5a84324c091c",
+      "symbol": "NFTFY",
+      "name": "NFTFY",
+      "tags": ["petrock_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd85ad783cc94bd04196a13dc042a3054a9b52210",
+      "symbol": "HAKA",
+      "name": "HAKA",
+      "tags": ["petrock_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xd85ad783cc94bd04196a13dc042a3054a9b52210",
+      "symbol": "HAKA",
+      "name": "HAKA",
+      "tags": ["petrock_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3ef389f264e07fff3106a3926f2a166d1393086f",
+      "symbol": "SAO",
+      "name": "SAO",
+      "tags": ["petrock_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc8d3dcb63c38607cb0c9d3f55e8ecce628a01c36",
+      "symbol": "MATRIX",
+      "name": "MATRIX",
+      "tags": ["petrock_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xc32bB619966B9a56cF2472528a36Fd099CE979E0",
+      "symbol": "MATRIX",
+      "name": "MATRIX",
+      "tags": ["petrock_capital_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x211f4e76fcb811ed2b310a232a24b3445d95e3bc",
+      "symbol": "MATRIX",
+      "name": "MATRIX",
+      "tags": ["petrock_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x0e7beec376099429b85639eb3abe7cf22694ed49",
+      "symbol": "BUNI",
+      "name": "BUNI",
+      "tags": ["petrock_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x21381e026Ad6d8266244f2A583b35F9E4413FA2a",
+      "symbol": "FORM",
+      "name": "FORM",
+      "tags": ["petrock_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x25a528af62e56512a19ce8c3cab427807c28cc19",
+      "symbol": "FORM",
+      "name": "FORM",
+      "tags": ["petrock_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xb60501346240fcde1615de56ea9fff1ac1da5673",
+      "symbol": "BSL",
+      "name": "BSL",
+      "tags": ["petrock_capital_portfolio"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}

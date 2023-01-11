@@ -1,0 +1,304 @@
+{
+  "name": "Framework Ventures Portfolio",
+  "tags": {
+    "framework_ventures_portfolio": {
+      "name": "Framework Ventures Portfolio",
+      "description": "Framework Ventures partner with founders and teams to build token-based networks and develop the requisite cryptoeconomics, governance, and community to scale. Framework Ventures Portfolio of liquid tokens"
+    }
+  },
+  "timestamp": "2022-12-25T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x514910771af9ca656af840dff83e8264ecf986ca",
+      "symbol": "LINK",
+      "name": "LINK",
+      "tags": ["framework_ventures_portfolio"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0xf97f4df75117a78c1a5a0dbb814af92458539fb4",
+      "symbol": "LINK",
+      "name": "LINK",
+      "tags": ["framework_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd",
+      "symbol": "LINK",
+      "name": "LINK",
+      "tags": ["framework_ventures_portfolio"]
+    },
+    {
+      "chainId": 250,
+      "address": "0xb3654dc3D10Ea7645f8319668E8F54d2574FBdC8",
+      "symbol": "LINK",
+      "name": "LINK",
+      "tags": ["framework_ventures_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39",
+      "symbol": "LINK",
+      "name": "LINK",
+      "tags": ["framework_ventures_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x5947BB275c521040051D82396192181b413227A3",
+      "symbol": "LINK",
+      "name": "LINK",
+      "tags": ["framework_ventures_portfolio"]
+    },
+    {
+      "chainId": 10,
+      "address": "0x350a791bfc2c21f9ed5d10980dad2e2638ffa7f6",
+      "symbol": "LINK",
+      "name": "LINK",
+      "tags": ["framework_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
+      "symbol": "SNX",
+      "name": "SNX",
+      "tags": ["framework_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x9ac983826058b8a9c7aa1c9171441191232e8404",
+      "symbol": "SNX",
+      "name": "SNX",
+      "tags": ["framework_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
+      "symbol": "YFI",
+      "name": "YFI",
+      "tags": ["framework_ventures_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xda537104d6a5edd53c6fbba9a898708e465260b6",
+      "symbol": "YFI",
+      "name": "YFI",
+      "tags": ["framework_ventures_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x9eaac1b23d935365bd7b542fe22ceee2922f52dc",
+      "symbol": "YFI",
+      "name": "YFI",
+      "tags": ["framework_ventures_portfolio"]
+    },
+    {
+      "chainId": 250,
+      "address": "0x29b0da86e484e1c0029b56e817912d778ac0ec69",
+      "symbol": "YFI",
+      "name": "YFI",
+      "tags": ["framework_ventures_portfolio"]
+    },
+    {
+      "chainId": 100,
+      "address": "0xbf65bfcb5da067446cee6a706ba3fe2fb1a9fdfd",
+      "symbol": "YFI",
+      "name": "YFI",
+      "tags": ["framework_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x88f1a5ae2a3bf98aeaf342d26b30a79438c9142e",
+      "symbol": "YFI",
+      "name": "YFI",
+      "tags": ["framework_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x767fe9edc9e0df98e07454847909b5e959d7ca0e",
+      "symbol": "ILV",
+      "name": "ILV",
+      "tags": ["framework_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x956f47f50a910163d8bf957cf5846d573e7f87ca",
+      "symbol": "FEI",
+      "name": "FEI",
+      "tags": ["framework_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x43dfc4159d86f3a37a5a4b3d4580b888ad7d4ddd",
+      "symbol": "DODO",
+      "name": "DODO",
+      "tags": ["framework_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x67ee3cb086f8a16f34bee3ca72fad36f7db929e2",
+      "symbol": "DODO",
+      "name": "DODO",
+      "tags": ["framework_ventures_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xe4bf2864ebec7b7fdf6eeca9bacae7cdfdaffe78",
+      "symbol": "DODO",
+      "name": "DODO",
+      "tags": ["framework_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x88df592f8eb5d7bd38bfef7deb0fbc02cf3778a0",
+      "symbol": "TRB",
+      "name": "TRB",
+      "tags": ["framework_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x33349b282065b0284d756f0577fb39c158f935e6",
+      "symbol": "MPL",
+      "name": "MPL",
+      "tags": ["framework_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x01ba67aac7f75f647d94220cc98fb30fcc5105bf",
+      "symbol": "LYRA",
+      "name": "LYRA",
+      "tags": ["framework_ventures_portfolio"]
+    },
+    {
+      "chainId": 10,
+      "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
+      "symbol": "LYRA",
+      "name": "LYRA",
+      "tags": ["framework_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2e9d63788249371f1DFC918a52f8d799F4a38C94",
+      "symbol": "TOKE",
+      "name": "TOKE",
+      "tags": ["framework_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9c4a4204b79dd291d6b6571c5be8bbcd0622f050",
+      "symbol": "TCR",
+      "name": "TCR",
+      "tags": ["framework_ventures_portfolio"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0xa72159fc390f0e3c6d415e658264c7c4051e9b87",
+      "symbol": "TCR",
+      "name": "TCR",
+      "tags": ["framework_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x375abb85c329753b1ba849a601438ae77eec9893",
+      "symbol": "PDT",
+      "name": "PDT",
+      "tags": ["framework_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4b13006980acb09645131b91d259eaa111eaf5ba",
+      "symbol": "MYC",
+      "name": "MYC",
+      "tags": ["framework_ventures_portfolio"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0xC74fE4c715510Ec2F8C61d70D397B32043F55Abe",
+      "symbol": "MYC",
+      "name": "MYC",
+      "tags": ["framework_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd291e7a03283640fdc51b121ac401383a46cc623",
+      "symbol": "RGT",
+      "name": "RGT",
+      "tags": ["framework_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xc2098a8938119A52B1F7661893c0153A6CB116d5",
+      "symbol": "RPG",
+      "name": "RPG",
+      "tags": ["framework_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0E5C8C387C5EBa2eCbc137aD012aeD5Fe729e251",
+      "symbol": "RPG",
+      "name": "RPG",
+      "tags": ["framework_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf1Dc500FdE233A4055e25e5BbF516372BC4F6871",
+      "symbol": "SDL",
+      "name": "SDL",
+      "tags": ["framework_ventures_portfolio"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0x75C9bC761d88f70156DAf83aa010E84680baF131",
+      "symbol": "SDL",
+      "name": "SDL",
+      "tags": ["framework_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xca1207647Ff814039530D7d35df0e1Dd2e91Fa84",
+      "symbol": "DHT",
+      "name": "DHT",
+      "tags": ["framework_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf4d861575ecc9493420a3f5a14f85b13f0b50eb3",
+      "symbol": "FCL",
+      "name": "FCL",
+      "tags": ["framework_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0e192d382a36de7011f795acc4391cd302003606",
+      "symbol": "FST",
+      "name": "FST",
+      "tags": ["framework_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3Ec8798B81485A254928B70CDA1cf0A2BB0B74D7",
+      "symbol": "GRO",
+      "name": "GRO",
+      "tags": ["framework_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa8B61CfF52564758A204F841E636265bEBC8db9B",
+      "symbol": "YIELD",
+      "name": "YIELD",
+      "tags": ["framework_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC57d533c50bC22247d49a368880fb49a1caA39F7",
+      "symbol": "PTF",
+      "name": "PTF",
+      "tags": ["framework_ventures_portfolio"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}

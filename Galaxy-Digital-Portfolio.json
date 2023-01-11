@@ -1,0 +1,276 @@
+{
+  "name": "Galaxy Digital Portfolio",
+  "tags": {
+    "galaxy_portfolio": {
+      "name": "Galaxy Digital Portfolio",
+      "description": "Galaxy is a digital asset and blockchain pioneer helping the world invest in economic progress. Galaxy Digital Portfolio of liquid tokens"
+    }
+  },
+  "timestamp": "2022-12-21T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
+      "symbol": "MATIC",
+      "name": "MATIC",
+      "tags": ["galaxy_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xCC42724C6683B7E57334c4E856f4c9965ED682bD",
+      "symbol": "MATIC",
+      "name": "MATIC",
+      "tags": ["galaxy_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x0000000000000000000000000000000000001010",
+      "symbol": "MATIC",
+      "name": "MATIC",
+      "tags": ["galaxy_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x1CE0c2827e2eF14D5C4f29a091d735A204794041",
+      "symbol": "AVAX",
+      "name": "AVAX",
+      "tags": ["galaxy_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x2C89bbc92BD86F8075d1DEcc58C7F4E0107f286b",
+      "symbol": "AVAX",
+      "name": "AVAX",
+      "tags": ["galaxy_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbd31ea8212119f94a611fa969881cba3ea06fa3d",
+      "symbol": "LUNC",
+      "name": "LUNC",
+      "tags": ["galaxy_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x156ab3346823B651294766e23e6Cf87254d68962",
+      "symbol": "LUNC",
+      "name": "LUNC",
+      "tags": ["galaxy_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x111111111117dc0aa78b770fa6a738034120c302",
+      "symbol": "1INCH",
+      "name": "1INCH",
+      "tags": ["galaxy_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x111111111117dc0aa78b770fa6a738034120c302",
+      "symbol": "1INCH",
+      "name": "1INCH",
+      "tags": ["galaxy_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x9c2c5fd7b07e95ee044ddeba0e97a665f142394f",
+      "symbol": "1INCH",
+      "name": "1INCH",
+      "tags": ["galaxy_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0xd501281565bf7789224523144fe5d98e8b28f267",
+      "symbol": "1INCH",
+      "name": "1INCH",
+      "tags": ["galaxy_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4fE83213D56308330EC302a8BD641f1d0113A4Cc",
+      "symbol": "NU",
+      "name": "NU",
+      "tags": ["galaxy_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3C4B6E6e1eA3D4863700D7F76b36B7f3D3f13E3d",
+      "symbol": "VGX",
+      "name": "VGX",
+      "tags": ["galaxy_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x31c8eacbffdd875c74b94b077895bd78cf1e64a3",
+      "symbol": "RAD",
+      "name": "RAD",
+      "tags": ["galaxy_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x579cea1889991f68acc35ff5c3dd0621ff29b0c9",
+      "symbol": "IQ",
+      "name": "IQ",
+      "tags": ["galaxy_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xB9638272aD6998708de56BBC0A290a1dE534a578",
+      "symbol": "IQ",
+      "name": "IQ",
+      "tags": ["galaxy_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb3999F658C0391d94A37f7FF328F3feC942BcADC",
+      "symbol": "HFT",
+      "name": "HFT",
+      "tags": ["galaxy_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x44Ec807ce2F4a6F2737A92e985f318d035883e47",
+      "symbol": "HFT",
+      "name": "HFT",
+      "tags": ["galaxy_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x43dfc4159d86f3a37a5a4b3d4580b888ad7d4ddd",
+      "symbol": "DODO",
+      "name": "DODO",
+      "tags": ["galaxy_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x67ee3cb086f8a16f34bee3ca72fad36f7db929e2",
+      "symbol": "DODO",
+      "name": "DODO",
+      "tags": ["galaxy_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xe4bf2864ebec7b7fdf6eeca9bacae7cdfdaffe78",
+      "symbol": "DODO",
+      "name": "DODO",
+      "tags": ["galaxy_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x467719ad09025fcc6cf6f8311755809d45a5e5f3",
+      "symbol": "WAXL",
+      "name": "WAXL",
+      "tags": ["galaxy_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x8b1f4432f943c465a973fedc6d7aa50fc96f1f65",
+      "symbol": "WAXL",
+      "name": "WAXL",
+      "tags": ["galaxy_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x44c784266cf024a60e8acf2427b9857ace194c5d",
+      "symbol": "WAXL",
+      "name": "WAXL",
+      "tags": ["galaxy_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x6e4e624106cb12e168e6533f8ec7c82263358940",
+      "symbol": "WAXL",
+      "name": "WAXL",
+      "tags": ["galaxy_portfolio"]
+    },
+    {
+      "chainId": 250,
+      "address": "0x8b1f4432f943c465a973fedc6d7aa50fc96f1f65",
+      "symbol": "WAXL",
+      "name": "WAXL",
+      "tags": ["galaxy_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xccc8cb5229b0ac8069c51fd58367fd1e622afd97",
+      "symbol": "GODS",
+      "name": "GODS",
+      "tags": ["galaxy_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfB5c6815cA3AC72Ce9F5006869AE67f18bF77006",
+      "symbol": "PSTAKE",
+      "name": "PSTAKE",
+      "tags": ["galaxy_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x15b7c0c907e4c6b9adaaaabc300c08991d6cea05",
+      "symbol": "GEL",
+      "name": "GEL",
+      "tags": ["galaxy_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0954906da0Bf32d5479e25f46056d22f08464cab",
+      "symbol": "INDEX",
+      "name": "INDEX",
+      "tags": ["galaxy_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xfbd8a3b908e764dbcd51e27992464b4432a1132b",
+      "symbol": "INDEX",
+      "name": "INDEX",
+      "tags": ["galaxy_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0cec1a9154ff802e7934fc916ed7ca50bde6844e",
+      "symbol": "POOL",
+      "name": "POOL",
+      "tags": ["galaxy_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x25788a1a171ec66da6502f9975a15b609ff54cf6",
+      "symbol": "POOL",
+      "name": "POOL",
+      "tags": ["galaxy_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2c9023bbc572ff8dc1228c7858a280046ea8c9e5",
+      "symbol": "VID",
+      "name": "VID",
+      "tags": ["galaxy_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xab846fb6c81370327e784ae7cbb6d6a6af6ff4bf",
+      "symbol": "PAL",
+      "name": "PAL",
+      "tags": ["galaxy_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x888888888889c00c67689029d7856aac1065ec11",
+      "symbol": "OPIUM",
+      "name": "OPIUM",
+      "tags": ["galaxy_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3Ec8798B81485A254928B70CDA1cf0A2BB0B74D7",
+      "symbol": "GRO",
+      "name": "GRO",
+      "tags": ["galaxy_portfolio"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}

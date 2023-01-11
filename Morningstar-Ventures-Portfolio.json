@@ -1,0 +1,822 @@
+{
+  "name": "Morningstar Ventures Portfolio",
+  "tags": {
+    "morningstar_ventures_portfolio": {
+      "name": "Morningstar Ventures Portfolio",
+      "description": "Morningstar Ventures is a proprietary investment firm specializing in digital assets and blockchain technology."
+    }
+  },
+  "timestamp": "2023-01-02T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x3019BF2a2eF8040C242C9a4c5c4BD4C81678b2A1",
+      "symbol": "GMT",
+      "name": "GMT",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe3c408BD53c31C085a1746AF401A4042954ff740",
+      "symbol": "GMT",
+      "name": "GMT",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb3999F658C0391d94A37f7FF328F3feC942BcADC",
+      "symbol": "HFT",
+      "name": "HFT",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x44Ec807ce2F4a6F2737A92e985f318d035883e47",
+      "symbol": "HFT",
+      "name": "HFT",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x467719ad09025fcc6cf6f8311755809d45a5e5f3",
+      "symbol": "WAXL",
+      "name": "WAXL",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x8b1f4432f943c465a973fedc6d7aa50fc96f1f65",
+      "symbol": "WAXL",
+      "name": "WAXL",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x44c784266cf024a60e8acf2427b9857ace194c5d",
+      "symbol": "WAXL",
+      "name": "WAXL",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x6e4e624106cb12e168e6533f8ec7c82263358940",
+      "symbol": "WAXL",
+      "name": "WAXL",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 250,
+      "address": "0x8b1f4432f943c465a973fedc6d7aa50fc96f1f65",
+      "symbol": "WAXL",
+      "name": "WAXL",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x25f8087ead173b73d6e8b84329989a8eea16cf73",
+      "symbol": "YGG",
+      "name": "YGG",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x89Af13A10b32F1b2f8d1588f93027F69B6F4E27e",
+      "symbol": "GAFI",
+      "name": "GAFI",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbbc2ae13b23d715c30720f079fcd9b4a74093505",
+      "symbol": "ERN",
+      "name": "ERN",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x505b5eda5e25a67e1c24a2bf1a527ed9eb88bf04",
+      "symbol": "CWEB",
+      "name": "CWEB",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5",
+      "symbol": "QI",
+      "name": "QI",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x71ab77b7dbb4fa7e017bc15090b2163221420282",
+      "symbol": "HIGH",
+      "name": "HIGH",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x5f4bde007dc06b867f86ebfe4802e34a1ffeed63",
+      "symbol": "HIGH",
+      "name": "HIGH",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x82030CDBD9e4B7c5bb0b811A61DA6360D69449cc",
+      "symbol": "FEVR",
+      "name": "FEVR",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x97872EAfd79940C7b24f7BCc1EADb1457347ADc9",
+      "symbol": "STRP",
+      "name": "STRP",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0x326c33fd1113c1f29b35b4407f3d6312a8518431",
+      "symbol": "STRP",
+      "name": "STRP",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8b39b70e39aa811b69365398e0aace9bee238aeb",
+      "symbol": "PKF",
+      "name": "PKF",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x72b886d09c117654ab7da13a14d603001de0b777",
+      "symbol": "XDEFI",
+      "name": "XDEFI",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x70edf1c215d0ce69e7f16fd4e6276ba0d99d4de7",
+      "symbol": "CHEQ",
+      "name": "CHEQ",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd1ba9bac957322d6e8c07a160a3a8da11a0d2867",
+      "symbol": "HMT",
+      "name": "HMT",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x03be5c903c727ee2c8c4e9bc0acc860cca4715e2",
+      "symbol": "CAPS",
+      "name": "CAPS",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb17c88bda07d28b3838e0c1de6a30eafbcf52d85",
+      "symbol": "SHFT",
+      "name": "SHFT",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD478161C952357F05f0292B56012Cd8457F1cfbF",
+      "symbol": "POLK",
+      "name": "POLK",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97",
+      "symbol": "DFYN",
+      "name": "DFYN",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9695e0114e12C0d3A3636fAb5A18e6b737529023",
+      "symbol": "DFYN",
+      "name": "DFYN",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xc2098a8938119A52B1F7661893c0153A6CB116d5",
+      "symbol": "RPG",
+      "name": "RPG",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0E5C8C387C5EBa2eCbc137aD012aeD5Fe729e251",
+      "symbol": "RPG",
+      "name": "RPG",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xee573a945b01b788b9287ce062a0cfc15be9fd86",
+      "symbol": "XED",
+      "name": "XED",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2f109021afe75b949429fe30523ee7c0d5b27207",
+      "symbol": "OCC",
+      "name": "OCC",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1fe24f25b1cf609b9c4e7e12d802e3640dfa5e43",
+      "symbol": "CGG",
+      "name": "CGG",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x1613957159e9b0ac6c80e824f7eea748a32a0ae2",
+      "symbol": "CGG",
+      "name": "CGG",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x2ab4f9ac80f33071211729e45cfc346c1f8446d5",
+      "symbol": "CGG",
+      "name": "CGG",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9f7fc686cfd64aa5ae15b351d03071e91533094b",
+      "symbol": "TRACE",
+      "name": "TRACE",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x4287f07cbe6954f9f0decd91d0705c926d8d03a4",
+      "symbol": "TRACE",
+      "name": "TRACE",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x0ebd9537a25f56713e34c45b38f421a1e7191469",
+      "symbol": "MOOV",
+      "name": "MOOV",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x24ec2ca132abf8f6f8a6e24a1b97943e31f256a7",
+      "symbol": "MOOV",
+      "name": "MOOV",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x83e9f223e1edb3486f876ee888d76bfba26c475a",
+      "symbol": "GUILD",
+      "name": "GUILD",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x0565805ca3a4105faee51983b0bd8ffb5ce1455c",
+      "symbol": "GUILD",
+      "name": "GUILD",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x94e0bab2f6ab1f19f4750e42d7349f2740513ad5",
+      "symbol": "UNIC",
+      "name": "UNIC",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x21ce5251d47aa72d2d1dc849b1bcce14d2467d1b",
+      "symbol": "UNIC",
+      "name": "UNIC",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1796ae0b0fa4862485106a0de9b654eFE301D0b2",
+      "symbol": "PMON",
+      "name": "PMON",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x1796ae0b0fa4862485106a0de9b654efe301d0b2",
+      "symbol": "PMON",
+      "name": "PMON",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8FAc8031e079F409135766C7d5De29cf22EF897C",
+      "symbol": "HEART",
+      "name": "HEART",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb9d99c33ea2d86ec5ec6b8a4dd816ebba64404af",
+      "symbol": "K21",
+      "name": "K21",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x94E9EB8b5Ab9fd6B9ea3169D55FFAde62a01702e",
+      "symbol": "BREED",
+      "name": "BREED",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa499648fd0e80fd911972bbeb069e4c20e68bf22",
+      "symbol": "UJENNY",
+      "name": "UJENNY",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2ba8349123de45e931a8c8264c332e6e9cf593f9",
+      "symbol": "BCMC",
+      "name": "BCMC",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xc10358f062663448a3489fC258139944534592ac",
+      "symbol": "BCMC",
+      "name": "BCMC",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x77777777772cf0455fb38ee0e75f38034dfa50de",
+      "symbol": "XY",
+      "name": "XY",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfc979087305a826c2b2a0056cfaba50aad3e6439",
+      "symbol": "DAFI",
+      "name": "DAFI",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7bef710a5759d197ec0bf621c3df802c2d60d848",
+      "symbol": "SHOPX",
+      "name": "SHOPX",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4a615bb7166210cce20e6642a6f8fb5d4d044496",
+      "symbol": "NAOS",
+      "name": "NAOS",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x948c70dc6169bfb10028fdbe96cbc72e9562b2ac",
+      "symbol": "XP",
+      "name": "XP",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x180cFBE9843d79BcAFcbcDF23590247793DFc95B",
+      "symbol": "XP",
+      "name": "XP",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x180cFBE9843d79BcAFcbcDF23590247793DFc95B",
+      "symbol": "XP",
+      "name": "XP",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x217ddead61a42369a266f1fb754eb5d3ebadc88a",
+      "symbol": "DON",
+      "name": "DON",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x86b3f23b6e90f5bbfac59b5b2661134ef8ffd255",
+      "symbol": "DON",
+      "name": "DON",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x491e136ff7ff03e6ab097e54734697bb5802fc1c",
+      "symbol": "KTN",
+      "name": "KTN",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xDAe6c2A48BFAA66b43815c5548b10800919c993E",
+      "symbol": "KTN",
+      "name": "KTN",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xF4Ed363144981D3A65f42e7D0DC54FF9EEf559A1",
+      "symbol": "FARA",
+      "name": "FARA",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x695FC8B80F344411F34bDbCb4E621aA69AdA384b",
+      "symbol": "NITRO",
+      "name": "NITRO",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0335A7610D817aeCA1bEBbEfbd392ecC2eD587B8",
+      "symbol": "NITRO",
+      "name": "NITRO",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x19A4866a85c652EB4a2ED44c42e4CB2863a62D51",
+      "symbol": "HOD",
+      "name": "HOD",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xce16a802725438af9b4dcac00e7791e3d890e3b4",
+      "symbol": "HOD",
+      "name": "HOD",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x0A356f512f6fCE740111ee04Ab1699017a908680",
+      "symbol": "UFARM",
+      "name": "UFARM",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x40986a85b4cfcdb054a6cbfb1210194fee51af88",
+      "symbol": "UFARM",
+      "name": "UFARM",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xa7305ae84519ff8be02484cda45834c4e7d13dd6",
+      "symbol": "UFARM",
+      "name": "UFARM",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0xd60effed653f3f1b69047f2d2dc4e808a548767b",
+      "symbol": "UFARM",
+      "name": "UFARM",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbF776e4FCa664D791C4Ee3A71e2722990E003283",
+      "symbol": "SMTY",
+      "name": "SMTY",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xbF776e4FCa664D791C4Ee3A71e2722990E003283",
+      "symbol": "SMTY",
+      "name": "SMTY",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xbcb24afb019be7e93ea9c43b7e22bb55d5b7f45d",
+      "symbol": "BSCS",
+      "name": "BSCS",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xFCb0f2D2f83a32A847D8ABb183B724C214CD7dD8",
+      "symbol": "POG",
+      "name": "POG",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xa9be3cd803fa19f2af24412ff0a2a4a67a29de88",
+      "symbol": "LAVAX",
+      "name": "LAVAX",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaeE433ADeBe0FBB88dAa47eF0C1A513CaA52EF02",
+      "symbol": "TOON",
+      "name": "TOON",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xaee433adebe0fbb88daa47ef0c1a513caa52ef02",
+      "symbol": "TOON",
+      "name": "TOON",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x0bd49815ea8e2682220bcb41524c0dd10ba71d41",
+      "symbol": "PYM",
+      "name": "PYM",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x06576eb3b212d605b797dc15523d9dc9f4f66db4",
+      "symbol": "TCP",
+      "name": "TCP",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xacbd826394189cf2623c6df98a18b41fc8ffc16d",
+      "symbol": "N1",
+      "name": "N1",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x5989D72a559eB0192F2d20170A43a4Bd28A1B174",
+      "symbol": "N1",
+      "name": "N1",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xacbd826394189cf2623c6df98a18b41fc8ffc16d",
+      "symbol": "N1",
+      "name": "N1",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2C2f7e7C5604D162d75641256b80F1Bf6f4dC796",
+      "symbol": "PRARE",
+      "name": "PRARE",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xe6bf0e14e33a469f2b0640b53949a9f90e675135",
+      "symbol": "PRARE",
+      "name": "PRARE",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0aa7efe4945db24d95ca6e117bba65ed326e291a",
+      "symbol": "OJA",
+      "name": "OJA",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x26373ec913876c9e6d38494dde458cb8649cb30c",
+      "symbol": "OJA",
+      "name": "OJA",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3ef389f264e07fff3106a3926f2a166d1393086f",
+      "symbol": "SAO",
+      "name": "SAO",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xbbca42c60b5290f2c48871a596492f93ff0ddc82",
+      "symbol": "DOMI",
+      "name": "DOMI",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x45c2f8c9b4c0bdc76200448cc26c48ab6ffef83f",
+      "symbol": "DOMI",
+      "name": "DOMI",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x14a32f050FACF226Ec60882398A9BF36d91DBaC2",
+      "symbol": "KYOKO",
+      "name": "KYOKO",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xf3147987a00d35eecc10c731269003ca093740ca",
+      "symbol": "MAT",
+      "name": "MAT",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe0b9a2c3e9f40cf74b2c7f591b2b0cca055c3112",
+      "symbol": "GS",
+      "name": "GS",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x9bA4c78b048EEed69f4eD3CFddeda7B51BAF7cA8",
+      "symbol": "GS",
+      "name": "GS",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x734c90044a0ba31b3f2e640c10dc5d3540499bfd",
+      "symbol": "TSX",
+      "name": "TSX",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x270388e0ca29cfd7c7e73903d9d933a23d1bab39",
+      "symbol": "TSX",
+      "name": "TSX",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x08037036451c768465369431da5c671ad9b37dbc",
+      "symbol": "NFTS",
+      "name": "NFTS",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x08037036451c768465369431da5c671ad9b37dbc",
+      "symbol": "NFTS",
+      "name": "NFTS",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe74dc43867e0cbeb208f1a012fc60dcbbf0e3044",
+      "symbol": "CWAP",
+      "name": "CWAP",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x509a51394CC4D6bb474FeFB2994b8975A55A6e79",
+      "symbol": "FUFU",
+      "name": "FUFU",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xaA20c2e278D99f978989dAa4460F933745F862d5",
+      "symbol": "ARKN",
+      "name": "ARKN",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x42dbbd5ae373fea2fc320f62d44c058522bb3758",
+      "symbol": "MEM",
+      "name": "MEM",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x42dbbd5ae373fea2fc320f62d44c058522bb3758",
+      "symbol": "MEM",
+      "name": "MEM",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x33f391f4c4fe802b70b77ae37670037a92114a7c",
+      "symbol": "BURP",
+      "name": "BURP",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x538d47d142f6993038a667e9d6210d3735749b36",
+      "symbol": "BURP",
+      "name": "BURP",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1a57367c6194199e5d9aea1ce027431682dfb411",
+      "symbol": "MDF",
+      "name": "MDF",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x14da7b27b2e0fedefe0a664118b0c9bc68e2e9af",
+      "symbol": "BCUG",
+      "name": "BCUG",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xb4404DaB7C0eC48b428Cf37DeC7fb628bcC41B36",
+      "symbol": "GEAR",
+      "name": "GEAR",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xd73f32833b6d5d9c8070c23e599e283a3039823c",
+      "symbol": "WTF",
+      "name": "WTF",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x873801ae2ff12d816db9a7b082f5796bec64c82c",
+      "symbol": "WTF",
+      "name": "WTF",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD71239a33C8542Bd42130c1B4ACA0673B4e4f48B",
+      "symbol": "LFW",
+      "name": "LFW",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x63290fc683d11ea077aba09596ff7387d49df912",
+      "symbol": "RAM",
+      "name": "RAM",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xe7Af3fcC9cB79243f76947402117D98918Bd88Ea",
+      "symbol": "MST",
+      "name": "MST",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xD9931818D75A6ceF4Fb0092A73c6e87867A0751a",
+      "symbol": "WND",
+      "name": "WND",
+      "tags": ["morningstar_ventures_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x6ef238e9e8cd2a96740897761c18894fc086b9d0",
+      "symbol": "MYRA",
+      "name": "MYRA",
+      "tags": ["morningstar_ventures_portfolio"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}

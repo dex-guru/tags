@@ -1,0 +1,696 @@
+{
+  "name": "Shima Capital Portfolio",
+  "tags": {
+    "shima_capital_portfolio": {
+      "name": "Shima Capital Portfolio",
+      "description": "Shima Capital is an early-stage global venture firm focused on supporting cutting edge blockchain startups. Shima Capital Portfolio of liquid tokens"
+    }
+  },
+  "timestamp": "2022-12-26T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x7083609fce4d1d8dc0c979aab8c869ea2c873402",
+      "symbol": "DOT",
+      "name": "DOT",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6fb3e0a217407efff7ca062d46c26e5d60a14d69",
+      "symbol": "IOTX",
+      "name": "IOTX",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x9678E42ceBEb63F23197D726B29b1CB20d0064E5",
+      "symbol": "IOTX",
+      "name": "IOTX",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x320623b8e4ff03373931769a31fc52a4e78b5d70",
+      "symbol": "RSR",
+      "name": "RSR",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x42bbfa2e77757c645eeaad1655e0911a7553efbc",
+      "symbol": "BOBA",
+      "name": "BOBA",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5fAa989Af96Af85384b8a938c2EdE4A7378D9875",
+      "symbol": "GAL",
+      "name": "GAL",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xe4cc45bb5dbda06db6183e8bf016569f40497aa5",
+      "symbol": "GAL",
+      "name": "GAL",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4575f41308EC1483f3d399aa9a2826d74Da13Deb",
+      "symbol": "OXT",
+      "name": "OXT",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x229b1b6c23ff8953d663c4cbb519717e323a0a84",
+      "symbol": "BLOK",
+      "name": "BLOK",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x505b5eda5e25a67e1c24a2bf1a527ed9eb88bf04",
+      "symbol": "CWEB",
+      "name": "CWEB",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x16eccfdbb4ee1a85a33f3a9b21175cd7ae753db4",
+      "symbol": "ROUTE",
+      "name": "ROUTE",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x4e78011ce80ee02d2c3e649fb657e45898257815",
+      "symbol": "KLIMA",
+      "name": "KLIMA",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x71ab77b7dbb4fa7e017bc15090b2163221420282",
+      "symbol": "HIGH",
+      "name": "HIGH",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x5f4bde007dc06b867f86ebfe4802e34a1ffeed63",
+      "symbol": "HIGH",
+      "name": "HIGH",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x375abb85c329753b1ba849a601438ae77eec9893",
+      "symbol": "PDT",
+      "name": "PDT",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97",
+      "symbol": "DFYN",
+      "name": "DFYN",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9695e0114e12C0d3A3636fAb5A18e6b737529023",
+      "symbol": "DFYN",
+      "name": "DFYN",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x549020a9Cb845220D66d3E9c6D9F9eF61C981102",
+      "symbol": "SIDUS",
+      "name": "SIDUS",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 250,
+      "address": "0x504ec4f9af7bbf8cad73ccc2121a3a7fb4c81bcf",
+      "symbol": "PORTX",
+      "name": "PORTX",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x189586b5f6317538ae50c20a976597da38984a24",
+      "symbol": "PORTX",
+      "name": "PORTX",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x104f3152d8ebfc3f679392977356962ff36566ac",
+      "symbol": "PORTX",
+      "name": "PORTX",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x54c3b88b7e9702f915ddc6e483aaf369b2615f8d",
+      "symbol": "PORTX",
+      "name": "PORTX",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xAD6742A35fB341A9Cc6ad674738Dd8da98b94Fb1",
+      "symbol": "WOM",
+      "name": "WOM",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0xec3492a2508DDf4FDc0cD76F31f340b30d1793e6",
+      "symbol": "CLY",
+      "name": "CLY",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd47bdf574b4f76210ed503e0efe81b58aa061f3d",
+      "symbol": "TRVL",
+      "name": "TRVL",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x6a8fd46f88dbd7bdc2d536c604f811c63052ce0f",
+      "symbol": "TRVL",
+      "name": "TRVL",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x188e817b02e635d482ae4d81e25dda98a97c4a42",
+      "symbol": "LITH",
+      "name": "LITH",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD567B5F02b9073aD3a982a099a23Bf019FF11d1c",
+      "symbol": "GAME",
+      "name": "GAME",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x66109633715d2110ddA791E64a7B2afadb517aBB",
+      "symbol": "GAME",
+      "name": "GAME",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6e5970dbd6fc7eb1f29c6d2edf2bc4c36124c0c1",
+      "symbol": "TRADE",
+      "name": "TRADE",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x692ac1e363ae34b6b489148152b12e2785a3d8d6",
+      "symbol": "TRADE",
+      "name": "TRADE",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x71Fc1F555a39E0B698653AB0b475488EC3c34D57",
+      "symbol": "RAIN",
+      "name": "RAIN",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5ba19d656b65f1684cfea4af428c23b9f3628f97",
+      "symbol": "AAG",
+      "name": "AAG",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x8f36cc333f55b09bb71091409a3d7ade399e3b1c",
+      "symbol": "CHER",
+      "name": "CHER",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x8f36cc333f55b09bb71091409a3d7ade399e3b1c",
+      "symbol": "CHER",
+      "name": "CHER",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa20f77b7ad5a88badc48800c56507b7274c06fdc",
+      "symbol": "CHER",
+      "name": "CHER",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x9f95e17b2668afe01f8fbd157068b0a4405cc08d",
+      "symbol": "BULL",
+      "name": "BULL",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x723b17718289a91af252d616de2c77944962d122",
+      "symbol": "GAIA",
+      "name": "GAIA",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x347e430b7cd1235e216be58ffa13394e5009e6e2",
+      "symbol": "GAIA",
+      "name": "GAIA",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x2290C6bD9560E6498dFDf10F9eCB17997CA131f2",
+      "symbol": "MSTR",
+      "name": "MSTR",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9798dF2f5d213a872c787bD03b2b91F54D0D04A1",
+      "symbol": "TBC",
+      "name": "TBC",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x9798dF2f5d213a872c787bD03b2b91F54D0D04A1",
+      "symbol": "TBC",
+      "name": "TBC",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x695FC8B80F344411F34bDbCb4E621aA69AdA384b",
+      "symbol": "NITRO",
+      "name": "NITRO",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0335A7610D817aeCA1bEBbEfbd392ecC2eD587B8",
+      "symbol": "NITRO",
+      "name": "NITRO",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x69570f3e84f51ea70b7b68055c8d667e77735a25",
+      "symbol": "BSGG",
+      "name": "BSGG",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 250,
+      "address": "0x5a33869045db8a6a16c9f351293501cfd92cf7ed",
+      "symbol": "BSGG",
+      "name": "BSGG",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x63682bdc5f875e9bf69e201550658492c9763f89",
+      "symbol": "BSGG",
+      "name": "BSGG",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x728d06c26be85ebc8efa334453863b1df00ec493",
+      "symbol": "CYBR",
+      "name": "CYBR",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x62823659d09f9f9d2222058878f89437425eb261",
+      "symbol": "ERTHA",
+      "name": "ERTHA",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x8bdd8dbcbdf0c066ca5f3286d33673aa7a553c10",
+      "symbol": "KART",
+      "name": "KART",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x4f39c3319188A723003670c3F9B9e7EF991E52F3",
+      "symbol": "FIGHT",
+      "name": "FIGHT",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x54a77f27d2346c3a8f5b43a501434f0f21f33e3c",
+      "symbol": "KGC",
+      "name": "KGC",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xfe1d7f7a8f0bda6e415593a2e4f82c64b446d404",
+      "symbol": "BLP",
+      "name": "BLP",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x794Baab6b878467F93EF17e2f2851ce04E3E34C8",
+      "symbol": "YIN",
+      "name": "YIN",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x794Baab6b878467F93EF17e2f2851ce04E3E34C8",
+      "symbol": "YIN",
+      "name": "YIN",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xAa9654BECca45B5BDFA5ac646c939C62b527D394",
+      "symbol": "DINO",
+      "name": "DINO",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x23e8b6a3f6891254988b84da3738d2bfe5e703b9",
+      "symbol": "WELT",
+      "name": "WELT",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x1785113910847770290F5F840b4c74fc46451201",
+      "symbol": "WELT",
+      "name": "WELT",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9008064E6cf73e27a3Aba4B10E69f855A4F8efcC",
+      "symbol": "GEM",
+      "name": "GEM",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xC8f456Ae5797BFb754080Ab7338fd2836169d239",
+      "symbol": "MITA",
+      "name": "MITA",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x5085434227aB73151fAd2DE546210Cbc8663dF96",
+      "symbol": "DBY",
+      "name": "DBY",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xf7b5fb4607abfe0ecf332c23cbdcc9e425b443a8",
+      "symbol": "ACK",
+      "name": "ACK",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB57420FaD6731B004309D5a0ec7C6C906Adb8df7",
+      "symbol": "DTO",
+      "name": "DTO",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x21381e026Ad6d8266244f2A583b35F9E4413FA2a",
+      "symbol": "FORM",
+      "name": "FORM",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x25a528af62e56512a19ce8c3cab427807c28cc19",
+      "symbol": "FORM",
+      "name": "FORM",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x0fe178b9a471b3698cB6FcB4625DF9A756A2C55C",
+      "symbol": "STRIP",
+      "name": "STRIP",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x3b0e967ce7712ec68131a809db4f78ce9490e779",
+      "symbol": "SON",
+      "name": "SON",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB840d10D840eF47c233FEC1fd040F5B145a6DfA5",
+      "symbol": "STREETH",
+      "name": "STREETH",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3A0b022f32b3191D44E5847da12dc0B63fb07C91",
+      "symbol": "SPELLFIRE",
+      "name": "SPELLFIRE",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xd6f28f15a5cafc8d29556393c08177124b88de0d",
+      "symbol": "SPELLFIRE",
+      "name": "SPELLFIRE",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x56694577564FdD577a0ABB20FE95C1E2756C2a11",
+      "symbol": "ASW",
+      "name": "ASW",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x3dde01a467f99e58f996de835058c767a3edd2ac",
+      "symbol": "KBD",
+      "name": "KBD",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd7f0cc50ad69408ae58be033f4f85d2367c2e468",
+      "symbol": "VERA",
+      "name": "VERA",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x4a0a3902e091cdb3aec4279a6bfac50297f0a79e",
+      "symbol": "VERA",
+      "name": "VERA",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x9096b4309224d751fcb43d7eb178dcffc122ad15",
+      "symbol": "LGX",
+      "name": "LGX",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9ccf191169a613eca433a249d3f40131178caebc",
+      "symbol": "MCG",
+      "name": "MCG",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xBb6cDedac5CaB4A420211a4A8e8B5DCA879B31De",
+      "symbol": "MF",
+      "name": "MF",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xb4404DaB7C0eC48b428Cf37DeC7fb628bcC41B36",
+      "symbol": "GEAR",
+      "name": "GEAR",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xa803778ab953d3ffe4fbd20cfa0042ecefe8319d",
+      "symbol": "CTZN",
+      "name": "CTZN",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa803778ab953d3ffe4fbd20cfa0042ecefe8319d",
+      "symbol": "CTZN",
+      "name": "CTZN",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x552594612f935441c01c6854edf111f343c1ca07",
+      "symbol": "GWT",
+      "name": "GWT",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xA29b6f4E762874846c081E20ed1142FF83faaFEF",
+      "symbol": "MOO",
+      "name": "MOO",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x03aC6AB6A9a91a0fcdec7D85b38bDFBb719ec02f",
+      "symbol": "MGA",
+      "name": "MGA",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xCa044F16AfA434C0C17c0478D8A6cE4FEEf46504",
+      "symbol": "MAPE",
+      "name": "MAPE",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x085D15DB9c7Cd3Df188422f88Ec41ec573D691b9",
+      "symbol": "PRIDE",
+      "name": "PRIDE",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x879D239BCC0356Cf9df8c90442488bCe99554c66",
+      "symbol": "METAN",
+      "name": "METAN",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x25382fb31e4b22e0ea09cb0761863df5ad97ed72",
+      "symbol": "RGEN",
+      "name": "RGEN",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xf339e8c294046e6e7ef6ad4f6fa9e202b59b556b",
+      "symbol": "BGS",
+      "name": "BGS",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x50c72103940D419FB64448F258f7EAbbA784F84B",
+      "symbol": "DLQ",
+      "name": "DLQ",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x9E1fd9BA2590AF57f926177850EAE1611D447874",
+      "symbol": "CENS",
+      "name": "CENS",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x59Cde41a855682349edaEA221169d9b686687748",
+      "symbol": "NOMAD",
+      "name": "NOMAD",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x3544a07e9f771ef0f6c80c6e79715869ed291086",
+      "symbol": "CHIM",
+      "name": "CHIM",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0xe0bb6fed446a2dbb27f84d3c27c4ed8ea7603366",
+      "symbol": "HOOF",
+      "name": "HOOF",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x40FfAFcd7415ed2F7A902312407181140Ad14E68",
+      "symbol": "BAS",
+      "name": "BAS",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x29e3e6ad4eeadf767919099ee23c907946435a70",
+      "symbol": "TNDR",
+      "name": "TNDR",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xd4c73fd18f732bc6ee9fb193d109b2eed815df80",
+      "symbol": "MAG",
+      "name": "MAG",
+      "tags": ["shima_capital_portfolio"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xC79Ae93D9C215EAa8c8DA5C77E465baC7dE28891",
+      "symbol": "PAXW",
+      "name": "PAXW",
+      "tags": ["shima_capital_portfolio"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
