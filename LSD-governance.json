@@ -119,6 +119,13 @@
       "symbol": "SWISE",
       "name": "SWISE",
       "tags": ["lsd_governance_tokens"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x24c19f7101c1731b85f1127eaa0407732e36ecdd",
+      "symbol": "SGTV2",
+      "name": "SGTV2",
+      "tags": ["lsd_governance_tokens"]
     }
   ],
   "version": {
