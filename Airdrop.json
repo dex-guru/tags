@@ -136,6 +136,13 @@
       "symbol": "ZZ",
       "name": "ZZ",
       "tags": ["airdrop"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x70c5f366dB60A2a0C59C4C24754803Ee47Ed7284",
+      "symbol": "GLO",
+      "name": "GLO",
+      "tags": ["airdrop"]
     }
   ],
   "version": {

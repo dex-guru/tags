@@ -480,6 +480,13 @@
       "symbol": "Mai",
       "name": "Mai",
       "tags": ["stablecoins"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x068E3563b1c19590F822c0e13445c4FA1b9EEFa5",
+      "symbol": "WUSD",
+      "name": "WUSD",
+      "tags": ["stablecoins"]
     }
   ],
   "version": {
