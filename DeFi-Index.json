@@ -98,6 +98,13 @@
       "symbol": "PHTR",
       "name": "PHTR",
       "tags": ["defi_index"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x341c05c0e9b33c0e38d64de76516b2ce970bb3be",
+      "symbol": "dsETH",
+      "name": "dsETH",
+      "tags": ["defi_index"]
     }
   ],
   "version": {
