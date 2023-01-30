@@ -1,0 +1,38 @@
+{
+  "name": "BNB Liquid staking derivatives",
+  "tags": {
+    "bnb_liquid_staking_derivatives": {
+      "name": "BNB liquid staking derivatives",
+      "description": "BNB liquid staking derivatives. Liquid staking protocols let users acquire liquidity on staked assets and use staked assets as collateral in (decentralized) financial applications"
+    }
+  },
+  "timestamp": "2023-01-30",
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0xc2E9d07F66A89c44062459A47a0D2Dc038E4fb16",
+      "symbol": "stkBNB",
+      "name": "stkBNB",
+      "tags": ["bnb_liquid_staking_derivatives"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x52F24a5e03aee338Da5fd9Df68D2b6FAe1178827",
+      "symbol": "ankrBNB",
+      "name": "ankrBNB",
+      "tags": ["bnb_liquid_staking_derivatives"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x1bdd3Cf7F79cfB8EdbB955f20ad99211551BA275",
+      "symbol": "BNBx",
+      "name": "BNBx",
+      "tags": ["bnb_liquid_staking_derivatives"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
