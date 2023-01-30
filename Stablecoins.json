@@ -10,7 +10,7 @@
       "description": "Stablecoins on Ethereum. A stablecoin is a cryptocurrency whose value is pegged to the price of another asset, hence the term \"stable\". A stablecoin pegged to the U.S. dollar should always be valued at $1."
     }
   },
-  "timestamp": "2022-12-19T00:00:00+00:00",
+  "timestamp": "2023-01-26T00:00:00+00:00",
   "tokens": [
     {
       "chainId": 1,
@@ -484,6 +484,13 @@
     {
       "chainId": 1,
       "address": "0x068E3563b1c19590F822c0e13445c4FA1b9EEFa5",
+      "symbol": "WUSD",
+      "name": "WUSD",
+      "tags": ["stablecoins"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xb0b195aefa3650a6908f15cdac7d92f8a5791b0b",
       "symbol": "WUSD",
       "name": "WUSD",
       "tags": ["stablecoins"]
