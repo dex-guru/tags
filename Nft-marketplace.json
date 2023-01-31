@@ -56,6 +56,13 @@
       "symbol": "MUSE",
       "name": "MUSE",
       "tags": ["nft_marketplace"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3446dd70b2d52a6bf4a5a192d9b0a161295ab7f9",
+      "symbol": "SUDO",
+      "name": "SUDO",
+      "tags": ["nft_marketplace"]
     }
   ],
   "version": {
