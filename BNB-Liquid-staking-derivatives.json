@@ -28,6 +28,13 @@
       "symbol": "BNBx",
       "name": "BNBx",
       "tags": ["bnb_liquid_staking_derivatives"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xf027e525d491ef6ffcc478555fbb3cfabb3406a6",
+      "symbol": "rBNB",
+      "name": "rBNB",
+      "tags": ["bnb_liquid_staking_derivatives"]
     }
   ],
   "version": {
