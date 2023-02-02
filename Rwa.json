@@ -1,0 +1,66 @@
+{
+  "name": "RWA",
+  "tags": {
+    "rwa": {
+      "name": "RWA",
+      "description": "RWAs also known as Real World Assets, are all ERC20 tokens that are pegged to real assets and aim to reflect their prices"
+    }
+  },
+  "timestamp": "2023-02-02T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x1e2c4fb7ede391d116e6b41cd0608260e8801d59",
+      "symbol": "bcspx",
+      "name": "bcspx",
+      "tags": ["rwa"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x45804880de22913dafe09f4980848ece6ecbaf78",
+      "symbol": "PAXG",
+      "name": "PAXG",
+      "tags": ["rwa"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x7950865a9140cb519342433146ed5b40c6f210f7",
+      "symbol": "PAXG",
+      "name": "PAXG",
+      "tags": ["rwa"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x68749665FF8D2d112Fa859AA293F07A622782F38",
+      "symbol": "XAUT",
+      "name": "XAUT",
+      "tags": ["rwa"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4f3afec4e5a3f2a6a1a411def7d7dfe50ee057bf",
+      "symbol": "DGX",
+      "name": "DGX",
+      "tags": ["rwa"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaffcdd96531bcd66faed95fc61e443d08f79efef",
+      "symbol": "PMGT",
+      "name": "PMGT",
+      "tags": ["rwa"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe4a6f23fb9e00fca037aa0ea0a6954de0a6c53bf",
+      "symbol": "TXAU",
+      "name": "TXAU",
+      "tags": ["rwa"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
