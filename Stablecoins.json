@@ -494,6 +494,13 @@
       "symbol": "WUSD",
       "name": "WUSD",
       "tags": ["stablecoins"]
+    },
+    {
+      "chainId": 10,
+      "address": "0x9c9e5fd8bbc25984b178fdce6117defa39d2db39",
+      "symbol": "BUSD",
+      "name": "BUSD",
+      "tags": ["stablecoins"]
     }
   ],
   "version": {
