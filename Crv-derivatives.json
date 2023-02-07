@@ -1,0 +1,38 @@
+{
+  "name": "CRV derivatives",
+  "tags": {
+    "crv-derivatives": {
+      "name": "CRV derivatives",
+      "description": "CRV derivatives are ERC20 tokens, a liquid version of veCRV tokens usually issued by Curve yields aggregators."
+    }
+  },
+  "timestamp": "2023-02-07T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xd1b5651e55d4ceed36251c61c50c889b36f6abb5",
+      "symbol": "SDCRV",
+      "name": "SDCRV",
+      "tags": ["crv-derivatives"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfcc5c47be19d06bf83eb04298b026f81069ff65b",
+      "symbol": "YCRV",
+      "name": "YCRV",
+      "tags": ["crv-derivatives"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x62b9c7356a2dc64a1969e19c23e4f579f9810aa7",
+      "symbol": "CVXCRV",
+      "name": "CVXCRV",
+      "tags": ["crv-derivatives"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
