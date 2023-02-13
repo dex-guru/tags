@@ -1,0 +1,35 @@
+{
+  "name": "Balance based tags",
+  "timestamp": "2016-03-31T14:00:00.000Z",
+  "tags": {
+    "hold_certain_amount_of_token_on_certain_chain": {
+      "name": "Hold certain amount of token on certain chain",
+      "description": "They hold on the Ethereum chain",
+      "query": "select * from (\n    select dex.holders_labels_v01.address from dex.holders_labels_v01\n    where dex.holders_labels_v01.network = {{ network }} and dex.holders_labels_v01.holder_type = 'wallet'\n    \n    INTERSECT \n    \n    select wallet_address from (\n        select wallet_address, argMaxMerge(balance) as balance from dex.balances_v010\n        where token_address = {{ token_address }} and network = {{ network }}\n        group by wallet_address\n        having balance > {{ token_balance }}\n        )\n)\nlimit 10\n"
+    }
+  },
+  "conditions": [
+    {
+      "name": "Hold 1 million DAI on Ethereum",
+      "description": "They hold 1 million DAI on Ethereum network",
+      "tag": "hold_certain_amount_of_token_on_certain_chain",
+      "params": [
+        {
+          "name": "network",
+          "type": "string",
+          "value": "ethereum"
+        },
+        {
+          "name": "token_address",
+          "type": "string",
+          "value": "0x6b175474e89094c44da98b954eedeac495271d0f"
+        },
+        {
+          "name": "token_balance",
+          "type": "number",
+          "value": 1000000
+        }
+      ]
+    }
+  ]
+}

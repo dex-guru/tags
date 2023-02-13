@@ -179,6 +179,13 @@
           "pattern": "^[ \\w\\.,/\\-:\\(\\)#$€ \" ’' ]+$",
           "minLength": 1,
           "maxLength": 5000
+        },
+        "query": {
+          "type": "string",
+          "description": "SQL query that returns the list of items that are tagged with this tag",
+          "pattern": "^[ \\w\\.,/\\-:\\(\\)#$€ \"\n \\* ’'\\{\\}\\<\\>\\=\\;\\_]+$",
+          "minLength": 1,
+          "maxLength": 5000000
         }
       },
       "required": [
@@ -249,7 +256,7 @@
           "items": {
             "$ref": "#/definitions/TagIdentifier"
           },
-          "maxItems": 10,
+          "maxItems": 100,
           "examples": [
             "stablecoin",
             "compound"
@@ -263,6 +270,81 @@
         "chainId",
         "address",
         "tags"
+      ]
+    },
+    "AccountConditionParams": {
+      "type": "object",
+      "description": "values for the variables in the account conditions",
+      "additionalProperties": true,
+      "properties": {
+        "name": {
+          "type": "string",
+          "description": "The name of the tag for the condition",
+          "minLength": 1,
+          "maxLength": 256,
+          "pattern": "^[ \\w.'+\\-%/a-zA-Z0-9:&\\[\\]\\(\\)]+$",
+          "examples": [
+            "Hold 1 million DAI on Ethereum"
+          ]
+        },
+        "description": {
+          "type": "string",
+          "description": "The description for the condition",
+          "minLength": 1,
+          "maxLength": 256,
+          "pattern": "^[ \\w.'+\\-%/a-zA-Z0-9:&\\[\\]\\(\\)]+$",
+          "examples": [
+            "The hold 1 million DAI on Ethereum. It means that..."
+          ]
+        },
+        "tag": {
+          "type": "string",
+          "description": "the tag identifier, in variables of which these parameters are substituted. Tags are defined at the 'tags' section.",
+          "items": {
+            "$ref": "#/definitions/TagIdentifier"
+          },
+          "maxItems": 100,
+          "examples": [
+            "hold_certain_amount_of_token_on_certain_chain"
+          ]
+        },
+        "params": {
+          "type": "array",
+          "description": "The array of parameters for the tag",
+          "items": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "type": {
+                "type": "string",
+                "enum": [
+                  "string",
+                  "number",
+                  "boolean"
+                ]
+              },
+              "value": {
+                "type": [
+                  "string",
+                  "number",
+                  "boolean"
+                ]
+              }
+            },
+            "maxItems": 15
+          }
+        },
+        "extensions": {
+          "$ref": "#/definitions/ExtensionMap"
+        }
+      },
+      "required": [
+        "name",
+        "description",
+        "tag",
+        "params"
       ]
     }
   },
@@ -292,6 +374,15 @@
       "description": "The list of tokens included in the list",
       "items": {
         "$ref": "#/definitions/TokenInfo"
+      },
+      "minItems": 1,
+      "maxItems": 10000
+    },
+    "conditions": {
+      "type": "array",
+      "description": "The list of params for conditions",
+      "items": {
+        "$ref": "#/definitions/AccountConditionParams"
       },
       "minItems": 1,
       "maxItems": 10000
@@ -344,8 +435,6 @@
   },
   "required": [
     "name",
-    "timestamp",
-    "tokens",
     "tags"
   ]
 }

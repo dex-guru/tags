@@ -28,3 +28,19 @@ def test_token_tag_in_tags_list(file):
         for token in token_list['tokens']:
             for tag in token['tags']:
                 assert tag in token_list['tags']
+
+
+@pytest.mark.parametrize('file', Path(Path(Path().root, 'accounts')).glob('*.json'))
+def test_account_tags_list_schema(file, get_schema):
+    with open(file) as f:
+        token_list = json.load(f)
+        validate(token_list, get_schema)
+
+
+@pytest.mark.parametrize('file', Path(Path(Path().root, 'accounts')).glob('*.json'))
+def test_account_tag_in_tags_list(file):
+    """Check that all tokens in the list have a tag in the tags list."""
+    with open(file) as f:
+        token_list = json.load(f)
+        for condition in token_list['conditions']:
+            assert condition['tag'] in token_list['tags']
