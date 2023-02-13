@@ -468,6 +468,13 @@
       "tags": ["stablecoins"]
     },
     {
+      "chainId": 10,
+      "address": "0x8ae125e8653821e851f12a49f7765db9a9ce7384",
+      "symbol": "DOLA",
+      "name": "DOLA",
+      "tags": ["stablecoins"]
+    },
+    {
       "chainId": 1,
       "address": "0x8d6cebd76f18e1558d4db88138e2defb3909fad6",
       "symbol": "Mai",

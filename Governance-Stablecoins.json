@@ -91,6 +91,13 @@
       "symbol": "VSTA",
       "name": "VSTA",
       "tags": ["stablecoins-governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x41d5d79431a913c4ae7d69a668ecdfe5ff9dfb68",
+      "symbol": "INV",
+      "name": "INV",
+      "tags": ["stablecoins-governance"]
     }
   ],
   "version": {
