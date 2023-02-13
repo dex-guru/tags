@@ -1,0 +1,94 @@
+{
+  "name": "Stablecoins Governance",
+  "tags": {
+    "stablecoins-governance": {
+      "name": "Stablecoins Governance",
+      "description": "Stablecoins Governance Tokens are cryptocurrencies that represent voting power or governance rights at decentralized stablecoins projects. Usually utility token known as a stablecoins-governance token is represent stake(voting power) in the DAO."
+    }
+  },
+  "timestamp": "2023-21-12T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
+      "symbol": "MKR",
+      "name": "MKR",
+      "tags": ["stablecoins-governance"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x88128fd4b259552a9a1d457f435a6527aab72d42",
+      "symbol": "MKR",
+      "name": "MKR",
+      "tags": ["stablecoins-governance"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0x2e9a6df78e42a30712c10a9dc4b1c8656f8f2879",
+      "symbol": "MKR",
+      "name": "MKR",
+      "tags": ["stablecoins-governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
+      "symbol": "SNX",
+      "name": "SNX",
+      "tags": ["stablecoins-governance"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x50b728d8d964fd00c2d0aad81718b71311fef68a",
+      "symbol": "SNX",
+      "name": "SNX",
+      "tags": ["stablecoins-governance"]
+    },
+    {
+      "chainId": 250,
+      "address": "0x56ee926bd8c72b2d5fa1af4d9e4cbb515a1e3adc",
+      "symbol": "SNX",
+      "name": "SNX",
+      "tags": ["stablecoins-governance"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0xbec243c995409e6520d7c41e404da5deba4b209b",
+      "symbol": "SNX",
+      "name": "SNX",
+      "tags": ["stablecoins-governance"]
+    },
+    {
+      "chainId": 10,
+      "address": "0x8700daec35af8ff88c16bdf0418774cb3d7599b4",
+      "symbol": "SNX",
+      "name": "SNX",
+      "tags": ["stablecoins-governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc7283b66eb1eb5fb86327f08e1b5816b0720212b",
+      "symbol": "TRIBE",
+      "name": "TRIBE",
+      "tags": ["stablecoins-governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x77fba179c79de5b7653f68b5039af940ada60ce0",
+      "symbol": "FORTH",
+      "name": "FORTH",
+      "tags": ["stablecoins-governance"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6dea81c8171d0ba574754ef6f8b412f2ed88c54d",
+      "symbol": "LQTY",
+      "name": "LQTY",
+      "tags": ["stablecoins-governance"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
