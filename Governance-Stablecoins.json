@@ -84,6 +84,13 @@
       "symbol": "LQTY",
       "name": "LQTY",
       "tags": ["stablecoins-governance"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0xa684cd057951541187f288294a1e1C2646aA2d24",
+      "symbol": "VSTA",
+      "name": "VSTA",
+      "tags": ["stablecoins-governance"]
     }
   ],
   "version": {

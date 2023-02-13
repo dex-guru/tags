@@ -501,6 +501,13 @@
       "symbol": "BUSD",
       "name": "BUSD",
       "tags": ["stablecoins"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0x64343594ab9b56e99087bfa6f2335db24c2d1f17",
+      "symbol": "VST",
+      "name": "VST",
+      "tags": ["stablecoins"]
     }
   ],
   "version": {
