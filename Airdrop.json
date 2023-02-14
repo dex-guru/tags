@@ -150,6 +150,13 @@
       "symbol": "SDT",
       "name": "SDT",
       "tags": ["airdrop"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5283d291dbcf85356a21ba090e6db59121208b44",
+      "symbol": "BLUR",
+      "name": "BLUR",
+      "tags": ["airdrop"]
     }
   ],
   "version": {
