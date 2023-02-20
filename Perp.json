@@ -1,0 +1,87 @@
+{
+  "name": "Perpetual Futures",
+  "tags": {
+    "perp": {
+      "name": "Perpetual Futures",
+      "description": "On-chain perp trading protocols. Perpetual futures trading allows traders to buy or sell an underlying asset without a pre-specified delivery date."
+    }
+  },
+  "timestamp": "2023-02-20T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x92d6c1e31e14520e676a687f0a93788b716beff5",
+      "symbol": "DYDX",
+      "name": "DYDX",
+      "tags": ["perp"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a",
+      "symbol": "GMX",
+      "name": "GMX",
+      "tags": ["perp"]
+    },
+    {
+      "chainId": 43114,
+      "address": "0x62edc0692bd897d2295872a9ffcac5425011c661",
+      "symbol": "GMX",
+      "name": "GMX",
+      "tags": ["perp"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0xa684cd057951541187f288294a1e1c2646aa2d24",
+      "symbol": "VSTA",
+      "name": "VSTA",
+      "tags": ["perp"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xE5417Af564e4bFDA1c483642db72007871397896",
+      "symbol": "GNS",
+      "name": "GNS",
+      "tags": ["perp"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0x18c11FD286C5EC11c3b683Caa813B77f5163A122",
+      "symbol": "GNS",
+      "name": "GNS",
+      "tags": ["perp"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbc396689893d065f41bc2c6ecbee5e0085233447",
+      "symbol": "PERP",
+      "name": "PERP",
+      "tags": ["perp"]
+    },
+    {
+      "chainId": 10,
+      "address": "0x9e1028f5f1d5ede59748ffcee5532509976840e0",
+      "symbol": "PERP",
+      "name": "PERP",
+      "tags": ["perp"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x2760e46d9bb43dafcbecaad1f64b93207f9f0ed7",
+      "symbol": "MVX",
+      "name": "MVX",
+      "tags": ["perp"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x5fe80d2cd054645b9419657d3d10d26391780a7b",
+      "symbol": "MCB",
+      "name": "MCB",
+      "tags": ["perp"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
