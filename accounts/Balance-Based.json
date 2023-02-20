@@ -5,7 +5,7 @@
     "hold_certain_amount_of_token_on_certain_chain": {
       "name": "Hold certain amount of token on certain chain",
       "description": "They hold on the Ethereum chain",
-      "query": "select * from (\n    select dex.holders_labels_v01.address from dex.holders_labels_v01\n    where dex.holders_labels_v01.network = {{ network }} and dex.holders_labels_v01.holder_type = 'wallet'\n    \n    INTERSECT \n    \n    select wallet_address from (\n        select wallet_address, argMaxMerge(balance) as balance from dex.balances_v010\n        where token_address = {{ token_address }} and network = {{ network }}\n        group by wallet_address\n        having balance > {{ token_balance }}\n        )\n)\nlimit 10\n"
+      "query": "select wallet_address from (\n    select wallet_address, argMaxMerge(balance) as balance from dex.balances_v010\n    where token_address = {{ token_address }} and network = {{ network }}\n    group by wallet_address\n    having balance > {{ token_balance }}\n    )\n"
     }
   },
   "conditions": [
@@ -17,7 +17,7 @@
         {
           "name": "network",
           "type": "string",
-          "value": "ethereum"
+          "value": "eth"
         },
         {
           "name": "token_address",
