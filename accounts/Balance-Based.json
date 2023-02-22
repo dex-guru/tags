@@ -5,12 +5,12 @@
     "hold_certain_amount_of_token_on_certain_chain": {
       "name": "Hold certain amount of token on certain chain",
       "description": "They hold on the Ethereum chain",
-      "query": "select wallet_address from (\n    select wallet_address, argMaxMerge(balance) as balance from dex.balances_v010\n    where wallet_address = 'replace' and token_address = {{ token_address }} and network = {{ network }}\n    group by wallet_address\n    having balance > {{ token_balance }}\n    )\n"
+      "query": "WITH last_active_users as (\n                        SELECT distinct wallet_address\n                        FROM dex.transfers_v04\n                        WHERE network = {{ network }}\n                            AND date > now() - INTERVAL 10 MINUTE\n                            AND date <= now() - INTERVAL 5 MINUTE\n                        GROUP BY wallet_address\n                        )\n\n    select distinct wallet_address from (\n    select wallet_address, argMaxMerge(balance) as balance from dex.balances_v010\n    where wallet_address in last_active_users and token_address = {{ token_address }} and network = {{ network }}\n    group by wallet_address\n    having balance > {{ token_balance }}\n    )"
     },
     "hold_sum_usd_value_on_chain": {
       "name": "Hold sum USD value on chain",
       "description": "They hold more than 1000 USD on Ethereum chain",
-      "query": "select wallet_address from (\n        select wallet_address, argMaxMerge(balance) as balance, token_address, toFloat64(max(price_stable).2) as price\n        from dex.balances_v010\n        join dex.last_price_v02 on balances_v010.token_address = dex.last_price_v02.token_address\n        where network = {{ network }} and wallet_address = 'replace'\n        group by wallet_address, token_address\n        having balance * price > {{ amount_usd }}\n        )"
+      "query": "WITH last_active_users as (\n                        SELECT distinct wallet_address\n                        FROM dex.transfers_v04\n                        WHERE network = {{ network }}\n                            AND date > now() - INTERVAL 10 MINUTE\n                            AND date <= now() - INTERVAL 5 MINUTE\n                        GROUP BY wallet_address\n                        )\n\n    select distinct wallet_address from (\n        select wallet_address, argMaxMerge(balance) as balance, token_address, toFloat64(max(price_stable).2) as price\n        from dex.balances_v010\n        join dex.last_price_v02 on balances_v010.token_address = dex.last_price_v02.token_address\n        where network = {{ network }} and wallet_address IN last_active_users\n        group by wallet_address, token_address\n        having balance * price > {{ amount_usd }}\n    )"
     }
   },
   "conditions": [
