@@ -6,7 +6,7 @@
       "description": "This list consist of tokens distributed via airdrop. An airdrop is a marketing stunt that involves sending free coins or tokens to wallet addresses to promote awareness of a new protocol. "
     }
   },
-  "timestamp": "2023-01-19T00:00:00+00:00",
+  "timestamp": "2023-02-23T00:00:00+00:00",
   "tokens": [
     {
       "chainId": 1,
@@ -156,6 +156,13 @@
       "address": "0x5283d291dbcf85356a21ba090e6db59121208b44",
       "symbol": "BLUR",
       "name": "BLUR",
+      "tags": ["airdrop"]
+    },
+    {
+      "chainId": 10,
+      "address": "0x8b21e9b7daf2c4325bf3d18c1beb79a347fe902a",
+      "symbol": "COLLAB",
+      "name": "COLLAB",
       "tags": ["airdrop"]
     }
   ],
