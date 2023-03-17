@@ -1722,6 +1722,13 @@
       "symbol": "VSTA",
       "name": "VSTA",
       "tags": ["governance"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0x912ce59144191c1204e64559fe8253a0e49e6548",
+      "symbol": "arb",
+      "name": "arb",
+      "tags": ["governance"]
     }
   ],
   "version": {
