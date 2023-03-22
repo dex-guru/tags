@@ -282,7 +282,7 @@
           "description": "The name of the tag for the condition",
           "minLength": 1,
           "maxLength": 256,
-          "pattern": "^[ \\w.'+\\-%/a-zA-Z0-9:&\\[\\]\\(\\)]+$",
+          "pattern": "^[ \\w.'+\\-%/,a-zA-Z0-9:&\\[\\]\\(\\)]+$",
           "examples": [
             "Hold 1 million DAI on Ethereum"
           ]
@@ -292,7 +292,7 @@
           "description": "The description for the condition",
           "minLength": 1,
           "maxLength": 256,
-          "pattern": "^[ \\w.'+\\-%/a-zA-Z0-9:&\\[\\]\\(\\)]+$",
+          "pattern": "^[ \\w.'+\\-%/a-zA-Z0-9,:&\\[\\]\\(\\)]+$",
           "examples": [
             "The hold 1 million DAI on Ethereum. It means that..."
           ]

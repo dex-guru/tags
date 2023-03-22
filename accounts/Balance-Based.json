@@ -5,15 +5,179 @@
     "hold_certain_amount_of_token_on_certain_chain": {
       "name": "Hold certain amount of token on certain chain",
       "description": "They hold on the Ethereum chain",
-      "query": "WITH last_active_users as (\n                        SELECT distinct wallet_address\n                        FROM dex.transfers_v04\n                        WHERE network = {{ network }}\n                            AND date > now() - INTERVAL 10 MINUTE\n                            AND date <= now() - INTERVAL 5 MINUTE\n                        GROUP BY wallet_address\n                        )\n\n    select distinct wallet_address from (\n    select wallet_address, argMaxMerge(balance) as balance from dex.balances_v010\n    where wallet_address in last_active_users and token_address = {{ token_address }} and network = {{ network }}\n    group by wallet_address\n    having balance > {{ token_balance }}\n    )"
+      "query": "SELECT DISTINCT wallet_address\nFROM\n  (SELECT wallet_address,\n          argMaxMerge(balance) AS balance\n   FROM dex.balances_v010\n   WHERE wallet_address in 'replace'\n     AND token_address = {{ token_address }}\n     AND network = {{ network }}\n   GROUP BY wallet_address\n   HAVING balance > {{ token_balance }})"
     },
     "hold_sum_usd_value_on_chain": {
       "name": "Hold sum USD value on chain",
       "description": "They hold more than 1000 USD on Ethereum chain",
-      "query": "WITH last_active_users as (\n                        SELECT distinct wallet_address\n                        FROM dex.transfers_v04\n                        WHERE network = {{ network }}\n                            AND date > now() - INTERVAL 10 MINUTE\n                            AND date <= now() - INTERVAL 5 MINUTE\n                        GROUP BY wallet_address\n                        )\n\n    select distinct wallet_address from (\n        select wallet_address, argMaxMerge(balance) as balance, token_address, toFloat64(max(price_stable).2) as price\n        from dex.balances_v010\n        join dex.last_price_v02 on balances_v010.token_address = dex.last_price_v02.token_address\n        where network = {{ network }} and wallet_address IN last_active_users\n        group by wallet_address, token_address\n        having balance * price > {{ amount_usd }}\n    )"
+      "query": "SELECT DISTINCT wallet_address\nFROM\n  (SELECT wallet_address,\n          argMaxMerge(balance) AS balance,\n          toFloat64(max(price_stable).2) AS price\n   FROM dex.balances_v010\n   JOIN dex.inventory_synthetic_v1 ON dex.balances_v010.token_address = dex.inventory_synthetic_v1.address\n   AND verified = 1\n   JOIN dex.last_price_v02 ON balances_v010.token_address = dex.last_price_v02.token_address\n   WHERE dex.balances_v010.network = {{ network }}\n     AND wallet_address IN 'replace'\n   GROUP BY wallet_address,\n            balances_v010.token_address\n   HAVING balance * price > {{ amount_usd }})"
+    },
+    "token_holders_before_some_date": {
+      "name": "Token holders before some date",
+      "description": "They hold some amount of token before some date",
+      "query": "SELECT wallet_address\nFROM dex.transfers_v04\nWHERE token_address = {{token_address}}\n  AND network = {{network}}\n  AND wallet_balance > 0\n  AND timestamp < {{timestamp}}\nGROUP BY wallet_address"
+    },
+    "token_insiders": {
+      "name": "Token insiders",
+      "description": "They hold some amount of token before first mint",
+      "query": "WITH\n  (SELECT min(timestamp)\n   FROM dex.mints_burns_v01\n   WHERE dex.mints_burns_v01.type = 'mint'\n     AND token_address = {{token_address}}\n     AND chain_id = {{chain_id}} ) AS first_mint_ts\nSELECT wallet_address\nFROM dex.transfers_v04\nWHERE token_address = {{token_address}}\n  AND network = {{network}}\n  AND wallet_balance > 0\n  AND TIMESTAMP < first_mint_ts\nGROUP BY wallet_address"
     }
   },
   "conditions": [
+    {
+      "name": "LIT Insiders",
+      "description": "They hold some amount of LIT before first mint",
+      "tag": "token_insiders",
+      "params": [
+        {
+          "name": "network",
+          "type": "string",
+          "value": "eth"
+        },
+        {
+          "name": "chain_id",
+          "type": "number",
+          "value": 1
+        },
+        {
+          "name": "token_address",
+          "type": "string",
+          "value": "0xfd0205066521550d7d7ab19da8f72bb004b4c341"
+        }
+      ]
+    },
+    {
+      "name": "UNI Insiders",
+      "description": "They hold some amount of LIT before first mint",
+      "tag": "token_insiders",
+      "params": [
+        {
+          "name": "network",
+          "type": "string",
+          "value": "eth"
+        },
+        {
+          "name": "chain_id",
+          "type": "number",
+          "value": 1
+        },
+        {
+          "name": "token_address",
+          "type": "string",
+          "value": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984"
+        }
+      ]
+    },
+    {
+      "name": "ARB Insiders",
+      "description": "They hold some amount of ARB before first mint",
+      "tag": "token_insiders",
+      "params": [
+        {
+          "name": "network",
+          "type": "string",
+          "value": "arbitrum"
+        },
+        {
+          "name": "chain_id",
+          "type": "number",
+          "value": 42161
+        },
+        {
+          "name": "token_address",
+          "type": "string",
+          "value": "0x912ce59144191c1204e64559fe8253a0e49e6548"
+        }
+      ]
+    },
+    {
+      "name": "GEAR Insiders",
+      "description": "They hold some amount of GEAR before first mint",
+      "tag": "token_insiders",
+      "params": [
+        {
+          "name": "network",
+          "type": "string",
+          "value": "eth"
+        },
+        {
+          "name": "chain_id",
+          "type": "number",
+          "value": 1
+        },
+        {
+          "name": "token_address",
+          "type": "string",
+          "value": "0xba3335588d9403515223f109edc4eb7269a9ab5d"
+        }
+      ]
+    },
+    {
+      "name": "DOP Insiders",
+      "description": "They hold some amount of DOP before first mint",
+      "tag": "token_insiders",
+      "params": [
+        {
+          "name": "network",
+          "type": "string",
+          "value": "eth"
+        },
+        {
+          "name": "chain_id",
+          "type": "number",
+          "value": 1
+        },
+        {
+          "name": "token_address",
+          "type": "string",
+          "value": "0x6bb61215298f296c55b19ad842d3df69021da2ef"
+        }
+      ]
+    },
+    {
+      "name": "DYDX Insiders",
+      "description": "They hold some amount of DYDX before first mint",
+      "tag": "token_insiders",
+      "params": [
+        {
+          "name": "network",
+          "type": "string",
+          "value": "eth"
+        },
+        {
+          "name": "chain_id",
+          "type": "number",
+          "value": 1
+        },
+        {
+          "name": "token_address",
+          "type": "string",
+          "value": "0x92d6c1e31e14520e676a687f0a93788b716beff5"
+        }
+      ]
+    },
+    {
+      "name": "YFI early users on Ethereum",
+      "description": "They had some amount of YFI token before July 26, 2020",
+      "tag": "token_holders_before_some_date",
+      "params": [
+        {
+          "name": "network",
+          "type": "string",
+          "value": "eth"
+        },
+        {
+          "name": "token_address",
+          "type": "string",
+          "value": "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e"
+        },
+        {
+          "name": "timestamp",
+          "type": "number",
+          "value": "1595721600"
+        }
+      ]
+    },
     {
       "name": "Hold 1 million DAI on Ethereum",
       "description": "They hold 1 million DAI on Ethereum network",
@@ -37,21 +201,235 @@
       ]
     },
     {
-        "name": "USD millionaires on Ethereum",
-        "description": "USD millionaires on Ethereum network",
-        "tag": "hold_sum_usd_value_on_chain",
-        "params": [
-            {
-            "name": "network",
-            "type": "string",
-            "value": "eth"
-            },
-            {
-            "name": "amount_usd",
-            "type": "number",
-            "value": 1000000
-            }
-        ]
+      "name": "USD millionaires on Ethereum",
+      "description": "USD millionaires on Ethereum network",
+      "tag": "hold_sum_usd_value_on_chain",
+      "params": [
+        {
+          "name": "network",
+          "type": "string",
+          "value": "eth"
+        },
+        {
+          "name": "amount_usd",
+          "type": "number",
+          "value": 1000000
+        }
+      ]
+    },
+    {
+      "name": "USD millionaires on BSC",
+      "description": "USD millionaires on BNB chain",
+      "tag": "hold_sum_usd_value_on_chain",
+      "params": [
+        {
+          "name": "network",
+          "type": "string",
+          "value": "bsc"
+        },
+        {
+          "name": "amount_usd",
+          "type": "number",
+          "value": 1000000
+        }
+      ]
+    },
+    {
+      "name": "USD millionaires on Polygon",
+      "description": "USD millionaires on Polygon chain",
+      "tag": "hold_sum_usd_value_on_chain",
+      "params": [
+        {
+          "name": "network",
+          "type": "string",
+          "value": "polygon"
+        },
+        {
+          "name": "amount_usd",
+          "type": "number",
+          "value": 1000000
+        }
+      ]
+    },
+    {
+      "name": "USD millionaires on Optimism",
+      "description": "USD millionaires on Optimism network",
+      "tag": "hold_sum_usd_value_on_chain",
+      "params": [
+        {
+          "name": "network",
+          "type": "string",
+          "value": "optimism"
+        },
+        {
+          "name": "amount_usd",
+          "type": "number",
+          "value": 1000000
+        }
+      ]
+    },
+    {
+      "name": "USD millionaires on Gnosis",
+      "description": "USD millionaires on Gnosis network",
+      "tag": "hold_sum_usd_value_on_chain",
+      "params": [
+        {
+          "name": "network",
+          "type": "string",
+          "value": "gnosis"
+        },
+        {
+          "name": "amount_usd",
+          "type": "number",
+          "value": 1000000
+        }
+      ]
+    },
+    {
+      "name": "USD millionaires on Fantom",
+      "description": "USD millionaires on Fantom network",
+      "tag": "hold_sum_usd_value_on_chain",
+      "params": [
+        {
+          "name": "network",
+          "type": "string",
+          "value": "fantom"
+        },
+        {
+          "name": "amount_usd",
+          "type": "number",
+          "value": 1000000
+        }
+      ]
+    },
+    {
+      "name": "USD millionaires on Canto",
+      "description": "USD millionaires on Canto network",
+      "tag": "hold_sum_usd_value_on_chain",
+      "params": [
+        {
+          "name": "network",
+          "type": "string",
+          "value": "canto"
+        },
+        {
+          "name": "amount_usd",
+          "type": "number",
+          "value": 1000000
+        }
+      ]
+    },
+    {
+      "name": "USD millionaires on Arbitrum",
+      "description": "USD millionaires on Arbitrum network",
+      "tag": "hold_sum_usd_value_on_chain",
+      "params": [
+        {
+          "name": "network",
+          "type": "string",
+          "value": "arbitrum"
+        },
+        {
+          "name": "amount_usd",
+          "type": "number",
+          "value": 1000000
+        }
+      ]
+    },
+    {
+      "name": "USD millionaires on Nova",
+      "description": "USD millionaires on Nova network",
+      "tag": "hold_sum_usd_value_on_chain",
+      "params": [
+        {
+          "name": "network",
+          "type": "string",
+          "value": "nova"
+        },
+        {
+          "name": "amount_usd",
+          "type": "number",
+          "value": 1000000
+        }
+      ]
+    },
+    {
+      "name": "USD millionaires on Celo",
+      "description": "USD millionaires on Celo network",
+      "tag": "hold_sum_usd_value_on_chain",
+      "params": [
+        {
+          "name": "network",
+          "type": "string",
+          "value": "celo"
+        },
+        {
+          "name": "amount_usd",
+          "type": "number",
+          "value": 1000000
+        }
+      ]
+    },
+    {
+      "name": "USD millionaires on Avalanche",
+      "description": "USD millionaires on Avalanche network",
+      "tag": "hold_sum_usd_value_on_chain",
+      "params": [
+        {
+          "name": "network",
+          "type": "string",
+          "value": "avalanche"
+        },
+        {
+          "name": "amount_usd",
+          "type": "number",
+          "value": 1000000
+        }
+      ]
+    },
+    {
+      "name": "ETH millionaires on Ethereum",
+      "description": "ETH millionaires on Ethereum network",
+      "tag": "hold_certain_amount_of_token_on_certain_chain",
+      "params": [
+        {
+          "name": "network",
+          "type": "string",
+          "value": "eth"
+        },
+        {
+          "name": "token_address",
+          "type": "string",
+          "value": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+        },
+        {
+          "name": "token_balance",
+          "type": "number",
+          "value": 1000000
+        }
+      ]
+    },
+    {
+      "name": "BNB millionaires on BSC",
+      "description": "BNB millionaires on BSC network",
+      "tag": "hold_certain_amount_of_token_on_certain_chain",
+      "params": [
+        {
+          "name": "network",
+          "type": "string",
+          "value": "bsc"
+        },
+        {
+          "name": "token_address",
+          "type": "string",
+          "value": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+        },
+        {
+          "name": "token_balance",
+          "type": "number",
+          "value": 1000000
+        }
+      ]
     }
   ]
 }
