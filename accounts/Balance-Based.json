@@ -20,7 +20,7 @@
     "token_insiders": {
       "name": "Token insiders",
       "description": "They hold some amount of token before first mint",
-      "query": "WITH\n  (SELECT min(timestamp)\n   FROM dex.mints_burns_v01\n   WHERE dex.mints_burns_v01.type = 'mint'\n     AND token_address = {{token_address}}\n     AND chain_id = {{chain_id}} ) AS first_mint_ts\nSELECT wallet_address\nFROM dex.transfers_v04\nWHERE token_address = {{token_address}}\n  AND network = {{network}}\n  AND wallet_balance > 0\n  AND TIMESTAMP < first_mint_ts\nGROUP BY wallet_address"
+      "query": "WITH\n  (SELECT min(timestamp)\n   FROM dex.mints_burns_v01\n   WHERE dex.mints_burns_v01.type = 'mint'\n     AND token_address = {{token_address}}\n     AND chain_id = {{chain_id}} ) AS first_mint_ts\nSELECT wallet_address\nFROM dex.transfers_v04\nWHERE token_address = {{token_address}}\n  AND network = {{network}}\n  AND wallet_balance > 0\n  AND timestamp < first_mint_ts\nGROUP BY wallet_address"
     }
   },
   "conditions": [
