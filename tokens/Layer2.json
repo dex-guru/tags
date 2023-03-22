@@ -84,6 +84,13 @@
       "symbol": "STRK",
       "name": "STRK",
       "tags": ["layer_2"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0x912ce59144191c1204e64559fe8253a0e49e6548",
+      "symbol": "arb",
+      "name": "arb",
+      "tags": ["layer_2"]
     }
   ],
   "version": {

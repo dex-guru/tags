@@ -1715,6 +1715,20 @@
       "symbol": "SFG",
       "name": "SFG",
       "tags": ["governance"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0xa684cd057951541187f288294a1e1C2646aA2d24",
+      "symbol": "VSTA",
+      "name": "VSTA",
+      "tags": ["governance"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0x912ce59144191c1204e64559fe8253a0e49e6548",
+      "symbol": "arb",
+      "name": "arb",
+      "tags": ["governance"]
     }
   ],
   "version": {
