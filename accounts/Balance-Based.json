@@ -19,14 +19,14 @@
     },
     "token_insiders": {
       "name": "Token insiders",
-      "description": "They hold some amount of token before market start. ",
+      "description": "They hold some amount of token before first mint",
       "query": "WITH\n  (SELECT min(timestamp)\n   FROM dex.mints_burns_v01\n   WHERE dex.mints_burns_v01.type = 'mint'\n     AND token_address = {{token_address}}\n     AND chain_id = {{chain_id}} ) AS first_mint_ts\nSELECT wallet_address\nFROM dex.transfers_v04\nWHERE token_address = {{token_address}}\n  AND network = {{network}}\n  AND wallet_balance > 0\n AND timestamp < IF(first_mint_ts = 0, 9999999999, first_mint_ts)\n\nGROUP BY wallet_address"
     }
   },
   "conditions": [
     {
       "name": "LIT Insiders",
-      "description": "They hold some amount of LIT before market start. ",
+      "description": "They hold some amount of LIT before first mint",
       "tag": "token_insiders",
       "params": [
         {
@@ -48,7 +48,7 @@
     },
     {
       "name": "UNI Insiders",
-      "description": "They hold some amount of LIT before market start. ",
+      "description": "They hold some amount of LIT before first mint",
       "tag": "token_insiders",
       "params": [
         {
@@ -70,7 +70,7 @@
     },
     {
       "name": "ARB Insiders",
-      "description": "They hold some amount of ARB before market start. ",
+      "description": "They hold some amount of ARB before first mint",
       "tag": "token_insiders",
       "params": [
         {
@@ -92,7 +92,7 @@
     },
     {
       "name": "GEAR Insiders",
-      "description": "They hold some amount of GEAR before market start. ",
+      "description": "They hold some amount of GEAR before first mint",
       "tag": "token_insiders",
       "params": [
         {
@@ -114,7 +114,7 @@
     },
     {
       "name": "DOP Insiders",
-      "description": "They hold some amount of DOP before market start. ",
+      "description": "They hold some amount of DOP before first mint",
       "tag": "token_insiders",
       "params": [
         {
@@ -136,7 +136,7 @@
     },
     {
       "name": "DYDX Insiders",
-      "description": "They hold some amount of DYDX before market start. ",
+      "description": "They hold some amount of DYDX before first mint",
       "tag": "token_insiders",
       "params": [
         {
@@ -428,28 +428,6 @@
           "name": "token_balance",
           "type": "number",
           "value": 1000000
-        },
-        {
-          "name": "ARB Insiders",
-          "description": "They hold some amount of ARB before market start. ",
-          "tag": "token_insiders",
-          "params": [
-            {
-              "name": "network",
-              "type": "string",
-              "value": "arbitrum"
-            },
-            {
-              "name": "chain_id",
-              "type": "number",
-              "value": 42161
-            },
-            {
-              "name": "token_address",
-              "type": "string",
-              "value": "0x912ce59144191c1204e64559fe8253a0e49e6548"
-            }
-          ]
         }
       ]
     }
