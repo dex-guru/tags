@@ -48,7 +48,7 @@
     },
     {
       "name": "UNI Insiders",
-      "description": "They hold some amount of LIT before first mint",
+      "description": "They hold some amount of UNI before first mint",
       "tag": "token_insiders",
       "params": [
         {
