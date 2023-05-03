@@ -515,6 +515,13 @@
       "symbol": "VST",
       "name": "VST",
       "tags": ["stablecoins"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x95ecdc6caaf7e4805fcef2679a92338351d24297",
+      "symbol": "crvUSD",
+      "name": "crvUSD",
+      "tags": ["stablecoins"]
     }
   ],
   "version": {
