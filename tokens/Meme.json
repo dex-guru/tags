@@ -98,6 +98,13 @@
       "symbol": "PEPE",
       "name": "PEPE",
       "tags": ["meme"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
+      "symbol": "FLOKI",
+      "name": "FLOKI",
+      "tags": ["meme"]
     }
   ],
   "version": {
