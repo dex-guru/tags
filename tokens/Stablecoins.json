@@ -518,7 +518,7 @@
     },
     {
       "chainId": 1,
-      "address": "0x5aa00dce91409B58B6A1338639B9Daa63EB22BE7",
+      "address": "0xef1385d2b5dc6d14d5fecb86d53cdbefeca20fcc",
       "symbol": "crvUSD",
       "name": "crvUSD",
       "tags": ["stablecoins"]
