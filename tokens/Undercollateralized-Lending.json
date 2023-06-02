@@ -3,7 +3,7 @@
   "tags": {
     "undercollateralized_lending": {
       "name": "Undercollateralized Lending",
-      "description": "Undercollateralized Lending DeFi lending, or Undercollateralized Lending Prtocols, is different from traditional DeFi lending protocols like Compound or Aave since loans are Undercollateralized"
+      "description": "Undercollateralized lending in DeFi, also known as undercollateralized lending protocols, differs from traditional DeFi lending platforms such as Compound or Aave, as it allows loans without full collateral coverage."
     }
   },
   "timestamp": "2022-10-31T00:00:00+00:00",

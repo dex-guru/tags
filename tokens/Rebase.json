@@ -3,7 +3,7 @@
   "tags": {
     "rebase": {
       "name": "Rebase",
-      "description": "Rebase tokens are crypto assets that have a changing circulating supply, either growing larger (more coins being created) or decreasing (coins get destroyed or 'burnt'). The increase or decrease of the market cap is spread proportionally across token holders."
+      "description": "Rebase tokens are cryptocurrencies with a fluctuating circulating supply. The supply can expand (via coin creation) or contract (through burning). Changes in market cap are distributed proportionally among token holders."
     }
   },
   "timestamp": "2022-10-21T00:00:00+00:00",

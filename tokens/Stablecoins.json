@@ -3,11 +3,11 @@
   "tags": {
     "stablecoins": {
       "name": "Stablecoins",
-      "description": "A stablecoin is a cryptocurrency whose value is pegged to the price of another asset, hence the term \"stable\". A stablecoin pegged to the U.S. dollar should always be valued at $1."
+      "description": "A stablecoin is a type of cryptocurrency whose value is tied to the price of another asset, earning its name from its stable nature. A stablecoin pegged to the U.S. dollar is specifically designed to maintain a consistent value of $1."
     },
     "ethereum_stablecoins": {
       "name": "Stablecoins on Ethereum",
-      "description": "Stablecoins on Ethereum. A stablecoin is a cryptocurrency whose value is pegged to the price of another asset, hence the term \"stable\". A stablecoin pegged to the U.S. dollar should always be valued at $1."
+      "description": "Stablecoins on Ethereum are cryptocurrencies whose value is pegged to the price of another asset, ensuring stability. A stablecoin pegged to the U.S. dollar is designed to maintain a constant value of $1."
     }
   },
   "timestamp": "2023-01-26T00:00:00+00:00",

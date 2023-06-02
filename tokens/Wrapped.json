@@ -4,7 +4,7 @@
   "tags": {
     "wrapped": {
       "name": "Wrapped",
-      "description": "Wrapped crypto ERC20 tokens are cryptocurrencies pegged to the value of another original crypto(usually non ERC20) or assets. Wrapped tokens are assets that allow the value of a native asset from one blockchain to transfer to another blockchain."
+      "description": "Wrapped ERC20 tokens are cryptocurrencies that mirror the value of an original non-ERC20 crypto or asset. These tokens facilitate the transfer of a native asset's value from one blockchain to another."
     },
     "bitcoin": {
       "name": "Wrapped Bitcoin",

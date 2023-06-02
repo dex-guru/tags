@@ -3,7 +3,7 @@
   "tags": {
     "oracle": {
       "name": "Oracle",
-      "description": "Oracles are data feeds that bring data from off the blockchain (off-chain) data sources and puts it on the blockchain (on-chain) for smart contracts to use"
+      "description": "Oracles are data feeds that retrieve information from off-chain data sources and make it available on the blockchain (on-chain) for utilization by smart contracts."
     }
   },
   "timestamp": "2022-10-31T00:00:00+00:00",
