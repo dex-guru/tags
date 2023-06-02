@@ -8,7 +8,7 @@
     },
     "bitcoin": {
       "name": "Wrapped Bitcoin",
-      "description": "Wrapped BTC ERC20 tokens are cryptocurrencies pegged to the value of original BTC. Wrapped BTC tokens are assets that allow the value of a $BTC to transfer to another blockchain or use in DeFi products."
+      "description": "Wrapped BTC ERC20 tokens are cryptocurrencies pegged to the value of the original BTC. These tokens serve as assets that enable the transfer of the value of BTC to another blockchain or their use in decentralized finance (DeFi) products."
     },
     "compound": {
       "name": "Compound Wrapped Tokens",
@@ -16,7 +16,7 @@
     },
     "binance": {
       "name": "Binance Wrapped Tokens",
-      "description": "Binance Wrapped tokens: https://www.binance.com/en/assets-proof"
+      "description": "Binance Wrapped tokens: BSC-based assets representing other cryptocurrencies, enabling cross-chain transfers and DeFi usage."
     }
   },
   "tokens": [
