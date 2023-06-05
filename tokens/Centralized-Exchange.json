@@ -147,6 +147,13 @@
       "symbol": "BMX",
       "name": "BMX",
       "tags": ["centralized_exchange"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+      "symbol": "BNB",
+      "name": "BNB",
+      "tags": ["centralized_exchange"]
     }
   ],
   "version": {
