@@ -10,7 +10,7 @@
       "description": "Stablecoins on Ethereum are cryptocurrencies whose value is pegged to the price of another asset, ensuring stability. A stablecoin pegged to the U.S. dollar is designed to maintain a constant value of $1."
     }
   },
-  "timestamp": "2023-01-26T00:00:00+00:00",
+  "timestamp": "2023-07-15T00:00:00+00:00",
   "tokens": [
     {
       "chainId": 1,
@@ -479,7 +479,7 @@
       "address": "0x8d6cebd76f18e1558d4db88138e2defb3909fad6",
       "symbol": "Mai",
       "name": "Mai",
-      "tags": ["stablecoins"]
+      "tags": ["stablecoins", "ethereum_stablecoins"]
     },
     {
       "chainId": 250,
@@ -493,7 +493,7 @@
       "address": "0x068E3563b1c19590F822c0e13445c4FA1b9EEFa5",
       "symbol": "WUSD",
       "name": "WUSD",
-      "tags": ["stablecoins"]
+      "tags": ["stablecoins", "ethereum_stablecoins"]
     },
     {
       "chainId": 137,
@@ -521,12 +521,19 @@
       "address": "0xf939e0a03fb07f59a73314e73794be0e57ac1b4e",
       "symbol": "crvUSD",
       "name": "crvUSD",
-      "tags": ["stablecoins"]
+      "tags": ["stablecoins", "ethereum_stablecoins"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x40d16fc0246ad3160ccc09b8d0d3a2cd28ae6c2f",
+      "symbol": "GHO",
+      "name": "GHO",
+      "tags": ["stablecoins", "ethereum_stablecoins"]
     }
   ],
   "version": {
     "major": 1,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }
