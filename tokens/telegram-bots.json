@@ -1,0 +1,24 @@
+{
+  "name": "Telegram Bots",
+  "tags": {
+    "payments": {
+      "name": "Telegram Bots",
+      "description": "Telegram Bots"
+    }
+  },
+  "timestamp": "2023-07-20T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xf819d9cb1c2a819fd991781a822de3ca8607c3c9",
+      "symbol": "UNIBOT",
+      "name": "UNIBOT",
+      "tags": ["telegram_bots"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
