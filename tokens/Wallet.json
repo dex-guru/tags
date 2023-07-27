@@ -3,7 +3,7 @@
   "tags": {
     "wallet": {
       "name": "Wallet",
-      "description": "Cryptocurrency wallets store users' public and private keys while providing an easy-to-use interface to manage crypto balances. Wallet Tokens usually give some governance rights or enable additional features."
+      "description": "Cryptocurrency wallets securely hold users' public and private keys while offering a user-friendly interface to manage their crypto balances. Wallet tokens typically grant governance rights or unlock additional features."
     }
   },
   "timestamp": "2022-11-07T00:00:00+00:00",

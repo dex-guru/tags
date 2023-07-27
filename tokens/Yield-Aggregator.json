@@ -3,7 +3,7 @@
   "tags": {
     "yield_aggregator": {
       "name": "Yield Aggregator",
-      "description": "Yield aggregators are protocols that automate the process known as yield farming."
+      "description": "Yield aggregators are protocols designed to automate the yield farming process. These yield aggregator tokens usually bestow governance rights or unlock additional features."
     }
   },
   "timestamp": "2022-11-10T00:00:00+00:00",
