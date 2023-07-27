@@ -14,6 +14,307 @@
       "symbol": "UNIBOT",
       "name": "UNIBOT",
       "tags": ["telegram_bots"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd2c869382c7ac9f87ff73548d029d67c0f9dee31",
+      "symbol": "WAGIEBOT",
+      "name": "WAGIEBOT",
+      "tags": ["telegram_bots"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1936c91190e901b7dd55229a574ae22b58ff498a",
+      "symbol": "MEVFREE",
+      "name": "MEVFREE",
+      "tags": ["telegram_bots"]
+    },
+    {
+      "chainId": 10,
+      "address": "0x8b21e9b7daf2c4325bf3d18c1beb79a347fe902a",
+      "symbol": "COLLAB",
+      "name": "COLLAB",
+      "tags": ["telegram_bots"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb478c6245e3d85d6ec3486b62ea872128d562541",
+      "symbol": "LOOT",
+      "name": "LOOT",
+      "tags": ["telegram_bots"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0xbbea044f9e7c0520195e49ad1e561572e7e1b948",
+      "symbol": "MZR",
+      "name": "MZR",
+      "tags": ["telegram_bots"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbad96ea5d43156a99a94cd1fd36a330aa7e2273e",
+      "symbol": "JDB",
+      "name": "JDB",
+      "tags": ["telegram_bots"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdbdd6f355a37b94e6c7d32fef548e98a280b8df5",
+      "symbol": "UWL",
+      "name": "UWL",
+      "tags": ["telegram_bots"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x36948a6809be82d3ba8de9f2be626101e2c9e473",
+      "symbol": "BOLT",
+      "name": "BOLT",
+      "tags": ["telegram_bots"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0x6d038130b9b379a373b1d33a29d5904ed1bb9026",
+      "symbol": "QUICKI",
+      "name": "QUICKI",
+      "tags": ["telegram_bots"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3f2d4708f75de6fb60b687fed326697634774deb",
+      "symbol": "NEOBOT",
+      "name": "NEOBOT",
+      "tags": ["telegram_bots"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x235d650fc6d9eb7d4bac77e128265295a0054304",
+      "symbol": "KWAI",
+      "name": "KWAI",
+      "tags": ["telegram_bots"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5aef5bba19e6a1644805bd4f5c93c8557b87c62c",
+      "symbol": "FAKEAI",
+      "name": "FAKEAI",
+      "tags": ["telegram_bots"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x69d47846bb7b884062fabc08a4a7deadcd98c45b",
+      "symbol": "RUSHAI",
+      "name": "RUSHAI",
+      "tags": ["telegram_bots"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x50d1c8e131dca8b9226c0a0f78947557497374b3",
+      "symbol": "BRIDGE",
+      "name": "BRIDGE",
+      "tags": ["telegram_bots"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x128ad1ad707c3b36e6f2ac9739f9df7516fdb592",
+      "symbol": "ALFA",
+      "name": "ALFA",
+      "tags": ["telegram_bots"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfcdb9e987f9159dab2f507007d5e3d10c510aa70",
+      "symbol": "0X1",
+      "name": "0X1",
+      "tags": ["telegram_bots"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe387140d52ebb0dd729683dc062aefbc5f7f549a",
+      "symbol": "NBOT",
+      "name": "NBOT",
+      "tags": ["telegram_bots"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9b81686140e85d28c2236c307dd49b422a663edf",
+      "symbol": "FIRE",
+      "name": "FIRE",
+      "tags": ["telegram_bots"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7c3ed93b03e67c1fa240395b28e38c4386321b58",
+      "symbol": "WALLY",
+      "name": "WALLY",
+      "tags": ["telegram_bots"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd17c18979a45c0f3604331831c409f7bff64d3c1",
+      "symbol": "FRENS",
+      "name": "FRENS",
+      "tags": ["telegram_bots"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x330528172778cc5196d5f6742886c72505e0613d",
+      "symbol": "XBOT",
+      "name": "XBOT",
+      "tags": ["telegram_bots"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x16faf9daa401aa42506af503aa3d80b871c467a3",
+      "symbol": "DCK",
+      "name": "DCK",
+      "tags": ["telegram_bots"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x16594930d16f3970e1a4317c6016555cb2e7b7fc",
+      "symbol": "TKB",
+      "name": "TKB",
+      "tags": ["telegram_bots"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9b2b931d6ab97b6a887b2c5d8529537e6fe73ebe",
+      "symbol": "ALLIN",
+      "name": "ALLIN",
+      "tags": ["telegram_bots"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x238a1fcc2f65ed50c1e1797cf5857cba3e82a55b",
+      "symbol": "MOETA",
+      "name": "MOETA",
+      "tags": ["telegram_bots"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x71de2285ec83bb6517d2b3ec8deb2a6c44d8c5da",
+      "symbol": "UMOON",
+      "name": "UMOON",
+      "tags": ["telegram_bots"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x76c81e322fe678f9391029d571453fad9bc9e73e",
+      "symbol": "EDFI",
+      "name": "EDFI",
+      "tags": ["telegram_bots"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xacb47686b92fdde6d233ec6445c1f8d4d0d59c38",
+      "symbol": "SWIPE",
+      "name": "SWIPE",
+      "tags": ["telegram_bots"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0x655a6beebf2361a19549a99486ff65f709bd2646",
+      "symbol": "LILAI",
+      "name": "LILAI",
+      "tags": ["telegram_bots"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x84412819ae69b10250d0d54d58f454018f1c8a42",
+      "symbol": "DUNG",
+      "name": "DUNG",
+      "tags": ["telegram_bots"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5eca7b975e34567d9460fa613013a7a6993ad185",
+      "symbol": "BS",
+      "name": "BS",
+      "tags": ["telegram_bots"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1e1fddcf2df356f05e0ff1842e60f47f4b573659",
+      "symbol": "0XS",
+      "name": "0XS",
+      "tags": ["telegram_bots"]
+    },  
+    {
+      "chainId": 1,
+      "address": "0x56978e609f2cab06f77c5c8fd75166fcd8f09bd8",
+      "symbol": "GENIE",
+      "name": "GENIE",
+      "tags": ["telegram_bots"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6c059413686565d5ad6cce6eed7742c42dbc44ca",
+      "symbol": "LAELAPS",
+      "name": "LAELAPS",
+      "tags": ["telegram_bots"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9b355fee784768a7b9ac388c19e818e1c0a19b76",
+      "symbol": "MWS",
+      "name": "MWS",
+      "tags": ["telegram_bots"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x70be04312f5f66d03708f0a1d6353b3e0f80ddbb",
+      "symbol": "BBOT",
+      "name": "BBOT",
+      "tags": ["telegram_bots"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4e51a6b3cc6d5ae69a0d44db9de846aeb5a582dd",
+      "symbol": "GYOZA",
+      "name": "GYOZA",
+      "tags": ["telegram_bots"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3a2348dbb9250a43226a27e21edb94882bb7de8d",
+      "symbol": "AIDEV",
+      "name": "AIDEV",
+      "tags": ["telegram_bots"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8de2b2104b6ac8f9dce7755ff70f0fa452680d9a",
+      "symbol": "SIRIUS",
+      "name": "SIRIUS",
+      "tags": ["telegram_bots"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x267eb2a9a13dc304a9deff4277abe850d0852c5f",
+      "symbol": "TAI",
+      "name": "TAI",
+      "tags": ["telegram_bots"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4e58ea38f4915850fbe1577cd818a09ba673c8ee",
+      "symbol": "OMNIA",
+      "name": "OMNIA",
+      "tags": ["telegram_bots"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5d39957fc88566f14ae7e8ab8971d7c603f0ce5e",
+      "symbol": "EYE",
+      "name": "EYE",
+      "tags": ["telegram_bots"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeb832928792978395cf11fb770ae0902d37f17f0",
+      "symbol": "BOTX",
+      "name": "BOTX",
+      "tags": ["telegram_bots"]
     }
   ],
   "version": {
