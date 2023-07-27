@@ -3,10 +3,10 @@
   "tags": {
     "telegram_bots": {
       "name": "Telegram Bots",
-      "description": "Telegram Bots"
+      "description": "Telegram-based trading bots are rapidly drawing the attention of numerous cryptocurrency traders, enabling them to speculate on tokens with the same ease as sending messages to fellow users on the widely-used messaging app."
     }
   },
-  "timestamp": "2023-07-20T00:00:00+00:00",
+  "timestamp": "2023-07-27T00:00:00+00:00",
   "tokens": [
     {
       "chainId": 1,
