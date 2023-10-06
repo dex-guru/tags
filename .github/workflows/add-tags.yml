@@ -46,43 +46,39 @@ jobs:
 
           rm merged.json;
 
-          # Adiciona a tag 'elethcoin' ao arquivo JSON
-          echo '{
-            "tags": {
-              "elethcoin": {
-                "name": "elethcoin",
-                "description": "Elethcoin (L2) is a collective term to describe a specific set of Ethereum scaling solutions. L2 tokens can be used to decentralize a variety of protocol functions."
-              }
-            }
-          }' > elethcoin.json
+          # Atualiza a tag 'elethcoin' no arquivo JSON
+          jq '.tags.elethcoin = {
+            "chainId": "56",
+            "address":"0x61888e283070faec5edf697f97525942ce3a0e3e",
+            "symbol": "ELC",
+            "name": "TOKEN_elethcoin",
+            "tags": ["TOKEN_elethcoin"]
+          }' merged.json > updated.json
 
-          # Funde o arquivo elethcoin.json com o arquivo merged.json
-          jq -s '.[0] * .[1]' merged.json elethcoin.json > merged_with_tag.json
-
-          # Envia o arquivo merged_with_tag.json para as URLs desejadas
+          # Envia o arquivo updated.json para as URLs desejadas
           curl -X 'POST' \
               ${{ secrets.URL_1 }} \
               -H 'accept: application/json' \
               -H 'Content-Type: multipart/form-data' \
-              -F 'file=@merged_with_tag.json;type=application/json'
+              -F 'file=@updated.json;type=application/json'
 
           curl -X 'POST' \
               ${{ secrets.URL_2 }} \
               -H 'accept: application/json' \
               -H 'Content-Type: multipart/form-data' \
-              -F 'file=@merged_with_tag.json;type=application/json'
+              -F 'file=@updated.json;type=application/json'
 
           curl -X 'POST' \
               ${{ secrets.URL_3 }} \
               -H 'accept: application/json' \
               -H 'Content-Type: multipart/form-data' \
-              -F 'file=@merged_with_tag.json;type=application/json'
+              -F 'file=@updated.json;type=application/json'
 
           curl -X 'POST' \
               ${{ secrets.URL_4 }} \
               -H 'accept: application/json' \
               -H 'Content-Type: multipart/form-data' \
-              -F 'file=@merged_with_tag.json;type=application/json'
+              -F 'file=@updated.json;type=application/json'
 
-          rm elethcoin.json
-          rm merged_with_tag.json
+          rm updated.json
+
