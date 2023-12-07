@@ -3,7 +3,7 @@
   "tags": {
     "ordinals": {
       "name": "Ordinals Ecosystem",
-      "description": "Ordinals Ecosystems tokens. Bitcoin Ordinals function similarly to non-fungible tokens, but on the Bitcoin blockchain, utilizing satoshis — the most minuscule unit of the Bitcoin currency. Each satoshi is assigned a unique serial number that reflects the sequence of its mining."
+      "description": "Ordinals Ecosystems tokens. Bitcoin Ordinals function similarly to non-fungible tokens, but on the Bitcoin blockchain."
     }
   },
   "timestamp": "2023-12-07T00:00:00+00:00",
