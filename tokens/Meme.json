@@ -6,7 +6,7 @@
       "description": "Meme coins are cryptocurrencies inspired by memes and internet jokes. Though Meme are based on memes or even internet jokes, they have cemented their position in the crypto space today. "
     }
   },
-  "timestamp": "2023-04-20",
+  "timestamp": "2023-12-07",
   "tokens": [
     {
       "chainId": 1,
@@ -105,11 +105,18 @@
       "symbol": "FLOKI",
       "name": "FLOKI",
       "tags": ["meme"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1151cb3d861920e07a38e03eead12c32178567f6",
+      "symbol": "BONK",
+      "name": "BONK",
+      "tags": ["meme"]
     }
   ],
   "version": {
     "major": 1,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }
