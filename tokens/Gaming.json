@@ -48,6 +48,7 @@
       "address": "0x5eeb28b5aef44b6664b342d23b1aadce84196386",
       "symbol": "WOL",
       "name": "World of Legends",
+      "logoURI": "https://battlecity.io/assets/images/wol.png",
       "tags": ["gaming"]
     }
   ],
