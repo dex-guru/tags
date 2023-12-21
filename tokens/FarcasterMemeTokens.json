@@ -1,0 +1,45 @@
+{
+  "name": "Farcaster Memetokens",
+  "tags": {
+    "farcastermemes": {
+      "name": "Farcaster Memetokens",
+      "description": "Farcaster Memetokens season is here. In this list you can find and compare all memetokens hyped at Farcaster degens community."
+    }
+  },
+  "timestamp": "2023-12-21T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xd7C1EB0fe4A30d3B2a846C04aa6300888f087A5F",
+      "symbol": "POINTS",
+      "name": "points",
+      "tags": ["farcastermemes"]
+    },
+    {
+      "chainId": 8453,
+      "address": "0xB36A0e830bD92E7AA5D959c17A20D7656976dd98",
+      "symbol": "WOWOW",
+      "name": "WOWOW",
+      "tags": ["farcastermemes"]
+    },
+    {
+      "chainId": 8453,
+      "address": "0x4c4cE2C17593e9EE6DF6B159cfb45865bEf3d82F",
+      "symbol": "YOYO",
+      "name": "YOYO",
+      "tags": ["farcastermemes"]
+    },
+    {
+      "chainId": 8453,
+      "address": "0x8C5B78a95cF8064EF05c5A49Dd8Fd71BcA0E902c",
+      "symbol": "OYOY",
+      "name": "OYOY",
+      "tags": ["farcastermemes"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
