@@ -35,6 +35,13 @@
       "symbol": "OYOY",
       "name": "OYOY",
       "tags": ["farcastermemes"]
+    },
+    {
+      "chainId": 8453,
+      "address": "0x89ca325bd05f851b2b91b3e9fb2d15a59d3d82c6",
+      "symbol": "SPAM",
+      "name": "SPAM",
+      "tags": ["farcastermemes"]
     }
   ],
   "version": {
