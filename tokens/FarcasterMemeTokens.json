@@ -49,6 +49,13 @@
       "symbol": "FARTS",
       "name": "FARTS",
       "tags": ["farcastermemes"]
+    },
+    {
+      "chainId": 8453,
+      "address": "0xa107f2aca8f5077e0e53e598283a20b446632ff5",
+      "symbol": "Morepoints",
+      "name": "Morepoints",
+      "tags": ["farcastermemes"]
     }
   ],
   "version": {
