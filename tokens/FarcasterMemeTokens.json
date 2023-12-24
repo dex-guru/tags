@@ -6,7 +6,7 @@
       "description": "Farcaster Memetokens season is here. In this list you can find and compare all memetokens hyped at Farcaster degens community."
     }
   },
-  "timestamp": "2023-12-21T00:00:00+00:00",
+  "timestamp": "2023-12-24T00:00:00+00:00",
   "tokens": [
     {
       "chainId": 1,
@@ -41,6 +41,13 @@
       "address": "0x89ca325bd05f851b2b91b3e9fb2d15a59d3d82c6",
       "symbol": "SPAM",
       "name": "SPAM",
+      "tags": ["farcastermemes"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa00db4042b9537b8958289c7c68c5c74e341f766",
+      "symbol": "FARTS",
+      "name": "FARTS",
       "tags": ["farcastermemes"]
     }
   ],
