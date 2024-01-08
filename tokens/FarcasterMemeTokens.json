@@ -56,6 +56,13 @@
       "symbol": "Morepoints",
       "name": "Morepoints",
       "tags": ["farcastermemes"]
+    },
+    {
+      "chainId": 8453,
+      "address": "0x4ed4e862860bed51a9570b96d89af5e1b0efefed",
+      "symbol": "degen",
+      "name": "degen",
+      "tags": ["farcastermemes"]
     }
   ],
   "version": {
