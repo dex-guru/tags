@@ -22,38 +22,36 @@ jobs:
         
           # Loop over each directory and its corresponding URLs
           for dir in "${!directories_and_urls[@]}"; do
-            # Merge JSON files in the directory
-            jq -s 'flatten' "$dir"/*.json > merged.json
-        
-            # Check directory and upload merged file to the specific URLs
-            if [[ "$dir" == "tokens" ]]; then
-              curl -X 'POST' \
-                   "${{ secrets.URL_1 }}" \
-                   -H 'accept: application/json' \
-                   -H 'Content-Type: multipart/form-data' \
-                   -F 'file=@merged.json;type=application/json'
-              
-              curl -X 'POST' \
-                   "${{ secrets.URL_2 }}" \
-                   -H 'accept: application/json' \
-                   -H 'Content-Type: multipart/form-data' \
-                   -F 'file=@merged.json;type=application/json'
-            elif [[ "$dir" == "accounts" ]]; then
-              curl -X 'POST' \
-                   "${{ secrets.URL_3 }}" \
-                   -H 'accept: application/json' \
-                   -H 'Content-Type: multipart/form-data' \
-                   -F 'file=@merged.json;type=application/json'
-              
-              curl -X 'POST' \
-                   "${{ secrets.URL_4 }}" \
-                   -H 'accept: application/json' \
-                   -H 'Content-Type: multipart/form-data' \
-                   -F 'file=@merged.json;type=application/json'
-            fi
-        
-            # Remove the merged file after processing
-            rm merged.json
+            # Iterate over each JSON file in the directory
+            for file in "$dir"/*.json; do
+              # Check directory and upload each file to the specific URLs
+              if [[ "$dir" == "tokens" ]]; then
+                curl -X 'POST' \
+                     "${{ secrets.URL_1 }}" \
+                     -H 'accept: application/json' \
+                     -H 'Content-Type: multipart/form-data' \
+                     -F "file=@${file};type=application/json"
+                
+                curl -X 'POST' \
+                     "${{ secrets.URL_2 }}" \
+                     -H 'accept: application/json' \
+                     -H 'Content-Type: multipart/form-data' \
+                     -F "file=@${file};type=application/json"
+              elif [[ "$dir" == "accounts" ]]; then
+                curl -X 'POST' \
+                     "${{ secrets.URL_3 }}" \
+                     -H 'accept: application/json' \
+                     -H 'Content-Type: multipart/form-data' \
+                     -F "file=@${file};type=application/json"
+                
+                curl -X 'POST' \
+                     "${{ secrets.URL_4 }}" \
+                     -H 'accept: application/json' \
+                     -H 'Content-Type: multipart/form-data' \
+                     -F "file=@${file};type=application/json"
+              fi
+            done
           done
+
 
           
