@@ -14,36 +14,44 @@ jobs:
       - uses: actions/checkout@v3
       - name: update tags
         run: |
-          jq -s 'flatten' tokens/*.json > merged.json;
+          # Define directories and their corresponding URLs explicitly
+          declare -A directories_and_urls=(
+            ["tokens"]="URL_1 URL_2"
+            ["accounts"]="URL_3 URL_4"
+          )
+        
+          # Loop over each directory and its corresponding URLs
+          for dir in "${!directories_and_urls[@]}"; do
+            # Iterate over each JSON file in the directory
+            for file in "$dir"/*.json; do
+              # Check directory and upload each file to the specific URLs
+              if [[ "$dir" == "tokens" ]]; then
+                curl -X 'POST' \
+                     "${{ secrets.URL_1 }}" \
+                     -H 'accept: application/json' \
+                     -H 'Content-Type: multipart/form-data' \
+                     -F "file=@${file};type=application/json"
+                
+                curl -X 'POST' \
+                     "${{ secrets.URL_2 }}" \
+                     -H 'accept: application/json' \
+                     -H 'Content-Type: multipart/form-data' \
+                     -F "file=@${file};type=application/json"
+              elif [[ "$dir" == "accounts" ]]; then
+                curl -X 'POST' \
+                     "${{ secrets.URL_3 }}" \
+                     -H 'accept: application/json' \
+                     -H 'Content-Type: multipart/form-data' \
+                     -F "file=@${file};type=application/json"
+                
+                curl -X 'POST' \
+                     "${{ secrets.URL_4 }}" \
+                     -H 'accept: application/json' \
+                     -H 'Content-Type: multipart/form-data' \
+                     -F "file=@${file};type=application/json"
+              fi
+            done
+          done
 
-          curl -X 'POST' \
-              ${{ secrets.URL_1 }} \
-              -H 'accept: application/json' \
-              -H 'Content-Type: multipart/form-data' \
-              -F 'file=@merged.json;type=application/json'
-              
-          curl -X 'POST' \
-              ${{ secrets.URL_2 }} \
-              -H 'accept: application/json' \
-              -H 'Content-Type: multipart/form-data' \
-              -F 'file=@merged.json;type=application/json'
 
-          rm merged.json;
-          
-          jq -s 'flatten' accounts/*.json > merged.json;
-
-          curl -X 'POST' \
-              ${{ secrets.URL_3 }} \
-              -H 'accept: application/json' \
-              -H 'Content-Type: multipart/form-data' \
-              -F 'file=@merged.json;type=application/json'
-              
-          curl -X 'POST' \
-              ${{ secrets.URL_4 }} \
-              -H 'accept: application/json' \
-              -H 'Content-Type: multipart/form-data' \
-              -F 'file=@merged.json;type=application/json'
-
-          rm merged.json;
-          
           
