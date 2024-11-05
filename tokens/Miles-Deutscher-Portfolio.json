@@ -4,6 +4,30 @@
     "miles_deutscher_portfolio": {
       "name": "Miles Deutscher Portfolio",
       "description": "Crypto analyst and DeFi addict. Busy finding the next 100x"
+    },
+    "meme_miles_deutscher_portfolio": {
+      "name": "Memes",
+      "description": "Miles Deutscher Memcoins Portfolio"
+    },
+    "ai_miles_deutscher_portfolio": {
+      "name": "AI",
+      "description": "Miles Deutscher AI Coins Portfolio"
+    },
+    "infrastructure_miles_deutscher_portfolio": {
+      "name": "Infrastructure",
+      "description": "Miles Deutscher Infrastructure Coins Portfolio"
+    },
+    "rwa_miles_deutscher_portfolio": {
+      "name": "RWA",
+      "description": "Miles Deutscher RWA Coins Portfolio"
+    },
+    "gaming_miles_deutscher_portfolio": {
+      "name": "Gaming",
+      "description": "Miles Deutscher Gaming Coins Portfolio"
+    },
+    "defi_miles_deutscher_portfolio": {
+      "name": "DeFi",
+      "description": "Miles Deutscher DeFi Coins Portfolio"
     }
   },
   "timestamp": "2024-10-29T00:00:00+00:00",
@@ -13,273 +37,266 @@
       "address": "0x570a5d26f7765ecb712c0924e4de545b89fd43df",
       "symbol": "SOL",
       "name": "SOLANA",
-      "tags": ["miles_deutscher_portfolio"]
+      "tags": ["miles_deutscher_portfolio", "infrastructure_miles_deutscher_portfolio"]
     },
     {
       "chainId": 1,
       "address": "0xd31a59c85ae9d8edefec411d448f90841571b89c",
       "symbol": "SOL",
       "name": "SOLANA",
-      "tags": ["miles_deutscher_portfolio"]
+      "tags": ["miles_deutscher_portfolio", "infrastructure_miles_deutscher_portfolio"]
     },
     {
       "chainId": 137,
       "address": "0xd93f7e271cb87c23aaa73edc008a79646d1f9912",
       "symbol": "SOL",
       "name": "SOLANA",
-      "tags": ["miles_deutscher_portfolio"]
-    },
-    {
-      "chainId": 1,
-      "address": "0x4b1e80cac91e2216eeb63e29b957eb91ae9c2be8",
-      "symbol": "JUP",
-      "name": "Jupiter",
-      "tags": ["miles_deutscher_portfolio"]
+      "tags": ["miles_deutscher_portfolio", "infrastructure_miles_deutscher_portfolio"]
     },
     {
       "chainId": 1,
       "address": "0x6de037ef9ad2725eb40118bb1702ebb27e4aeb24",
       "symbol": "RNDR",
       "name": "Render Token",
-      "tags": ["miles_deutscher_portfolio"]
+      "tags": ["miles_deutscher_portfolio", "ai_miles_deutscher_portfolio"]
     },
     {
       "chainId": 137,
       "address": "0x61299774020da444af134c82fa83e3810b309991",
       "symbol": "RNDR",
       "name": "Render Token",
-      "tags": ["miles_deutscher_portfolio"]
+      "tags": ["miles_deutscher_portfolio", "ai_miles_deutscher_portfolio"]
     },
     {
       "chainId": 1,
       "address": "0x5a98fcbea516cf06857215779fd812ca3bef1b32",
       "symbol": "LDO",
       "name": "Lido DAO",
-      "tags": ["miles_deutscher_portfolio"]
+      "tags": ["miles_deutscher_portfolio", "defi_miles_deutscher_portfolio"]
     },
     {
       "chainId": 137,
       "address": "0xc3c7d422809852031b44ab29eec9f1eff2a58756",
       "symbol": "LDO",
       "name": "Lido DAO",
-      "tags": ["miles_deutscher_portfolio"]
+      "tags": ["miles_deutscher_portfolio", "defi_miles_deutscher_portfolio"]
     },
     {
       "chainId": 42161,
       "address": "0x13ad51ed4f1b7e9dc168d8a00cb3f4ddd85efa60",
       "symbol": "LDO",
       "name": "Lido DAO",
-      "tags": ["miles_deutscher_portfolio"]
+      "tags": ["miles_deutscher_portfolio", "defi_miles_deutscher_portfolio"]
     },
     {
       "chainId": 10,
       "address": "0xfdb794692724153d1488ccdbe0c56c252596735f",
       "symbol": "LDO",
       "name": "Lido DAO",
-      "tags": ["miles_deutscher_portfolio"]
+      "tags": ["miles_deutscher_portfolio", "defi_miles_deutscher_portfolio"]
     },
     {
       "chainId": 1,
       "address": "0xd33526068d116ce69f19a9ee46f0bd304f21a51f",
       "symbol": "RPL",
       "name": "Rocket Pool",
-      "tags": ["miles_deutscher_portfolio"]
+      "tags": ["miles_deutscher_portfolio", "defi_miles_deutscher_portfolio"]
     },
     {
       "chainId": 42161,
       "address": "0xb766039cc6db368759c1e56b79affe831d0cc507",
       "symbol": "RPL",
       "name": "Rocket Pool",
-      "tags": ["miles_deutscher_portfolio"]
+      "tags": ["miles_deutscher_portfolio", "defi_miles_deutscher_portfolio"]
     },
     {
       "chainId": 1,
       "address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
       "symbol": "UNI",
       "name": "Uniswap",
-      "tags": ["miles_deutscher_portfolio"]
+      "tags": ["miles_deutscher_portfolio", "defi_miles_deutscher_portfolio"]
     },
     {
       "chainId": 56,
       "address": "0xbf5140a22578168fd562dccf235e5d43a02ce9b1",
       "symbol": "UNI",
       "name": "Uniswap",
-      "tags": ["miles_deutscher_portfolio"]
+      "tags": ["miles_deutscher_portfolio", "defi_miles_deutscher_portfolio"]
     },
     {
       "chainId": 42161,
       "address": "0xfa7f8980b0f1e64a2062791cc3b0871572f1f7f0",
       "symbol": "UNI",
       "name": "Uniswap",
-      "tags": ["miles_deutscher_portfolio"]
+      "tags": ["miles_deutscher_portfolio", "defi_miles_deutscher_portfolio"]
     },
     {
       "chainId": 10,
       "address": "0x6fd9d7ad17242c41f7131d257212c54a0e816691",
       "symbol": "UNI",
       "name": "Uniswap",
-      "tags": ["miles_deutscher_portfolio"]
+      "tags": ["miles_deutscher_portfolio", "defi_miles_deutscher_portfolio"]
     },
     {
       "chainId": 1,
       "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
       "symbol": "PEPE",
       "name": "Pepe",
-      "tags": ["miles_deutscher_portfolio"]
+      "tags": ["miles_deutscher_portfolio", "meme_miles_deutscher_portfolio"]
     },
     {
       "chainId": 8453,
       "address": "0xb4fde59a779991bfb6a52253b51947828b982be3",
       "symbol": "PEPE",
       "name": "Pepe",
-      "tags": ["miles_deutscher_portfolio"]
+      "tags": ["miles_deutscher_portfolio", "meme_miles_deutscher_portfolio"]
     },
     {
       "chainId": 56,
       "address": "0x25d887ce7a35172c62febfd67a1856f20faebb00",
       "symbol": "PEPE",
       "name": "Pepe",
-      "tags": ["miles_deutscher_portfolio"]
+      "tags": ["miles_deutscher_portfolio", "meme_miles_deutscher_portfolio"]
     },
     {
       "chainId": 42161,
       "address": "0x25d887ce7a35172c62febfd67a1856f20faebb00",
       "symbol": "PEPE",
       "name": "Pepe",
-      "tags": ["miles_deutscher_portfolio"]
+      "tags": ["miles_deutscher_portfolio", "meme_miles_deutscher_portfolio"]
     },
     {
       "chainId": 1,
       "address": "0xe0f63a424a4439cbe457d80e4f4b51ad25b2c56c",
       "symbol": "SPX",
       "name": "SPX6900",
-      "tags": ["miles_deutscher_portfolio"]
+      "tags": ["miles_deutscher_portfolio", "meme_miles_deutscher_portfolio"]
     },
     {
       "chainId": 8453,
       "address": "0x50da645f148798f68ef2d7db7c1cb22a6819bb2c",
       "symbol": "SPX",
       "name": "SPX6900",
-      "tags": ["miles_deutscher_portfolio"]
+      "tags": ["miles_deutscher_portfolio", "meme_miles_deutscher_portfolio"]
     },
     {
       "chainId": 1,
       "address": "0x77e06c9eccf2e797fd462a92b6d7642ef85b0a44",
       "symbol": "wTAO",
       "name": "Wrapped TAO",
-      "tags": ["miles_deutscher_portfolio"]
+      "tags": ["miles_deutscher_portfolio", "ai_miles_deutscher_portfolio"]
     },
     {
       "chainId": 56,
       "address": "0x1fa4a73a3f0133f0025378af00236f3abdee5d63",
       "symbol": "NEAR",
       "name": "NEAR Protocol",
-      "tags": ["miles_deutscher_portfolio"]
+      "tags": ["miles_deutscher_portfolio", "ai_miles_deutscher_portfolio"]
     },
     {
       "chainId": 8453,
       "address": "0x96419929d7949d6a801a6909c145c8eef6a40431",
       "symbol": "SPEC",
       "name": "Spectral Token",
-      "tags": ["miles_deutscher_portfolio"]
+      "tags": ["miles_deutscher_portfolio", "ai_miles_deutscher_portfolio"]
     },
     {
       "chainId": 56,
       "address": "0xad29abb318791d579433d831ed122afeaf29dcfe",
       "symbol": "FTM",
       "name": "Fantom",
-      "tags": ["miles_deutscher_portfolio"]
+      "tags": ["miles_deutscher_portfolio", "infrastructure_miles_deutscher_portfolio"]
     },
     {
       "chainId": 1,
       "address": "0x4e15361fd6b4bb609fa63c81a2be19d873717870",
       "symbol": "FTM",
       "name": "Fantom",
-      "tags": ["miles_deutscher_portfolio"]
+      "tags": ["miles_deutscher_portfolio", "infrastructure_miles_deutscher_portfolio"]
     },
     {
       "chainId": 1,
       "address": "0x66761fa41377003622aee3c7675fc7b5c1c2fac5",
       "symbol": "CPOOL",
       "name": "Clearpool",
-      "tags": ["miles_deutscher_portfolio"]
+      "tags": ["miles_deutscher_portfolio", "rwa_miles_deutscher_portfolio"]
     },
     {
       "chainId": 1,
       "address": "0x9ce84f6a69986a83d92c324df10bc8e64771030f",
       "symbol": "CHEX",
       "name": "Chintai Exchange Token",
-      "tags": ["miles_deutscher_portfolio"]
+      "tags": ["miles_deutscher_portfolio", "rwa_miles_deutscher_portfolio"]
     },
     {
       "chainId": 1,
       "address": "0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce",
       "symbol": "BEAM",
       "name": "Beam",
-      "tags": ["miles_deutscher_portfolio"]
+      "tags": ["miles_deutscher_portfolio", "gaming_miles_deutscher_portfolio"]
     },
     {
       "chainId": 56,
       "address": "0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce",
       "symbol": "BEAM",
       "name": "Beam",
-      "tags": ["miles_deutscher_portfolio"]
+      "tags": ["miles_deutscher_portfolio", "gaming_miles_deutscher_portfolio"]
     },
     {
       "chainId": 43114,
       "address": "0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce",
       "symbol": "BEAM",
       "name": "Beam",
-      "tags": ["miles_deutscher_portfolio"]
+      "tags": ["miles_deutscher_portfolio", "gaming_miles_deutscher_portfolio"]
     },
     {
       "chainId": 1,
       "address": "0xe53ec727dbdeb9e2d5456c3be40cff031ab40a55",
       "symbol": "SUPER",
       "name": "SuperFarm",
-      "tags": ["miles_deutscher_portfolio"]
+      "tags": ["miles_deutscher_portfolio", "gaming_miles_deutscher_portfolio"]
     },
     {
       "chainId": 1,
       "address": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
       "symbol": "AAVE",
       "name": "Aave Token",
-      "tags": ["miles_deutscher_portfolio"]
+      "tags": ["miles_deutscher_portfolio", "defi_miles_deutscher_portfolio"]
     },
     {
       "chainId": 137,
       "address": "0xd6df932a45c0f255f85145f286ea0b292b21c90b",
       "symbol": "AAVE",
       "name": "Aave Token",
-      "tags": ["miles_deutscher_portfolio"]
+      "tags": ["miles_deutscher_portfolio", "defi_miles_deutscher_portfolio"]
     },
     {
       "chainId": 42161,
       "address": "0xba5ddd1f9d7f570dc94a51479a000e3bce967196",
       "symbol": "AAVE",
       "name": "Aave Token",
-      "tags": ["miles_deutscher_portfolio"]
+      "tags": ["miles_deutscher_portfolio", "defi_miles_deutscher_portfolio"]
     },
     {
       "chainId": 10,
       "address": "0x76fb31fb4af56892a25e32cfc43de717950c9278",
       "symbol": "AAVE",
       "name": "Aave Token",
-      "tags": ["miles_deutscher_portfolio"]
+      "tags": ["miles_deutscher_portfolio", "defi_miles_deutscher_portfolio"]
     },
     {
       "chainId": 56,
       "address": "0xfb6115445bff7b52feb98650c87f44907e58f802",
       "symbol": "AAVE",
       "name": "Aave Token",
-      "tags": ["miles_deutscher_portfolio"]
+      "tags": ["miles_deutscher_portfolio", "defi_miles_deutscher_portfolio"]
     },
     {
       "chainId": 43114,
       "address": "0x63a72806098bd3d9520cc43356dd78afe5d386d9",
       "symbol": "AAVE",
       "name": "Aave Token",
-      "tags": ["miles_deutscher_portfolio"]
+      "tags": ["miles_deutscher_portfolio", "defi_miles_deutscher_portfolio"]
     }
   ],
   "version": {
