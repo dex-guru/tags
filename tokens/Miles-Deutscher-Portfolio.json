@@ -193,6 +193,16 @@
         ]
       },
       {
+        "chainId": 9999,
+        "address": "6dKCoWjpj5MFU5gWDEFdpUUeBasBLK3wLEwhUzQPAa1e",
+        "symbol": "CHEX",
+        "name": "Chintai Exchange Token",
+        "tags": [
+          "miles_deutscher_portfolio",
+          "rwa_miles_deutscher_portfolio"
+        ]
+      },
+      {
         "chainId": 1,
         "address": "0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce",
         "symbol": "BEAM",
@@ -297,6 +307,46 @@
         "address": "0xba2ae424d960c26247dd6c32edc70b295c744c43",
         "symbol": "DOGE",
         "name": "DOGE Token",
+        "tags": [
+          "miles_deutscher_portfolio",
+          "meme_miles_deutscher_portfolio"
+        ]
+      },
+      {
+        "chainId": 9999,
+        "address": "EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm",
+        "symbol": "WIF",
+        "name": "DOGWIF COIN",
+        "tags": [
+          "miles_deutscher_portfolio",
+          "meme_miles_deutscher_portfolio"
+        ]
+      },
+      {
+        "chainId": 9999,
+        "address": "7GCihgDB8fe6KNjn2MYtkzZcRjQy3t9GHdC8uHYmW2hr",
+        "symbol": "POPCAT",
+        "name": "POP CAT",
+        "tags": [
+          "miles_deutscher_portfolio",
+          "meme_miles_deutscher_portfolio"
+        ]
+      },
+      {
+        "chainId": 9999,
+        "address": "J3NKxxXZcnNiMjKw9hYb2K4LUxgwB6t1FtPtQVsv3KFr",
+        "symbol": "SPX",
+        "name": "SPX6900",
+        "tags": [
+          "miles_deutscher_portfolio",
+          "meme_miles_deutscher_portfolio"
+        ]
+      },
+      {
+        "chainId": 9999,
+        "address": "CzLSujWBLFsSjncfkh59rUFqvafWcY5tzedWJSuypump",
+        "symbol": "GOAT",
+        "name": "Goatseus Maximus",
         "tags": [
           "miles_deutscher_portfolio",
           "meme_miles_deutscher_portfolio"
