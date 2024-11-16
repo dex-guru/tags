@@ -28,6 +28,10 @@
       "defi_miles_deutscher_portfolio": {
         "name": "DeFi",
         "description": "Miles Deutscher DeFi Coins Portfolio"
+      },
+      "weekly_miles_deutscher_portfolio": {
+        "name": "Tokens To Buy On The Dip",
+        "description": "Tokens To Buy On The Dip"
       }
     },
     "timestamp": "2024-10-29T00:00:00+00:00",
@@ -39,7 +43,8 @@
         "name": "SOLANA",
         "tags": [
           "miles_deutscher_portfolio",
-          "infrastructure_miles_deutscher_portfolio"
+          "infrastructure_miles_deutscher_portfolio",
+          "weekly_miles_deutscher_portfolio"
         ]
       },
       {
@@ -49,7 +54,8 @@
         "name": "SOLANA",
         "tags": [
           "miles_deutscher_portfolio",
-          "infrastructure_miles_deutscher_portfolio"
+          "infrastructure_miles_deutscher_portfolio",
+          "weekly_miles_deutscher_portfolio"
         ]
       },
       {
@@ -59,7 +65,8 @@
         "name": "SOLANA",
         "tags": [
           "miles_deutscher_portfolio",
-          "infrastructure_miles_deutscher_portfolio"
+          "infrastructure_miles_deutscher_portfolio",
+          "weekly_miles_deutscher_portfolio"
         ]
       },
       {
@@ -69,7 +76,8 @@
         "name": "Pepe",
         "tags": [
           "miles_deutscher_portfolio",
-          "meme_miles_deutscher_portfolio"
+          "meme_miles_deutscher_portfolio",
+          "weekly_miles_deutscher_portfolio"
         ]
       },
       {
@@ -79,7 +87,8 @@
         "name": "Pepe",
         "tags": [
           "miles_deutscher_portfolio",
-          "meme_miles_deutscher_portfolio"
+          "meme_miles_deutscher_portfolio",
+          "weekly_miles_deutscher_portfolio"
         ]
       },
       {
@@ -89,7 +98,8 @@
         "name": "Pepe",
         "tags": [
           "miles_deutscher_portfolio",
-          "meme_miles_deutscher_portfolio"
+          "meme_miles_deutscher_portfolio",
+          "weekly_miles_deutscher_portfolio"
         ]
       },
       {
@@ -99,7 +109,8 @@
         "name": "Pepe",
         "tags": [
           "miles_deutscher_portfolio",
-          "meme_miles_deutscher_portfolio"
+          "meme_miles_deutscher_portfolio",
+          "weekly_miles_deutscher_portfolio"
         ]
       },
       {
@@ -109,7 +120,8 @@
         "name": "SPX6900",
         "tags": [
           "miles_deutscher_portfolio",
-          "meme_miles_deutscher_portfolio"
+          "meme_miles_deutscher_portfolio",
+          "weekly_miles_deutscher_portfolio"
         ]
       },
       {
@@ -119,7 +131,8 @@
         "name": "SPX6900",
         "tags": [
           "miles_deutscher_portfolio",
-          "meme_miles_deutscher_portfolio"
+          "meme_miles_deutscher_portfolio",
+          "weekly_miles_deutscher_portfolio"
         ]
       },
       {
@@ -129,7 +142,8 @@
         "name": "Wrapped TAO",
         "tags": [
           "miles_deutscher_portfolio",
-          "ai_miles_deutscher_portfolio"
+          "ai_miles_deutscher_portfolio",
+          "weekly_miles_deutscher_portfolio"
         ]
       },
       {
@@ -149,7 +163,8 @@
         "name": "Spectral Token",
         "tags": [
           "miles_deutscher_portfolio",
-          "ai_miles_deutscher_portfolio"
+          "ai_miles_deutscher_portfolio",
+          "weekly_miles_deutscher_portfolio"
         ]
       },
       {
@@ -159,7 +174,8 @@
         "name": "Fantom",
         "tags": [
           "miles_deutscher_portfolio",
-          "infrastructure_miles_deutscher_portfolio"
+          "infrastructure_miles_deutscher_portfolio",
+          "weekly_miles_deutscher_portfolio"
         ]
       },
       {
@@ -169,7 +185,8 @@
         "name": "Fantom",
         "tags": [
           "miles_deutscher_portfolio",
-          "infrastructure_miles_deutscher_portfolio"
+          "infrastructure_miles_deutscher_portfolio",
+          "weekly_miles_deutscher_portfolio"
         ]
       },
       {
@@ -179,7 +196,8 @@
         "name": "Clearpool",
         "tags": [
           "miles_deutscher_portfolio",
-          "rwa_miles_deutscher_portfolio"
+          "rwa_miles_deutscher_portfolio",
+          "weekly_miles_deutscher_portfolio"
         ]
       },
       {
@@ -189,17 +207,19 @@
         "name": "Chintai Exchange Token",
         "tags": [
           "miles_deutscher_portfolio",
-          "rwa_miles_deutscher_portfolio"
+          "rwa_miles_deutscher_portfolio",
+          "weekly_miles_deutscher_portfolio"
         ]
       },
       {
-        "chainId": 9999,
+        "chainId": 7565164,
         "address": "6dKCoWjpj5MFU5gWDEFdpUUeBasBLK3wLEwhUzQPAa1e",
         "symbol": "CHEX",
         "name": "Chintai Exchange Token",
         "tags": [
           "miles_deutscher_portfolio",
-          "rwa_miles_deutscher_portfolio"
+          "rwa_miles_deutscher_portfolio",
+          "weekly_miles_deutscher_portfolio"
         ]
       },
       {
@@ -309,47 +329,140 @@
         "name": "DOGE Token",
         "tags": [
           "miles_deutscher_portfolio",
-          "meme_miles_deutscher_portfolio"
+          "meme_miles_deutscher_portfolio",
+          "weekly_miles_deutscher_portfolio"
         ]
       },
       {
-        "chainId": 9999,
+        "chainId": 7565164,
         "address": "EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm",
         "symbol": "WIF",
         "name": "DOGWIF COIN",
         "tags": [
           "miles_deutscher_portfolio",
-          "meme_miles_deutscher_portfolio"
+          "meme_miles_deutscher_portfolio",
+          "weekly_miles_deutscher_portfolio"
         ]
       },
       {
-        "chainId": 9999,
+        "chainId": 7565164,
         "address": "7GCihgDB8fe6KNjn2MYtkzZcRjQy3t9GHdC8uHYmW2hr",
         "symbol": "POPCAT",
         "name": "POP CAT",
         "tags": [
           "miles_deutscher_portfolio",
-          "meme_miles_deutscher_portfolio"
+          "meme_miles_deutscher_portfolio",
+          "weekly_miles_deutscher_portfolio"
         ]
       },
       {
-        "chainId": 9999,
+        "chainId": 7565164,
         "address": "J3NKxxXZcnNiMjKw9hYb2K4LUxgwB6t1FtPtQVsv3KFr",
         "symbol": "SPX",
         "name": "SPX6900",
         "tags": [
           "miles_deutscher_portfolio",
-          "meme_miles_deutscher_portfolio"
+          "meme_miles_deutscher_portfolio",
+          "weekly_miles_deutscher_portfolio"
         ]
       },
       {
-        "chainId": 9999,
+        "chainId": 7565164,
         "address": "CzLSujWBLFsSjncfkh59rUFqvafWcY5tzedWJSuypump",
         "symbol": "GOAT",
         "name": "Goatseus Maximus",
         "tags": [
           "miles_deutscher_portfolio",
-          "meme_miles_deutscher_portfolio"
+          "meme_miles_deutscher_portfolio",
+          "weekly_miles_deutscher_portfolio"
+        ]
+      },
+      {
+        "chainId": 1,
+        "address": "0x1495bc9e44af1f8bcb62278d2bec4540cf0c05ea",
+        "symbol": "DEAI",
+        "name": "Zero1 Token",
+        "tags": [
+          "miles_deutscher_portfolio",
+          "ai_miles_deutscher_portfolio",
+          "weekly_miles_deutscher_portfolio"
+        ]
+      },
+      {
+        "chainId": 1,
+        "address": "0x39d5313c3750140e5042887413ba8aa6145a9bd2",
+        "symbol": "EMP",
+        "name": "Empyreal",
+        "tags": [
+          "miles_deutscher_portfolio",
+          "ai_miles_deutscher_portfolio",
+          "weekly_miles_deutscher_portfolio"
+        ]
+      },
+      {
+        "chainId": 42161,
+        "address": "0x772598e9e62155d7fdfe65fdf01eb5a53a8465be",
+        "symbol": "EMP",
+        "name": "Empyreal",
+        "tags": [
+          "miles_deutscher_portfolio",
+          "ai_miles_deutscher_portfolio",
+          "weekly_miles_deutscher_portfolio"
+        ]
+      },
+      {
+        "chainId": 1,
+        "address": "0x32b053f2cba79f80ada5078cb6b305da92bde6e1",
+        "symbol": "NEURAL",
+        "name": "Neural AI",
+        "tags": [
+          "miles_deutscher_portfolio",
+          "ai_miles_deutscher_portfolio",
+          "weekly_miles_deutscher_portfolio"
+        ]
+      },
+      {
+        "chainId": 7565164,
+        "address": "2qEHjDLDLbuBgRYvsxhc5D6uDWAivNFZGan56P1tpump",
+        "symbol": "PNUT",
+        "name": "Peanut the Squirrel",
+        "tags": [
+          "miles_deutscher_portfolio",
+          "meme_miles_deutscher_portfolio",
+          "weekly_miles_deutscher_portfolio"
+        ]
+      },
+      {
+        "chainId": 1,
+        "address": "0xaaee1a9723aadb7afa2810263653a34ba2c21c7a",
+        "symbol": "MOG",
+        "name": "Mog Coin",
+        "tags": [
+          "miles_deutscher_portfolio",
+          "meme_miles_deutscher_portfolio",
+          "weekly_miles_deutscher_portfolio"
+        ]
+      },
+      {
+        "chainId": 8453,
+        "address": "0x2da56acb9ea78330f947bd57c54119debda7af71",
+        "symbol": "MOG",
+        "name": "Mog Coin",
+        "tags": [
+          "miles_deutscher_portfolio",
+          "meme_miles_deutscher_portfolio",
+          "weekly_miles_deutscher_portfolio"
+        ]
+      },
+      {
+        "chainId": 8453,
+        "address": "0x9c0e042d65a2e1ff31ac83f404e5cb79f452c337",
+        "symbol": "uAPT",
+        "name": "Wrapped Aptos Universal",
+        "tags": [
+          "miles_deutscher_portfolio",
+          "infrastructure_miles_deutscher_portfolio",
+          "weekly_miles_deutscher_portfolio"
         ]
       }
     ],
