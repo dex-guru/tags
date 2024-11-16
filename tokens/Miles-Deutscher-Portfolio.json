@@ -32,6 +32,10 @@
       "weekly_miles_deutscher_portfolio": {
         "name": "Tokens To Buy On The Dip",
         "description": "Tokens To Buy On The Dip"
+      },
+      "murad_memes_miles_deutscher_portfolio": {
+        "name": "Murad Memes",
+        "description": "Murad Memes"
       }
     },
     "timestamp": "2024-10-29T00:00:00+00:00",
@@ -121,7 +125,8 @@
         "tags": [
           "miles_deutscher_portfolio",
           "meme_miles_deutscher_portfolio",
-          "weekly_miles_deutscher_portfolio"
+          "weekly_miles_deutscher_portfolio",
+          "murad_memes_miles_deutscher_portfolio"
         ]
       },
       {
@@ -132,7 +137,8 @@
         "tags": [
           "miles_deutscher_portfolio",
           "meme_miles_deutscher_portfolio",
-          "weekly_miles_deutscher_portfolio"
+          "weekly_miles_deutscher_portfolio",
+          "murad_memes_miles_deutscher_portfolio"
         ]
       },
       {
@@ -352,7 +358,8 @@
         "tags": [
           "miles_deutscher_portfolio",
           "meme_miles_deutscher_portfolio",
-          "weekly_miles_deutscher_portfolio"
+          "weekly_miles_deutscher_portfolio",
+          "murad_memes_miles_deutscher_portfolio"
         ]
       },
       {
@@ -363,7 +370,8 @@
         "tags": [
           "miles_deutscher_portfolio",
           "meme_miles_deutscher_portfolio",
-          "weekly_miles_deutscher_portfolio"
+          "weekly_miles_deutscher_portfolio",
+          "murad_memes_miles_deutscher_portfolio"
         ]
       },
       {
@@ -440,7 +448,8 @@
         "tags": [
           "miles_deutscher_portfolio",
           "meme_miles_deutscher_portfolio",
-          "weekly_miles_deutscher_portfolio"
+          "weekly_miles_deutscher_portfolio",
+          "murad_memes_miles_deutscher_portfolio"
         ]
       },
       {
@@ -451,7 +460,8 @@
         "tags": [
           "miles_deutscher_portfolio",
           "meme_miles_deutscher_portfolio",
-          "weekly_miles_deutscher_portfolio"
+          "weekly_miles_deutscher_portfolio",
+          "murad_memes_miles_deutscher_portfolio"
         ]
       },
       {
@@ -463,6 +473,236 @@
           "miles_deutscher_portfolio",
           "infrastructure_miles_deutscher_portfolio",
           "weekly_miles_deutscher_portfolio"
+        ]
+      },
+      {
+        "chainId": 7565164,
+        "address": "63LfDmNb3MQ8mw9MtZ2To9bEA2M71kZUUGq5tiJxcqj9",
+        "symbol": "GIGA",
+        "name": "Gigachad",
+        "tags": [
+          "miles_deutscher_portfolio",
+          "murad_memes_miles_deutscher_portfolio"
+        ]
+      },
+      {
+        "chainId": 1,
+        "address": "0x72e4f9f808c49a2a61de9c5896298920dc4eeea9",
+        "symbol": "BITCOIN",
+        "name": "HarryPotterObamaSonic10Inu",
+        "tags": [
+          "miles_deutscher_portfolio",
+          "murad_memes_miles_deutscher_portfolio"
+        ]
+      },
+      {
+        "chainId": 8453,
+        "address": "0x2a06a17cbc6d0032cac2c6696da90f29d39a1a29",
+        "symbol": "BITCOIN",
+        "name": "HarryPotterObamaSonic10Inu",
+        "tags": [
+          "miles_deutscher_portfolio",
+          "murad_memes_miles_deutscher_portfolio"
+        ]
+      },
+      {
+        "chainId": 7565164,
+        "address": "8Ki8DpuWNxu9VsS3kQbarsCWMcFGWkzzA8pUPto9zBd5",
+        "symbol": "LOCKIN",
+        "name": "LOCK IN",
+        "tags": [
+          "miles_deutscher_portfolio",
+          "murad_memes_miles_deutscher_portfolio"
+        ]
+      },
+      {
+        "chainId": 7565164,
+        "address": "GiG7Hr61RVm4CSUxJmgiCoySFQtdiwxtqf64MsRppump",
+        "symbol": "SCF",
+        "name": "Smoking Chicken Fish",
+        "tags": [
+          "miles_deutscher_portfolio",
+          "murad_memes_miles_deutscher_portfolio"
+        ]
+      },
+      {
+        "chainId": 7565164,
+        "address": "A8C3xuqscfmyLrte3VmTqrAq8kgMASius9AFNANwpump",
+        "symbol": "FWOG",
+        "name": "Fwog",
+        "tags": [
+          "miles_deutscher_portfolio",
+          "murad_memes_miles_deutscher_portfolio"
+        ]
+      },
+      {
+        "chainId": 1,
+        "address": "0x594daad7d77592a2b97b725a7ad59d7e188b5bfa",
+        "symbol": "APU",
+        "name": "Apu Apustaja",
+        "tags": [
+          "miles_deutscher_portfolio",
+          "murad_memes_miles_deutscher_portfolio"
+        ]
+      },
+      {
+        "chainId": 7565164,
+        "address": "9WPTUkh8fKuCnepRWoPYLH3aK9gSjPHFDenBq2X1Czdp",
+        "symbol": "SELFIE",
+        "name": "SelfieDogCoin",
+        "tags": [
+          "miles_deutscher_portfolio",
+          "murad_memes_miles_deutscher_portfolio"
+        ]
+      },
+      {
+        "chainId": 7565164,
+        "address": "6ogzHhzdrQr9Pgv6hZ2MNze7UrzBMAFyBBWUYp1Fhitx",
+        "symbol": "RETARDIO",
+        "name": "RETARDIO",
+        "tags": [
+          "miles_deutscher_portfolio",
+          "murad_memes_miles_deutscher_portfolio"
+        ]
+      },
+      {
+        "chainId": 7565164,
+        "address": "5mbK36SZ7J19An8jFochhQS4of8g6BwUjbeCSxBSoWdp",
+        "symbol": "michi",
+        "name": "michi",
+        "tags": [
+          "miles_deutscher_portfolio",
+          "murad_memes_miles_deutscher_portfolio"
+        ]
+      },
+      {
+        "chainId": 7565164,
+        "address": "5mbK36SZ7J19An8jFochhQS4of8g6BwUjbeCSxBSoWdp",
+        "symbol": "michi",
+        "name": "michi",
+        "tags": [
+          "miles_deutscher_portfolio",
+          "murad_memes_miles_deutscher_portfolio"
+        ]
+      },
+      {
+        "chainId": 7565164,
+        "address": "5SVG3T9CNQsm2kEwzbRq6hASqh1oGfjqTtLXYUibpump",
+        "symbol": "SIGMA",
+        "name": "Sigma",
+        "tags": [
+          "miles_deutscher_portfolio",
+          "murad_memes_miles_deutscher_portfolio"
+        ]
+      },
+      {
+        "chainId": 7565164,
+        "address": "2JcXacFwt9mVAwBQ5nZkYwCyXQkRcdsYrDXn6hj22SbP",
+        "symbol": "MINI",
+        "name": "mini",
+        "tags": [
+          "miles_deutscher_portfolio",
+          "murad_memes_miles_deutscher_portfolio"
+        ]
+      },
+      {
+        "chainId": 7565164,
+        "address": "2JcXacFwt9mVAwBQ5nZkYwCyXQkRcdsYrDXn6hj22SbP",
+        "symbol": "MINI",
+        "name": "mini",
+        "tags": [
+          "miles_deutscher_portfolio",
+          "murad_memes_miles_deutscher_portfolio"
+        ]
+      },
+      {
+        "chainId": 1,
+        "address": "0x576e2bed8f7b46d34016198911cdf9886f78bea7",
+        "symbol": "TRUMP",
+        "name": "MAGA",
+        "tags": [
+          "miles_deutscher_portfolio",
+          "murad_memes_miles_deutscher_portfolio"
+        ]
+      },
+      {
+        "chainId": 56,
+        "address": "0x4ea98c1999575aaadfb38237dd015c5e773f75a2",
+        "symbol": "TRUMP",
+        "name": "MAGA",
+        "tags": [
+          "miles_deutscher_portfolio",
+          "murad_memes_miles_deutscher_portfolio"
+        ]
+      },
+      {
+        "chainId": 8453,
+        "address": "0x57f5fbd3de65dfc0bd3630f732969e5fb97e6d37",
+        "symbol": "TRUMP",
+        "name": "MAGA",
+        "tags": [
+          "miles_deutscher_portfolio",
+          "murad_memes_miles_deutscher_portfolio"
+        ]
+      },
+      {
+        "chainId": 7565164,
+        "address": "26KMQVgDUoB6rEfnJ51yAABWWJND8uMtpnQgsHQ64Udr",
+        "symbol": "HAMMY",
+        "name": "SAD HAMSTER",
+        "tags": [
+          "miles_deutscher_portfolio",
+          "murad_memes_miles_deutscher_portfolio"
+        ]
+      },
+      {
+        "chainId": 7565164,
+        "address": "5z3EqYQo9HiCEs3R84RCDMu2n7anpDMxRhdK8PSWmrRC",
+        "symbol": "PONKE",
+        "name": "PONKE",
+        "tags": [
+          "miles_deutscher_portfolio",
+          "murad_memes_miles_deutscher_portfolio"
+        ]
+      },
+      {
+        "chainId": 7565164,
+        "address": "3S8qX1MsMqRbiwKg2cQyx7nis1oHMgaCuc9c4VfvVdPN",
+        "symbol": "MOTHER",
+        "name": "Mother Iggy",
+        "tags": [
+          "miles_deutscher_portfolio",
+          "murad_memes_miles_deutscher_portfolio"
+        ]
+      },
+      {
+        "chainId": 7565164,
+        "address": "Fch1oixTPri8zxBnmdCEADoJW2toyFHxqDZacQkwdvSP",
+        "symbol": "HARAMBE",
+        "name": "Harambe on Solana",
+        "tags": [
+          "miles_deutscher_portfolio",
+          "murad_memes_miles_deutscher_portfolio"
+        ]
+      },
+      {
+        "chainId": 7565164,
+        "address": "5LafQUrVco6o7KMz42eqVEJ9LW31StPyGjeeu5sKoMtA",
+        "symbol": "MUMU",
+        "name": "MUMU THE BULL",
+        "tags": [
+          "miles_deutscher_portfolio",
+          "murad_memes_miles_deutscher_portfolio"
+        ]
+      },
+      {
+        "chainId": 7565164,
+        "address": "3B5wuUrMEi5yATD7on46hKfej3pfmd7t1RKgrsN3pump",
+        "symbol": "BILLY",
+        "name": "Billy",
+        "tags": [
+          "miles_deutscher_portfolio",
+          "murad_memes_miles_deutscher_portfolio"
         ]
       }
     ],
