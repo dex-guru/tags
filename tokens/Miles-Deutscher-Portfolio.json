@@ -159,7 +159,8 @@
         "name": "NEAR Protocol",
         "tags": [
           "miles_deutscher_portfolio",
-          "ai_miles_deutscher_portfolio"
+          "ai_miles_deutscher_portfolio",
+          "weekly_miles_deutscher_portfolio"
         ]
       },
       {
@@ -235,7 +236,8 @@
         "name": "Beam",
         "tags": [
           "miles_deutscher_portfolio",
-          "gaming_miles_deutscher_portfolio"
+          "gaming_miles_deutscher_portfolio",
+          "weekly_miles_deutscher_portfolio"
         ]
       },
       {
@@ -245,7 +247,8 @@
         "name": "Beam",
         "tags": [
           "miles_deutscher_portfolio",
-          "gaming_miles_deutscher_portfolio"
+          "gaming_miles_deutscher_portfolio",
+          "weekly_miles_deutscher_portfolio"
         ]
       },
       {
@@ -255,7 +258,8 @@
         "name": "Beam",
         "tags": [
           "miles_deutscher_portfolio",
-          "gaming_miles_deutscher_portfolio"
+          "gaming_miles_deutscher_portfolio",
+          "weekly_miles_deutscher_portfolio"
         ]
       },
       {
@@ -265,7 +269,8 @@
         "name": "SuperFarm",
         "tags": [
           "miles_deutscher_portfolio",
-          "gaming_miles_deutscher_portfolio"
+          "gaming_miles_deutscher_portfolio",
+          "weekly_miles_deutscher_portfolio"
         ]
       },
       {
@@ -482,7 +487,8 @@
         "name": "Gigachad",
         "tags": [
           "miles_deutscher_portfolio",
-          "murad_memes_miles_deutscher_portfolio"
+          "murad_memes_miles_deutscher_portfolio",
+          "weekly_miles_deutscher_portfolio"
         ]
       },
       {
@@ -712,7 +718,8 @@
         "name": "Guru",
         "tags": [
           "miles_deutscher_portfolio",
-          "ai_miles_deutscher_portfolio"
+          "ai_miles_deutscher_portfolio",
+          "weekly_miles_deutscher_portfolio"
         ]
       },
       {
@@ -722,7 +729,122 @@
         "name": "Guru",
         "tags": [
           "miles_deutscher_portfolio",
-          "ai_miles_deutscher_portfolio"
+          "ai_miles_deutscher_portfolio",
+          "weekly_miles_deutscher_portfolio"
+        ]
+      },
+      {
+        "chainId": 7565164,
+        "address": "Grass7B4RdKfBCjTKgSqnXkqjwiGvQyFbuSCUJr3XXjs",
+        "symbol": "GRASS",
+        "name": "Grass",
+        "tags": [
+          "miles_deutscher_portfolio",
+          "ai_miles_deutscher_portfolio",
+          "weekly_miles_deutscher_portfolio"
+        ]
+      },
+      {
+        "chainId": 7565164,
+        "address": "Hax9LTgsQkze1YFychnBLtFH8gYbQKtKfWKKg2SP6gdD",
+        "symbol": "TAI",
+        "name": "TARS AI",
+        "tags": [
+          "miles_deutscher_portfolio",
+          "ai_miles_deutscher_portfolio",
+          "weekly_miles_deutscher_portfolio"
+        ]
+      },
+      {
+        "chainId": 7565164,
+        "address": "8x5VqbHA8D7NkD52uNuS5nnt3PwA8pLD34ymskeSo2Wn",
+        "symbol": "ZEREBRO",
+        "name": "Zerebro",
+        "tags": [
+          "miles_deutscher_portfolio",
+          "memes_miles_deutscher_portfolio",
+          "weekly_miles_deutscher_portfolio"
+        ]
+      },
+      {
+        "chainId": 1,
+        "address": "0x710287d1d39dcf62094a83ebb3e736e79400068a",
+        "symbol": "ENQAI",
+        "name": "enqAI",
+        "tags": [
+          "miles_deutscher_portfolio",
+          "ai_miles_deutscher_portfolio",
+          "weekly_miles_deutscher_portfolio"
+        ]
+      },
+      {
+        "chainId": 1,
+        "address": "0x626e8036deb333b408be468f951bdb42433cbf18",
+        "symbol": "AIOZ",
+        "name": "AIOZ Network",
+        "tags": [
+          "miles_deutscher_portfolio",
+          "weekly_miles_deutscher_portfolio"
+        ]
+      },
+      {
+        "chainId": 56,
+        "address": "0x33d08d8c7a168333a85285a68c0042b39fc3741d",
+        "symbol": "AIOZ",
+        "name": "AIOZ Network",
+        "tags": [
+          "miles_deutscher_portfolio",
+          "weekly_miles_deutscher_portfolio"
+        ]
+      },
+      {
+        "chainId": 1,
+        "address": "0xdbb5cf12408a3ac17d668037ce289f9ea75439d7",
+        "symbol": "WMTX",
+        "name": "World Mobile Token",
+        "tags": [
+          "miles_deutscher_portfolio",
+          "weekly_miles_deutscher_portfolio"
+        ]
+      },
+      {
+        "chainId": 42161,
+        "address": "0xdbb5cf12408a3ac17d668037ce289f9ea75439d7",
+        "symbol": "WMTX",
+        "name": "World Mobile Token",
+        "tags": [
+          "miles_deutscher_portfolio",
+          "weekly_miles_deutscher_portfolio"
+        ]
+      },
+      {
+        "chainId": 8453,
+        "address": "0x3e31966d4f81c72d2a55310a6365a56a4393e98d",
+        "symbol": "WMTX",
+        "name": "World Mobile Token",
+        "tags": [
+          "miles_deutscher_portfolio",
+          "weekly_miles_deutscher_portfolio"
+        ]
+      },
+      {
+        "chainId": 56,
+        "address": "0xdbb5cf12408a3ac17d668037ce289f9ea75439d7",
+        "symbol": "WMTX",
+        "name": "World Mobile Token",
+        "tags": [
+          "miles_deutscher_portfolio",
+          "weekly_miles_deutscher_portfolio"
+        ]
+      },
+      {
+        "chainId": 1,
+        "address": "0x2e44f3f609ff5aa4819b323fd74690f07c3607c4",
+        "symbol": "PIN",
+        "name": "PinLink",
+        "tags": [
+          "miles_deutscher_portfolio",
+          "weekly_miles_deutscher_portfolio"
         ]
       }
     ],
