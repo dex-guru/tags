@@ -1,0 +1,476 @@
+{
+    "name": "Kyle Chasse's Portfolio",
+    "tags": {
+        "kyle_chasse_portfolio": {
+            "name": "Kyle Chasse's Portfolio",
+            "description": ""
+        },
+        "kyle_chasse_portfolio_infrastructure": {
+            "name": "Infrastructure",
+            "description": ""
+        },
+        "kyle_chasse_portfolio_ai": {
+            "name": "AI",
+            "description": ""
+        },
+        "kyle_chasse_portfolio_memes": {
+            "name": "Memes",
+            "description": ""
+        },
+        "kyle_chasse_portfolio_rwa": {
+            "name": "RWA",
+            "description": ""
+        },
+        "kyle_chasse_portfolio_defi": {
+            "name": "DeFi",
+            "description": ""
+        },
+        "kyle_chasse_portfolio_kyles_projects": {
+            "name": "Kyle's Projects",
+            "description": ""
+        }
+    },
+    "timestamp": "2024-12-12T18:29:19.508331",
+    "tokens": [
+        {
+            "chainId": 137,
+            "address": "0xd93f7e271cb87c23aaa73edc008a79646d1f9912",
+            "symbol": "SOL",
+            "name": "SOLANA",
+            "tags": [
+                "kyle_chasse_portfolio",
+                "kyle_chasse_portfolio_infrastructure"
+            ]
+        },
+        {
+            "chainId": 1,
+            "address": "0xd31a59c85ae9d8edefec411d448f90841571b89c",
+            "symbol": "SOL",
+            "name": "SOLANA",
+            "tags": [
+                "kyle_chasse_portfolio",
+                "kyle_chasse_portfolio_infrastructure"
+            ]
+        },
+        {
+            "chainId": 56,
+            "address": "0x570a5d26f7765ecb712c0924e4de545b89fd43df",
+            "symbol": "SOL",
+            "name": "SOLANA",
+            "tags": [
+                "kyle_chasse_portfolio",
+                "kyle_chasse_portfolio_infrastructure"
+            ]
+        },
+        {
+            "chainId": 1,
+            "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "ETH",
+            "name": "ETHEREUM",
+            "tags": [
+                "kyle_chasse_portfolio",
+                "kyle_chasse_portfolio_infrastructure"
+            ]
+        },
+        {
+            "chainId": 8453,
+            "address": "0xb0505e5a99abd03d94a1169e638b78edfed26ea4",
+            "symbol": "SUI",
+            "name": "SUI",
+            "tags": [
+                "kyle_chasse_portfolio",
+                "kyle_chasse_portfolio_infrastructure"
+            ]
+        },
+        {
+            "chainId": 8453,
+            "address": "0x9c0e042d65a2e1ff31ac83f404e5cb79f452c337",
+            "symbol": "APT",
+            "name": "APTOS",
+            "tags": [
+                "kyle_chasse_portfolio",
+                "kyle_chasse_portfolio_infrastructure"
+            ]
+        },
+        {
+            "chainId": 56,
+            "address": "0xad29abb318791d579433d831ed122afeaf29dcfe",
+            "symbol": "FTM",
+            "name": "Fantom",
+            "tags": [
+                "kyle_chasse_portfolio",
+                "kyle_chasse_portfolio_infrastructure"
+            ]
+        },
+        {
+            "chainId": 1,
+            "address": "0x4e15361fd6b4bb609fa63c81a2be19d873717870",
+            "symbol": "FTM",
+            "name": "Fantom",
+            "tags": [
+                "kyle_chasse_portfolio",
+                "kyle_chasse_portfolio_infrastructure"
+            ]
+        },
+        {
+            "chainId": 56,
+            "address": "0x1fa4a73a3f0133f0025378af00236f3abdee5d63",
+            "symbol": "NEAR",
+            "name": "NEAR Protocol",
+            "tags": [
+                "kyle_chasse_portfolio",
+                "kyle_chasse_portfolio_infrastructure"
+            ]
+        },
+        {
+            "chainId": 43114,
+            "address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "symbol": "AVAX",
+            "name": "AVALANCHE",
+            "tags": [
+                "kyle_chasse_portfolio",
+                "kyle_chasse_portfolio_infrastructure"
+            ]
+        },
+        {
+            "chainId": 1,
+            "address": "0x112b08621e27e10773ec95d250604a041f36c582",
+            "symbol": "KAS",
+            "name": "KASPA",
+            "tags": [
+                "kyle_chasse_portfolio",
+                "kyle_chasse_portfolio_infrastructure"
+            ]
+        },
+        {
+            "chainId": 1,
+            "address": "0x44971abf0251958492fee97da3e5c5ada88b9185",
+            "symbol": "BASEDAI",
+            "name": "BASEDAI",
+            "tags": [
+                "kyle_chasse_portfolio",
+                "kyle_chasse_portfolio_ai"
+            ]
+        },
+        {
+            "chainId": 1,
+            "address": "0x626e8036deb333b408be468f951bdb42433cbf18",
+            "symbol": "AIOZ",
+            "name": "AIOZ",
+            "tags": [
+                "kyle_chasse_portfolio",
+                "kyle_chasse_portfolio_ai"
+            ]
+        },
+        {
+            "chainId": 1,
+            "address": "0x44ff8620b8ca30902395a7bd3f2407e1a091bf73",
+            "symbol": "VIRTUAL",
+            "name": "VIRTUALS",
+            "tags": [
+                "kyle_chasse_portfolio",
+                "kyle_chasse_portfolio_ai"
+            ]
+        },
+        {
+            "chainId": 1,
+            "address": "0x77e06c9eccf2e797fd462a92b6d7642ef85b0a44",
+            "symbol": "TAO",
+            "name": "TAO",
+            "tags": [
+                "kyle_chasse_portfolio",
+                "kyle_chasse_portfolio_ai"
+            ]
+        },
+        {
+            "chainId": 8453,
+            "address": "0x4f9fd6be4a90f2620860d680c0d4d5fb53d1a825",
+            "symbol": "AIXBT",
+            "name": "AIXBT",
+            "tags": [
+                "kyle_chasse_portfolio",
+                "kyle_chasse_portfolio_ai"
+            ]
+        },
+        {
+            "chainId": 7565164,
+            "address": "KENJSUYLASHUMfHyy5o4Hp2FdNqZg1AsUPhfH2kYvEP",
+            "symbol": "GRIFFAIN",
+            "name": "GRIFFAIN",
+            "tags": [
+                "kyle_chasse_portfolio",
+                "kyle_chasse_portfolio_ai"
+            ]
+        },
+        {
+            "chainId": 7565164,
+            "address": "79yTpy8uwmAkrdgZdq6ZSBTvxKsgPrNqTLvYQBh1pump",
+            "symbol": "BULLY",
+            "name": "BULLY",
+            "tags": [
+                "kyle_chasse_portfolio",
+                "kyle_chasse_portfolio_ai"
+            ]
+        },
+        {
+            "chainId": 7565164,
+            "address": "HeLp6NuQkmYB4pYWo2zYs22mESHXPQYzXbB8n4V98jwC",
+            "symbol": "AI16Z",
+            "name": "AI16Z",
+            "tags": [
+                "kyle_chasse_portfolio",
+                "kyle_chasse_portfolio_ai"
+            ]
+        },
+        {
+            "chainId": 7565164,
+            "address": "9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump",
+            "symbol": "FARTCOIN",
+            "name": "FARTCOIN",
+            "tags": [
+                "kyle_chasse_portfolio",
+                "kyle_chasse_portfolio_ai"
+            ]
+        },
+        {
+            "chainId": 7565164,
+            "address": "CzLSujWBLFsSjncfkh59rUFqvafWcY5tzedWJSuypump",
+            "symbol": "GOAT",
+            "name": "GOAT",
+            "tags": [
+                "kyle_chasse_portfolio",
+                "kyle_chasse_portfolio_ai"
+            ]
+        },
+        {
+            "chainId": 1,
+            "address": "0xadf7c35560035944e805d98ff17d58cde2449389",
+            "symbol": "SPEC",
+            "name": "SPECTRAL",
+            "tags": [
+                "kyle_chasse_portfolio",
+                "kyle_chasse_portfolio_ai"
+            ]
+        },
+        {
+            "chainId": 8453,
+            "address": "0x96419929d7949d6a801a6909c145c8eef6a40431",
+            "symbol": "SPEC",
+            "name": "SPECTRAL",
+            "tags": [
+                "kyle_chasse_portfolio",
+                "kyle_chasse_portfolio_ai"
+            ]
+        },
+        {
+            "chainId": 1,
+            "address": "0x32b053f2cba79f80ada5078cb6b305da92bde6e1",
+            "symbol": "NEURAL",
+            "name": "NEURAL AI",
+            "tags": [
+                "kyle_chasse_portfolio",
+                "kyle_chasse_portfolio_ai"
+            ]
+        },
+        {
+            "chainId": 42161,
+            "address": "0x772598e9e62155d7fdfe65fdf01eb5a53a8465be",
+            "symbol": "EMP",
+            "name": "EMPYREAL",
+            "tags": [
+                "kyle_chasse_portfolio",
+                "kyle_chasse_portfolio_ai"
+            ]
+        },
+        {
+            "chainId": 1,
+            "address": "0x39d5313c3750140e5042887413ba8aa6145a9bd2",
+            "symbol": "EMP",
+            "name": "EMPYREAL",
+            "tags": [
+                "kyle_chasse_portfolio",
+                "kyle_chasse_portfolio_ai"
+            ]
+        },
+        {
+            "chainId": 1,
+            "address": "0xa9e8acf069c58aec8825542845fd754e41a9489a",
+            "symbol": "PEPECOIN",
+            "name": "PEPECOIN",
+            "tags": [
+                "kyle_chasse_portfolio",
+                "kyle_chasse_portfolio_memes"
+            ]
+        },
+        {
+            "chainId": 1,
+            "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+            "symbol": "PEPE",
+            "name": "PEPE",
+            "tags": [
+                "kyle_chasse_portfolio",
+                "kyle_chasse_portfolio_memes"
+            ]
+        },
+        {
+            "chainId": 7565164,
+            "address": "EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm",
+            "symbol": "WIF",
+            "name": "WIF",
+            "tags": [
+                "kyle_chasse_portfolio",
+                "kyle_chasse_portfolio_memes"
+            ]
+        },
+        {
+            "chainId": 7565164,
+            "address": "7GCihgDB8fe6KNjn2MYtkzZcRjQy3t9GHdC8uHYmW2hr",
+            "symbol": "POPCAT",
+            "name": "POPCAT",
+            "tags": [
+                "kyle_chasse_portfolio",
+                "kyle_chasse_portfolio_memes"
+            ]
+        },
+        {
+            "chainId": 1,
+            "address": "0xe0f63a424a4439cbe457d80e4f4b51ad25b2c56c",
+            "symbol": "SPX",
+            "name": "SPX6900",
+            "tags": [
+                "kyle_chasse_portfolio",
+                "kyle_chasse_portfolio_memes"
+            ]
+        },
+        {
+            "chainId": 8453,
+            "address": "0x50da645f148798f68ef2d7db7c1cb22a6819bb2c",
+            "symbol": "SPX",
+            "name": "SPX6900",
+            "tags": [
+                "kyle_chasse_portfolio",
+                "kyle_chasse_portfolio_memes"
+            ]
+        },
+        {
+            "chainId": 7565164,
+            "address": "J3NKxxXZcnNiMjKw9hYb2K4LUxgwB6t1FtPtQVsv3KFr",
+            "symbol": "SPX",
+            "name": "SPX6900",
+            "tags": [
+                "kyle_chasse_portfolio",
+                "kyle_chasse_portfolio_memes"
+            ]
+        },
+        {
+            "chainId": 7565164,
+            "address": "9EYScpiysGnEimnQPzazr7Jn9GVfxFYzgTEj85hV9L6U",
+            "symbol": "TOOKER",
+            "name": "TOOKER",
+            "tags": [
+                "kyle_chasse_portfolio",
+                "kyle_chasse_portfolio_memes"
+            ]
+        },
+        {
+            "chainId": 7565164,
+            "address": "HUdqc5MR5h3FssESabPnQ1GTgTcPvnNudAuLj5J6a9sU",
+            "symbol": "BONGO",
+            "name": "BONGO",
+            "tags": [
+                "kyle_chasse_portfolio",
+                "kyle_chasse_portfolio_memes"
+            ]
+        },
+        {
+            "chainId": 1,
+            "address": "DOGE",
+            "symbol": "DOGE",
+            "name": "DOGE",
+            "tags": [
+                "kyle_chasse_portfolio",
+                "kyle_chasse_portfolio_memes"
+            ]
+        },
+        {
+            "chainId": 1,
+            "address": "0x1121acc14c63f3c872bfca497d10926a6098aac5",
+            "symbol": "DOGE",
+            "name": "department-of-government-efficiency",
+            "tags": [
+                "kyle_chasse_portfolio",
+                "kyle_chasse_portfolio_memes"
+            ]
+        },
+        {
+            "chainId": 7565164,
+            "address": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+            "symbol": "BONK",
+            "name": "BONK",
+            "tags": [
+                "kyle_chasse_portfolio",
+                "kyle_chasse_portfolio_memes"
+            ]
+        },
+        {
+            "chainId": 8453,
+            "address": "0x532f27101965dd16442e59d40670faf5ebb142e4",
+            "symbol": "BRETT",
+            "name": "BRETT",
+            "tags": [
+                "kyle_chasse_portfolio",
+                "kyle_chasse_portfolio_memes"
+            ]
+        },
+        {
+            "chainId": 1,
+            "address": "0x3593d125a4f7849a1b059e64f4517a86dd60c95d",
+            "symbol": "OM",
+            "name": "MANTRA",
+            "tags": [
+                "kyle_chasse_portfolio",
+                "kyle_chasse_portfolio_rwa"
+            ]
+        },
+        {
+            "chainId": 1,
+            "address": "0xfaba6f8e4a5e8ab82f62fe7c39859fa577269be3",
+            "symbol": "ONDO",
+            "name": "ONDO",
+            "tags": [
+                "kyle_chasse_portfolio",
+                "kyle_chasse_portfolio_rwa"
+            ]
+        },
+        {
+            "chainId": 1,
+            "address": "0x38e68a37e401f7271568cecaac63c6b1e19130b4",
+            "symbol": "BANANA",
+            "name": "BANANAGUN",
+            "tags": [
+                "kyle_chasse_portfolio",
+                "kyle_chasse_portfolio_defi"
+            ]
+        },
+        {
+            "chainId": 8453,
+            "address": "0x655a51e6803faf50d4ace80fa501af2f29c856cf",
+            "symbol": "PAID",
+            "name": "PAID",
+            "tags": [
+                "kyle_chasse_portfolio",
+                "kyle_chasse_portfolio_kyles_projects"
+            ]
+        },
+        {
+            "chainId": 8453,
+            "address": "0x99b2b1a2adb02b38222adcd057783d7e5d1fcc7d",
+            "symbol": "WLTH",
+            "name": "COMMON WEALTH",
+            "tags": [
+                "kyle_chasse_portfolio",
+                "kyle_chasse_portfolio_kyles_projects"
+            ]
+        }
+    ]
+}
