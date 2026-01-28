@@ -536,6 +536,13 @@
       "symbol": "PYUSD",
       "name": "PYUSD",
       "tags": ["stablecoins", "ethereum_stablecoins"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xEB3669C7324B3cb1622a0A37391F5d3B8efffBc3",
+      "symbol": "AuUSD",
+      "name": "AuResources USD",
+      "tags": ["stablecoins", "RWA"]
     }
   ],
   "version": {
